@@ -18,3 +18,7 @@ services:
       dockerfile: ../docker/local/verdi-ui-gui/Dockerfile
     ports:
       - "8081:8081"
+  verdi-ui-blazegraph:
+    image: darpaaida/blazegraph_data:1.0
+    ports:
+      - "9999:9999"      
