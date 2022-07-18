@@ -1,0 +1,11 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select ?object (GROUP_CONCAT(DISTINCT ?doc;SEPARATOR=",") as ?docs) {$from}
+where {
+    <{$cluster}> aida:prototype ?node .
+    ?statement rdf:subject ?node ;
+        rdf:predicate <{$predicate}> ;
+        rdf:object / ^aida:clusterMember / aida:cluster ?object ;
+        aida:justifiedBy / aida:containedJustification? / aida:sourceDocument ?doc
+}
+group by ?object

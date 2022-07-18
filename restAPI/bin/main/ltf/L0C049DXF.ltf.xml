@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C049DXF" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4906" raw_text_md5="b75310558d5a9babf68f95b119043e0d">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="147">
+<ORIGINAL_TEXT>Ополаскиватель для полости рта может защитить от COVID-19, разрушая внешний жировой слой, с помощью которого вирус прикрепляется к клеткам человека</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="14">Ополаскиватель</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="16" end_char="18">для</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="20" end_char="26">полости</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="28" end_char="30">рта</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="32" end_char="36">может</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="38" end_char="45">защитить</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="47" end_char="48">от</TOKEN>
+<TOKEN id="token-0-7" pos="unknown" morph="none" start_char="50" end_char="57">COVID-19</TOKEN>
+<TOKEN id="token-0-8" pos="punct" morph="none" start_char="58" end_char="58">,</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="60" end_char="67">разрушая</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="69" end_char="75">внешний</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="77" end_char="83">жировой</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="85" end_char="88">слой</TOKEN>
+<TOKEN id="token-0-13" pos="punct" morph="none" start_char="89" end_char="89">,</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="91" end_char="91">с</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="93" end_char="99">помощью</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="101" end_char="108">которого</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="110" end_char="114">вирус</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="116" end_char="128">прикрепляется</TOKEN>
+<TOKEN id="token-0-19" pos="word" morph="none" start_char="130" end_char="130">к</TOKEN>
+<TOKEN id="token-0-20" pos="word" morph="none" start_char="132" end_char="138">клеткам</TOKEN>
+<TOKEN id="token-0-21" pos="word" morph="none" start_char="140" end_char="147">человека</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="151" end_char="341">
+<ORIGINAL_TEXT>"Ополаскиватель для полости рта обладает потенциалом защищать человека от заражения COVID-19, убивая коронавирус до того, как он может инфицировать клетки человека, говорится в новом докладе.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="punct" morph="none" start_char="151" end_char="151">"</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="152" end_char="165">Ополаскиватель</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="167" end_char="169">для</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="171" end_char="177">полости</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="179" end_char="181">рта</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="183" end_char="190">обладает</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="192" end_char="202">потенциалом</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="204" end_char="211">защищать</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="213" end_char="220">человека</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="222" end_char="223">от</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="225" end_char="233">заражения</TOKEN>
+<TOKEN id="token-1-11" pos="unknown" morph="none" start_char="235" end_char="242">COVID-19</TOKEN>
+<TOKEN id="token-1-12" pos="punct" morph="none" start_char="243" end_char="243">,</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="245" end_char="250">убивая</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="252" end_char="262">коронавирус</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="264" end_char="265">до</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="267" end_char="270">того</TOKEN>
+<TOKEN id="token-1-17" pos="punct" morph="none" start_char="271" end_char="271">,</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="273" end_char="275">как</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="277" end_char="278">он</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="280" end_char="284">может</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="286" end_char="297">инфицировать</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="299" end_char="304">клетки</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="306" end_char="313">человека</TOKEN>
+<TOKEN id="token-1-24" pos="punct" morph="none" start_char="314" end_char="314">,</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="316" end_char="324">говорится</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="326" end_char="326">в</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="328" end_char="332">новом</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="334" end_char="340">докладе</TOKEN>
+<TOKEN id="token-1-29" pos="punct" morph="none" start_char="341" end_char="341">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="343" end_char="505">
+<ORIGINAL_TEXT>Коронавирусы относятся к классу "вирусов с оболочкой", что означает, что они покрыты жировым слоем, который уязвим для воздействия определенных химических веществ.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="343" end_char="354">Коронавирусы</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="356" end_char="364">относятся</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="366" end_char="366">к</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="368" end_char="373">классу</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="375" end_char="375">"</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="376" end_char="382">вирусов</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="384" end_char="384">с</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="386" end_char="394">оболочкой</TOKEN>
+<TOKEN id="token-2-8" pos="punct" morph="none" start_char="395" end_char="396">",</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="398" end_char="400">что</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="402" end_char="409">означает</TOKEN>
+<TOKEN id="token-2-11" pos="punct" morph="none" start_char="410" end_char="410">,</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="412" end_char="414">что</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="416" end_char="418">они</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="420" end_char="426">покрыты</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="428" end_char="434">жировым</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="436" end_char="440">слоем</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="441" end_char="441">,</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="443" end_char="449">который</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="451" end_char="456">уязвим</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="458" end_char="460">для</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="462" end_char="472">воздействия</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="474" end_char="485">определенных</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="487" end_char="496">химических</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="498" end_char="504">веществ</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="505" end_char="505">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="507" end_char="708">
+<ORIGINAL_TEXT>Международная группа исследователей считает, что ополаскиватель для полости рта может разрушать внешний слой или "оболочку" вируса, предотвращая его размножение во рту и в горле", - передает Daily Mail.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="507" end_char="519">Международная</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="521" end_char="526">группа</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="528" end_char="541">исследователей</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="543" end_char="549">считает</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="550" end_char="550">,</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="552" end_char="554">что</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="556" end_char="569">ополаскиватель</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="571" end_char="573">для</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="575" end_char="581">полости</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="583" end_char="585">рта</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="587" end_char="591">может</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="593" end_char="601">разрушать</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="603" end_char="609">внешний</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="611" end_char="614">слой</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="616" end_char="618">или</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="620" end_char="620">"</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="621" end_char="628">оболочку</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="629" end_char="629">"</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="631" end_char="636">вируса</TOKEN>
+<TOKEN id="token-3-19" pos="punct" morph="none" start_char="637" end_char="637">,</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="639" end_char="650">предотвращая</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="652" end_char="654">его</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="656" end_char="666">размножение</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="668" end_char="669">во</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="671" end_char="673">рту</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="675" end_char="675">и</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="677" end_char="677">в</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="679" end_char="683">горле</TOKEN>
+<TOKEN id="token-3-28" pos="punct" morph="none" start_char="684" end_char="685">",</TOKEN>
+<TOKEN id="token-3-29" pos="punct" morph="none" start_char="687" end_char="687">-</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="689" end_char="696">передает</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="698" end_char="702">Daily</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="704" end_char="707">Mail</TOKEN>
+<TOKEN id="token-3-33" pos="punct" morph="none" start_char="708" end_char="708">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="711" end_char="961">
+<ORIGINAL_TEXT>"По словам ученых, имеется настоятельная необходимость проверить эффективность жидкостей для ополаскивания рта в ходе клинических исследований, хотя в настоящее время клинических доказательств того, что они будут успешными, нет", - говорится в статье.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="punct" morph="none" start_char="711" end_char="711">"</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="712" end_char="713">По</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="715" end_char="720">словам</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="722" end_char="727">ученых</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="728" end_char="728">,</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="730" end_char="736">имеется</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="738" end_char="750">настоятельная</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="752" end_char="764">необходимость</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="766" end_char="774">проверить</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="776" end_char="788">эффективность</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="790" end_char="798">жидкостей</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="800" end_char="802">для</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="804" end_char="816">ополаскивания</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="818" end_char="820">рта</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="822" end_char="822">в</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="824" end_char="827">ходе</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="829" end_char="839">клинических</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="841" end_char="852">исследований</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="853" end_char="853">,</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="855" end_char="858">хотя</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="860" end_char="860">в</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="862" end_char="870">настоящее</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="872" end_char="876">время</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="878" end_char="888">клинических</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="890" end_char="902">доказательств</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="904" end_char="907">того</TOKEN>
+<TOKEN id="token-4-26" pos="punct" morph="none" start_char="908" end_char="908">,</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="910" end_char="912">что</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="914" end_char="916">они</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="918" end_char="922">будут</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="924" end_char="932">успешными</TOKEN>
+<TOKEN id="token-4-31" pos="punct" morph="none" start_char="933" end_char="933">,</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="935" end_char="937">нет</TOKEN>
+<TOKEN id="token-4-33" pos="punct" morph="none" start_char="938" end_char="939">",</TOKEN>
+<TOKEN id="token-4-34" pos="punct" morph="none" start_char="941" end_char="941">-</TOKEN>
+<TOKEN id="token-4-35" pos="word" morph="none" start_char="943" end_char="951">говорится</TOKEN>
+<TOKEN id="token-4-36" pos="word" morph="none" start_char="953" end_char="953">в</TOKEN>
+<TOKEN id="token-4-37" pos="word" morph="none" start_char="955" end_char="960">статье</TOKEN>
+<TOKEN id="token-4-38" pos="punct" morph="none" start_char="961" end_char="961">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="964" end_char="968">
+<ORIGINAL_TEXT>(...)</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="punct" morph="none" start_char="964" end_char="968">(...)</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="971" end_char="1185">
+<ORIGINAL_TEXT>"Авторы исследования не утверждают, что имеющиеся в продаже ополаскиватели для полости рта предотвращают COVID-19, но дальнейшие исследования химических веществ, содержащихся в их составе, могут оказаться полезными.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="punct" morph="none" start_char="971" end_char="971">"</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="972" end_char="977">Авторы</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="979" end_char="990">исследования</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="992" end_char="993">не</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="995" end_char="1004">утверждают</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="1005" end_char="1005">,</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1007" end_char="1009">что</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1011" end_char="1019">имеющиеся</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1021" end_char="1021">в</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1023" end_char="1029">продаже</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1031" end_char="1044">ополаскиватели</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1046" end_char="1048">для</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1050" end_char="1056">полости</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1058" end_char="1060">рта</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1062" end_char="1074">предотвращают</TOKEN>
+<TOKEN id="token-6-15" pos="unknown" morph="none" start_char="1076" end_char="1083">COVID-19</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="1084" end_char="1084">,</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1086" end_char="1087">но</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1089" end_char="1098">дальнейшие</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1100" end_char="1111">исследования</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1113" end_char="1122">химических</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1124" end_char="1130">веществ</TOKEN>
+<TOKEN id="token-6-22" pos="punct" morph="none" start_char="1131" end_char="1131">,</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1133" end_char="1144">содержащихся</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1146" end_char="1146">в</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1148" end_char="1149">их</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1151" end_char="1157">составе</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="1158" end_char="1158">,</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="1160" end_char="1164">могут</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="1166" end_char="1174">оказаться</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="1176" end_char="1184">полезными</TOKEN>
+<TOKEN id="token-6-31" pos="punct" morph="none" start_char="1185" end_char="1185">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1187" end_char="1385">
+<ORIGINAL_TEXT>Авторы исследования, которое возглавил Университет Кардиффа, пишут в издании Function, что ополаскиватели для полости рта являются "недостаточно изученной областью основных клинических потребностей".</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1187" end_char="1192">Авторы</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1194" end_char="1205">исследования</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="1206" end_char="1206">,</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1208" end_char="1214">которое</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1216" end_char="1224">возглавил</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1226" end_char="1236">Университет</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1238" end_char="1245">Кардиффа</TOKEN>
+<TOKEN id="token-7-7" pos="punct" morph="none" start_char="1246" end_char="1246">,</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1248" end_char="1252">пишут</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1254" end_char="1254">в</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1256" end_char="1262">издании</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1264" end_char="1271">Function</TOKEN>
+<TOKEN id="token-7-12" pos="punct" morph="none" start_char="1272" end_char="1272">,</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1274" end_char="1276">что</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1278" end_char="1291">ополаскиватели</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1293" end_char="1295">для</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1297" end_char="1303">полости</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1305" end_char="1307">рта</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1309" end_char="1316">являются</TOKEN>
+<TOKEN id="token-7-19" pos="punct" morph="none" start_char="1318" end_char="1318">"</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1319" end_char="1330">недостаточно</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1332" end_char="1340">изученной</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1342" end_char="1349">областью</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1351" end_char="1358">основных</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1360" end_char="1370">клинических</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1372" end_char="1383">потребностей</TOKEN>
+<TOKEN id="token-7-26" pos="punct" morph="none" start_char="1384" end_char="1385">".</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1387" end_char="1634">
+<ORIGINAL_TEXT>Выводы команды ученых поддерживают вирусологи, специалисты по липидам и эксперты сферы здравоохранения медицинского факультета Университета Кардиффа, а также университетов Ноттингема, Колорадо, Оттавы, Барселоны и Кембриджского Института Бэбрехема.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1387" end_char="1392">Выводы</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1394" end_char="1400">команды</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1402" end_char="1407">ученых</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1409" end_char="1420">поддерживают</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1422" end_char="1431">вирусологи</TOKEN>
+<TOKEN id="token-8-5" pos="punct" morph="none" start_char="1432" end_char="1432">,</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1434" end_char="1444">специалисты</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1446" end_char="1447">по</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1449" end_char="1455">липидам</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1457" end_char="1457">и</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1459" end_char="1466">эксперты</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1468" end_char="1472">сферы</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1474" end_char="1488">здравоохранения</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1490" end_char="1501">медицинского</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1503" end_char="1512">факультета</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1514" end_char="1525">Университета</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1527" end_char="1534">Кардиффа</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="1535" end_char="1535">,</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1537" end_char="1537">а</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1539" end_char="1543">также</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1545" end_char="1557">университетов</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1559" end_char="1568">Ноттингема</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1569" end_char="1569">,</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1571" end_char="1578">Колорадо</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1579" end_char="1579">,</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1581" end_char="1586">Оттавы</TOKEN>
+<TOKEN id="token-8-26" pos="punct" morph="none" start_char="1587" end_char="1587">,</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1589" end_char="1597">Барселоны</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1599" end_char="1599">и</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1601" end_char="1613">Кембриджского</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1615" end_char="1623">Института</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1625" end_char="1633">Бэбрехема</TOKEN>
+<TOKEN id="token-8-32" pos="punct" morph="none" start_char="1634" end_char="1634">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1637" end_char="1939">
+<ORIGINAL_TEXT>"Безопасное использование ополаскивателей для полости рта - как и полоскание горла - до сих пор не рассматривалось органами общественного здравоохранения Великобритании, - указал ведущий автор профессор О'Доннелл, один из директоров Института системных исследований иммунитета при Университете Кардиффа.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1637" end_char="1637">"</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1638" end_char="1647">Безопасное</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1649" end_char="1661">использование</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1663" end_char="1677">ополаскивателей</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1679" end_char="1681">для</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1683" end_char="1689">полости</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1691" end_char="1693">рта</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="1695" end_char="1695">-</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1697" end_char="1699">как</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1701" end_char="1701">и</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1703" end_char="1712">полоскание</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1714" end_char="1718">горла</TOKEN>
+<TOKEN id="token-9-12" pos="punct" morph="none" start_char="1720" end_char="1720">-</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1722" end_char="1723">до</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1725" end_char="1727">сих</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1729" end_char="1731">пор</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1733" end_char="1734">не</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1736" end_char="1750">рассматривалось</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1752" end_char="1759">органами</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1761" end_char="1773">общественного</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1775" end_char="1789">здравоохранения</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1791" end_char="1804">Великобритании</TOKEN>
+<TOKEN id="token-9-22" pos="punct" morph="none" start_char="1805" end_char="1805">,</TOKEN>
+<TOKEN id="token-9-23" pos="punct" morph="none" start_char="1807" end_char="1807">-</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1809" end_char="1814">указал</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1816" end_char="1822">ведущий</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1824" end_char="1828">автор</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1830" end_char="1838">профессор</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="1840" end_char="1848">О'Доннелл</TOKEN>
+<TOKEN id="token-9-29" pos="punct" morph="none" start_char="1849" end_char="1849">,</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="1851" end_char="1854">один</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="1856" end_char="1857">из</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="1859" end_char="1868">директоров</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="1870" end_char="1878">Института</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="1880" end_char="1888">системных</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="1890" end_char="1901">исследований</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="1903" end_char="1912">иммунитета</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="1914" end_char="1916">при</TOKEN>
+<TOKEN id="token-9-38" pos="word" morph="none" start_char="1918" end_char="1929">Университете</TOKEN>
+<TOKEN id="token-9-39" pos="word" morph="none" start_char="1931" end_char="1938">Кардиффа</TOKEN>
+<TOKEN id="token-9-40" pos="punct" morph="none" start_char="1939" end_char="1939">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1941" end_char="2194">
+<ORIGINAL_TEXT>- В лабораторных экспериментах и в ограниченных клинических исследованиях было показано, что некоторые ополаскиватели для рта содержат достаточно известных вирулицидных ингредиентов, которые эффективно воздействуют на липиды похожих вирусов с оболочкой".</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="punct" morph="none" start_char="1941" end_char="1941">-</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1943" end_char="1943">В</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1945" end_char="1956">лабораторных</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1958" end_char="1970">экспериментах</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1972" end_char="1972">и</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1974" end_char="1974">в</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1976" end_char="1987">ограниченных</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1989" end_char="1999">клинических</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="2001" end_char="2013">исследованиях</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="2015" end_char="2018">было</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="2020" end_char="2027">показано</TOKEN>
+<TOKEN id="token-10-11" pos="punct" morph="none" start_char="2028" end_char="2028">,</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="2030" end_char="2032">что</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="2034" end_char="2042">некоторые</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="2044" end_char="2057">ополаскиватели</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="2059" end_char="2061">для</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="2063" end_char="2065">рта</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="2067" end_char="2074">содержат</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="2076" end_char="2085">достаточно</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="2087" end_char="2095">известных</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="2097" end_char="2108">вирулицидных</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="2110" end_char="2121">ингредиентов</TOKEN>
+<TOKEN id="token-10-22" pos="punct" morph="none" start_char="2122" end_char="2122">,</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="2124" end_char="2130">которые</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="2132" end_char="2141">эффективно</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="2143" end_char="2154">воздействуют</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="2156" end_char="2157">на</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="2159" end_char="2164">липиды</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="2166" end_char="2172">похожих</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="2174" end_char="2180">вирусов</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="2182" end_char="2182">с</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="2184" end_char="2192">оболочкой</TOKEN>
+<TOKEN id="token-10-32" pos="punct" morph="none" start_char="2193" end_char="2194">".</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="2197" end_char="2313">
+<ORIGINAL_TEXT>"Чего мы еще не знаем, так это того, активны ли существующие ополаскиватели в отношении липидной мембраны SARS-CoV-2.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="punct" morph="none" start_char="2197" end_char="2197">"</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="2198" end_char="2201">Чего</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="2203" end_char="2204">мы</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="2206" end_char="2208">еще</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="2210" end_char="2211">не</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="2213" end_char="2217">знаем</TOKEN>
+<TOKEN id="token-11-6" pos="punct" morph="none" start_char="2218" end_char="2218">,</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="2220" end_char="2222">так</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="2224" end_char="2226">это</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="2228" end_char="2231">того</TOKEN>
+<TOKEN id="token-11-10" pos="punct" morph="none" start_char="2232" end_char="2232">,</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="2234" end_char="2240">активны</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="2242" end_char="2243">ли</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="2245" end_char="2256">существующие</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="2258" end_char="2271">ополаскиватели</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="2273" end_char="2273">в</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="2275" end_char="2283">отношении</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="2285" end_char="2292">липидной</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="2294" end_char="2301">мембраны</TOKEN>
+<TOKEN id="token-11-19" pos="unknown" morph="none" start_char="2303" end_char="2312">SARS-CoV-2</TOKEN>
+<TOKEN id="token-11-20" pos="punct" morph="none" start_char="2313" end_char="2313">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="2315" end_char="2483">
+<ORIGINAL_TEXT>Наш обзор литературы показывает, что необходимо срочно провести исследование, чтобы определить его потенциал для использования против этого нового вируса", - добавил он.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="2315" end_char="2317">Наш</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="2319" end_char="2323">обзор</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="2325" end_char="2334">литературы</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="2336" end_char="2345">показывает</TOKEN>
+<TOKEN id="token-12-4" pos="punct" morph="none" start_char="2346" end_char="2346">,</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="2348" end_char="2350">что</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="2352" end_char="2361">необходимо</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="2363" end_char="2368">срочно</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="2370" end_char="2377">провести</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="2379" end_char="2390">исследование</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="2391" end_char="2391">,</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="2393" end_char="2397">чтобы</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="2399" end_char="2408">определить</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="2410" end_char="2412">его</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="2414" end_char="2422">потенциал</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="2424" end_char="2426">для</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="2428" end_char="2440">использования</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="2442" end_char="2447">против</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="2449" end_char="2453">этого</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="2455" end_char="2460">нового</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="2462" end_char="2467">вируса</TOKEN>
+<TOKEN id="token-12-21" pos="punct" morph="none" start_char="2468" end_char="2469">",</TOKEN>
+<TOKEN id="token-12-22" pos="punct" morph="none" start_char="2471" end_char="2471">-</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="2473" end_char="2479">добавил</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="2481" end_char="2482">он</TOKEN>
+<TOKEN id="token-12-25" pos="punct" morph="none" start_char="2483" end_char="2483">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2486" end_char="2738">
+<ORIGINAL_TEXT>"(...) Ингредиенты зубных ополаскивателей, в том числе хлоргексидин, цетилпиридиния хлорид, перекись водорода и повидон-йод, обладают потенциалом для предотвращения инфекции и некоторые из них "заслуживают клинической оценки", - указывают исследователи.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="2486" end_char="2491">"(...)</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2493" end_char="2503">Ингредиенты</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2505" end_char="2510">зубных</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2512" end_char="2526">ополаскивателей</TOKEN>
+<TOKEN id="token-13-4" pos="punct" morph="none" start_char="2527" end_char="2527">,</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2529" end_char="2529">в</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2531" end_char="2533">том</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2535" end_char="2539">числе</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2541" end_char="2552">хлоргексидин</TOKEN>
+<TOKEN id="token-13-9" pos="punct" morph="none" start_char="2553" end_char="2553">,</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2555" end_char="2568">цетилпиридиния</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2570" end_char="2575">хлорид</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="2576" end_char="2576">,</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2578" end_char="2585">перекись</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2587" end_char="2594">водорода</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="2596" end_char="2596">и</TOKEN>
+<TOKEN id="token-13-16" pos="unknown" morph="none" start_char="2598" end_char="2608">повидон-йод</TOKEN>
+<TOKEN id="token-13-17" pos="punct" morph="none" start_char="2609" end_char="2609">,</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2611" end_char="2618">обладают</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2620" end_char="2630">потенциалом</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2632" end_char="2634">для</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="2636" end_char="2649">предотвращения</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2651" end_char="2658">инфекции</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2660" end_char="2660">и</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2662" end_char="2670">некоторые</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="2672" end_char="2673">из</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="2675" end_char="2677">них</TOKEN>
+<TOKEN id="token-13-27" pos="punct" morph="none" start_char="2679" end_char="2679">"</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="2680" end_char="2690">заслуживают</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="2692" end_char="2702">клинической</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="2704" end_char="2709">оценки</TOKEN>
+<TOKEN id="token-13-31" pos="punct" morph="none" start_char="2710" end_char="2711">",</TOKEN>
+<TOKEN id="token-13-32" pos="punct" morph="none" start_char="2713" end_char="2713">-</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="2715" end_char="2723">указывают</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="2725" end_char="2737">исследователи</TOKEN>
+<TOKEN id="token-13-35" pos="punct" morph="none" start_char="2738" end_char="2738">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2740" end_char="2836">
+<ORIGINAL_TEXT>В частности, эти химические вещества могут разрушать внешнюю липидную мембрану некоторых вирусов.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2740" end_char="2740">В</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2742" end_char="2750">частности</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="2751" end_char="2751">,</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2753" end_char="2755">эти</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2757" end_char="2766">химические</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2768" end_char="2775">вещества</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2777" end_char="2781">могут</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2783" end_char="2791">разрушать</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2793" end_char="2799">внешнюю</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2801" end_char="2808">липидную</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2810" end_char="2817">мембрану</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2819" end_char="2827">некоторых</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2829" end_char="2835">вирусов</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="2836" end_char="2836">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2839" end_char="2972">
+<ORIGINAL_TEXT>"Липидная оболочка помогает некоторым вирусам, включая коронавирусы, прикрепляться к клеткам человека, минуя иммунную систему хозяина.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="punct" morph="none" start_char="2839" end_char="2839">"</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2840" end_char="2847">Липидная</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2849" end_char="2856">оболочка</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2858" end_char="2865">помогает</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2867" end_char="2875">некоторым</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2877" end_char="2883">вирусам</TOKEN>
+<TOKEN id="token-15-6" pos="punct" morph="none" start_char="2884" end_char="2884">,</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2886" end_char="2892">включая</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2894" end_char="2905">коронавирусы</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="2906" end_char="2906">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2908" end_char="2920">прикрепляться</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2922" end_char="2922">к</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2924" end_char="2930">клеткам</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2932" end_char="2939">человека</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="2940" end_char="2940">,</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2942" end_char="2946">минуя</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2948" end_char="2955">иммунную</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2957" end_char="2963">систему</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2965" end_char="2971">хозяина</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="2972" end_char="2972">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2974" end_char="3187">
+<ORIGINAL_TEXT>Конкретные шиповидные белки, называемые "гликопротеинами", на поверхности вирусной оболочки идентифицируют и прикрепляются к рецепторным участкам на клеточной мембране хозяина, что открывает путь для инфицирования.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2974" end_char="2983">Конкретные</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2985" end_char="2994">шиповидные</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2996" end_char="3000">белки</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="3001" end_char="3001">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="3003" end_char="3012">называемые</TOKEN>
+<TOKEN id="token-16-5" pos="punct" morph="none" start_char="3014" end_char="3014">"</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="3015" end_char="3029">гликопротеинами</TOKEN>
+<TOKEN id="token-16-7" pos="punct" morph="none" start_char="3030" end_char="3031">",</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="3033" end_char="3034">на</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="3036" end_char="3046">поверхности</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="3048" end_char="3055">вирусной</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="3057" end_char="3064">оболочки</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="3066" end_char="3079">идентифицируют</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="3081" end_char="3081">и</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="3083" end_char="3095">прикрепляются</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="3097" end_char="3097">к</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="3099" end_char="3109">рецепторным</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="3111" end_char="3118">участкам</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="3120" end_char="3121">на</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="3123" end_char="3131">клеточной</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="3133" end_char="3140">мембране</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="3142" end_char="3148">хозяина</TOKEN>
+<TOKEN id="token-16-22" pos="punct" morph="none" start_char="3149" end_char="3149">,</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="3151" end_char="3153">что</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="3155" end_char="3163">открывает</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="3165" end_char="3168">путь</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="3170" end_char="3172">для</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="3174" end_char="3186">инфицирования</TOKEN>
+<TOKEN id="token-16-28" pos="punct" morph="none" start_char="3187" end_char="3187">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="3189" end_char="3362">
+<ORIGINAL_TEXT>Химические вещества в ополаскивателях потенциально могут изменять способность шиповых гликопротеинов взаимодействовать с рецепторами на клетках человека", - поясняет издание.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="3189" end_char="3198">Химические</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="3200" end_char="3207">вещества</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="3209" end_char="3209">в</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="3211" end_char="3225">ополаскивателях</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="3227" end_char="3238">потенциально</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="3240" end_char="3244">могут</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="3246" end_char="3253">изменять</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="3255" end_char="3265">способность</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="3267" end_char="3273">шиповых</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="3275" end_char="3288">гликопротеинов</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="3290" end_char="3306">взаимодействовать</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="3308" end_char="3308">с</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="3310" end_char="3320">рецепторами</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="3322" end_char="3323">на</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="3325" end_char="3331">клетках</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="3333" end_char="3340">человека</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="3341" end_char="3342">",</TOKEN>
+<TOKEN id="token-17-17" pos="punct" morph="none" start_char="3344" end_char="3344">-</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="3346" end_char="3353">поясняет</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="3355" end_char="3361">издание</TOKEN>
+<TOKEN id="token-17-20" pos="punct" morph="none" start_char="3362" end_char="3362">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3365" end_char="3532">
+<ORIGINAL_TEXT>"Исследователи подчеркнули, что до настоящего момента дискуссий о потенциальной роли повреждения жировой мембраны как о возможном способе дезактивации вируса не велось.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="punct" morph="none" start_char="3365" end_char="3365">"</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="3366" end_char="3378">Исследователи</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="3380" end_char="3390">подчеркнули</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="3391" end_char="3391">,</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="3393" end_char="3395">что</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="3397" end_char="3398">до</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="3400" end_char="3409">настоящего</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="3411" end_char="3417">момента</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="3419" end_char="3427">дискуссий</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="3429" end_char="3429">о</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="3431" end_char="3443">потенциальной</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="3445" end_char="3448">роли</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="3450" end_char="3460">повреждения</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="3462" end_char="3468">жировой</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="3470" end_char="3477">мембраны</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="3479" end_char="3481">как</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="3483" end_char="3483">о</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="3485" end_char="3493">возможном</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="3495" end_char="3501">способе</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="3503" end_char="3514">дезактивации</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="3516" end_char="3521">вируса</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="3523" end_char="3524">не</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="3526" end_char="3531">велось</TOKEN>
+<TOKEN id="token-18-23" pos="punct" morph="none" start_char="3532" end_char="3532">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3534" end_char="3774">
+<ORIGINAL_TEXT>Липидная оболочка не изменяется при мутировании вирусов, а это означает, что ополаскиватели для полости рта могут по-прежнему работать против любых новых штаммов коронавируса, возникающих в ходе нынешней пандемии", - отмечается в публикации.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3534" end_char="3541">Липидная</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="3543" end_char="3550">оболочка</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3552" end_char="3553">не</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3555" end_char="3564">изменяется</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3566" end_char="3568">при</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3570" end_char="3580">мутировании</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3582" end_char="3588">вирусов</TOKEN>
+<TOKEN id="token-19-7" pos="punct" morph="none" start_char="3589" end_char="3589">,</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3591" end_char="3591">а</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3593" end_char="3595">это</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="3597" end_char="3604">означает</TOKEN>
+<TOKEN id="token-19-11" pos="punct" morph="none" start_char="3605" end_char="3605">,</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="3607" end_char="3609">что</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3611" end_char="3624">ополаскиватели</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="3626" end_char="3628">для</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="3630" end_char="3636">полости</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3638" end_char="3640">рта</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="3642" end_char="3646">могут</TOKEN>
+<TOKEN id="token-19-18" pos="unknown" morph="none" start_char="3648" end_char="3658">по-прежнему</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="3660" end_char="3667">работать</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="3669" end_char="3674">против</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="3676" end_char="3680">любых</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="3682" end_char="3686">новых</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="3688" end_char="3694">штаммов</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="3696" end_char="3707">коронавируса</TOKEN>
+<TOKEN id="token-19-25" pos="punct" morph="none" start_char="3708" end_char="3708">,</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="3710" end_char="3720">возникающих</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="3722" end_char="3722">в</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="3724" end_char="3727">ходе</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="3729" end_char="3736">нынешней</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="3738" end_char="3745">пандемии</TOKEN>
+<TOKEN id="token-19-31" pos="punct" morph="none" start_char="3746" end_char="3747">",</TOKEN>
+<TOKEN id="token-19-32" pos="punct" morph="none" start_char="3749" end_char="3749">-</TOKEN>
+<TOKEN id="token-19-33" pos="word" morph="none" start_char="3751" end_char="3760">отмечается</TOKEN>
+<TOKEN id="token-19-34" pos="word" morph="none" start_char="3762" end_char="3762">в</TOKEN>
+<TOKEN id="token-19-35" pos="word" morph="none" start_char="3764" end_char="3773">публикации</TOKEN>
+<TOKEN id="token-19-36" pos="punct" morph="none" start_char="3774" end_char="3774">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3777" end_char="3928">
+<ORIGINAL_TEXT>"Ранее ВОЗ опровергла предположение, что жидкость для полоскания рта может предотвратить заражение SARS CoV-2, коронавирусом, который вызывает COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="3777" end_char="3777">"</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="3778" end_char="3782">Ранее</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="3784" end_char="3786">ВОЗ</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="3788" end_char="3797">опровергла</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="3799" end_char="3811">предположение</TOKEN>
+<TOKEN id="token-20-5" pos="punct" morph="none" start_char="3812" end_char="3812">,</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="3814" end_char="3816">что</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="3818" end_char="3825">жидкость</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="3827" end_char="3829">для</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="3831" end_char="3840">полоскания</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="3842" end_char="3844">рта</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="3846" end_char="3850">может</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="3852" end_char="3864">предотвратить</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="3866" end_char="3874">заражение</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="3876" end_char="3879">SARS</TOKEN>
+<TOKEN id="token-20-15" pos="unknown" morph="none" start_char="3881" end_char="3885">CoV-2</TOKEN>
+<TOKEN id="token-20-16" pos="punct" morph="none" start_char="3886" end_char="3886">,</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="3888" end_char="3900">коронавирусом</TOKEN>
+<TOKEN id="token-20-18" pos="punct" morph="none" start_char="3901" end_char="3901">,</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="3903" end_char="3909">который</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="3911" end_char="3918">вызывает</TOKEN>
+<TOKEN id="token-20-21" pos="unknown" morph="none" start_char="3920" end_char="3927">COVID-19</TOKEN>
+<TOKEN id="token-20-22" pos="punct" morph="none" start_char="3928" end_char="3928">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3930" end_char="4034">
+<ORIGINAL_TEXT>"Некоторые марки ополаскивателей могут на несколько минут уничтожать определенные микробы в слюне во рту.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="3930" end_char="3930">"</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="3931" end_char="3939">Некоторые</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3941" end_char="3945">марки</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3947" end_char="3961">ополаскивателей</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3963" end_char="3967">могут</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3969" end_char="3970">на</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3972" end_char="3980">несколько</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="3982" end_char="3986">минут</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3988" end_char="3997">уничтожать</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3999" end_char="4010">определенные</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="4012" end_char="4018">микробы</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="4020" end_char="4020">в</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="4022" end_char="4026">слюне</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="4028" end_char="4029">во</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="4031" end_char="4033">рту</TOKEN>
+<TOKEN id="token-21-15" pos="punct" morph="none" start_char="4034" end_char="4034">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="4036" end_char="4121">
+<ORIGINAL_TEXT>Однако это не означает, что они защищают вас от заражения 2019-nCov", - указывала ВОЗ.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="4036" end_char="4041">Однако</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="4043" end_char="4045">это</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="4047" end_char="4048">не</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="4050" end_char="4057">означает</TOKEN>
+<TOKEN id="token-22-4" pos="punct" morph="none" start_char="4058" end_char="4058">,</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="4060" end_char="4062">что</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="4064" end_char="4066">они</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="4068" end_char="4075">защищают</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="4077" end_char="4079">вас</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="4081" end_char="4082">от</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="4084" end_char="4092">заражения</TOKEN>
+<TOKEN id="token-22-11" pos="unknown" morph="none" start_char="4094" end_char="4102">2019-nCov</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="4103" end_char="4104">",</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="4106" end_char="4106">-</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="4108" end_char="4116">указывала</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="4118" end_char="4120">ВОЗ</TOKEN>
+<TOKEN id="token-22-16" pos="punct" morph="none" start_char="4121" end_char="4121">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="4124" end_char="4332">
+<ORIGINAL_TEXT>"(...) Listerine, один из крупнейших брендов, производящих средства для ополаскивания рта, сообщает на своем веб-сайте, что ни один из его продуктов не тестировался в отношении каких-либо штаммов коронавируса.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="punct" morph="none" start_char="4124" end_char="4129">"(...)</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="4131" end_char="4139">Listerine</TOKEN>
+<TOKEN id="token-23-2" pos="punct" morph="none" start_char="4140" end_char="4140">,</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="4142" end_char="4145">один</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="4147" end_char="4148">из</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="4150" end_char="4159">крупнейших</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="4161" end_char="4167">брендов</TOKEN>
+<TOKEN id="token-23-7" pos="punct" morph="none" start_char="4168" end_char="4168">,</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="4170" end_char="4181">производящих</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="4183" end_char="4190">средства</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="4192" end_char="4194">для</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="4196" end_char="4208">ополаскивания</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="4210" end_char="4212">рта</TOKEN>
+<TOKEN id="token-23-13" pos="punct" morph="none" start_char="4213" end_char="4213">,</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="4215" end_char="4222">сообщает</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="4224" end_char="4225">на</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="4227" end_char="4231">своем</TOKEN>
+<TOKEN id="token-23-17" pos="unknown" morph="none" start_char="4233" end_char="4241">веб-сайте</TOKEN>
+<TOKEN id="token-23-18" pos="punct" morph="none" start_char="4242" end_char="4242">,</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="4244" end_char="4246">что</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="4248" end_char="4249">ни</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="4251" end_char="4254">один</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="4256" end_char="4257">из</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="4259" end_char="4261">его</TOKEN>
+<TOKEN id="token-23-24" pos="word" morph="none" start_char="4263" end_char="4271">продуктов</TOKEN>
+<TOKEN id="token-23-25" pos="word" morph="none" start_char="4273" end_char="4274">не</TOKEN>
+<TOKEN id="token-23-26" pos="word" morph="none" start_char="4276" end_char="4287">тестировался</TOKEN>
+<TOKEN id="token-23-27" pos="word" morph="none" start_char="4289" end_char="4289">в</TOKEN>
+<TOKEN id="token-23-28" pos="word" morph="none" start_char="4291" end_char="4299">отношении</TOKEN>
+<TOKEN id="token-23-29" pos="unknown" morph="none" start_char="4301" end_char="4310">каких-либо</TOKEN>
+<TOKEN id="token-23-30" pos="word" morph="none" start_char="4312" end_char="4318">штаммов</TOKEN>
+<TOKEN id="token-23-31" pos="word" morph="none" start_char="4320" end_char="4331">коронавируса</TOKEN>
+<TOKEN id="token-23-32" pos="punct" morph="none" start_char="4332" end_char="4332">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="4334" end_char="4466">
+<ORIGINAL_TEXT>(...) Обычные ополаскиватели для рта содержат тот же ключевой ингредиент, что и убивающие коронавирус санитайзеры для рук - алкоголь.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="4334" end_char="4338">(...)</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="4340" end_char="4346">Обычные</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="4348" end_char="4361">ополаскиватели</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="4363" end_char="4365">для</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="4367" end_char="4369">рта</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="4371" end_char="4378">содержат</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="4380" end_char="4382">тот</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="4384" end_char="4385">же</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="4387" end_char="4394">ключевой</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="4396" end_char="4405">ингредиент</TOKEN>
+<TOKEN id="token-24-10" pos="punct" morph="none" start_char="4406" end_char="4406">,</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="4408" end_char="4410">что</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="4412" end_char="4412">и</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="4414" end_char="4422">убивающие</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="4424" end_char="4434">коронавирус</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="4436" end_char="4446">санитайзеры</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="4448" end_char="4450">для</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="4452" end_char="4454">рук</TOKEN>
+<TOKEN id="token-24-18" pos="punct" morph="none" start_char="4456" end_char="4456">-</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="4458" end_char="4465">алкоголь</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="4466" end_char="4466">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="4468" end_char="4656">
+<ORIGINAL_TEXT>Однако Центры по контролю и профилактике заболеваний, являющиеся государственным органом здравоохранения США, рекомендуют дезинфицирующее средство для рук, содержащее не менее 60% алкоголя.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="4468" end_char="4473">Однако</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="4475" end_char="4480">Центры</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="4482" end_char="4483">по</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="4485" end_char="4492">контролю</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="4494" end_char="4494">и</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="4496" end_char="4507">профилактике</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="4509" end_char="4519">заболеваний</TOKEN>
+<TOKEN id="token-25-7" pos="punct" morph="none" start_char="4520" end_char="4520">,</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="4522" end_char="4531">являющиеся</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="4533" end_char="4547">государственным</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="4549" end_char="4555">органом</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="4557" end_char="4571">здравоохранения</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="4573" end_char="4575">США</TOKEN>
+<TOKEN id="token-25-13" pos="punct" morph="none" start_char="4576" end_char="4576">,</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="4578" end_char="4588">рекомендуют</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="4590" end_char="4604">дезинфицирующее</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="4606" end_char="4613">средство</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="4615" end_char="4617">для</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="4619" end_char="4621">рук</TOKEN>
+<TOKEN id="token-25-19" pos="punct" morph="none" start_char="4622" end_char="4622">,</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="4624" end_char="4633">содержащее</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="4635" end_char="4636">не</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="4638" end_char="4642">менее</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="4644" end_char="4645">60</TOKEN>
+<TOKEN id="token-25-24" pos="punct" morph="none" start_char="4646" end_char="4646">%</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="4648" end_char="4655">алкоголя</TOKEN>
+<TOKEN id="token-25-26" pos="punct" morph="none" start_char="4656" end_char="4656">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4658" end_char="4778">
+<ORIGINAL_TEXT>(...) ВОЗ также подчеркивает, что употребление чистого алкоголя, наряду с метанолом или отбеливателем, невероятно опасно.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="punct" morph="none" start_char="4658" end_char="4662">(...)</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="4664" end_char="4666">ВОЗ</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4668" end_char="4672">также</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="4674" end_char="4685">подчеркивает</TOKEN>
+<TOKEN id="token-26-4" pos="punct" morph="none" start_char="4686" end_char="4686">,</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="4688" end_char="4690">что</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="4692" end_char="4703">употребление</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="4705" end_char="4711">чистого</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="4713" end_char="4720">алкоголя</TOKEN>
+<TOKEN id="token-26-9" pos="punct" morph="none" start_char="4721" end_char="4721">,</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="4723" end_char="4728">наряду</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="4730" end_char="4730">с</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="4732" end_char="4740">метанолом</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="4742" end_char="4744">или</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="4746" end_char="4758">отбеливателем</TOKEN>
+<TOKEN id="token-26-15" pos="punct" morph="none" start_char="4759" end_char="4759">,</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="4761" end_char="4770">невероятно</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="4772" end_char="4777">опасно</TOKEN>
+<TOKEN id="token-26-18" pos="punct" morph="none" start_char="4778" end_char="4778">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4780" end_char="4902">
+<ORIGINAL_TEXT>Эти вещества не предотвращают и не излечивают COVID-19 и могут привести к инвалидности и смерти (...)", - пишет Daily Mail.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4780" end_char="4782">Эти</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4784" end_char="4791">вещества</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4793" end_char="4794">не</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4796" end_char="4808">предотвращают</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4810" end_char="4810">и</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4812" end_char="4813">не</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4815" end_char="4824">излечивают</TOKEN>
+<TOKEN id="token-27-7" pos="unknown" morph="none" start_char="4826" end_char="4833">COVID-19</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4835" end_char="4835">и</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="4837" end_char="4841">могут</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4843" end_char="4850">привести</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4852" end_char="4852">к</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4854" end_char="4865">инвалидности</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="4867" end_char="4867">и</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4869" end_char="4874">смерти</TOKEN>
+<TOKEN id="token-27-15" pos="punct" morph="none" start_char="4876" end_char="4882">(...)",</TOKEN>
+<TOKEN id="token-27-16" pos="punct" morph="none" start_char="4884" end_char="4884">-</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="4886" end_char="4890">пишет</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="4892" end_char="4896">Daily</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="4898" end_char="4901">Mail</TOKEN>
+<TOKEN id="token-27-20" pos="punct" morph="none" start_char="4902" end_char="4902">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

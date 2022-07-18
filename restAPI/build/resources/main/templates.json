@@ -1,0 +1,3436 @@
+{
+    "original": {
+        "ArtifactExistence.ArtifactFailure.MechanicalFailure": {
+            "template": "<arg1> mechanical artifact failed due to <arg2> instrument at <arg3>",
+            "args": [
+                "MechanicalArtifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "ArtifactExistence.DamageDestroy": {
+            "template": "<arg1> damaged or destroyed <arg2> using <arg3> instrument in <arg4>",
+            "args": [
+                "DamagerDestroyer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "ArtifactExistence.DamageDestroy.Damage": {
+            "template": "<arg1> damaged <arg2> using <arg3> instrument in <arg4>",
+            "args": [
+                "Damager",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "ArtifactExistence.DamageDestroy.Destroy": {
+            "template": "<arg1> destroyed <arg2> using <arg3> instrument in <arg4>",
+            "args": [
+                "Destroyer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "ArtifactExistence.Shortage.Shortage": {
+            "template": "<arg1> experienced a shortage of <arg2> supply at <arg3>",
+            "args": [
+                "Experiencer",
+                "Supply",
+                "Place"
+            ]
+        },
+        "Conflict.Attack": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.AirstrikeMissileStrike": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.BiologicalChemicalPoisonAttack": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.Bombing": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.FirearmAttack": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.Hanging": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.Invade": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.SelfDirectedBattle": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.SetFire": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.Stabbing": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Attack.StealRobHijack": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>, in order to take <arg5>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place",
+                "Artifact"
+            ]
+        },
+        "Conflict.Attack.Strangling": {
+            "template": "<arg1> attacked <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Attacker",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Conflict.Coup.Coup": {
+            "template": "<arg1> was deposed by <arg2> at <arg3>",
+            "args": [
+                "DeposedEntity",
+                "DeposingEntity",
+                "Place"
+            ]
+        },
+        "Conflict.Demonstrate": {
+            "template": "<arg1> was in a demonstration at <arg2>",
+            "args": [
+                "Demonstrator",
+                "Place"
+            ]
+        },
+        "Conflict.Demonstrate.MarchProtestPoliticalGathering": {
+            "template": "<arg1> was in a demonstration or protest at <arg2>",
+            "args": [
+                "Demonstrator",
+                "Place"
+            ]
+        },
+        "Conflict.Yield": {
+            "template": "<arg1> yielded to <arg2> at <arg3>",
+            "args": [
+                "Yielder",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Conflict.Yield.Retreat": {
+            "template": "<arg1> retreated from <arg2> to <arg3>",
+            "args": [
+                "Retreater",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Conflict.Yield.Surrender": {
+            "template": "<arg1> surrendered to <arg2> at <arg3>",
+            "args": [
+                "Surrenderer",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Contact.Collaborate": {
+            "template": "<arg1> communicated at <arg2>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.Collaborate.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> at <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.Collaborate.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> at <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.CommandOrder": {
+            "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommandOrder.Broadcast": {
+            "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommandOrder.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommandOrder.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommitmentPromiseExpressIntent": {
+            "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommitmentPromiseExpressIntent.Broadcast": {
+            "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommitmentPromiseExpressIntent.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.CommitmentPromiseExpressIntent.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Discussion": {
+            "template": "<arg1> communicated at <arg2>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.Discussion.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> at <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.Discussion.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> at <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Contact.FuneralVigil": {
+            "template": "<arg1> communicated with <arg2> during a funeral or vigil for <arg3> at <arg4>",
+            "args": [
+                "Participant",
+                "Deceased",
+                "Place"
+            ]
+        },
+        "Contact.FuneralVigil.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> during a funeral or vigil for <arg3> at <arg4>",
+            "args": [
+                "Participant",
+                "Deceased",
+                "Place"
+            ]
+        },
+        "Contact.MediaStatement": {
+            "template": "<arg1> communicated with <arg2> at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Contact.MediaStatement.Broadcast": {
+            "template": "<arg1> communicated to <arg2> at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Contact.Negotiate": {
+            "template": "<arg1> negotiated about <arg3> topic at <arg2>",
+            "args": [
+                "Participant",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Negotiate.Correspondence": {
+            "template": "<arg1> negotiated remotely about <arg3> topic at <arg2>",
+            "args": [
+                "Participant",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Negotiate.Meet": {
+            "template": "<arg1> negotiated face-to-face about <arg3> topic at <arg2>",
+            "args": [
+                "Participant",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Prevarication": {
+            "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Prevarication.Broadcast": {
+            "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3>  (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Prevarication.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.Prevarication.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.PublicStatementInPerson": {
+            "template": "<arg1> communicated with <arg2> at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Contact.PublicStatementInPerson.Broadcast": {
+            "template": "<arg1> communicated to <arg2> at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place"
+            ]
+        },
+        "Contact.RequestAdvise": {
+            "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.RequestAdvise.Broadcast": {
+            "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.RequestAdvise.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.RequestAdvise.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.ThreatenCoerce": {
+            "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.ThreatenCoerce.Broadcast": {
+            "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> (one-way communication)",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.ThreatenCoerce.Correspondence": {
+            "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Contact.ThreatenCoerce.Meet": {
+            "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>",
+            "args": [
+                "Communicator",
+                "Recipient",
+                "Place",
+                "Topic"
+            ]
+        },
+        "Disaster.AccidentCrash.AccidentCrash": {
+            "template": "<arg1> person in <arg2> vehicle crashed into <arg3> at <arg4>",
+            "args": [
+                "DriverPassenger",
+                "Vehicle",
+                "CrashObject",
+                "Place"
+            ]
+        },
+        "Disaster.DiseaseOutbreak.DiseaseOutbreak": {
+            "template": "<arg1> disease broke out among <arg2> victims or population at <arg3>",
+            "args": [
+                "Disease",
+                "Victim",
+                "Place"
+            ]
+        },
+        "Disaster.FireExplosion.FireExplosion": {
+            "template": "<arg1> caught fire or exploded from <arg2> instrument at <arg3>",
+            "args": [
+                "FireExplosionObject",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "GenericCrime.GenericCrime.GenericCrime": {
+            "template": "<arg1> committed a crime against <arg2> at <arg3>",
+            "args": [
+                "Perpetrator",
+                "Victim",
+                "Place"
+            ]
+        },
+        "Government.Agreements": {
+            "template": "<arg1> and <arg2> signed an agreement in <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Government.Agreements.AcceptAgreementContractCeasefire": {
+            "template": "<arg1> and <arg2> signed an agreement in <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Government.Agreements.RejectNullifyAgreementContractCeasefire": {
+            "template": "<arg1> rejected or nullified an agreement with <arg2> in <arg3>",
+            "args": [
+                "RejecterNullifier",
+                "OtherParticipant",
+                "Place"
+            ]
+        },
+        "Government.Agreements.ViolateAgreement": {
+            "template": "<arg1> violated an agreement with <arg2> in <arg3>",
+            "args": [
+                "Violator",
+                "OtherParticipant",
+                "Place"
+            ]
+        },
+        "Government.Convene.Convene": {
+            "template": "<arg1> convened <arg2> at <arg3>",
+            "args": [
+                "Convener",
+                "ConvenedThing",
+                "Place"
+            ]
+        },
+        "Government.Formation": {
+            "template": "<arg1> was formed by <arg2> in <arg3>",
+            "args": [
+                "GPE",
+                "Founder",
+                "Place"
+            ]
+        },
+        "Government.Formation.MergeGPE": {
+            "template": "<arg1> merged with <arg2> at <arg3>",
+            "args": [
+                "Participant",
+                "Place"
+            ]
+        },
+        "Government.Formation.StartGPE": {
+            "template": "<arg1> was started by <arg2> in <arg3>",
+            "args": [
+                "GPE",
+                "Founder",
+                "Place"
+            ]
+        },
+        "Government.Legislate.Legislate": {
+            "template": "<arg1> legislature enacted <arg2> law in <arg3>",
+            "args": [
+                "GovernmentBody",
+                "Law",
+                "Place"
+            ]
+        },
+        "Government.Spy.Spy": {
+            "template": "<arg1> spied on <arg2> to the benefit of <arg3> in <arg4>",
+            "args": [
+                "Spy",
+                "ObservedEntity",
+                "Beneficiary",
+                "Place"
+            ]
+        },
+        "Government.Vote": {
+            "template": "<arg1> voted for <arg2> on <arg3> ballot with <arg4> results in <arg5>",
+            "args": [
+                "Voter",
+                "Candidate",
+                "Ballot",
+                "Result",
+                "Place"
+            ]
+        },
+        "Government.Vote.CastVote": {
+            "template": "<arg1> voted for <arg2> on <arg3> ballot with <arg4> results in <arg5>",
+            "args": [
+                "Voter",
+                "Candidate",
+                "Ballot",
+                "Result",
+                "Place"
+            ]
+        },
+        "Government.Vote.ViolationsPreventVote": {
+            "template": "<arg1> prevented <arg2> from voting for <arg3> on <arg4> ballot in <arg5>",
+            "args": [
+                "Preventer",
+                "Voter",
+                "Candidate",
+                "Ballot",
+                "Place"
+            ]
+        },
+        "Inspection.SensoryObserve": {
+            "template": "<arg1> observed <arg2> in <arg3>",
+            "args": [
+                "Observer",
+                "ObservedEntity",
+                "Place"
+            ]
+        },
+        "Inspection.SensoryObserve.InspectPeopleOrganization": {
+            "template": "<arg1> inspected <arg2> in <arg3>",
+            "args": [
+                "Inspector",
+                "InspectedEntity",
+                "Place"
+            ]
+        },
+        "Inspection.SensoryObserve.MonitorElection": {
+            "template": "<arg1> monitored <arg2> taking part in an election in <arg3>",
+            "args": [
+                "Monitor",
+                "MonitoredEntity",
+                "Place"
+            ]
+        },
+        "Inspection.SensoryObserve.PhysicalInvestigateInspect": {
+            "template": "<arg1> inspected <arg2> in <arg3>",
+            "args": [
+                "Inspector",
+                "InspectedEntity",
+                "Place"
+            ]
+        },
+        "Inspection.TargetAimAt.TargetAimAt": {
+            "template": "<arg1> physically targeted <arg2> with <arg3> instrument at <arg4>",
+            "args": [
+                "Targeter",
+                "Target",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Justice.ArrestJailDetain.ArrestJailDetain": {
+            "template": "<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4>",
+            "args": [
+                "Jailer",
+                "Detainee",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.InitiateJudicialProcess": {
+            "template": "<arg1> initiated judicial process pertaining to <arg2> before <arg3> court or judge for <arg4> crime in <arg5>",
+            "args": [
+                "Prosecutor",
+                "Defendant",
+                "JudgeCourt",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.InitiateJudicialProcess.ChargeIndict": {
+            "template": "<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5>",
+            "args": [
+                "Prosecutor",
+                "Defendant",
+                "JudgeCourt",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.InitiateJudicialProcess.TrialHearing": {
+            "template": "<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5>",
+            "args": [
+                "Prosecutor",
+                "Defendant",
+                "JudgeCourt",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.Investigate": {
+            "template": "<arg1> investigated <arg2> in <arg3>",
+            "args": [
+                "Investigator",
+                "Defendant",
+                "Place"
+            ]
+        },
+        "Justice.Investigate.InvestigateCrime": {
+            "template": "<arg1> investigated <arg2> for <arg3> crime in <arg4>",
+            "args": [
+                "Investigator",
+                "Defendant",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.JudicialConsequences": {
+            "template": "<arg1> court or judge decided consequences of <arg3> crime, committed by <arg2>, in <arg4>",
+            "args": [
+                "JudgeCourt",
+                "Defendant",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.JudicialConsequences.Convict": {
+            "template": "<arg1> court or judge convicted <arg2> of <arg3> crime in <arg4>",
+            "args": [
+                "JudgeCourt",
+                "Defendant",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.JudicialConsequences.Execute": {
+            "template": "<arg1> executed <arg2> for <arg3> crime in <arg4>",
+            "args": [
+                "Executioner",
+                "Defendant",
+                "Crime",
+                "Place"
+            ]
+        },
+        "Justice.JudicialConsequences.Extradite": {
+            "template": "<arg1> extradited <arg2> for <arg3> crime from <arg4> to <arg5>",
+            "args": [
+                "Extraditer",
+                "Defendant",
+                "Crime",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Life.Die": {
+            "template": "<arg1> died at <arg2> from <arg4> medical issue, killed by <arg3>",
+            "args": [
+                "Victim",
+                "Place",
+                "Killer",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Die.DeathCausedByViolentEvents": {
+            "template": "<arg1> killed <arg2> using <arg3> instrument or <arg5> medical issue at <arg4>",
+            "args": [
+                "Killer",
+                "Victim",
+                "Instrument",
+                "Place",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Die.NonviolentDeath": {
+            "template": "<arg1> died at <arg2> from <arg4> medical issue, killed by <arg3>",
+            "args": [
+                "Victim",
+                "Place",
+                "Killer",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Injure": {
+            "template": "<arg1> was injured by <arg2> with <arg4> medical issue at <arg3>",
+            "args": [
+                "Victim",
+                "Injurer",
+                "Place",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Injure.IllnessDegradationHungerThirst": {
+            "template": "<arg1> has extreme hunger or thirst from <arg4> medical issue imposed by <arg3> injurer at <arg2>",
+            "args": [
+                "Victim",
+                "Place",
+                "Injurer",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Injure.IllnessDegradationPhysical": {
+            "template": "<arg1> person has some physical degradation from <arg4> medical issue imposed by <arg3> injurer at <arg2>",
+            "args": [
+                "Victim",
+                "Place",
+                "Injurer",
+                "MedicalIssue"
+            ]
+        },
+        "Life.Injure.IllnessDegredationSickness": {
+            "template": "<arg1> has <arg3> sickness or illness at <arg4>, deliberately infected by <arg2>",
+            "args": [
+                "Victim",
+                "Injurer",
+                "Disease",
+                "Place"
+            ]
+        },
+        "Life.Injure.InjuryCausedByViolentEvents": {
+            "template": "<arg1> injured <arg2> using <arg3> instrument or <arg5> medical issue at <arg4>",
+            "args": [
+                "Injurer",
+                "Victim",
+                "Instrument",
+                "Place",
+                "MedicalIssue"
+            ]
+        },
+        "Manufacture.Artifact": {
+            "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Manufacturer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Manufacture.Artifact.Build": {
+            "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Manufacturer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Manufacture.Artifact.CreateIntellectualProperty": {
+            "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Manufacturer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Manufacture.Artifact.CreateManufacture": {
+            "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4>",
+            "args": [
+                "Manufacturer",
+                "Artifact",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Medical.Intervention.Intervention": {
+            "template": "<arg1> treater treated <arg2> patient for <arg3> medical issue with <arg4> means at <arg5>",
+            "args": [
+                "Treater",
+                "Patient",
+                "MedicalIssue",
+                "Instrument",
+                "Place"
+            ]
+        },
+        "Movement.TransportArtifact": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.BringCarryUnload": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.DisperseSeparate": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.Fall": {
+            "template": "<arg1> fell from <arg2> to <arg3>",
+            "args": [
+                "Artifact",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.GrantEntry": {
+            "template": "<arg1> grants <arg2> entry to <arg3> from <arg4>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.Hide": {
+            "template": "<arg1> concealed <arg2> in <arg3>, transported in <arg4> vehicle from <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "HidingPlace",
+                "Vehicle",
+                "Origin"
+            ]
+        },
+        "Movement.TransportArtifact.LossOfControl": {
+            "template": "<arg1> lost control of moving <arg2> at <arg3>",
+            "args": [
+                "Controller",
+                "ControlledThing",
+                "Place"
+            ]
+        },
+        "Movement.TransportArtifact.NonviolentThrowLaunch": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.PreventEntry": {
+            "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Preventer",
+                "Transporter",
+                "Artifact",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.PreventExit": {
+            "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Preventer",
+                "Transporter",
+                "Artifact",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.ReceiveImport": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.SendSupplyExport": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportArtifact.SmuggleExtract": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Artifact",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.BringCarryUnload": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.DisperseSeparate": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.EvacuationRescue": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.Fall": {
+            "template": "<arg1> fell from <arg2> to <arg3>",
+            "args": [
+                "Passenger",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.GrantEntryAsylum": {
+            "template": "<arg1> grants entry to <arg2> transporting <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Granter",
+                "Transporter",
+                "Passenger",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.Hide": {
+            "template": "<arg1> concealed <arg2> in <arg3>, transported in <arg4> vehicle from <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "HidingPlace",
+                "Vehicle",
+                "Origin"
+            ]
+        },
+        "Movement.TransportPerson.PreventEntry": {
+            "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Preventer",
+                "Transporter",
+                "Passenger",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.PreventExit": {
+            "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Preventer",
+                "Transporter",
+                "Passenger",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.SelfMotion": {
+            "template": "<arg1> moved in <arg2> from <arg3> to <arg4>",
+            "args": [
+                "Transporter",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Movement.TransportPerson.SmuggleExtract": {
+            "template": "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>",
+            "args": [
+                "Transporter",
+                "Passenger",
+                "Vehicle",
+                "Origin",
+                "Destination"
+            ]
+        },
+        "Personnel.Elect": {
+            "template": "<arg1> elected <arg2> in <arg3>",
+            "args": [
+                "Voter",
+                "Candidate",
+                "Place"
+            ]
+        },
+        "Personnel.Elect.WinElection": {
+            "template": "<arg1> elected <arg2> in <arg3>",
+            "args": [
+                "Voter",
+                "Candidate",
+                "Place"
+            ]
+        },
+        "Personnel.EndPosition": {
+            "template": "<arg1> stopped working at <arg2> in <arg3>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment",
+                "Place"
+            ]
+        },
+        "Personnel.EndPosition.FiringLayoff": {
+            "template": "<arg1> stopped working at <arg2> in <arg3>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment",
+                "Place"
+            ]
+        },
+        "Personnel.EndPosition.QuitRetire": {
+            "template": "<arg1> stopped working at <arg2> in <arg3>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment",
+                "Place"
+            ]
+        },
+        "Personnel.StartPosition": {
+            "template": "<arg1> started working at <arg2> in <arg3>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment",
+                "Place"
+            ]
+        },
+        "Personnel.StartPosition.Hiring": {
+            "template": "<arg1> started working at <arg2> in <arg3>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment",
+                "Place"
+            ]
+        },
+        "Transaction.Transaction": {
+            "template": "A transaction occurred between <arg1> and <arg2> for the benefit of <arg3> at <arg4>",
+            "args": [
+                "Participant",
+                "Beneficiary",
+                "Place"
+            ]
+        },
+        "Transaction.Transaction.EmbargoSanction": {
+            "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5>",
+            "args": [
+                "Preventer",
+                "Giver",
+                "Recipient",
+                "ArtifactMoney",
+                "Place"
+            ]
+        },
+        "Transaction.Transaction.GiftGrantProvideAid": {
+            "template": "<arg1> gave something to <arg2> for the benefit of <arg3> at <arg4>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney": {
+            "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney.BorrowLend": {
+            "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney.EmbargoSanction": {
+            "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5>",
+            "args": [
+                "Preventer",
+                "Giver",
+                "Recipient",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney.GiftGrantProvideAid": {
+            "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney.PayForService": {
+            "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferMoney.Purchase": {
+            "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Money",
+                "Place"
+            ]
+        },
+        "Transaction.TransferOwnership": {
+            "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Artifact",
+                "Place"
+            ]
+        },
+        "Transaction.TransferOwnership.BorrowLend": {
+            "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Artifact",
+                "Place"
+            ]
+        },
+        "Transaction.TransferOwnership.EmbargoSanction": {
+            "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5>",
+            "args": [
+                "Preventer",
+                "Giver",
+                "Recipient",
+                "Artifact",
+                "Place"
+            ]
+        },
+        "Transaction.TransferOwnership.GiftGrantProvideAid": {
+            "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Artifact",
+                "Place"
+            ]
+        },
+        "Transaction.TransferOwnership.Purchase": {
+            "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "Artifact",
+                "Place"
+            ]
+        },
+        "Transaction.Transaction.TransferControl": {
+            "template": "<arg1> transferred control of <arg4> to <arg2> for the benefit of <arg3> in <arg5>",
+            "args": [
+                "Giver",
+                "Recipient",
+                "Beneficiary",
+                "TerritoryOrFacility",
+                "Place"
+            ]
+        },
+        "Evaluate.Deliberateness.Accidental": {
+            "template": "<arg1> holds that <arg2> is accidental",
+            "args": [
+                "Holder",
+                "Event"
+            ]
+        },
+        "Evaluate.Deliberateness.Deliberate": {
+            "template": "<arg1> holds that <arg2> is deliberate",
+            "args": [
+                "Holder",
+                "Event"
+            ]
+        },
+        "Evaluate.Legitimacy.Illegitimate": {
+            "template": "<arg1> holds that <arg2> is illegitimate",
+            "args": [
+                "Holder",
+                "Event"
+            ]
+        },
+        "Evaluate.Legitimacy.Legitimate": {
+            "template": "<arg1> holds that <arg2> is legitimate",
+            "args": [
+                "Holder",
+                "Event"
+            ]
+        },
+        "Evaluate.Sentiment.Negative": {
+            "template": "<arg1> holds negative sentiment towards <arg2>",
+            "args": [
+                "Holder",
+                "SentimentTarget"
+            ]
+        },
+        "Evaluate.Sentiment.Positive": {
+            "template": "<arg1> holds positive sentiment towards <arg2>",
+            "args": [
+                "Holder",
+                "SentimentTarget"
+            ]
+        },
+        "Evaluate.Status.HoaxFraud": {
+            "template": "<arg1> holds that <arg2> is a hoax or a fraud",
+            "args": [
+                "Holder",
+                "HoaxFraud"
+            ]
+        },
+        "GeneralAffiliation.ArtifactPoliticalOrganizationReligiousAffiliation": {
+            "template": "<arg1> is affiliated with <arg2>",
+            "args": [
+                "Artifact",
+                "EntityOrFiller"
+            ]
+        },
+        "GeneralAffiliation.ArtifactPoliticalOrganizationReligiousAffiliation.ControlTerritory": {
+            "template": "<arg1> is controlled by <arg2>",
+            "args": [
+                "Territory",
+                "Controller"
+            ]
+        },
+        "GeneralAffiliation.ArtifactPoliticalOrganizationReligiousAffiliation.NationalityCitizen": {
+            "template": "<arg1> is affiliated with <arg2> GPE",
+            "args": [
+                "Artifact",
+                "Nationality"
+            ]
+        },
+        "GeneralAffiliation.ArtifactPoliticalOrganizationReligiousAffiliation.OwnershipPossession": {
+            "template": "<arg1> is owned by <arg2>",
+            "args": [
+                "Artifact",
+                "Owner"
+            ]
+        },
+        "GeneralAffiliation.MemberOriginReligionEthnicity": {
+            "template": "<arg1> is affiliated with <arg2>",
+            "args": [
+                "Person",
+                "EntityOrFiller"
+            ]
+        },
+        "GeneralAffiliation.MemberOriginReligionEthnicity.Ethnicity": {
+            "template": "<arg1> has <arg2> ethnicity",
+            "args": [
+                "Person",
+                "Ethnicity"
+            ]
+        },
+        "GeneralAffiliation.MemberOriginReligionEthnicity.NationalityCitizen": {
+            "template": "<arg1> is affiliated with <arg2> GPE",
+            "args": [
+                "Citizen",
+                "Nationality"
+            ]
+        },
+        "GeneralAffiliation.OrganizationPoliticalReligiousAffiliation": {
+            "template": "<arg1> is affiliated with <arg2>",
+            "args": [
+                "Organization",
+                "EntityOrFiller"
+            ]
+        },
+        "GeneralAffiliation.OrganizationPoliticalReligiousAffiliation.NationalityCitizen": {
+            "template": "<arg1> is affiliated with <arg2> GPE",
+            "args": [
+                "Organization",
+                "Nationality"
+            ]
+        },
+        "GeneralAffiliation.OrganizationWebsite.OrganizationWebsite": {
+            "template": "<arg1> has <arg2> website",
+            "args": [
+                "Organization",
+                "Website"
+            ]
+        },
+        "GeneralAffiliation.Sponsorship": {
+            "template": "<arg1> is sponsored by <arg2>",
+            "args": [
+                "ActorOrEvent",
+                "Sponsor"
+            ]
+        },
+        "GeneralAffiliation.Sponsorship.AdvisePlanOrganize": {
+            "template": "<arg1> is sponsored by <arg2>",
+            "args": [
+                "ActorOrEvent",
+                "Sponsor"
+            ]
+        },
+        "GeneralAffiliation.Sponsorship.Affiliated": {
+            "template": "<arg1> is sponsored by <arg2>",
+            "args": [
+                "ActorOrEvent",
+                "Sponsor"
+            ]
+        },
+        "GeneralAffiliation.Sponsorship.HelpSupport": {
+            "template": "<arg1> is sponsored by <arg2>",
+            "args": [
+                "ActorOrEvent",
+                "Sponsor"
+            ]
+        },
+        "Information.Color.Color": {
+            "template": "<arg1> has color <arg2>",
+            "args": [
+                "EntityOrFiller",
+                "Color"
+            ]
+        },
+        "Information.Make.Make": {
+            "template": "<arg1> has make/brand <arg2>",
+            "args": [
+                "EntityOrFiller",
+                "Brand"
+            ]
+        },
+        "Measurement.Size": {
+            "template": "<arg1> is the size of <arg2>",
+            "args": [
+                "Measurement",
+                "EntityOrFiller"
+            ]
+        },
+        "Measurement.Size.Count": {
+            "template": "<arg1> is the count/number of <arg2>",
+            "args": [
+                "Measurement",
+                "EntityOrFiller"
+            ]
+        },
+        "Measurement.Size.HeightLengthWidth": {
+            "template": "<arg1> is the height/length/width of <arg2>",
+            "args": [
+                "Measurement",
+                "EntityOrFiller"
+            ]
+        },
+        "Measurement.Size.Percentage": {
+            "template": "<arg1> is the percentage of <arg2>",
+            "args": [
+                "Measurement",
+                "EntityOrFiller"
+            ]
+        },
+        "Measurement.Size.Weight": {
+            "template": "<arg1> is the weight of <arg2>",
+            "args": [
+                "Measurement",
+                "EntityOrFiller"
+            ]
+        },
+        "OrganizationAffiliation.EmploymentMembership": {
+            "template": "<arg1> is a member of/employed by <arg2>",
+            "args": [
+                "EmployeeMember",
+                "PlaceOfEmploymentMembership"
+            ]
+        },
+        "OrganizationAffiliation.EmploymentMembership.Employment": {
+            "template": "<arg1> is employed by <arg2>",
+            "args": [
+                "Employee",
+                "PlaceOfEmployment"
+            ]
+        },
+        "OrganizationAffiliation.EmploymentMembership.Membership": {
+            "template": "<arg1> is a member of <arg2>",
+            "args": [
+                "Member",
+                "PlaceOfMembership"
+            ]
+        },
+        "OrganizationAffiliation.Founder.Founder": {
+            "template": "<arg1> is a founder of <arg2>",
+            "args": [
+                "Founder",
+                "Organization"
+            ]
+        },
+        "OrganizationAffiliation.Leadership": {
+            "template": "<arg1> is a leader of <arg2>",
+            "args": [
+                "Leader",
+                "Organization"
+            ]
+        },
+        "OrganizationAffiliation.Leadership.Government": {
+            "template": "<arg1> is a leader of <arg2>",
+            "args": [
+                "Leader",
+                "GovernmentBodyOrGPE"
+            ]
+        },
+        "OrganizationAffiliation.Leadership.HeadOfState": {
+            "template": "<arg1> is a leader of <arg2>",
+            "args": [
+                "Leader",
+                "Country"
+            ]
+        },
+        "OrganizationAffiliation.Leadership.MilitaryPolice": {
+            "template": "<arg1> is a leader of <arg2>",
+            "args": [
+                "Leader",
+                "MilitaryPoliceORG"
+            ]
+        },
+        "PartWhole.Subsidiary": {
+            "template": "<arg1> is a subsidiary of <arg2>",
+            "args": [
+                "Subsidiary",
+                "Parent"
+            ]
+        },
+        "PartWhole.Subsidiary.NationalityCitizen": {
+            "template": "<arg1> is a subsidiary of <arg2>",
+            "args": [
+                "Subsidiary",
+                "Parent"
+            ]
+        },
+        "PartWhole.Subsidiary.OrganizationSubsidiary": {
+            "template": "<arg1> is a subsidiary of <arg2>",
+            "args": [
+                "Subsidiary",
+                "Parent"
+            ]
+        },
+        "PersonalSocial.Role": {
+            "template": "<arg1> has a role of <arg2>",
+            "args": [
+                "Person",
+                "Role"
+            ]
+        },
+        "PersonalSocial.Role.ProfessionalRole": {
+            "template": "<arg1> has a job role of <arg2>",
+            "args": [
+                "Person",
+                "JobRole"
+            ]
+        },
+        "PersonalSocial.Role.TitleFormOfAddress": {
+            "template": "<arg1> has a title of <arg2>",
+            "args": [
+                "Person",
+                "Title"
+            ]
+        },
+        "PersonalSocial.Relationship": {
+            "template": "<arg1> has unspecified relationship with <arg2>",
+            "args": [
+                "Person",
+                "Person"
+            ]
+        },
+        "PersonalSocial.Relationship.Political": {
+            "template": "<arg1> has political relationship with <arg2>",
+            "args": [
+                "Person",
+                "Person"
+            ]
+        },
+        "Physical.LocatedNear": {
+            "template": "<arg1> is located in or near <arg2>",
+            "args": [
+                "EntityOrFiller",
+                "Place"
+            ]
+        },
+        "Physical.LocatedNear.Surround": {
+            "template": "<arg1> is surrounded by <arg2>",
+            "args": [
+                "Place",
+                "EntityOrFiller"
+            ]
+        },
+        "Physical.OrganizationHeadquarters.OrganizationHeadquarters": {
+            "template": "<arg1> has headquarters in <arg2>",
+            "args": [
+                "Organization",
+                "Place"
+            ]
+        },
+        "Physical.Resident.Resident": {
+            "template": "<arg1> is a resident of <arg2>",
+            "args": [
+                "Resident",
+                "Place"
+            ]
+        },
+        "ResponsibilityBlame.AssignBlame.AssignBlame": {
+            "template": "<arg1> is blamed for <arg2>",
+            "args": [
+                "EntityResponsible",
+                "Event"
+            ]
+        },
+        "ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility": {
+            "template": "<arg1> claims responsibility for <arg2>",
+            "args": [
+                "EntityResponsible",
+                "Event"
+            ]
+        }
+    },
+    "augmented": {
+        "<arg1> mechanical artifact failed due to <arg2> instrument at <arg3>": {
+            "order": [
+                1,
+                "mechanical artifact failed",
+                2,
+                3
+            ],
+            "1": {
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " due to ",
+                "suffix": " instrument"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> damaged or destroyed <arg2> using <arg3> instrument in <arg4>": {
+            "order": [
+                2,
+                "was damaged or destroyed",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " using ",
+                "suffix": " instrument"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> damaged <arg2> using <arg3> instrument in <arg4>": {
+            "order": [
+                2,
+                "was damaged",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " using ",
+                "suffix": " instrument"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> destroyed <arg2> using <arg3> instrument in <arg4>": {
+            "order": [
+                2,
+                "was destroyed",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " using ",
+                "suffix": " instrument"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> experienced a shortage of <arg2> supply at <arg3>": {
+            "order": [
+                "There was a shortage",
+                2,
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " experienced by "
+            },
+            "2": {
+                "substitution": "Something",
+                "prefix": " of ",
+                "suffix": " supply"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> attacked <arg2> using <arg3> at <arg4>": {
+            "order": [
+                1,
+                "attacked",
+                2,
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " "
+            },
+            "3": {
+                "prefix": " using "
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> attacked <arg2> using <arg3> at <arg4>, in order to take <arg5>": {
+            "order": [
+                1,
+                "attacked",
+                2,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " "
+            },
+            "3": {
+                "prefix": " using "
+            },
+            "4": {
+                "prefix": " at "
+            },
+            "5": {
+                "prefix": " in order to take "
+            }
+        },
+        "<arg1> was deposed by <arg2> at <arg3>": {
+            "order": [
+                1,
+                "was deposed",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " by "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> was in a demonstration at <arg2>": {
+            "order": [
+                1,
+                "was in a demonstration",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> was in a demonstration or protest at <arg2>": {
+            "order": [
+                1,
+                "was in a demonstration or protest",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> yielded to <arg2> at <arg3>": {
+            "order": [
+                1,
+                "yielded",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> retreated from <arg2> to <arg3>": {
+            "order": [
+                1,
+                "retreated",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " from "
+            },
+            "3": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> surrendered to <arg2> at <arg3>": {
+            "order": [
+                1,
+                "surrendered",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated at <arg2>": {
+            "order": [
+                1,
+                "communicated",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated with <arg2> at <arg3>": {
+            "order": [
+                1,
+                "communicated",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated remotely with <arg2> at <arg3>": {
+            "order": [
+                1,
+                "communicated remotely",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> met face-to-face with <arg2> at <arg3>": {
+            "order": [
+                1,
+                "met face-to-face",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> negotiated about <arg3> topic at <arg2>": {
+            "order": [
+                1,
+                "negotiated",
+                3,
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated with <arg2> about <arg4> topic at <arg3>": {
+            "order": [
+                1,
+                "communicated",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "4": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated to <arg2> about <arg4> topic at <arg3> (one-way communication)": {
+            "order": [
+                1,
+                "communicated",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "4": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> negotiated remotely about <arg3> topic at <arg2>": {
+            "order": [
+                1,
+                "communicated remotely",
+                3,
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3>": {
+            "order": [
+                1,
+                "communicated remotely",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "4": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> negotiated face-to-face about <arg3> topic at <arg2>": {
+            "order": [
+                1,
+                "met face-to-face",
+                3,
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3>": {
+            "order": [
+                1,
+                "met face-to-face",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "4": {
+                "prefix": " about ",
+                "suffix": " topic"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated with <arg2> during a funeral or vigil for <arg3> at <arg4>": {
+            "order": [
+                1,
+                "communicated",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " during a funeral or vigil for "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> met face-to-face with <arg2> during a funeral or vigil for <arg3> at <arg4>": {
+            "order": [
+                1,
+                "met face-to-face",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " during a funeral or vigil for "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> communicated to <arg2> at <arg3> (one-way communication)": {
+            "order": [
+                1,
+                "communicated",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> person in <arg2> vehicle crashed into <arg3> at <arg4>": {
+            "order": [
+                1,
+                2,
+                "crashed",
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " in ",
+                "suffix": " vehicle"
+            },
+            "3": {
+                "prefix": " into "
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> disease broke out among <arg2> victims or population at <arg3>": {
+            "order": [
+                1,
+                "disease broke out",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Some",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " among ",
+                "suffix": " victims or population"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> caught fire or exploded from <arg2> instrument at <arg3>": {
+            "order": [
+                1,
+                "caught fire or exploded",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " from ",
+                "suffix": " instrument"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> committed a crime against <arg2> at <arg3>": {
+            "order": [
+                1,
+                "committed a crime",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " against "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> and <arg2> signed an agreement in <arg3>": {
+            "order": [
+                1,
+                "signed an agreement",
+                2
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> rejected or nullified an agreement with <arg2> in <arg3>": {
+            "order": [
+                1,
+                "rejected or nullified an agreement",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> violated an agreement with <arg2> in <arg3>": {
+            "order": [
+                1,
+                "violated an agreement",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " with "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> convened <arg2> at <arg3>": {
+            "order": [
+                1,
+                "convened",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> was formed by <arg2> in <arg3>": {
+            "order": [
+                1,
+                "was formed",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " by "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> merged with <arg2> at <arg3>": {
+            "order": [
+                1,
+                "merged",
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> was started by <arg2> in <arg3>": {
+            "order": [
+                1,
+                "was started",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " by "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> legislature enacted <arg2> law in <arg3>": {
+            "order": [
+                2,
+                "was enacted",
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " by ",
+                "suffix": " legislature"
+            },
+            "2": {
+                "substitution": "Some",
+                "suffix": " law"
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> spied on <arg2> to the benefit of <arg3> in <arg4>": {
+            "order": [
+                1,
+                "spied",
+                2,
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " on "
+            },
+            "3": {
+                "prefix": " to the benefit of "
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> voted for <arg2> on <arg3> ballot with <arg4> results in <arg5>": {
+            "order": [
+                1,
+                "voted",
+                2,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " for "
+            },
+            "3": {
+                "prefix": " on ",
+                "suffix": " ballot"
+            },
+            "4": {
+                "prefix": " with ",
+                "suffix": " results"
+            },
+            "5": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> prevented <arg2> from voting for <arg3> on <arg4> ballot in <arg5>": {
+            "order": [
+                2,
+                "was prevented from voting",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " for "
+            },
+            "4": {
+                "prefix": " on ",
+                "suffix": " ballot"
+            },
+            "5": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> observed <arg2> in <arg3>": {
+            "order": [
+                2,
+                "was observed",
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> inspected <arg2> in <arg3>": {
+            "order": [
+                2,
+                "was inspected",
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> monitored <arg2> taking part in an election in <arg3>": {
+            "order": [
+                2,
+                "taking part in an election, was monitored",
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> physically targeted <arg2> with <arg3> instrument at <arg4>": {
+            "order": [
+                2,
+                "was physically targeted",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " with ",
+                "suffix": " instrument"
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4>": {
+            "order": [
+                2,
+                "was arrested or jailed",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> initiated judicial process pertaining to <arg2> before <arg3> court or judge for <arg4> crime in <arg5>": {
+            "order": [
+                1,
+                "initiated judicial process",
+                2,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " pertaining to "
+            },
+            "3": {
+                "prefix": " before ",
+                "suffix": " court or judge"
+            },
+            "4": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "5": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5>": {
+            "order": [
+                2,
+                "was charged or indicted",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " before ",
+                "suffix": " court or judge"
+            },
+            "4": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "5": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5>": {
+            "order": [
+                2,
+                "was tried",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " before ",
+                "suffix": " court or judge"
+            },
+            "4": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "5": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> investigated <arg2> in <arg3>": {
+            "order": [
+                1,
+                "investigated",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> investigated <arg2> for <arg3> crime in <arg4>": {
+            "order": [
+                1,
+                "investigated",
+                2,
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " "
+            },
+            "3": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> court or judge decided consequences of <arg3> crime, committed by <arg2>, in <arg4>": {
+            "order": [
+                1,
+                3,
+                "committed by",
+                2,
+                4
+            ],
+            "1": {
+                "substitution": "Some",
+                "suffix": " court or judge decided consequences"
+            },
+            "3": {
+                "substitution": "some",
+                "prefix": " of ",
+                "suffix": " crime"
+            },
+            "2": {
+                "prefix": ",committed by ",
+                "suffix": ","
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> court or judge convicted <arg2> of <arg3> crime in <arg4>": {
+            "order": [
+                2,
+                "was convicted",
+                3,
+                1,
+                4
+            ],
+            "1": {
+                "prefix": " by ",
+                "suffix": " court or judge"
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " of ",
+                "suffix": " crime"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> executed <arg2> for <arg3> crime in <arg4>": {
+            "order": [
+                2,
+                "was executed",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "4": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> extradited <arg2> for <arg3> crime from <arg4> to <arg5>": {
+            "order": [
+                2,
+                "was extradited",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " for ",
+                "suffix": " crime"
+            },
+            "4": {
+                "prefix": " from "
+            },
+            "5": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> died at <arg2> from <arg4> medical issue, killed by <arg3>": {
+            "order": [
+                1,
+                "died",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            },
+            "4": {
+                "prefix": " from ",
+                "suffix": " medical issue"
+            },
+            "3": {
+                "prefix": ", killed by "
+            }
+        },
+        "<arg1> killed <arg2> using <arg3> instrument or <arg5> medical issue at <arg4>": {
+            "order": [
+                2,
+                "was killed",
+                1,
+                3,
+                5,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "substitution": "some",
+                "prefix": " using ",
+                "suffix": " instrument"
+            },
+            "5": {
+                "substitution": "some",
+                "prefix": " or ",
+                "suffix": " medical issue"
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> was injured by <arg2> with <arg4> medical issue at <arg3>": {
+            "order": [
+                1,
+                "was injured",
+                2,
+                4,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " by "
+            },
+            "4": {
+                "prefix": " with ",
+                "suffix": " medical issue"
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> has extreme hunger or thirst from <arg4> medical issue imposed by <arg3> injurer at <arg2>": {
+            "order": [
+                1,
+                "has extreme hunger or thirst",
+                4,
+                3,
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "4": {
+                "substitution": "some",
+                "prefix": " from ",
+                "suffix": " medical issue"
+            },
+            "3": {
+                "prefix": " imposed by ",
+                "suffix": " injurer"
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> person has some physical degradation from <arg4> medical issue imposed by <arg3> injurer at <arg2>": {
+            "order": [
+                1,
+                "has some physical degradation",
+                4,
+                3,
+                2
+            ],
+            "1": {
+                "substitution": "Someone",
+                "suffix": " "
+            },
+            "4": {
+                "substitution": "some",
+                "prefix": " from ",
+                "suffix": " medical issue"
+            },
+            "3": {
+                "prefix": " imposed by ",
+                "suffix": " injurer"
+            },
+            "2": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> has <arg3> sickness or illness at <arg4>, deliberately infected by <arg2>": {
+            "order": [
+                1,
+                "has",
+                3,
+                4,
+                2
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "substitution": "some",
+                "prefix": " ",
+                "suffix": " sickness or illness"
+            },
+            "4": {
+                "prefix": " at "
+            },
+            "2": {
+                "prefix": ", deliberately infected by "
+            }
+        },
+        "<arg1> injured <arg2> using <arg3> instrument or <arg5> medical issue at <arg4>": {
+            "order": [
+                2,
+                "was injured",
+                1,
+                3,
+                5,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "substitution": "some",
+                "prefix": " using ",
+                "suffix": " instrument"
+            },
+            "5": {
+                "substitution": "some",
+                "prefix": " or ",
+                "suffix": " medical issue"
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4>": {
+            "order": [
+                2,
+                "was manufactured or created or produced",
+                1,
+                3,
+                4
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " using "
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> treater treated <arg2> patient for <arg3> medical issue with <arg4> means at <arg5>": {
+            "order": [
+                2,
+                "was treated",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by ",
+                "suffix": " treater"
+            },
+            "2": {
+                "substitution": "Some",
+                "suffix": " patient"
+            },
+            "3": {
+                "prefix": " for ",
+                "suffix": " medical issue"
+            },
+            "4": {
+                "prefix": " with ",
+                "suffix": " means"
+            },
+            "5": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> transported <arg2> in <arg3> from <arg4> to <arg5>": {
+            "order": [
+                2,
+                "was transported",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            },
+            "4": {
+                "prefix": " from "
+            },
+            "5": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> fell from <arg2> to <arg3>": {
+            "order": [
+                1,
+                "fell",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " from "
+            },
+            "3": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> grants <arg2> entry to <arg3> from <arg4>": {
+            "order": [
+                2,
+                "was granted entry",
+                3,
+                4,
+                1
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " to "
+            },
+            "4": {
+                "prefix": " from "
+            }
+        },
+        "<arg1> concealed <arg2> in <arg3>, transported in <arg4> vehicle from <arg5>": {
+            "order": [
+                2,
+                "was concealed",
+                1,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            },
+            "4": {
+                "substitution": "some",
+                "prefix": ", transported in ",
+                "suffix": " vehicle"
+            },
+            "5": {
+                "prefix": " from "
+            }
+        },
+        "<arg1> lost control of moving <arg2> at <arg3>": {
+            "order": [
+                1,
+                "lost control",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " of moving "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> prevents <arg2> from transporting <arg3> from <arg4> to <arg5>": {
+            "order": [
+                1,
+                "prevents",
+                2,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "substitution": "Something",
+                "prefix": " "
+            },
+            "3": {
+                "substitution": "Something",
+                "prefix": " from transporting "
+            },
+            "4": {
+                "prefix": " from "
+            },
+            "5": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> grants entry to <arg2> transporting <arg3> from <arg4> to <arg5>": {
+            "order": [
+                1,
+                "grants entry",
+                2,
+                3,
+                4,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "substitution": "Something",
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " transporting "
+            },
+            "4": {
+                "prefix": " from "
+            },
+            "5": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> moved in <arg2> from <arg3> to <arg4>": {
+            "order": [
+                1,
+                "moved",
+                2,
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " in "
+            },
+            "3": {
+                "prefix": " from "
+            },
+            "4": {
+                "prefix": " to "
+            }
+        },
+        "<arg1> elected <arg2> in <arg3>": {
+            "order": [
+                2,
+                "was elected",
+                1,
+                3
+            ],
+            "1": {
+                "prefix": " by "
+            },
+            "2": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> stopped working at <arg2> in <arg3>": {
+            "order": [
+                1,
+                "stopped working",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "<arg1> started working at <arg2> in <arg3>": {
+            "order": [
+                1,
+                "started working",
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " at "
+            },
+            "3": {
+                "prefix": " in "
+            }
+        },
+        "A transaction occurred between <arg1> and <arg2> for the benefit of <arg3> at <arg4>": {
+            "order": [
+                "A transaction occurred between ",
+                1,
+                2,
+                3
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": " for the benefit of "
+            },
+            "3": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5>": {
+            "order": [
+                1,
+                "prevented",
+                2,
+                4,
+                3,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "substitution": "Something",
+                "prefix": " "
+            },
+            "4": {
+                "substitution": "Something",
+                "prefix": " from giving "
+            },
+            "3": {
+                "substitution": "Something",
+                "prefix": " to "
+            },
+            "5": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> gave something to <arg2> for the benefit of <arg3> at <arg4>": {
+            "order": [
+                1,
+                "gave something",
+                2,
+                3,
+                4
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "2": {
+                "prefix": "  to "
+            },
+            "3": {
+                "prefix": " for the benefit of "
+            },
+            "4": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5>": {
+            "order": [
+                1,
+                "gave",
+                4,
+                2,
+                3,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "4": {
+                "prefix": " ",
+                "substitution": "some",
+                "suffix": " money"
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " for the benefit of "
+            },
+            "5": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5>": {
+            "order": [
+                1,
+                "gave",
+                4,
+                2,
+                3,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "4": {
+                "substitution": "Something",
+                "prefix": " "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " for the benefit of "
+            },
+            "5": {
+                "prefix": " at "
+            }
+        },
+        "<arg1> transferred control of <arg4> to <arg2> for the benefit of <arg3> in <arg5>": {
+            "order": [
+                1,
+                "transferred control",
+                4,
+                2,
+                3,
+                5
+            ],
+            "1": {
+                "substitution": "Something",
+                "suffix": " "
+            },
+            "4": {
+                "prefix": " of "
+            },
+            "2": {
+                "prefix": " to "
+            },
+            "3": {
+                "prefix": " for the benefit of "
+            },
+            "5": {
+                "prefix": " in "
+            }
+        }
+    }
+}

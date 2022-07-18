@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04ATRE" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3504" raw_text_md5="328e90d2e56a4d0765173f1e62c5860b">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="42">
+<ORIGINAL_TEXT>Are house parties allowed during COVID-19?</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">Are</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="9">house</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="17">parties</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="19" end_char="25">allowed</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="27" end_char="32">during</TOKEN>
+<TOKEN id="token-0-5" pos="unknown" morph="none" start_char="34" end_char="41">COVID-19</TOKEN>
+<TOKEN id="token-0-6" pos="punct" morph="none" start_char="42" end_char="42">?</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="47" end_char="152">
+<ORIGINAL_TEXT>New measures announced by the Government limits the amount of people who can be in one household at a time</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="47" end_char="49">New</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="51" end_char="58">measures</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="60" end_char="68">announced</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="70" end_char="71">by</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="73" end_char="75">the</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="77" end_char="86">Government</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="88" end_char="93">limits</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="95" end_char="97">the</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="99" end_char="104">amount</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="106" end_char="107">of</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="109" end_char="114">people</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="116" end_char="118">who</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="120" end_char="122">can</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="124" end_char="125">be</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="127" end_char="128">in</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="130" end_char="132">one</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="134" end_char="142">household</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="144" end_char="145">at</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="147" end_char="147">a</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="149" end_char="152">time</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="156" end_char="238">
+<ORIGINAL_TEXT>The whole of the Republic of Ireland is currently at Level 5 COVID-19 restrictions.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="156" end_char="158">The</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="160" end_char="164">whole</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="166" end_char="167">of</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="169" end_char="171">the</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="173" end_char="180">Republic</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="182" end_char="183">of</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="185" end_char="191">Ireland</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="193" end_char="194">is</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="196" end_char="204">currently</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="206" end_char="207">at</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="209" end_char="213">Level</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="215" end_char="215">5</TOKEN>
+<TOKEN id="token-2-12" pos="unknown" morph="none" start_char="217" end_char="224">COVID-19</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="226" end_char="237">restrictions</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="238" end_char="238">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="240" end_char="289">
+<ORIGINAL_TEXT>Level 5 means that the public health risk is high.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="240" end_char="244">Level</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="246" end_char="246">5</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="248" end_char="252">means</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="254" end_char="257">that</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="259" end_char="261">the</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="263" end_char="268">public</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="270" end_char="275">health</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="277" end_char="280">risk</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="282" end_char="283">is</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="285" end_char="288">high</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="289" end_char="289">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="291" end_char="461">
+<ORIGINAL_TEXT>No visitors are allowed in your home or garden except for essential family reasons (such as caring for children or elderly family members), or as part of a support bubble.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="291" end_char="292">No</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="294" end_char="301">visitors</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="303" end_char="305">are</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="307" end_char="313">allowed</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="315" end_char="316">in</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="318" end_char="321">your</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="323" end_char="326">home</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="328" end_char="329">or</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="331" end_char="336">garden</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="338" end_char="343">except</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="345" end_char="347">for</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="349" end_char="357">essential</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="359" end_char="364">family</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="366" end_char="372">reasons</TOKEN>
+<TOKEN id="token-4-14" pos="punct" morph="none" start_char="374" end_char="374">(</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="375" end_char="378">such</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="380" end_char="381">as</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="383" end_char="388">caring</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="390" end_char="392">for</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="394" end_char="401">children</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="403" end_char="404">or</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="406" end_char="412">elderly</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="414" end_char="419">family</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="421" end_char="427">members</TOKEN>
+<TOKEN id="token-4-24" pos="punct" morph="none" start_char="428" end_char="429">),</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="431" end_char="432">or</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="434" end_char="435">as</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="437" end_char="440">part</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="442" end_char="443">of</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="445" end_char="445">a</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="447" end_char="453">support</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="455" end_char="460">bubble</TOKEN>
+<TOKEN id="token-4-32" pos="punct" morph="none" start_char="461" end_char="461">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="464" end_char="494">
+<ORIGINAL_TEXT>Can I have a party in my house?</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="464" end_char="466">Can</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="468" end_char="468">I</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="470" end_char="473">have</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="475" end_char="475">a</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="477" end_char="481">party</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="483" end_char="484">in</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="486" end_char="487">my</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="489" end_char="493">house</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="494" end_char="494">?</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="498" end_char="557">
+<ORIGINAL_TEXT>Level 5 is the most restrictive level for COVID-19 measures.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="498" end_char="502">Level</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="504" end_char="504">5</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="506" end_char="507">is</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="509" end_char="511">the</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="513" end_char="516">most</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="518" end_char="528">restrictive</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="530" end_char="534">level</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="536" end_char="538">for</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="540" end_char="547">COVID-19</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="549" end_char="556">measures</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="557" end_char="557">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="559" end_char="608">
+<ORIGINAL_TEXT>Level 5 means that the public health risk is high.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="559" end_char="563">Level</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="565" end_char="565">5</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="567" end_char="571">means</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="573" end_char="576">that</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="578" end_char="580">the</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="582" end_char="587">public</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="589" end_char="594">health</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="596" end_char="599">risk</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="601" end_char="602">is</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="604" end_char="607">high</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="608" end_char="608">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="610" end_char="700">
+<ORIGINAL_TEXT>Due to the restrictions on gatherings inside the home, having a house party is not allowed.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="610" end_char="612">Due</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="614" end_char="615">to</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="617" end_char="619">the</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="621" end_char="632">restrictions</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="634" end_char="635">on</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="637" end_char="646">gatherings</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="648" end_char="653">inside</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="655" end_char="657">the</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="659" end_char="662">home</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="663" end_char="663">,</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="665" end_char="670">having</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="672" end_char="672">a</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="674" end_char="678">house</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="680" end_char="684">party</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="686" end_char="687">is</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="689" end_char="691">not</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="693" end_char="699">allowed</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="700" end_char="700">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="702" end_char="773">
+<ORIGINAL_TEXT>It is not possible to have visitors from outside your home at this time.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="702" end_char="703">It</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="705" end_char="706">is</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="708" end_char="710">not</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="712" end_char="719">possible</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="721" end_char="722">to</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="724" end_char="727">have</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="729" end_char="736">visitors</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="738" end_char="741">from</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="743" end_char="749">outside</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="751" end_char="754">your</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="756" end_char="759">home</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="761" end_char="762">at</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="764" end_char="767">this</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="769" end_char="772">time</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="773" end_char="773">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="776" end_char="796">
+<ORIGINAL_TEXT>Visitors to your home</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="776" end_char="783">Visitors</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="785" end_char="786">to</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="788" end_char="791">your</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="793" end_char="796">home</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="800" end_char="970">
+<ORIGINAL_TEXT>No visitors are allowed in your home or garden except for essential family reasons (such as caring for children or elderly family members), or as part of a support bubble.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="800" end_char="801">No</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="803" end_char="810">visitors</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="812" end_char="814">are</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="816" end_char="822">allowed</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="824" end_char="825">in</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="827" end_char="830">your</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="832" end_char="835">home</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="837" end_char="838">or</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="840" end_char="845">garden</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="847" end_char="852">except</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="854" end_char="856">for</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="858" end_char="866">essential</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="868" end_char="873">family</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="875" end_char="881">reasons</TOKEN>
+<TOKEN id="token-11-14" pos="punct" morph="none" start_char="883" end_char="883">(</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="884" end_char="887">such</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="889" end_char="890">as</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="892" end_char="897">caring</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="899" end_char="901">for</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="903" end_char="910">children</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="912" end_char="913">or</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="915" end_char="921">elderly</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="923" end_char="928">family</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="930" end_char="936">members</TOKEN>
+<TOKEN id="token-11-24" pos="punct" morph="none" start_char="937" end_char="938">),</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="940" end_char="941">or</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="943" end_char="944">as</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="946" end_char="949">part</TOKEN>
+<TOKEN id="token-11-28" pos="word" morph="none" start_char="951" end_char="952">of</TOKEN>
+<TOKEN id="token-11-29" pos="word" morph="none" start_char="954" end_char="954">a</TOKEN>
+<TOKEN id="token-11-30" pos="word" morph="none" start_char="956" end_char="962">support</TOKEN>
+<TOKEN id="token-11-31" pos="word" morph="none" start_char="964" end_char="969">bubble</TOKEN>
+<TOKEN id="token-11-32" pos="punct" morph="none" start_char="970" end_char="970">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="973" end_char="997">
+<ORIGINAL_TEXT>What is a support bubble?</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="973" end_char="976">What</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="978" end_char="979">is</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="981" end_char="981">a</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="983" end_char="989">support</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="991" end_char="996">bubble</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="997" end_char="997">?</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1001" end_char="1224">
+<ORIGINAL_TEXT>"Bubbles" are for people who risk experiencing isolation, people who co-parent or have shared custody arrangements, people who live alone who experience mental health difficult and people living with a partner with dementia.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="1001" end_char="1001">"</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1002" end_char="1008">Bubbles</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="1009" end_char="1009">"</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1011" end_char="1013">are</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1015" end_char="1017">for</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1019" end_char="1024">people</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1026" end_char="1028">who</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1030" end_char="1033">risk</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1035" end_char="1046">experiencing</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1048" end_char="1056">isolation</TOKEN>
+<TOKEN id="token-13-10" pos="punct" morph="none" start_char="1057" end_char="1057">,</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1059" end_char="1064">people</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1066" end_char="1068">who</TOKEN>
+<TOKEN id="token-13-13" pos="unknown" morph="none" start_char="1070" end_char="1078">co-parent</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1080" end_char="1081">or</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1083" end_char="1086">have</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1088" end_char="1093">shared</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1095" end_char="1101">custody</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1103" end_char="1114">arrangements</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="1115" end_char="1115">,</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1117" end_char="1122">people</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1124" end_char="1126">who</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1128" end_char="1131">live</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1133" end_char="1137">alone</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1139" end_char="1141">who</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1143" end_char="1152">experience</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1154" end_char="1159">mental</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="1161" end_char="1166">health</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="1168" end_char="1176">difficult</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="1178" end_char="1180">and</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="1182" end_char="1187">people</TOKEN>
+<TOKEN id="token-13-31" pos="word" morph="none" start_char="1189" end_char="1194">living</TOKEN>
+<TOKEN id="token-13-32" pos="word" morph="none" start_char="1196" end_char="1199">with</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="1201" end_char="1201">a</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="1203" end_char="1209">partner</TOKEN>
+<TOKEN id="token-13-35" pos="word" morph="none" start_char="1211" end_char="1214">with</TOKEN>
+<TOKEN id="token-13-36" pos="word" morph="none" start_char="1216" end_char="1223">dementia</TOKEN>
+<TOKEN id="token-13-37" pos="punct" morph="none" start_char="1224" end_char="1224">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1226" end_char="1313">
+<ORIGINAL_TEXT>In these situations you are allowed to choose one other household that you can mix with.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1226" end_char="1227">In</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1229" end_char="1233">these</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1235" end_char="1244">situations</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1246" end_char="1248">you</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1250" end_char="1252">are</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1254" end_char="1260">allowed</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1262" end_char="1263">to</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1265" end_char="1270">choose</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1272" end_char="1274">one</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1276" end_char="1280">other</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1282" end_char="1290">household</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1292" end_char="1295">that</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1297" end_char="1299">you</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1301" end_char="1303">can</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1305" end_char="1307">mix</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1309" end_char="1312">with</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="1313" end_char="1313">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1316" end_char="1327">
+<ORIGINAL_TEXT>For example:</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1316" end_char="1318">For</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1320" end_char="1326">example</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="1327" end_char="1327">:</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1330" end_char="1469">
+<ORIGINAL_TEXT>If you have a child but do not live with the child's other parent, you are allowed to visit their parent's house to help manage co-parenting</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1330" end_char="1331">If</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1333" end_char="1335">you</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1337" end_char="1340">have</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1342" end_char="1342">a</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1344" end_char="1348">child</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1350" end_char="1352">but</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1354" end_char="1355">do</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1357" end_char="1359">not</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1361" end_char="1364">live</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1366" end_char="1369">with</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1371" end_char="1373">the</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1375" end_char="1381">child's</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1383" end_char="1387">other</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1389" end_char="1394">parent</TOKEN>
+<TOKEN id="token-16-14" pos="punct" morph="none" start_char="1395" end_char="1395">,</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1397" end_char="1399">you</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1401" end_char="1403">are</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1405" end_char="1411">allowed</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1413" end_char="1414">to</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1416" end_char="1420">visit</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="1422" end_char="1426">their</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="1428" end_char="1435">parent's</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1437" end_char="1441">house</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1443" end_char="1444">to</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="1446" end_char="1449">help</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="1451" end_char="1456">manage</TOKEN>
+<TOKEN id="token-16-26" pos="unknown" morph="none" start_char="1458" end_char="1469">co-parenting</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1472" end_char="1603">
+<ORIGINAL_TEXT>If you live alone but experience mental health difficulties you can choose one other household, such as your parent's home, to visit</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1472" end_char="1473">If</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1475" end_char="1477">you</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1479" end_char="1482">live</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1484" end_char="1488">alone</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1490" end_char="1492">but</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1494" end_char="1503">experience</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1505" end_char="1510">mental</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1512" end_char="1517">health</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1519" end_char="1530">difficulties</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1532" end_char="1534">you</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1536" end_char="1538">can</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1540" end_char="1545">choose</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1547" end_char="1549">one</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1551" end_char="1555">other</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1557" end_char="1565">household</TOKEN>
+<TOKEN id="token-17-15" pos="punct" morph="none" start_char="1566" end_char="1566">,</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1568" end_char="1571">such</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1573" end_char="1574">as</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1576" end_char="1579">your</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1581" end_char="1588">parent's</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="1590" end_char="1593">home</TOKEN>
+<TOKEN id="token-17-21" pos="punct" morph="none" start_char="1594" end_char="1594">,</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="1596" end_char="1597">to</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="1599" end_char="1603">visit</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1607" end_char="1682">
+<ORIGINAL_TEXT>Once you have picked a certain household you are only allowed to visit them.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1607" end_char="1610">Once</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1612" end_char="1614">you</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1616" end_char="1619">have</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1621" end_char="1626">picked</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1628" end_char="1628">a</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1630" end_char="1636">certain</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1638" end_char="1646">household</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1648" end_char="1650">you</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1652" end_char="1654">are</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1656" end_char="1659">only</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1661" end_char="1667">allowed</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1669" end_char="1670">to</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1672" end_char="1676">visit</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1678" end_char="1681">them</TOKEN>
+<TOKEN id="token-18-14" pos="punct" morph="none" start_char="1682" end_char="1682">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1685" end_char="1719">
+<ORIGINAL_TEXT>Why is having a house party a risk?</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1685" end_char="1687">Why</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1689" end_char="1690">is</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1692" end_char="1697">having</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1699" end_char="1699">a</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1701" end_char="1705">house</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1707" end_char="1711">party</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1713" end_char="1713">a</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1715" end_char="1718">risk</TOKEN>
+<TOKEN id="token-19-8" pos="punct" morph="none" start_char="1719" end_char="1719">?</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1723" end_char="1807">
+<ORIGINAL_TEXT>COVID-19 is a highly transmissible infectious disease, and the virus wants to spread.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="1723" end_char="1730">COVID-19</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1732" end_char="1733">is</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1735" end_char="1735">a</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1737" end_char="1742">highly</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1744" end_char="1756">transmissible</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1758" end_char="1767">infectious</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1769" end_char="1775">disease</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="1776" end_char="1776">,</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1778" end_char="1780">and</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1782" end_char="1784">the</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1786" end_char="1790">virus</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1792" end_char="1796">wants</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1798" end_char="1799">to</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1801" end_char="1806">spread</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="1807" end_char="1807">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1809" end_char="1858">
+<ORIGINAL_TEXT>But it needs people to come into contact to do so.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1809" end_char="1811">But</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1813" end_char="1814">it</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1816" end_char="1820">needs</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1822" end_char="1827">people</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1829" end_char="1830">to</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1832" end_char="1835">come</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1837" end_char="1840">into</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1842" end_char="1848">contact</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1850" end_char="1851">to</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1853" end_char="1854">do</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1856" end_char="1857">so</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="1858" end_char="1858">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1860" end_char="2085">
+<ORIGINAL_TEXT>Coming together in groups, in enclosed spaces with a lack of ventilation, where there is close contact between people and long durations of time spent together creates an environment where it is easier for the virus to spread.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1860" end_char="1865">Coming</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1867" end_char="1874">together</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1876" end_char="1877">in</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1879" end_char="1884">groups</TOKEN>
+<TOKEN id="token-22-4" pos="punct" morph="none" start_char="1885" end_char="1885">,</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1887" end_char="1888">in</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1890" end_char="1897">enclosed</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1899" end_char="1904">spaces</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1906" end_char="1909">with</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1911" end_char="1911">a</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1913" end_char="1916">lack</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1918" end_char="1919">of</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="1921" end_char="1931">ventilation</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="1932" end_char="1932">,</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1934" end_char="1938">where</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="1940" end_char="1944">there</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="1946" end_char="1947">is</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="1949" end_char="1953">close</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="1955" end_char="1961">contact</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="1963" end_char="1969">between</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="1971" end_char="1976">people</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="1978" end_char="1980">and</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="1982" end_char="1985">long</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="1987" end_char="1995">durations</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="1997" end_char="1998">of</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="2000" end_char="2003">time</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="2005" end_char="2009">spent</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="2011" end_char="2018">together</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="2020" end_char="2026">creates</TOKEN>
+<TOKEN id="token-22-29" pos="word" morph="none" start_char="2028" end_char="2029">an</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="2031" end_char="2041">environment</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="2043" end_char="2047">where</TOKEN>
+<TOKEN id="token-22-32" pos="word" morph="none" start_char="2049" end_char="2050">it</TOKEN>
+<TOKEN id="token-22-33" pos="word" morph="none" start_char="2052" end_char="2053">is</TOKEN>
+<TOKEN id="token-22-34" pos="word" morph="none" start_char="2055" end_char="2060">easier</TOKEN>
+<TOKEN id="token-22-35" pos="word" morph="none" start_char="2062" end_char="2064">for</TOKEN>
+<TOKEN id="token-22-36" pos="word" morph="none" start_char="2066" end_char="2068">the</TOKEN>
+<TOKEN id="token-22-37" pos="word" morph="none" start_char="2070" end_char="2074">virus</TOKEN>
+<TOKEN id="token-22-38" pos="word" morph="none" start_char="2076" end_char="2077">to</TOKEN>
+<TOKEN id="token-22-39" pos="word" morph="none" start_char="2079" end_char="2084">spread</TOKEN>
+<TOKEN id="token-22-40" pos="punct" morph="none" start_char="2085" end_char="2085">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2087" end_char="2195">
+<ORIGINAL_TEXT>Laughing, shouting or singing can release droplets that may contain the virus and infect other people nearby.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2087" end_char="2094">Laughing</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="2095" end_char="2095">,</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2097" end_char="2104">shouting</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2106" end_char="2107">or</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2109" end_char="2115">singing</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2117" end_char="2119">can</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2121" end_char="2127">release</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2129" end_char="2136">droplets</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2138" end_char="2141">that</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2143" end_char="2145">may</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2147" end_char="2153">contain</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2155" end_char="2157">the</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2159" end_char="2163">virus</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2165" end_char="2167">and</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2169" end_char="2174">infect</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2176" end_char="2180">other</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2182" end_char="2187">people</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2189" end_char="2194">nearby</TOKEN>
+<TOKEN id="token-23-18" pos="punct" morph="none" start_char="2195" end_char="2195">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2197" end_char="2238">
+<ORIGINAL_TEXT>These are all risk factors to be aware of.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2197" end_char="2201">These</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2203" end_char="2205">are</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2207" end_char="2209">all</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2211" end_char="2214">risk</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2216" end_char="2222">factors</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2224" end_char="2225">to</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2227" end_char="2228">be</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2230" end_char="2234">aware</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2236" end_char="2237">of</TOKEN>
+<TOKEN id="token-24-9" pos="punct" morph="none" start_char="2238" end_char="2238">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2240" end_char="2300">
+<ORIGINAL_TEXT>To reduce your risk, limit your time in other people’s homes.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2240" end_char="2241">To</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2243" end_char="2248">reduce</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2250" end_char="2253">your</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2255" end_char="2258">risk</TOKEN>
+<TOKEN id="token-25-4" pos="punct" morph="none" start_char="2259" end_char="2259">,</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2261" end_char="2265">limit</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2267" end_char="2270">your</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2272" end_char="2275">time</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2277" end_char="2278">in</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2280" end_char="2284">other</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2286" end_char="2293">people’s</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2295" end_char="2299">homes</TOKEN>
+<TOKEN id="token-25-12" pos="punct" morph="none" start_char="2300" end_char="2300">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2302" end_char="2346">
+<ORIGINAL_TEXT>Keep your social contacts as low as possible.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2302" end_char="2305">Keep</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2307" end_char="2310">your</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2312" end_char="2317">social</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2319" end_char="2326">contacts</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2328" end_char="2329">as</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2331" end_char="2333">low</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2335" end_char="2336">as</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2338" end_char="2345">possible</TOKEN>
+<TOKEN id="token-26-8" pos="punct" morph="none" start_char="2346" end_char="2346">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2348" end_char="2385">
+<ORIGINAL_TEXT>Stick to outdoor meet-ups if possible.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2348" end_char="2352">Stick</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2354" end_char="2355">to</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2357" end_char="2363">outdoor</TOKEN>
+<TOKEN id="token-27-3" pos="unknown" morph="none" start_char="2365" end_char="2372">meet-ups</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2374" end_char="2375">if</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2377" end_char="2384">possible</TOKEN>
+<TOKEN id="token-27-6" pos="punct" morph="none" start_char="2385" end_char="2385">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2388" end_char="2445">
+<ORIGINAL_TEXT>Are weddings, funerals and other family occasions allowed?</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2388" end_char="2390">Are</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2392" end_char="2399">weddings</TOKEN>
+<TOKEN id="token-28-2" pos="punct" morph="none" start_char="2400" end_char="2400">,</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2402" end_char="2409">funerals</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2411" end_char="2413">and</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2415" end_char="2419">other</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2421" end_char="2426">family</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2428" end_char="2436">occasions</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2438" end_char="2444">allowed</TOKEN>
+<TOKEN id="token-28-9" pos="punct" morph="none" start_char="2445" end_char="2445">?</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2448" end_char="2487">
+<ORIGINAL_TEXT>Up to 6 guests are permitted at weddings</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2448" end_char="2449">Up</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2451" end_char="2452">to</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2454" end_char="2454">6</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2456" end_char="2461">guests</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2463" end_char="2465">are</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2467" end_char="2475">permitted</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2477" end_char="2478">at</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2480" end_char="2487">weddings</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2490" end_char="2537">
+<ORIGINAL_TEXT>Up to 10 mourners can currently attend a funeral</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2490" end_char="2491">Up</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2493" end_char="2494">to</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="2496" end_char="2497">10</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2499" end_char="2506">mourners</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2508" end_char="2510">can</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="2512" end_char="2520">currently</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="2522" end_char="2527">attend</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="2529" end_char="2529">a</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="2531" end_char="2537">funeral</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2540" end_char="2641">
+<ORIGINAL_TEXT>Organised events taking place outside with an event organiser or manager, are not allowed at this time</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2540" end_char="2548">Organised</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2550" end_char="2555">events</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2557" end_char="2562">taking</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2564" end_char="2568">place</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2570" end_char="2576">outside</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2578" end_char="2581">with</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2583" end_char="2584">an</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="2586" end_char="2590">event</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="2592" end_char="2600">organiser</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="2602" end_char="2603">or</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="2605" end_char="2611">manager</TOKEN>
+<TOKEN id="token-31-11" pos="punct" morph="none" start_char="2612" end_char="2612">,</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="2614" end_char="2616">are</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="2618" end_char="2620">not</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="2622" end_char="2628">allowed</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="2630" end_char="2631">at</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="2633" end_char="2636">this</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="2638" end_char="2641">time</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="2645" end_char="2679">
+<ORIGINAL_TEXT>Why are there limits on gatherings?</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="2645" end_char="2647">Why</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="2649" end_char="2651">are</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="2653" end_char="2657">there</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="2659" end_char="2664">limits</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="2666" end_char="2667">on</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="2669" end_char="2678">gatherings</TOKEN>
+<TOKEN id="token-32-6" pos="punct" morph="none" start_char="2679" end_char="2679">?</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="2683" end_char="2822">
+<ORIGINAL_TEXT>As COVID-19 restrictions ease, many people want to spend time with friends and family and do things they weren’t able to do during lockdown.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="2683" end_char="2684">As</TOKEN>
+<TOKEN id="token-33-1" pos="unknown" morph="none" start_char="2686" end_char="2693">COVID-19</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="2695" end_char="2706">restrictions</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="2708" end_char="2711">ease</TOKEN>
+<TOKEN id="token-33-4" pos="punct" morph="none" start_char="2712" end_char="2712">,</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="2714" end_char="2717">many</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="2719" end_char="2724">people</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="2726" end_char="2729">want</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="2731" end_char="2732">to</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="2734" end_char="2738">spend</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="2740" end_char="2743">time</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="2745" end_char="2748">with</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="2750" end_char="2756">friends</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="2758" end_char="2760">and</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="2762" end_char="2767">family</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="2769" end_char="2771">and</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="2773" end_char="2774">do</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="2776" end_char="2781">things</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="2783" end_char="2786">they</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="2788" end_char="2794">weren’t</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="2796" end_char="2799">able</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="2801" end_char="2802">to</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="2804" end_char="2805">do</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="2807" end_char="2812">during</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="2814" end_char="2821">lockdown</TOKEN>
+<TOKEN id="token-33-25" pos="punct" morph="none" start_char="2822" end_char="2822">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="2824" end_char="2917">
+<ORIGINAL_TEXT>However, just because the restrictions are lifting does not mean that the virus has gone away.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="2824" end_char="2830">However</TOKEN>
+<TOKEN id="token-34-1" pos="punct" morph="none" start_char="2831" end_char="2831">,</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="2833" end_char="2836">just</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="2838" end_char="2844">because</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="2846" end_char="2848">the</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="2850" end_char="2861">restrictions</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="2863" end_char="2865">are</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="2867" end_char="2873">lifting</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="2875" end_char="2878">does</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="2880" end_char="2882">not</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="2884" end_char="2887">mean</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="2889" end_char="2892">that</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="2894" end_char="2896">the</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="2898" end_char="2902">virus</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="2904" end_char="2906">has</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="2908" end_char="2911">gone</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="2913" end_char="2916">away</TOKEN>
+<TOKEN id="token-34-17" pos="punct" morph="none" start_char="2917" end_char="2917">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="2919" end_char="3106">
+<ORIGINAL_TEXT>This is why it’s necessary to continue to follow guidelines around social distancing, washing your hands, wearing face masks, and avoiding close contact with people outside your household.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="2919" end_char="2922">This</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="2924" end_char="2925">is</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="2927" end_char="2929">why</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="2931" end_char="2934">it’s</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="2936" end_char="2944">necessary</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="2946" end_char="2947">to</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="2949" end_char="2956">continue</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="2958" end_char="2959">to</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="2961" end_char="2966">follow</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="2968" end_char="2977">guidelines</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="2979" end_char="2984">around</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="2986" end_char="2991">social</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="2993" end_char="3002">distancing</TOKEN>
+<TOKEN id="token-35-13" pos="punct" morph="none" start_char="3003" end_char="3003">,</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="3005" end_char="3011">washing</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="3013" end_char="3016">your</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="3018" end_char="3022">hands</TOKEN>
+<TOKEN id="token-35-17" pos="punct" morph="none" start_char="3023" end_char="3023">,</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="3025" end_char="3031">wearing</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="3033" end_char="3036">face</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="3038" end_char="3042">masks</TOKEN>
+<TOKEN id="token-35-21" pos="punct" morph="none" start_char="3043" end_char="3043">,</TOKEN>
+<TOKEN id="token-35-22" pos="word" morph="none" start_char="3045" end_char="3047">and</TOKEN>
+<TOKEN id="token-35-23" pos="word" morph="none" start_char="3049" end_char="3056">avoiding</TOKEN>
+<TOKEN id="token-35-24" pos="word" morph="none" start_char="3058" end_char="3062">close</TOKEN>
+<TOKEN id="token-35-25" pos="word" morph="none" start_char="3064" end_char="3070">contact</TOKEN>
+<TOKEN id="token-35-26" pos="word" morph="none" start_char="3072" end_char="3075">with</TOKEN>
+<TOKEN id="token-35-27" pos="word" morph="none" start_char="3077" end_char="3082">people</TOKEN>
+<TOKEN id="token-35-28" pos="word" morph="none" start_char="3084" end_char="3090">outside</TOKEN>
+<TOKEN id="token-35-29" pos="word" morph="none" start_char="3092" end_char="3095">your</TOKEN>
+<TOKEN id="token-35-30" pos="word" morph="none" start_char="3097" end_char="3105">household</TOKEN>
+<TOKEN id="token-35-31" pos="punct" morph="none" start_char="3106" end_char="3106">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3109" end_char="3162">
+<ORIGINAL_TEXT>You may be feeling nervous about restrictions lifting.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3109" end_char="3111">You</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3113" end_char="3115">may</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3117" end_char="3118">be</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3120" end_char="3126">feeling</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3128" end_char="3134">nervous</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3136" end_char="3140">about</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3142" end_char="3153">restrictions</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="3155" end_char="3161">lifting</TOKEN>
+<TOKEN id="token-36-8" pos="punct" morph="none" start_char="3162" end_char="3162">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3164" end_char="3235">
+<ORIGINAL_TEXT>Here are some things you can do to stay safe as we come out of lockdown.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="3164" end_char="3167">Here</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3169" end_char="3171">are</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3173" end_char="3176">some</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3178" end_char="3183">things</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="3185" end_char="3187">you</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="3189" end_char="3191">can</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="3193" end_char="3194">do</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="3196" end_char="3197">to</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="3199" end_char="3202">stay</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="3204" end_char="3207">safe</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="3209" end_char="3210">as</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="3212" end_char="3213">we</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="3215" end_char="3218">come</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="3220" end_char="3222">out</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="3224" end_char="3225">of</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="3227" end_char="3234">lockdown</TOKEN>
+<TOKEN id="token-37-16" pos="punct" morph="none" start_char="3235" end_char="3235">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3238" end_char="3294">
+<ORIGINAL_TEXT>Feeling overwhelmed or want to talk to someone right now?</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3238" end_char="3244">Feeling</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="3246" end_char="3256">overwhelmed</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3258" end_char="3259">or</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3261" end_char="3264">want</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3266" end_char="3267">to</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3269" end_char="3272">talk</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3274" end_char="3275">to</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3277" end_char="3283">someone</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3285" end_char="3289">right</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3291" end_char="3293">now</TOKEN>
+<TOKEN id="token-38-10" pos="punct" morph="none" start_char="3294" end_char="3294">?</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3298" end_char="3361">
+<ORIGINAL_TEXT>Get anonymous support 24/7 with our text message support service</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="3298" end_char="3300">Get</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3302" end_char="3310">anonymous</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="3312" end_char="3318">support</TOKEN>
+<TOKEN id="token-39-3" pos="unknown" morph="none" start_char="3320" end_char="3323">24/7</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3325" end_char="3328">with</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="3330" end_char="3332">our</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3334" end_char="3337">text</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3339" end_char="3345">message</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="3347" end_char="3353">support</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3355" end_char="3361">service</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3364" end_char="3463">
+<ORIGINAL_TEXT>Connect with a trained volunteer who will listen to you, and help you to move forward feeling better</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3364" end_char="3370">Connect</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="3372" end_char="3375">with</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="3377" end_char="3377">a</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="3379" end_char="3385">trained</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="3387" end_char="3395">volunteer</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="3397" end_char="3399">who</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="3401" end_char="3404">will</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="3406" end_char="3411">listen</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="3413" end_char="3414">to</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="3416" end_char="3418">you</TOKEN>
+<TOKEN id="token-40-10" pos="punct" morph="none" start_char="3419" end_char="3419">,</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="3421" end_char="3423">and</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="3425" end_char="3428">help</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="3430" end_char="3432">you</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="3434" end_char="3435">to</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="3437" end_char="3440">move</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="3442" end_char="3448">forward</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="3450" end_char="3456">feeling</TOKEN>
+<TOKEN id="token-40-18" pos="word" morph="none" start_char="3458" end_char="3463">better</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3466" end_char="3500">
+<ORIGINAL_TEXT>Free Text SPUNOUT to 50808 to begin</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3466" end_char="3469">Free</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3471" end_char="3474">Text</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3476" end_char="3482">SPUNOUT</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3484" end_char="3485">to</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3487" end_char="3491">50808</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="3493" end_char="3494">to</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="3496" end_char="3500">begin</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

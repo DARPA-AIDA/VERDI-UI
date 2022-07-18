@@ -1,0 +1,11 @@
+prefix auicq: <https://www.caci.com/aida-ui/claimquery#>
+
+INSERT DATA
+{
+  GRAPH <https://www.caci.com/aida-ui/claimquery/language> {
+        <https://www.caci.com/aida-ui/claimquery/language/{$language}> auicq:language "{$language}" ;
+  }
+}
+;
+
+

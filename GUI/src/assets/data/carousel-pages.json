@@ -1,0 +1,38 @@
+{
+  "pages": [
+    {
+      "title": "AIDA",
+      "description": "A multi-claim semantic engine that generates explicit alternative interpretations of events, situations, or trends from a variety of unstructured sources, by mapping structured knowledge into a common semantic space, for use in an environment where there are noisy, conflicting, and potentially deceptive information.",
+      "backgroundClass": "main-background",
+      "titleClass" : "carousel-main"
+    },
+    {
+      "title": "Claims",
+      "description": "Analyze claim frames and explore the links to relations, events and/or entities.",
+      "backgroundClass": "analyze-background",
+      "titleClass" : "carousel-title",
+      "linkType": "internal",
+      "link": "/claims",
+      "linkText": "VIEW CLAIM FRAMES"
+    },
+    {
+      "title": "Graph Data",
+      "description": "Create, delete, and rename graphs in the triplestore. Also, create and delete cached TA2 and TA3 data",
+      "backgroundClass": "explore-background",
+      "titleClass" : "carousel-title",
+      "linkType": "internal",
+      "link": "/settings/graphs",
+      "linkText": "MANAGE GRAPHS"
+    },
+    {
+      "title": "Provenance",
+      "description": "Search and view the source documents that support the TA3 Claims",
+      "backgroundClass": "discover-background",
+      "titleClass" : "carousel-title",
+      "linkType": "external",
+      "link": "https://blackbox.verdi.nextcentury.com/",
+      "linkText": "SEARCH SOURCE DOCUMENTS"
+    }
+  ]
+}
+

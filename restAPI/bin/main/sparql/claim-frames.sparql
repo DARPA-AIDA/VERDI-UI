@@ -1,0 +1,25 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?claimURI ?claimId ?topic ?subtopic ?claimTemplate ?queryId ?description ?claimer ?claimerKE ?locationName ?importance (GROUP_CONCAT(DISTINCT ?xVariableURI;SEPARATOR=",") as ?xVariable)
+
+{$from}
+
+where {
+  ?claimURI a aida:Claim ;
+      aida:claimId ?claimId ;
+      aida:topic ?topic ;
+      aida:subtopic ?subtopic ;
+      aida:claimTemplate ?claimTemplate ;
+      aida:queryId ?queryId ;
+      aida:naturalLanguageDescription ?description ;
+      aida:xVariable ?xVariableURI ;
+      aida:claimer / aida:componentName ?claimer ;
+      aida:claimer / aida:componentKE ?claimerKE ;
+      aida:claimLocation / aida:componentName ?locationName ;
+      aida:importance ?importance .
+
+  {$topicFilter}
+  {$subTopicFilter}
+}
+group by ?claimURI ?claimId ?topic ?subtopic ?claimTemplate ?queryId ?description ?claimer ?claimerKE ?locationName ?importance

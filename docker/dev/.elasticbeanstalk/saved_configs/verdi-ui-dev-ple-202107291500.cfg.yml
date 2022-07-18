@@ -1,0 +1,128 @@
+EnvironmentConfigurationMetadata:
+  DateCreated: '1627574425000'
+  DateModified: '1627574425000'
+Platform:
+  PlatformArn: arn:aws:elasticbeanstalk:us-east-1::platform/Docker running on 64bit Amazon Linux 2
+OptionSettings:
+  aws:ec2:vpc:
+    Subnets: subnet-646c104b,subnet-3ecbce75,subnet-8b9eb1ef,subnet-003efa0f,subnet-3e004501,subnet-29037374
+    ELBSubnets: subnet-646c104b,subnet-3ecbce75,subnet-8b9eb1ef,subnet-003efa0f,subnet-3e004501,subnet-29037374
+  aws:autoscaling:asg:
+    MinSize: '1'
+    MaxSize: '1'
+  aws:elasticbeanstalk:managedactions:
+    ManagedActionsEnabled: true
+    PreferredStartTime: Fri:16:00
+  aws:elasticbeanstalk:managedactions:platformupdate:
+    UpdateLevel: minor
+  aws:elasticbeanstalk:environment:process:restapi:
+    StickinessLBCookieDuration: '86400'
+    DeregistrationDelay: '20'
+    StickinessType: lb_cookie
+    HealthCheckInterval: '15'
+    MatcherHTTPCode: '200'
+    HealthyThresholdCount: '3'
+    Port: '8008'
+    HealthCheckPath: /api/
+    StickinessEnabled: false
+    UnhealthyThresholdCount: '5'
+    HealthCheckTimeout: '5'
+  aws:ec2:instances:
+    InstanceTypes: t2.medium
+  aws:elbv2:listener:9200:
+    ListenerEnabled: true
+    SSLCertificateArns: arn:aws:acm:us-east-1:606941321404:certificate/6ec84e69-5b7c-4d28-bf73-dfe91e2e7fb2
+    DefaultProcess: ElasticSearch
+    Protocol: HTTPS
+    Rules: ''
+  aws:elasticbeanstalk:environment:process:ElasticSearch:
+    DeregistrationDelay: '20'
+    StickinessLBCookieDuration: '86400'
+    HealthCheckInterval: '15'
+    StickinessType: lb_cookie
+    MatcherHTTPCode: '200'
+    HealthyThresholdCount: '3'
+    Port: '9200'
+    HealthCheckPath: /
+    StickinessEnabled: false
+    UnhealthyThresholdCount: '5'
+    HealthCheckTimeout: '5'
+    Protocol: HTTP
+  aws:elasticbeanstalk:environment:
+    ServiceRole: arn:aws:iam::606941321404:role/aws-elasticbeanstalk-service-role
+    LoadBalancerType: application
+  aws:elasticbeanstalk:healthreporting:system:
+    ConfigDocument:
+      Version: 1
+      CloudWatchMetrics:
+        Instance:
+          RootFilesystemUtil: null
+          CPUIrq: null
+          LoadAverage5min: null
+          ApplicationRequests5xx: null
+          ApplicationRequests4xx: null
+          CPUUser: null
+          LoadAverage1min: null
+          ApplicationLatencyP50: null
+          CPUIdle: null
+          InstanceHealth: null
+          ApplicationLatencyP95: null
+          ApplicationLatencyP85: null
+          ApplicationLatencyP90: null
+          CPUSystem: null
+          ApplicationLatencyP75: null
+          CPUSoftirq: null
+          ApplicationLatencyP10: null
+          ApplicationLatencyP99: null
+          ApplicationRequestsTotal: null
+          ApplicationLatencyP99.9: null
+          ApplicationRequests3xx: null
+          ApplicationRequests2xx: null
+          CPUIowait: null
+          CPUNice: null
+        Environment:
+          InstancesSevere: null
+          InstancesDegraded: null
+          ApplicationRequests5xx: null
+          ApplicationRequests4xx: null
+          ApplicationLatencyP50: null
+          ApplicationLatencyP95: null
+          ApplicationLatencyP85: null
+          InstancesUnknown: null
+          ApplicationLatencyP90: null
+          InstancesInfo: null
+          InstancesPending: null
+          ApplicationLatencyP75: null
+          ApplicationLatencyP10: null
+          ApplicationLatencyP99: null
+          ApplicationRequestsTotal: null
+          InstancesNoData: null
+          ApplicationLatencyP99.9: null
+          ApplicationRequests3xx: null
+          ApplicationRequests2xx: null
+          InstancesOk: null
+          InstancesWarning: null
+      Rules:
+        Environment:
+          ELB:
+            ELBRequests4xx:
+              Enabled: true
+          Application:
+            ApplicationRequests4xx:
+              Enabled: true
+    SystemType: enhanced
+  AWSEBLoadBalancerSecurityGroup.aws:ec2:vpc:
+    VPCId: vpc-ddec0da6
+  aws:autoscaling:launchconfiguration:
+    SecurityGroups:
+    - sg-0c12031b0ab9a6a99
+    - sg-0a9163ac720f575fb
+    - sg-014e1ec4a52d34f82
+    IamInstanceProfile: aws-elasticbeanstalk-ec2-role
+    EC2KeyName: AIDA-All
+  restapi.aws:elasticbeanstalk:environment:process:restapi:
+    Protocol: HTTP
+EnvironmentTier:
+  Type: Standard
+  Name: WebServer
+AWSConfigurationTemplateVersion: 1.1.0.0

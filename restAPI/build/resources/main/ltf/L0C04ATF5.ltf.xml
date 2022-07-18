@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04ATF5" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3360" raw_text_md5="a9ffca32e7e02e4c9ac35e05dc8f16fb">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="27">
+<ORIGINAL_TEXT>Coronavirus is like the flu</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="11">Coronavirus</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="13" end_char="14">is</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="16" end_char="19">like</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="21" end_char="23">the</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="25" end_char="27">flu</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="32" end_char="150">
+<ORIGINAL_TEXT>COVID-19 is a distinct pandemic virus, different from the flu even though both respiratory illnesses share similarities</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="32" end_char="39">COVID-19</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="41" end_char="42">is</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="44" end_char="44">a</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="46" end_char="53">distinct</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="55" end_char="62">pandemic</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="64" end_char="68">virus</TOKEN>
+<TOKEN id="token-1-6" pos="punct" morph="none" start_char="69" end_char="69">,</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="71" end_char="79">different</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="81" end_char="84">from</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="86" end_char="88">the</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="90" end_char="92">flu</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="94" end_char="97">even</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="99" end_char="104">though</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="106" end_char="109">both</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="111" end_char="121">respiratory</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="123" end_char="131">illnesses</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="133" end_char="137">share</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="139" end_char="150">similarities</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="153" end_char="245">
+<ORIGINAL_TEXT>Since the new Coronavirus was first discovered in January, it has been compared with the flu.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="153" end_char="157">Since</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="159" end_char="161">the</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="163" end_char="165">new</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="167" end_char="177">Coronavirus</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="179" end_char="181">was</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="183" end_char="187">first</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="189" end_char="198">discovered</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="200" end_char="201">in</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="203" end_char="209">January</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="210" end_char="210">,</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="212" end_char="213">it</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="215" end_char="217">has</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="219" end_char="222">been</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="224" end_char="231">compared</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="233" end_char="236">with</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="238" end_char="240">the</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="242" end_char="244">flu</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="245" end_char="245">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="247" end_char="298">
+<ORIGINAL_TEXT>Both COVID-19 and the flu are respiratory illnesses.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="247" end_char="250">Both</TOKEN>
+<TOKEN id="token-3-1" pos="unknown" morph="none" start_char="252" end_char="259">COVID-19</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="261" end_char="263">and</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="265" end_char="267">the</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="269" end_char="271">flu</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="273" end_char="275">are</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="277" end_char="287">respiratory</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="289" end_char="297">illnesses</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="298" end_char="298">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="300" end_char="339">
+<ORIGINAL_TEXT>But COVID-19 is not the same as the flu.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="300" end_char="302">But</TOKEN>
+<TOKEN id="token-4-1" pos="unknown" morph="none" start_char="304" end_char="311">COVID-19</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="313" end_char="314">is</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="316" end_char="318">not</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="320" end_char="322">the</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="324" end_char="327">same</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="329" end_char="330">as</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="332" end_char="334">the</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="336" end_char="338">flu</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="339" end_char="339">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="341" end_char="441">
+<ORIGINAL_TEXT>Research so far indicates that COVID-19 spreads more easily and has a higher death rate than the flu.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="341" end_char="348">Research</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="350" end_char="351">so</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="353" end_char="355">far</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="357" end_char="365">indicates</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="367" end_char="370">that</TOKEN>
+<TOKEN id="token-5-5" pos="unknown" morph="none" start_char="372" end_char="379">COVID-19</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="381" end_char="387">spreads</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="389" end_char="392">more</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="394" end_char="399">easily</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="401" end_char="403">and</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="405" end_char="407">has</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="409" end_char="409">a</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="411" end_char="416">higher</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="418" end_char="422">death</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="424" end_char="427">rate</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="429" end_char="432">than</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="434" end_char="436">the</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="438" end_char="440">flu</TOKEN>
+<TOKEN id="token-5-18" pos="punct" morph="none" start_char="441" end_char="441">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="443" end_char="573">
+<ORIGINAL_TEXT>Both seasonal flu viruses (influenza A and influenza B viruses) and COVID-19 are contagious viruses that cause respiratory illness.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="443" end_char="446">Both</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="448" end_char="455">seasonal</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="457" end_char="459">flu</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="461" end_char="467">viruses</TOKEN>
+<TOKEN id="token-6-4" pos="punct" morph="none" start_char="469" end_char="469">(</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="470" end_char="478">influenza</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="480" end_char="480">A</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="482" end_char="484">and</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="486" end_char="494">influenza</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="496" end_char="496">B</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="498" end_char="504">viruses</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="505" end_char="505">)</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="507" end_char="509">and</TOKEN>
+<TOKEN id="token-6-13" pos="unknown" morph="none" start_char="511" end_char="518">COVID-19</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="520" end_char="522">are</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="524" end_char="533">contagious</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="535" end_char="541">viruses</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="543" end_char="546">that</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="548" end_char="552">cause</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="554" end_char="564">respiratory</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="566" end_char="572">illness</TOKEN>
+<TOKEN id="token-6-21" pos="punct" morph="none" start_char="573" end_char="573">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="575" end_char="679">
+<ORIGINAL_TEXT>Influenza (Flu) and COVID-19 are both contagious respiratory illnesses, but different viruses cause them.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="575" end_char="583">Influenza</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="585" end_char="585">(</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="586" end_char="588">Flu</TOKEN>
+<TOKEN id="token-7-3" pos="punct" morph="none" start_char="589" end_char="589">)</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="591" end_char="593">and</TOKEN>
+<TOKEN id="token-7-5" pos="unknown" morph="none" start_char="595" end_char="602">COVID-19</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="604" end_char="606">are</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="608" end_char="611">both</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="613" end_char="622">contagious</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="624" end_char="634">respiratory</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="636" end_char="644">illnesses</TOKEN>
+<TOKEN id="token-7-11" pos="punct" morph="none" start_char="645" end_char="645">,</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="647" end_char="649">but</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="651" end_char="659">different</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="661" end_char="667">viruses</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="669" end_char="673">cause</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="675" end_char="678">them</TOKEN>
+<TOKEN id="token-7-17" pos="punct" morph="none" start_char="679" end_char="679">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="681" end_char="810">
+<ORIGINAL_TEXT>COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2), and flu is caused by infection with influenza viruses.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="681" end_char="688">COVID-19</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="690" end_char="691">is</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="693" end_char="698">caused</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="700" end_char="701">by</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="703" end_char="711">infection</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="713" end_char="716">with</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="718" end_char="718">a</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="720" end_char="722">new</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="724" end_char="734">coronavirus</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="736" end_char="736">(</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="737" end_char="742">called</TOKEN>
+<TOKEN id="token-8-11" pos="unknown" morph="none" start_char="744" end_char="753">SARS-CoV-2</TOKEN>
+<TOKEN id="token-8-12" pos="punct" morph="none" start_char="754" end_char="755">),</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="757" end_char="759">and</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="761" end_char="763">flu</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="765" end_char="766">is</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="768" end_char="773">caused</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="775" end_char="776">by</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="778" end_char="786">infection</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="788" end_char="791">with</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="793" end_char="801">influenza</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="803" end_char="809">viruses</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="810" end_char="810">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="812" end_char="1003">
+<ORIGINAL_TEXT>Because some of the symptoms of flu and COVID-19 are similar, it may be hard to tell the difference between them based on symptoms alone, and testing may be needed to help confirm a diagnosis.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="812" end_char="818">Because</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="820" end_char="823">some</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="825" end_char="826">of</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="828" end_char="830">the</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="832" end_char="839">symptoms</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="841" end_char="842">of</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="844" end_char="846">flu</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="848" end_char="850">and</TOKEN>
+<TOKEN id="token-9-8" pos="unknown" morph="none" start_char="852" end_char="859">COVID-19</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="861" end_char="863">are</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="865" end_char="871">similar</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="872" end_char="872">,</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="874" end_char="875">it</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="877" end_char="879">may</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="881" end_char="882">be</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="884" end_char="887">hard</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="889" end_char="890">to</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="892" end_char="895">tell</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="897" end_char="899">the</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="901" end_char="910">difference</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="912" end_char="918">between</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="920" end_char="923">them</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="925" end_char="929">based</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="931" end_char="932">on</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="934" end_char="941">symptoms</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="943" end_char="947">alone</TOKEN>
+<TOKEN id="token-9-26" pos="punct" morph="none" start_char="948" end_char="948">,</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="950" end_char="952">and</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="954" end_char="960">testing</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="962" end_char="964">may</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="966" end_char="967">be</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="969" end_char="974">needed</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="976" end_char="977">to</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="979" end_char="982">help</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="984" end_char="990">confirm</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="992" end_char="992">a</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="994" end_char="1002">diagnosis</TOKEN>
+<TOKEN id="token-9-37" pos="punct" morph="none" start_char="1003" end_char="1003">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1006" end_char="1177">
+<ORIGINAL_TEXT>According to the CDC, typical flu symptoms include fever, cough, sore throat, muscle aches, headaches, runny or stuffy nose, fatigue, and, sometimes, vomiting and diarrhea.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1006" end_char="1014">According</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1016" end_char="1017">to</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1019" end_char="1021">the</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1023" end_char="1025">CDC</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="1026" end_char="1026">,</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1028" end_char="1034">typical</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1036" end_char="1038">flu</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1040" end_char="1047">symptoms</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1049" end_char="1055">include</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1057" end_char="1061">fever</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="1062" end_char="1062">,</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1064" end_char="1068">cough</TOKEN>
+<TOKEN id="token-10-12" pos="punct" morph="none" start_char="1069" end_char="1069">,</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1071" end_char="1074">sore</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1076" end_char="1081">throat</TOKEN>
+<TOKEN id="token-10-15" pos="punct" morph="none" start_char="1082" end_char="1082">,</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1084" end_char="1089">muscle</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1091" end_char="1095">aches</TOKEN>
+<TOKEN id="token-10-18" pos="punct" morph="none" start_char="1096" end_char="1096">,</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1098" end_char="1106">headaches</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1107" end_char="1107">,</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1109" end_char="1113">runny</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1115" end_char="1116">or</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1118" end_char="1123">stuffy</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1125" end_char="1128">nose</TOKEN>
+<TOKEN id="token-10-25" pos="punct" morph="none" start_char="1129" end_char="1129">,</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1131" end_char="1137">fatigue</TOKEN>
+<TOKEN id="token-10-27" pos="punct" morph="none" start_char="1138" end_char="1138">,</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1140" end_char="1142">and</TOKEN>
+<TOKEN id="token-10-29" pos="punct" morph="none" start_char="1143" end_char="1143">,</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="1145" end_char="1153">sometimes</TOKEN>
+<TOKEN id="token-10-31" pos="punct" morph="none" start_char="1154" end_char="1154">,</TOKEN>
+<TOKEN id="token-10-32" pos="word" morph="none" start_char="1156" end_char="1163">vomiting</TOKEN>
+<TOKEN id="token-10-33" pos="word" morph="none" start_char="1165" end_char="1167">and</TOKEN>
+<TOKEN id="token-10-34" pos="word" morph="none" start_char="1169" end_char="1176">diarrhea</TOKEN>
+<TOKEN id="token-10-35" pos="punct" morph="none" start_char="1177" end_char="1177">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1179" end_char="1269">
+<ORIGINAL_TEXT>The full breadth and severity of symptoms are still being understood for COVID-19 symptoms.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1179" end_char="1181">The</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1183" end_char="1186">full</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1188" end_char="1194">breadth</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1196" end_char="1198">and</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1200" end_char="1207">severity</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1209" end_char="1210">of</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1212" end_char="1219">symptoms</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1221" end_char="1223">are</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1225" end_char="1229">still</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1231" end_char="1235">being</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1237" end_char="1246">understood</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1248" end_char="1250">for</TOKEN>
+<TOKEN id="token-11-12" pos="unknown" morph="none" start_char="1252" end_char="1259">COVID-19</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1261" end_char="1268">symptoms</TOKEN>
+<TOKEN id="token-11-14" pos="punct" morph="none" start_char="1269" end_char="1269">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1271" end_char="1484">
+<ORIGINAL_TEXT>It's important to note that, because respiratory viruses cause similar symptoms, it can be difficult to distinguish different respiratory viruses based on symptoms alone, according to the World Health Organization.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1271" end_char="1274">It's</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1276" end_char="1284">important</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1286" end_char="1287">to</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1289" end_char="1292">note</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1294" end_char="1297">that</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="1298" end_char="1298">,</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1300" end_char="1306">because</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1308" end_char="1318">respiratory</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1320" end_char="1326">viruses</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1328" end_char="1332">cause</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1334" end_char="1340">similar</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1342" end_char="1349">symptoms</TOKEN>
+<TOKEN id="token-12-12" pos="punct" morph="none" start_char="1350" end_char="1350">,</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1352" end_char="1353">it</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1355" end_char="1357">can</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1359" end_char="1360">be</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1362" end_char="1370">difficult</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1372" end_char="1373">to</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1375" end_char="1385">distinguish</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1387" end_char="1395">different</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1397" end_char="1407">respiratory</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1409" end_char="1415">viruses</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1417" end_char="1421">based</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1423" end_char="1424">on</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1426" end_char="1433">symptoms</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1435" end_char="1439">alone</TOKEN>
+<TOKEN id="token-12-26" pos="punct" morph="none" start_char="1440" end_char="1440">,</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1442" end_char="1450">according</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1452" end_char="1453">to</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="1455" end_char="1457">the</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1459" end_char="1463">World</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1465" end_char="1470">Health</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="1472" end_char="1483">Organization</TOKEN>
+<TOKEN id="token-12-33" pos="punct" morph="none" start_char="1484" end_char="1484">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1486" end_char="1583">
+<ORIGINAL_TEXT>COVID-19 symptoms appear to come on more gradually than those of the flu, according to Healthline.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="1486" end_char="1493">COVID-19</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1495" end_char="1502">symptoms</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1504" end_char="1509">appear</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1511" end_char="1512">to</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1514" end_char="1517">come</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1519" end_char="1520">on</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1522" end_char="1525">more</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1527" end_char="1535">gradually</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1537" end_char="1540">than</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1542" end_char="1546">those</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1548" end_char="1549">of</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1551" end_char="1553">the</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1555" end_char="1557">flu</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="1558" end_char="1558">,</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1560" end_char="1568">according</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1570" end_char="1571">to</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1573" end_char="1582">Healthline</TOKEN>
+<TOKEN id="token-13-17" pos="punct" morph="none" start_char="1583" end_char="1583">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1585" end_char="1756">
+<ORIGINAL_TEXT>Children are a high-risk group for complications from flu, but this doesn't seem to be the case for COVID-19 — few children have been hospitalized with the new Coronavirus.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1585" end_char="1592">Children</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1594" end_char="1596">are</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1598" end_char="1598">a</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="1600" end_char="1608">high-risk</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1610" end_char="1614">group</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1616" end_char="1618">for</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1620" end_char="1632">complications</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1634" end_char="1637">from</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1639" end_char="1641">flu</TOKEN>
+<TOKEN id="token-14-9" pos="punct" morph="none" start_char="1642" end_char="1642">,</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1644" end_char="1646">but</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1648" end_char="1651">this</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1653" end_char="1659">doesn't</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1661" end_char="1664">seem</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1666" end_char="1667">to</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1669" end_char="1670">be</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1672" end_char="1674">the</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1676" end_char="1679">case</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1681" end_char="1683">for</TOKEN>
+<TOKEN id="token-14-19" pos="unknown" morph="none" start_char="1685" end_char="1692">COVID-19</TOKEN>
+<TOKEN id="token-14-20" pos="punct" morph="none" start_char="1694" end_char="1694">—</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1696" end_char="1698">few</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1700" end_char="1707">children</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1709" end_char="1712">have</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1714" end_char="1717">been</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1719" end_char="1730">hospitalized</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1732" end_char="1735">with</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="1737" end_char="1739">the</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="1741" end_char="1743">new</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="1745" end_char="1755">Coronavirus</TOKEN>
+<TOKEN id="token-14-30" pos="punct" morph="none" start_char="1756" end_char="1756">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1758" end_char="1905">
+<ORIGINAL_TEXT>But recently, COVID-19 has been linked to a severe, but rare inflammatory syndrome in children called a pediatric multisystem inflammatory syndrome.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1758" end_char="1760">But</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1762" end_char="1769">recently</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="1770" end_char="1770">,</TOKEN>
+<TOKEN id="token-15-3" pos="unknown" morph="none" start_char="1772" end_char="1779">COVID-19</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1781" end_char="1783">has</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1785" end_char="1788">been</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1790" end_char="1795">linked</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1797" end_char="1798">to</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1800" end_char="1800">a</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1802" end_char="1807">severe</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="1808" end_char="1808">,</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1810" end_char="1812">but</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1814" end_char="1817">rare</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1819" end_char="1830">inflammatory</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1832" end_char="1839">syndrome</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1841" end_char="1842">in</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1844" end_char="1851">children</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1853" end_char="1858">called</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1860" end_char="1860">a</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1862" end_char="1870">pediatric</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1872" end_char="1882">multisystem</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1884" end_char="1895">inflammatory</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1897" end_char="1904">syndrome</TOKEN>
+<TOKEN id="token-15-23" pos="punct" morph="none" start_char="1905" end_char="1905">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1907" end_char="2092">
+<ORIGINAL_TEXT>The death rate from seasonal flu is typically around 0.1% in the U.S., while the death rate from COVID-19, which varies by age, location, and underlying health conditions, is far higher.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1907" end_char="1909">The</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1911" end_char="1915">death</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1917" end_char="1920">rate</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1922" end_char="1925">from</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1927" end_char="1934">seasonal</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1936" end_char="1938">flu</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1940" end_char="1941">is</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1943" end_char="1951">typically</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1953" end_char="1958">around</TOKEN>
+<TOKEN id="token-16-9" pos="unknown" morph="none" start_char="1960" end_char="1962">0.1</TOKEN>
+<TOKEN id="token-16-10" pos="punct" morph="none" start_char="1963" end_char="1963">%</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1965" end_char="1966">in</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1968" end_char="1970">the</TOKEN>
+<TOKEN id="token-16-13" pos="unknown" morph="none" start_char="1972" end_char="1974">U.S</TOKEN>
+<TOKEN id="token-16-14" pos="punct" morph="none" start_char="1975" end_char="1976">.,</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1978" end_char="1982">while</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1984" end_char="1986">the</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1988" end_char="1992">death</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1994" end_char="1997">rate</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1999" end_char="2002">from</TOKEN>
+<TOKEN id="token-16-20" pos="unknown" morph="none" start_char="2004" end_char="2011">COVID-19</TOKEN>
+<TOKEN id="token-16-21" pos="punct" morph="none" start_char="2012" end_char="2012">,</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2014" end_char="2018">which</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2020" end_char="2025">varies</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2027" end_char="2028">by</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2030" end_char="2032">age</TOKEN>
+<TOKEN id="token-16-26" pos="punct" morph="none" start_char="2033" end_char="2033">,</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2035" end_char="2042">location</TOKEN>
+<TOKEN id="token-16-28" pos="punct" morph="none" start_char="2043" end_char="2043">,</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2045" end_char="2047">and</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2049" end_char="2058">underlying</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="2060" end_char="2065">health</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="2067" end_char="2076">conditions</TOKEN>
+<TOKEN id="token-16-33" pos="punct" morph="none" start_char="2077" end_char="2077">,</TOKEN>
+<TOKEN id="token-16-34" pos="word" morph="none" start_char="2079" end_char="2080">is</TOKEN>
+<TOKEN id="token-16-35" pos="word" morph="none" start_char="2082" end_char="2084">far</TOKEN>
+<TOKEN id="token-16-36" pos="word" morph="none" start_char="2086" end_char="2091">higher</TOKEN>
+<TOKEN id="token-16-37" pos="punct" morph="none" start_char="2092" end_char="2092">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2095" end_char="2216">
+<ORIGINAL_TEXT>What's more, unlike the flu, for which there are multiple FDA-approved vaccines, there are none for Coronavirus as of now.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2095" end_char="2100">What's</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2102" end_char="2105">more</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="2106" end_char="2106">,</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2108" end_char="2113">unlike</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2115" end_char="2117">the</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2119" end_char="2121">flu</TOKEN>
+<TOKEN id="token-17-6" pos="punct" morph="none" start_char="2122" end_char="2122">,</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2124" end_char="2126">for</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2128" end_char="2132">which</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2134" end_char="2138">there</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2140" end_char="2142">are</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2144" end_char="2151">multiple</TOKEN>
+<TOKEN id="token-17-12" pos="unknown" morph="none" start_char="2153" end_char="2164">FDA-approved</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2166" end_char="2173">vaccines</TOKEN>
+<TOKEN id="token-17-14" pos="punct" morph="none" start_char="2174" end_char="2174">,</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2176" end_char="2180">there</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2182" end_char="2184">are</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2186" end_char="2189">none</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2191" end_char="2193">for</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2195" end_char="2205">Coronavirus</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2207" end_char="2208">as</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2210" end_char="2211">of</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2213" end_char="2215">now</TOKEN>
+<TOKEN id="token-17-23" pos="punct" morph="none" start_char="2216" end_char="2216">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2218" end_char="2462">
+<ORIGINAL_TEXT>Prescription influenza antiviral drugs are FDA-approved to treat flu, whereas, National Institutes of Health (NIH) has developed guidance on the treatment of COVID-19, which will be regularly updated as new evidence on treatment options emerges.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2218" end_char="2229">Prescription</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2231" end_char="2239">influenza</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2241" end_char="2249">antiviral</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2251" end_char="2255">drugs</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2257" end_char="2259">are</TOKEN>
+<TOKEN id="token-18-5" pos="unknown" morph="none" start_char="2261" end_char="2272">FDA-approved</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2274" end_char="2275">to</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2277" end_char="2281">treat</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2283" end_char="2285">flu</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="2286" end_char="2286">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2288" end_char="2294">whereas</TOKEN>
+<TOKEN id="token-18-11" pos="punct" morph="none" start_char="2295" end_char="2295">,</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2297" end_char="2304">National</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2306" end_char="2315">Institutes</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2317" end_char="2318">of</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2320" end_char="2325">Health</TOKEN>
+<TOKEN id="token-18-16" pos="punct" morph="none" start_char="2327" end_char="2327">(</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2328" end_char="2330">NIH</TOKEN>
+<TOKEN id="token-18-18" pos="punct" morph="none" start_char="2331" end_char="2331">)</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2333" end_char="2335">has</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2337" end_char="2345">developed</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2347" end_char="2354">guidance</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2356" end_char="2357">on</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2359" end_char="2361">the</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2363" end_char="2371">treatment</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2373" end_char="2374">of</TOKEN>
+<TOKEN id="token-18-26" pos="unknown" morph="none" start_char="2376" end_char="2383">COVID-19</TOKEN>
+<TOKEN id="token-18-27" pos="punct" morph="none" start_char="2384" end_char="2384">,</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="2386" end_char="2390">which</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2392" end_char="2395">will</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2397" end_char="2398">be</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2400" end_char="2408">regularly</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2410" end_char="2416">updated</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="2418" end_char="2419">as</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2421" end_char="2423">new</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2425" end_char="2432">evidence</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="2434" end_char="2435">on</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="2437" end_char="2445">treatment</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="2447" end_char="2453">options</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="2455" end_char="2461">emerges</TOKEN>
+<TOKEN id="token-18-40" pos="punct" morph="none" start_char="2462" end_char="2462">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2464" end_char="2543">
+<ORIGINAL_TEXT>The virus transmission rate is higher by 2-3 points in COVID-19 than in the flu.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2464" end_char="2466">The</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2468" end_char="2472">virus</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2474" end_char="2485">transmission</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2487" end_char="2490">rate</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2492" end_char="2493">is</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2495" end_char="2500">higher</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2502" end_char="2503">by</TOKEN>
+<TOKEN id="token-19-7" pos="unknown" morph="none" start_char="2505" end_char="2507">2-3</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2509" end_char="2514">points</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2516" end_char="2517">in</TOKEN>
+<TOKEN id="token-19-10" pos="unknown" morph="none" start_char="2519" end_char="2526">COVID-19</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2528" end_char="2531">than</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2533" end_char="2534">in</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2536" end_char="2538">the</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2540" end_char="2542">flu</TOKEN>
+<TOKEN id="token-19-15" pos="punct" morph="none" start_char="2543" end_char="2543">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2545" end_char="2684">
+<ORIGINAL_TEXT>Seasonal flu, which causes outbreaks every year, should not be confused with pandemic flu as Coronavirus has been declared by the WHO to be.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2545" end_char="2552">Seasonal</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2554" end_char="2556">flu</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="2557" end_char="2557">,</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2559" end_char="2563">which</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2565" end_char="2570">causes</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2572" end_char="2580">outbreaks</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2582" end_char="2586">every</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2588" end_char="2591">year</TOKEN>
+<TOKEN id="token-20-8" pos="punct" morph="none" start_char="2592" end_char="2592">,</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2594" end_char="2599">should</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2601" end_char="2603">not</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2605" end_char="2606">be</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2608" end_char="2615">confused</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2617" end_char="2620">with</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2622" end_char="2629">pandemic</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2631" end_char="2633">flu</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2635" end_char="2636">as</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2638" end_char="2648">Coronavirus</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2650" end_char="2652">has</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2654" end_char="2657">been</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2659" end_char="2666">declared</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2668" end_char="2669">by</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2671" end_char="2673">the</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2675" end_char="2677">WHO</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="2679" end_char="2680">to</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="2682" end_char="2683">be</TOKEN>
+<TOKEN id="token-20-26" pos="punct" morph="none" start_char="2684" end_char="2684">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2686" end_char="3095">
+<ORIGINAL_TEXT>In general, the CDC recommends the following to prevent the spread of respiratory viruses, which include both coronaviruses and flu viruses: Wash your hands often with soap and water for at least 20 seconds; avoid touching your eyes, nose, and mouth with unwashed hands; avoid close contact with people who are sick; stay home when you are sick, and clean and disinfect frequently touched objects and surfaces.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2686" end_char="2687">In</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2689" end_char="2695">general</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="2696" end_char="2696">,</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2698" end_char="2700">the</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2702" end_char="2704">CDC</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2706" end_char="2715">recommends</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2717" end_char="2719">the</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2721" end_char="2729">following</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2731" end_char="2732">to</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2734" end_char="2740">prevent</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2742" end_char="2744">the</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2746" end_char="2751">spread</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2753" end_char="2754">of</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2756" end_char="2766">respiratory</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2768" end_char="2774">viruses</TOKEN>
+<TOKEN id="token-21-15" pos="punct" morph="none" start_char="2775" end_char="2775">,</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2777" end_char="2781">which</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2783" end_char="2789">include</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2791" end_char="2794">both</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2796" end_char="2808">coronaviruses</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2810" end_char="2812">and</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="2814" end_char="2816">flu</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="2818" end_char="2824">viruses</TOKEN>
+<TOKEN id="token-21-23" pos="punct" morph="none" start_char="2825" end_char="2825">:</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="2827" end_char="2830">Wash</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="2832" end_char="2835">your</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="2837" end_char="2841">hands</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="2843" end_char="2847">often</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="2849" end_char="2852">with</TOKEN>
+<TOKEN id="token-21-29" pos="word" morph="none" start_char="2854" end_char="2857">soap</TOKEN>
+<TOKEN id="token-21-30" pos="word" morph="none" start_char="2859" end_char="2861">and</TOKEN>
+<TOKEN id="token-21-31" pos="word" morph="none" start_char="2863" end_char="2867">water</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="2869" end_char="2871">for</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="2873" end_char="2874">at</TOKEN>
+<TOKEN id="token-21-34" pos="word" morph="none" start_char="2876" end_char="2880">least</TOKEN>
+<TOKEN id="token-21-35" pos="word" morph="none" start_char="2882" end_char="2883">20</TOKEN>
+<TOKEN id="token-21-36" pos="word" morph="none" start_char="2885" end_char="2891">seconds</TOKEN>
+<TOKEN id="token-21-37" pos="punct" morph="none" start_char="2892" end_char="2892">;</TOKEN>
+<TOKEN id="token-21-38" pos="word" morph="none" start_char="2894" end_char="2898">avoid</TOKEN>
+<TOKEN id="token-21-39" pos="word" morph="none" start_char="2900" end_char="2907">touching</TOKEN>
+<TOKEN id="token-21-40" pos="word" morph="none" start_char="2909" end_char="2912">your</TOKEN>
+<TOKEN id="token-21-41" pos="word" morph="none" start_char="2914" end_char="2917">eyes</TOKEN>
+<TOKEN id="token-21-42" pos="punct" morph="none" start_char="2918" end_char="2918">,</TOKEN>
+<TOKEN id="token-21-43" pos="word" morph="none" start_char="2920" end_char="2923">nose</TOKEN>
+<TOKEN id="token-21-44" pos="punct" morph="none" start_char="2924" end_char="2924">,</TOKEN>
+<TOKEN id="token-21-45" pos="word" morph="none" start_char="2926" end_char="2928">and</TOKEN>
+<TOKEN id="token-21-46" pos="word" morph="none" start_char="2930" end_char="2934">mouth</TOKEN>
+<TOKEN id="token-21-47" pos="word" morph="none" start_char="2936" end_char="2939">with</TOKEN>
+<TOKEN id="token-21-48" pos="word" morph="none" start_char="2941" end_char="2948">unwashed</TOKEN>
+<TOKEN id="token-21-49" pos="word" morph="none" start_char="2950" end_char="2954">hands</TOKEN>
+<TOKEN id="token-21-50" pos="punct" morph="none" start_char="2955" end_char="2955">;</TOKEN>
+<TOKEN id="token-21-51" pos="word" morph="none" start_char="2957" end_char="2961">avoid</TOKEN>
+<TOKEN id="token-21-52" pos="word" morph="none" start_char="2963" end_char="2967">close</TOKEN>
+<TOKEN id="token-21-53" pos="word" morph="none" start_char="2969" end_char="2975">contact</TOKEN>
+<TOKEN id="token-21-54" pos="word" morph="none" start_char="2977" end_char="2980">with</TOKEN>
+<TOKEN id="token-21-55" pos="word" morph="none" start_char="2982" end_char="2987">people</TOKEN>
+<TOKEN id="token-21-56" pos="word" morph="none" start_char="2989" end_char="2991">who</TOKEN>
+<TOKEN id="token-21-57" pos="word" morph="none" start_char="2993" end_char="2995">are</TOKEN>
+<TOKEN id="token-21-58" pos="word" morph="none" start_char="2997" end_char="3000">sick</TOKEN>
+<TOKEN id="token-21-59" pos="punct" morph="none" start_char="3001" end_char="3001">;</TOKEN>
+<TOKEN id="token-21-60" pos="word" morph="none" start_char="3003" end_char="3006">stay</TOKEN>
+<TOKEN id="token-21-61" pos="word" morph="none" start_char="3008" end_char="3011">home</TOKEN>
+<TOKEN id="token-21-62" pos="word" morph="none" start_char="3013" end_char="3016">when</TOKEN>
+<TOKEN id="token-21-63" pos="word" morph="none" start_char="3018" end_char="3020">you</TOKEN>
+<TOKEN id="token-21-64" pos="word" morph="none" start_char="3022" end_char="3024">are</TOKEN>
+<TOKEN id="token-21-65" pos="word" morph="none" start_char="3026" end_char="3029">sick</TOKEN>
+<TOKEN id="token-21-66" pos="punct" morph="none" start_char="3030" end_char="3030">,</TOKEN>
+<TOKEN id="token-21-67" pos="word" morph="none" start_char="3032" end_char="3034">and</TOKEN>
+<TOKEN id="token-21-68" pos="word" morph="none" start_char="3036" end_char="3040">clean</TOKEN>
+<TOKEN id="token-21-69" pos="word" morph="none" start_char="3042" end_char="3044">and</TOKEN>
+<TOKEN id="token-21-70" pos="word" morph="none" start_char="3046" end_char="3054">disinfect</TOKEN>
+<TOKEN id="token-21-71" pos="word" morph="none" start_char="3056" end_char="3065">frequently</TOKEN>
+<TOKEN id="token-21-72" pos="word" morph="none" start_char="3067" end_char="3073">touched</TOKEN>
+<TOKEN id="token-21-73" pos="word" morph="none" start_char="3075" end_char="3081">objects</TOKEN>
+<TOKEN id="token-21-74" pos="word" morph="none" start_char="3083" end_char="3085">and</TOKEN>
+<TOKEN id="token-21-75" pos="word" morph="none" start_char="3087" end_char="3094">surfaces</TOKEN>
+<TOKEN id="token-21-76" pos="punct" morph="none" start_char="3095" end_char="3095">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3098" end_char="3183">
+<ORIGINAL_TEXT>The COVID-19 pandemic has given rise to a lot of potentially dangerous misinformation.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3098" end_char="3100">The</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="3102" end_char="3109">COVID-19</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3111" end_char="3118">pandemic</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3120" end_char="3122">has</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3124" end_char="3128">given</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3130" end_char="3133">rise</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3135" end_char="3136">to</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3138" end_char="3138">a</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3140" end_char="3142">lot</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3144" end_char="3145">of</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3147" end_char="3157">potentially</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3159" end_char="3167">dangerous</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3169" end_char="3182">misinformation</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="3183" end_char="3183">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3185" end_char="3356">
+<ORIGINAL_TEXT>For reliable advice on COVID-19 including symptoms, prevention and available treatment, please refer to the World Health Organisation or your national healthcare authority.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3185" end_char="3187">For</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3189" end_char="3196">reliable</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3198" end_char="3203">advice</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3205" end_char="3206">on</TOKEN>
+<TOKEN id="token-23-4" pos="unknown" morph="none" start_char="3208" end_char="3215">COVID-19</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3217" end_char="3225">including</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3227" end_char="3234">symptoms</TOKEN>
+<TOKEN id="token-23-7" pos="punct" morph="none" start_char="3235" end_char="3235">,</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3237" end_char="3246">prevention</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3248" end_char="3250">and</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3252" end_char="3260">available</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3262" end_char="3270">treatment</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="3271" end_char="3271">,</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3273" end_char="3278">please</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="3280" end_char="3284">refer</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3286" end_char="3287">to</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="3289" end_char="3291">the</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="3293" end_char="3297">World</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="3299" end_char="3304">Health</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="3306" end_char="3317">Organisation</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="3319" end_char="3320">or</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="3322" end_char="3325">your</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="3327" end_char="3334">national</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="3336" end_char="3345">healthcare</TOKEN>
+<TOKEN id="token-23-24" pos="word" morph="none" start_char="3347" end_char="3355">authority</TOKEN>
+<TOKEN id="token-23-25" pos="punct" morph="none" start_char="3356" end_char="3356">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

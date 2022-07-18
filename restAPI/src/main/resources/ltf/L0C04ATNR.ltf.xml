@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04ATNR" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="1899" raw_text_md5="c15735fe89c7267ac176edcdee75cfce">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="19">
+<ORIGINAL_TEXT>Новый штамм COVID19</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">Новый</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="11">штамм</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="13" end_char="19">COVID19</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="23" end_char="51">
+<ORIGINAL_TEXT>Окей, раунд 2, волна номер 3.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="23" end_char="26">Окей</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="27" end_char="27">,</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="29" end_char="33">раунд</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="35" end_char="35">2</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="36" end_char="36">,</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="38" end_char="42">волна</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="44" end_char="48">номер</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="50" end_char="50">3</TOKEN>
+<TOKEN id="token-1-8" pos="punct" morph="none" start_char="51" end_char="51">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="53" end_char="59">
+<ORIGINAL_TEXT>Погнали</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="53" end_char="59">Погнали</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="64" end_char="76">
+<ORIGINAL_TEXT>комментарии 5</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="64" end_char="74">комментарии</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="76" end_char="76">5</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="80" end_char="147">
+<ORIGINAL_TEXT>Интересно, а разрабатываемые вакцины от этой разновидности защищают?</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="80" end_char="88">Интересно</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="89" end_char="89">,</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="91" end_char="91">а</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="93" end_char="107">разрабатываемые</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="109" end_char="115">вакцины</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="117" end_char="118">от</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="120" end_char="123">этой</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="125" end_char="137">разновидности</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="139" end_char="146">защищают</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="147" end_char="147">?</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="149" end_char="233">
+<ORIGINAL_TEXT>А то получится как с гриппом, каждый год разные и нужно угадывать комбинацию штаммов.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="149" end_char="149">А</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="151" end_char="152">то</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="154" end_char="162">получится</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="164" end_char="166">как</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="168" end_char="168">с</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="170" end_char="176">гриппом</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="177" end_char="177">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="179" end_char="184">каждый</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="186" end_char="188">год</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="190" end_char="195">разные</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="197" end_char="197">и</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="199" end_char="203">нужно</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="205" end_char="213">угадывать</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="215" end_char="224">комбинацию</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="226" end_char="232">штаммов</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="233" end_char="233">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="237" end_char="284">
+<ORIGINAL_TEXT>Вот тоже задался этим вопросом и штудирую Пикабу</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="237" end_char="239">Вот</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="241" end_char="244">тоже</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="246" end_char="252">задался</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="254" end_char="257">этим</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="259" end_char="266">вопросом</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="268" end_char="268">и</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="270" end_char="277">штудирую</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="279" end_char="284">Пикабу</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="288" end_char="291">
+<ORIGINAL_TEXT>Баян</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="288" end_char="291">Баян</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="295" end_char="352">
+<ORIGINAL_TEXT>Так, и шо, вакцину выльют или..всё равно \свежая, 3 сорт\?</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="295" end_char="297">Так</TOKEN>
+<TOKEN id="token-8-1" pos="punct" morph="none" start_char="298" end_char="298">,</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="300" end_char="300">и</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="302" end_char="303">шо</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="304" end_char="304">,</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="306" end_char="312">вакцину</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="314" end_char="319">выльют</TOKEN>
+<TOKEN id="token-8-7" pos="unknown" morph="none" start_char="321" end_char="328">или..всё</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="330" end_char="334">равно</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="336" end_char="336">\</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="337" end_char="342">свежая</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="343" end_char="343">,</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="345" end_char="345">3</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="347" end_char="350">сорт</TOKEN>
+<TOKEN id="token-8-14" pos="punct" morph="none" start_char="351" end_char="352">\?</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="356" end_char="519">
+<ORIGINAL_TEXT>Интересно следующее, из-за коронавирус изолируют людей, прекращают движуху европейцев в пределах ЕС, но беженцы под эту лавочку въезжают, они что стерильные что ли?</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="356" end_char="364">Интересно</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="366" end_char="374">следующее</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="375" end_char="375">,</TOKEN>
+<TOKEN id="token-9-3" pos="unknown" morph="none" start_char="377" end_char="381">из-за</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="383" end_char="393">коронавирус</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="395" end_char="403">изолируют</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="405" end_char="409">людей</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="410" end_char="410">,</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="412" end_char="421">прекращают</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="423" end_char="429">движуху</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="431" end_char="440">европейцев</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="442" end_char="442">в</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="444" end_char="451">пределах</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="453" end_char="454">ЕС</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="455" end_char="455">,</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="457" end_char="458">но</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="460" end_char="466">беженцы</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="468" end_char="470">под</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="472" end_char="474">эту</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="476" end_char="482">лавочку</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="484" end_char="491">въезжают</TOKEN>
+<TOKEN id="token-9-21" pos="punct" morph="none" start_char="492" end_char="492">,</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="494" end_char="496">они</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="498" end_char="500">что</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="502" end_char="511">стерильные</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="513" end_char="515">что</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="517" end_char="518">ли</TOKEN>
+<TOKEN id="token-9-27" pos="punct" morph="none" start_char="519" end_char="519">?</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="523" end_char="535">
+<ORIGINAL_TEXT>Пруфы, Билли?</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="523" end_char="527">Пруфы</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="528" end_char="528">,</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="530" end_char="534">Билли</TOKEN>
+<TOKEN id="token-10-3" pos="punct" morph="none" start_char="535" end_char="535">?</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="539" end_char="601">
+<ORIGINAL_TEXT>https://www.rbc.ru/society/20/12/2020/5fdf49689a794728707a71...</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="url" morph="none" start_char="539" end_char="601">https://www.rbc.ru/society/20/12/2020/5fdf49689a794728707a71...</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="605" end_char="634">
+<ORIGINAL_TEXT>А кто сказал, что будет легко.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="605" end_char="605">А</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="607" end_char="609">кто</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="611" end_char="616">сказал</TOKEN>
+<TOKEN id="token-12-3" pos="punct" morph="none" start_char="617" end_char="617">,</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="619" end_char="621">что</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="623" end_char="627">будет</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="629" end_char="633">легко</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="634" end_char="634">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="638" end_char="696">
+<ORIGINAL_TEXT>Как задолбало по нескольку раз одно и то же в одном тексте!</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="638" end_char="640">Как</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="642" end_char="650">задолбало</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="652" end_char="653">по</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="655" end_char="663">нескольку</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="665" end_char="667">раз</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="669" end_char="672">одно</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="674" end_char="674">и</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="676" end_char="677">то</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="679" end_char="680">же</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="682" end_char="682">в</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="684" end_char="688">одном</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="690" end_char="695">тексте</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="696" end_char="696">!</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="700" end_char="707">
+<ORIGINAL_TEXT>Исправил</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="700" end_char="707">Исправил</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="711" end_char="772">
+<ORIGINAL_TEXT>Самое смешное, что рынки находятся на хаях и нефть прет вверх.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="711" end_char="715">Самое</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="717" end_char="723">смешное</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="724" end_char="724">,</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="726" end_char="728">что</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="730" end_char="734">рынки</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="736" end_char="744">находятся</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="746" end_char="747">на</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="749" end_char="752">хаях</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="754" end_char="754">и</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="756" end_char="760">нефть</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="762" end_char="765">прет</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="767" end_char="771">вверх</TOKEN>
+<TOKEN id="token-15-12" pos="punct" morph="none" start_char="772" end_char="772">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="774" end_char="833">
+<ORIGINAL_TEXT>И как странно и англичан брекзит на носу и такое совпадение.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="774" end_char="774">И</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="776" end_char="778">как</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="780" end_char="786">странно</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="788" end_char="788">и</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="790" end_char="797">англичан</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="799" end_char="805">брекзит</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="807" end_char="808">на</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="810" end_char="813">носу</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="815" end_char="815">и</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="817" end_char="821">такое</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="823" end_char="832">совпадение</TOKEN>
+<TOKEN id="token-16-11" pos="punct" morph="none" start_char="833" end_char="833">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="835" end_char="879">
+<ORIGINAL_TEXT>Похоже, что вирус это какой то бизнес проект.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="835" end_char="840">Похоже</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="841" end_char="841">,</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="843" end_char="845">что</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="847" end_char="851">вирус</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="853" end_char="855">это</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="857" end_char="861">какой</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="863" end_char="864">то</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="866" end_char="871">бизнес</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="873" end_char="878">проект</TOKEN>
+<TOKEN id="token-17-9" pos="punct" morph="none" start_char="879" end_char="879">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="883" end_char="966">
+<ORIGINAL_TEXT>Только разные страны разработали вакцину, как тут же чудным образом вирус мутировал.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="883" end_char="888">Только</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="890" end_char="895">разные</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="897" end_char="902">страны</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="904" end_char="914">разработали</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="916" end_char="922">вакцину</TOKEN>
+<TOKEN id="token-18-5" pos="punct" morph="none" start_char="923" end_char="923">,</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="925" end_char="927">как</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="929" end_char="931">тут</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="933" end_char="934">же</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="936" end_char="941">чудным</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="943" end_char="949">образом</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="951" end_char="955">вирус</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="957" end_char="965">мутировал</TOKEN>
+<TOKEN id="token-18-13" pos="punct" morph="none" start_char="966" end_char="966">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="968" end_char="992">
+<ORIGINAL_TEXT>Кому-то это явно выгодно.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="968" end_char="974">Кому-то</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="976" end_char="978">это</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="980" end_char="983">явно</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="985" end_char="991">выгодно</TOKEN>
+<TOKEN id="token-19-4" pos="punct" morph="none" start_char="992" end_char="992">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="996" end_char="1028">
+<ORIGINAL_TEXT>Про мутации в течение года пишут.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="996" end_char="998">Про</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1000" end_char="1006">мутации</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1008" end_char="1008">в</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1010" end_char="1016">течение</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1018" end_char="1021">года</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1023" end_char="1027">пишут</TOKEN>
+<TOKEN id="token-20-6" pos="punct" morph="none" start_char="1028" end_char="1028">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1030" end_char="1066">
+<ORIGINAL_TEXT>Зачем искать подвох там, где его нет?</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1030" end_char="1034">Зачем</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1036" end_char="1041">искать</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1043" end_char="1048">подвох</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1050" end_char="1052">там</TOKEN>
+<TOKEN id="token-21-4" pos="punct" morph="none" start_char="1053" end_char="1053">,</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1055" end_char="1057">где</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1059" end_char="1061">его</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1063" end_char="1065">нет</TOKEN>
+<TOKEN id="token-21-8" pos="punct" morph="none" start_char="1066" end_char="1066">?</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1070" end_char="1128">
+<ORIGINAL_TEXT>Пример одного, хоть и большого, но всё равно одного города.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1070" end_char="1075">Пример</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1077" end_char="1082">одного</TOKEN>
+<TOKEN id="token-22-2" pos="punct" morph="none" start_char="1083" end_char="1083">,</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1085" end_char="1088">хоть</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1090" end_char="1090">и</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1092" end_char="1099">большого</TOKEN>
+<TOKEN id="token-22-6" pos="punct" morph="none" start_char="1100" end_char="1100">,</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1102" end_char="1103">но</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1105" end_char="1107">всё</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1109" end_char="1113">равно</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1115" end_char="1120">одного</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1122" end_char="1127">города</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="1128" end_char="1128">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1130" end_char="1216">
+<ORIGINAL_TEXT>Если такие масштабы реальны(не фейк ньюс) подумай кому они выгодны( в масштабах стран).</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1130" end_char="1133">Если</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1135" end_char="1139">такие</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1141" end_char="1148">масштабы</TOKEN>
+<TOKEN id="token-23-3" pos="unknown" morph="none" start_char="1150" end_char="1159">реальны(не</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1161" end_char="1164">фейк</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1166" end_char="1169">ньюс</TOKEN>
+<TOKEN id="token-23-6" pos="punct" morph="none" start_char="1170" end_char="1170">)</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1172" end_char="1178">подумай</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1180" end_char="1183">кому</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1185" end_char="1187">они</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="1189" end_char="1195">выгодны</TOKEN>
+<TOKEN id="token-23-11" pos="punct" morph="none" start_char="1196" end_char="1196">(</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="1198" end_char="1198">в</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="1200" end_char="1208">масштабах</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="1210" end_char="1214">стран</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="1215" end_char="1216">).</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1220" end_char="1248">
+<ORIGINAL_TEXT>Он мутировал уже десятки раз.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1220" end_char="1221">Он</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1223" end_char="1231">мутировал</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1233" end_char="1235">уже</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1237" end_char="1243">десятки</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1245" end_char="1247">раз</TOKEN>
+<TOKEN id="token-24-5" pos="punct" morph="none" start_char="1248" end_char="1248">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1250" end_char="1278">
+<ORIGINAL_TEXT>Когда-то не было рыжих людей.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1250" end_char="1257">Когда-то</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1259" end_char="1260">не</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1262" end_char="1265">было</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1267" end_char="1271">рыжих</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1273" end_char="1277">людей</TOKEN>
+<TOKEN id="token-25-5" pos="punct" morph="none" start_char="1278" end_char="1278">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1280" end_char="1300">
+<ORIGINAL_TEXT>Не было голубоглазых.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1280" end_char="1281">Не</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1283" end_char="1286">было</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1288" end_char="1299">голубоглазых</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="1300" end_char="1300">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1302" end_char="1318">
+<ORIGINAL_TEXT>Совсем ни одного.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1302" end_char="1307">Совсем</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1309" end_char="1310">ни</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1312" end_char="1317">одного</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="1318" end_char="1318">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1320" end_char="1398">
+<ORIGINAL_TEXT>Потом сотни мутаций и одна из них закрепилась в популяции, дошла до наших дней.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1320" end_char="1324">Потом</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1326" end_char="1330">сотни</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1332" end_char="1338">мутаций</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1340" end_char="1340">и</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1342" end_char="1345">одна</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1347" end_char="1348">из</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1350" end_char="1352">них</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="1354" end_char="1364">закрепилась</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="1366" end_char="1366">в</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="1368" end_char="1376">популяции</TOKEN>
+<TOKEN id="token-28-10" pos="punct" morph="none" start_char="1377" end_char="1377">,</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="1379" end_char="1383">дошла</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="1385" end_char="1386">до</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="1388" end_char="1392">наших</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="1394" end_char="1397">дней</TOKEN>
+<TOKEN id="token-28-15" pos="punct" morph="none" start_char="1398" end_char="1398">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1400" end_char="1484">
+<ORIGINAL_TEXT>Так же вирус, одна из мутаций закрепилась и заразила уже 1000 человек, вошла во вкус.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="1400" end_char="1402">Так</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1404" end_char="1405">же</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="1407" end_char="1411">вирус</TOKEN>
+<TOKEN id="token-29-3" pos="punct" morph="none" start_char="1412" end_char="1412">,</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="1414" end_char="1417">одна</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="1419" end_char="1420">из</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1422" end_char="1428">мутаций</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1430" end_char="1440">закрепилась</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="1442" end_char="1442">и</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="1444" end_char="1451">заразила</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1453" end_char="1455">уже</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="1457" end_char="1460">1000</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="1462" end_char="1468">человек</TOKEN>
+<TOKEN id="token-29-13" pos="punct" morph="none" start_char="1469" end_char="1469">,</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="1471" end_char="1475">вошла</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="1477" end_char="1478">во</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="1480" end_char="1483">вкус</TOKEN>
+<TOKEN id="token-29-17" pos="punct" morph="none" start_char="1484" end_char="1484">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1488" end_char="1520">
+<ORIGINAL_TEXT>Очевидно, что это выгодно вирусу.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1488" end_char="1495">Очевидно</TOKEN>
+<TOKEN id="token-30-1" pos="punct" morph="none" start_char="1496" end_char="1496">,</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1498" end_char="1500">что</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="1502" end_char="1504">это</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="1506" end_char="1512">выгодно</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="1514" end_char="1519">вирусу</TOKEN>
+<TOKEN id="token-30-6" pos="punct" morph="none" start_char="1520" end_char="1520">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1522" end_char="1569">
+<ORIGINAL_TEXT>Потому что все вирусы и живые организмы мутируют</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1522" end_char="1527">Потому</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1529" end_char="1531">что</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1533" end_char="1535">все</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="1537" end_char="1542">вирусы</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="1544" end_char="1544">и</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1546" end_char="1550">живые</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="1552" end_char="1560">организмы</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="1562" end_char="1569">мутируют</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1573" end_char="1655">
+<ORIGINAL_TEXT>Вот сволочи, опять нашли отмазку чтобы кошмарить бизнес... хотя наверное это другое</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1573" end_char="1575">Вот</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="1577" end_char="1583">сволочи</TOKEN>
+<TOKEN id="token-32-2" pos="punct" morph="none" start_char="1584" end_char="1584">,</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="1586" end_char="1590">опять</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1592" end_char="1596">нашли</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="1598" end_char="1604">отмазку</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="1606" end_char="1610">чтобы</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="1612" end_char="1620">кошмарить</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="1622" end_char="1627">бизнес</TOKEN>
+<TOKEN id="token-32-9" pos="punct" morph="none" start_char="1628" end_char="1630">...</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="1632" end_char="1635">хотя</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="1637" end_char="1644">наверное</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="1646" end_char="1648">это</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="1650" end_char="1655">другое</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1660" end_char="1731">
+<ORIGINAL_TEXT>ВОЗ прокомментировала заявление властей Британии о новом штамме COVID-19</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1660" end_char="1662">ВОЗ</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1664" end_char="1680">прокомментировала</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1682" end_char="1690">заявление</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="1692" end_char="1698">властей</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1700" end_char="1707">Британии</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="1709" end_char="1709">о</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1711" end_char="1715">новом</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="1717" end_char="1722">штамме</TOKEN>
+<TOKEN id="token-33-8" pos="unknown" morph="none" start_char="1724" end_char="1731">COVID-19</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1734" end_char="1745">
+<ORIGINAL_TEXT>новичоковид?</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="1734" end_char="1744">новичоковид</TOKEN>
+<TOKEN id="token-34-1" pos="punct" morph="none" start_char="1745" end_char="1745">?</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1750" end_char="1761">
+<ORIGINAL_TEXT>СпутничОк V.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1750" end_char="1758">СпутничОк</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="1760" end_char="1760">V</TOKEN>
+<TOKEN id="token-35-2" pos="punct" morph="none" start_char="1761" end_char="1761">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1763" end_char="1808">
+<ORIGINAL_TEXT>Тестовая партия вакцины для британских учёных.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1763" end_char="1770">Тестовая</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="1772" end_char="1777">партия</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1779" end_char="1785">вакцины</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="1787" end_char="1789">для</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="1791" end_char="1800">британских</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="1802" end_char="1807">учёных</TOKEN>
+<TOKEN id="token-36-6" pos="punct" morph="none" start_char="1808" end_char="1808">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1812" end_char="1895">
+<ORIGINAL_TEXT>Есть вариант кардинально решить вопрос с новым вирусом - сделать из острова впадину.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1812" end_char="1815">Есть</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="1817" end_char="1823">вариант</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1825" end_char="1835">кардинально</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="1837" end_char="1842">решить</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="1844" end_char="1849">вопрос</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="1851" end_char="1851">с</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="1853" end_char="1857">новым</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="1859" end_char="1865">вирусом</TOKEN>
+<TOKEN id="token-37-8" pos="punct" morph="none" start_char="1867" end_char="1867">-</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="1869" end_char="1875">сделать</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="1877" end_char="1878">из</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="1880" end_char="1886">острова</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="1888" end_char="1894">впадину</TOKEN>
+<TOKEN id="token-37-13" pos="punct" morph="none" start_char="1895" end_char="1895">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

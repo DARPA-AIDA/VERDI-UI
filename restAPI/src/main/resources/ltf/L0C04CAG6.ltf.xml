@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CAG6" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4908" raw_text_md5="c907944a415c090767880b9814c74e0d">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="99">
+<ORIGINAL_TEXT>¿Las emisiones de azufre de Wuhan, China, apuntan a la cremación masiva de víctimas de coronavirus?</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="punct" morph="none" start_char="1" end_char="1">¿</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="2" end_char="4">Las</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="6" end_char="14">emisiones</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="17">de</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="19" end_char="24">azufre</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="26" end_char="27">de</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="29" end_char="33">Wuhan</TOKEN>
+<TOKEN id="token-0-7" pos="punct" morph="none" start_char="34" end_char="34">,</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="36" end_char="40">China</TOKEN>
+<TOKEN id="token-0-9" pos="punct" morph="none" start_char="41" end_char="41">,</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="43" end_char="49">apuntan</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="51" end_char="51">a</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="53" end_char="54">la</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="56" end_char="64">cremación</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="66" end_char="71">masiva</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="73" end_char="74">de</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="76" end_char="83">víctimas</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="85" end_char="86">de</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="88" end_char="98">coronavirus</TOKEN>
+<TOKEN id="token-0-19" pos="punct" morph="none" start_char="99" end_char="99">?</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="104" end_char="257">
+<ORIGINAL_TEXT>El 8 de febrero de 2019, un bien compartido Hilo de Twitter afirmó que los "datos" mostraron un aumento masivo en las emisiones de azufre en Wuhan, China.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="104" end_char="105">El</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="107" end_char="107">8</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="109" end_char="110">de</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="112" end_char="118">febrero</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="120" end_char="121">de</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="123" end_char="126">2019</TOKEN>
+<TOKEN id="token-1-6" pos="punct" morph="none" start_char="127" end_char="127">,</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="129" end_char="130">un</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="132" end_char="135">bien</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="137" end_char="146">compartido</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="148" end_char="151">Hilo</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="153" end_char="154">de</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="156" end_char="162">Twitter</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="164" end_char="169">afirmó</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="171" end_char="173">que</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="175" end_char="177">los</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="179" end_char="179">"</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="180" end_char="184">datos</TOKEN>
+<TOKEN id="token-1-18" pos="punct" morph="none" start_char="185" end_char="185">"</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="187" end_char="195">mostraron</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="197" end_char="198">un</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="200" end_char="206">aumento</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="208" end_char="213">masivo</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="215" end_char="216">en</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="218" end_char="220">las</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="222" end_char="230">emisiones</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="232" end_char="233">de</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="235" end_char="240">azufre</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="242" end_char="243">en</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="245" end_char="249">Wuhan</TOKEN>
+<TOKEN id="token-1-30" pos="punct" morph="none" start_char="250" end_char="250">,</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="252" end_char="256">China</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="257" end_char="257">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="259" end_char="453">
+<ORIGINAL_TEXT>El hilo sugirió además que una explicación probable para esta supuesta observación fue la cremación de cuerpos asociados con el brote del nuevo coronavirus cuyo origen se encuentra en esa región:</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="259" end_char="260">El</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="262" end_char="265">hilo</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="267" end_char="273">sugirió</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="275" end_char="280">además</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="282" end_char="284">que</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="286" end_char="288">una</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="290" end_char="300">explicación</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="302" end_char="309">probable</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="311" end_char="314">para</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="316" end_char="319">esta</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="321" end_char="328">supuesta</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="330" end_char="340">observación</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="342" end_char="344">fue</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="346" end_char="347">la</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="349" end_char="357">cremación</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="359" end_char="360">de</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="362" end_char="368">cuerpos</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="370" end_char="378">asociados</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="380" end_char="382">con</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="384" end_char="385">el</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="387" end_char="391">brote</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="393" end_char="395">del</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="397" end_char="401">nuevo</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="403" end_char="413">coronavirus</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="415" end_char="418">cuyo</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="420" end_char="425">origen</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="427" end_char="428">se</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="430" end_char="438">encuentra</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="440" end_char="441">en</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="443" end_char="445">esa</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="447" end_char="452">región</TOKEN>
+<TOKEN id="token-2-31" pos="punct" morph="none" start_char="453" end_char="453">:</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="456" end_char="567">
+<ORIGINAL_TEXT>El sol y El expreso, entre otros medios, repitió acríticamente esta afirmación, a pesar de sus dudosos orígenes.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="456" end_char="457">El</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="459" end_char="461">sol</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="463" end_char="463">y</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="465" end_char="466">El</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="468" end_char="474">expreso</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="475" end_char="475">,</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="477" end_char="481">entre</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="483" end_char="487">otros</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="489" end_char="494">medios</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="495" end_char="495">,</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="497" end_char="503">repitió</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="505" end_char="517">acríticamente</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="519" end_char="522">esta</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="524" end_char="533">afirmación</TOKEN>
+<TOKEN id="token-3-14" pos="punct" morph="none" start_char="534" end_char="534">,</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="536" end_char="536">a</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="538" end_char="542">pesar</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="544" end_char="545">de</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="547" end_char="549">sus</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="551" end_char="557">dudosos</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="559" end_char="566">orígenes</TOKEN>
+<TOKEN id="token-3-21" pos="punct" morph="none" start_char="567" end_char="567">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="569" end_char="672">
+<ORIGINAL_TEXT>Ambos medios luego eliminaron sus historias sin una nota de corrección en el momento de nuestro informe.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="569" end_char="573">Ambos</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="575" end_char="580">medios</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="582" end_char="586">luego</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="588" end_char="597">eliminaron</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="599" end_char="601">sus</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="603" end_char="611">historias</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="613" end_char="615">sin</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="617" end_char="619">una</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="621" end_char="624">nota</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="626" end_char="627">de</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="629" end_char="638">corrección</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="640" end_char="641">en</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="643" end_char="644">el</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="646" end_char="652">momento</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="654" end_char="655">de</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="657" end_char="663">nuestro</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="665" end_char="671">informe</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="672" end_char="672">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="674" end_char="790">
+<ORIGINAL_TEXT>El Sol, por ejemplo, describió la imagen de arriba como que muestra la "extensión de la quema de cadáveres en Wuhan".</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="674" end_char="675">El</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="677" end_char="679">Sol</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="680" end_char="680">,</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="682" end_char="684">por</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="686" end_char="692">ejemplo</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="693" end_char="693">,</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="695" end_char="703">describió</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="705" end_char="706">la</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="708" end_char="713">imagen</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="715" end_char="716">de</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="718" end_char="723">arriba</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="725" end_char="728">como</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="730" end_char="732">que</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="734" end_char="740">muestra</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="742" end_char="743">la</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="745" end_char="745">"</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="746" end_char="754">extensión</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="756" end_char="757">de</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="759" end_char="760">la</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="762" end_char="766">quema</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="768" end_char="769">de</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="771" end_char="779">cadáveres</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="781" end_char="782">en</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="784" end_char="788">Wuhan</TOKEN>
+<TOKEN id="token-5-24" pos="punct" morph="none" start_char="789" end_char="790">".</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="792" end_char="853">
+<ORIGINAL_TEXT>Esa premisa es fatalmente defectuosa por al menos dos razones.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="792" end_char="794">Esa</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="796" end_char="802">premisa</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="804" end_char="805">es</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="807" end_char="816">fatalmente</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="818" end_char="827">defectuosa</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="829" end_char="831">por</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="833" end_char="834">al</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="836" end_char="840">menos</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="842" end_char="844">dos</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="846" end_char="852">razones</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="853" end_char="853">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="856" end_char="1002">
+<ORIGINAL_TEXT>Primero y más significativamente: los datos presentados no son una observación en tiempo real de las concentraciones de azufre por encima de Wuhan.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="856" end_char="862">Primero</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="864" end_char="864">y</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="866" end_char="868">más</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="870" end_char="887">significativamente</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="888" end_char="888">:</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="890" end_char="892">los</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="894" end_char="898">datos</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="900" end_char="910">presentados</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="912" end_char="913">no</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="915" end_char="917">son</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="919" end_char="921">una</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="923" end_char="933">observación</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="935" end_char="936">en</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="938" end_char="943">tiempo</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="945" end_char="948">real</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="950" end_char="951">de</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="953" end_char="955">las</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="957" end_char="971">concentraciones</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="973" end_char="974">de</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="976" end_char="981">azufre</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="983" end_char="985">por</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="987" end_char="992">encima</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="994" end_char="995">de</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="997" end_char="1001">Wuhan</TOKEN>
+<TOKEN id="token-7-24" pos="punct" morph="none" start_char="1002" end_char="1002">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1004" end_char="1253">
+<ORIGINAL_TEXT>En cambio, la imagen es un modelo de computadora diseñado para predecir, basándose en un conocimiento histórico del área y sus condiciones atmosféricas actuales, qué concentración de azufre está presente en el aire en un momento y lugar determinados.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1004" end_char="1005">En</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1007" end_char="1012">cambio</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="1013" end_char="1013">,</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1015" end_char="1016">la</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1018" end_char="1023">imagen</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1025" end_char="1026">es</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1028" end_char="1029">un</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1031" end_char="1036">modelo</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1038" end_char="1039">de</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1041" end_char="1051">computadora</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1053" end_char="1060">diseñado</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1062" end_char="1065">para</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1067" end_char="1074">predecir</TOKEN>
+<TOKEN id="token-8-13" pos="punct" morph="none" start_char="1075" end_char="1075">,</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1077" end_char="1085">basándose</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1087" end_char="1088">en</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1090" end_char="1091">un</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1093" end_char="1104">conocimiento</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1106" end_char="1114">histórico</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1116" end_char="1118">del</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1120" end_char="1123">área</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1125" end_char="1125">y</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1127" end_char="1129">sus</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1131" end_char="1141">condiciones</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1143" end_char="1154">atmosféricas</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1156" end_char="1163">actuales</TOKEN>
+<TOKEN id="token-8-26" pos="punct" morph="none" start_char="1164" end_char="1164">,</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1166" end_char="1168">qué</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1170" end_char="1182">concentración</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1184" end_char="1185">de</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1187" end_char="1192">azufre</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1194" end_char="1197">está</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1199" end_char="1206">presente</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1208" end_char="1209">en</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1211" end_char="1212">el</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="1214" end_char="1217">aire</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="1219" end_char="1220">en</TOKEN>
+<TOKEN id="token-8-37" pos="word" morph="none" start_char="1222" end_char="1223">un</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="1225" end_char="1231">momento</TOKEN>
+<TOKEN id="token-8-39" pos="word" morph="none" start_char="1233" end_char="1233">y</TOKEN>
+<TOKEN id="token-8-40" pos="word" morph="none" start_char="1235" end_char="1239">lugar</TOKEN>
+<TOKEN id="token-8-41" pos="word" morph="none" start_char="1241" end_char="1252">determinados</TOKEN>
+<TOKEN id="token-8-42" pos="punct" morph="none" start_char="1253" end_char="1253">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1255" end_char="1328">
+<ORIGINAL_TEXT>Segundo, el azufre no es una emisión significativa de la cremación humana.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1255" end_char="1261">Segundo</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="1262" end_char="1262">,</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1264" end_char="1265">el</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1267" end_char="1272">azufre</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1274" end_char="1275">no</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1277" end_char="1278">es</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1280" end_char="1282">una</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1284" end_char="1290">emisión</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1292" end_char="1304">significativa</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1306" end_char="1307">de</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1309" end_char="1310">la</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1312" end_char="1320">cremación</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1322" end_char="1327">humana</TOKEN>
+<TOKEN id="token-9-13" pos="punct" morph="none" start_char="1328" end_char="1328">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1330" end_char="1483">
+<ORIGINAL_TEXT>Sin embargo, es una emisión significativa de la quema de carbón en plantas de energía o para otros usos industriales como la producción de hierro y acero.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1330" end_char="1332">Sin</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1334" end_char="1340">embargo</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1341" end_char="1341">,</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1343" end_char="1344">es</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1346" end_char="1348">una</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1350" end_char="1356">emisión</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1358" end_char="1370">significativa</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1372" end_char="1373">de</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1375" end_char="1376">la</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1378" end_char="1382">quema</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1384" end_char="1385">de</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1387" end_char="1392">carbón</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1394" end_char="1395">en</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1397" end_char="1403">plantas</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1405" end_char="1406">de</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1408" end_char="1414">energía</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1416" end_char="1416">o</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1418" end_char="1421">para</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1423" end_char="1427">otros</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1429" end_char="1432">usos</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1434" end_char="1445">industriales</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1447" end_char="1450">como</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1452" end_char="1453">la</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1455" end_char="1464">producción</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1466" end_char="1467">de</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1469" end_char="1474">hierro</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1476" end_char="1476">y</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1478" end_char="1482">acero</TOKEN>
+<TOKEN id="token-10-28" pos="punct" morph="none" start_char="1483" end_char="1483">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1485" end_char="1604">
+<ORIGINAL_TEXT>El área directamente debajo del punto de acceso En el hilo de Twitter se muestra, de hecho, la Wuhan Iron Steel Company.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1485" end_char="1486">El</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1488" end_char="1491">área</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1493" end_char="1504">directamente</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1506" end_char="1511">debajo</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1513" end_char="1515">del</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1517" end_char="1521">punto</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1523" end_char="1524">de</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1526" end_char="1531">acceso</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1533" end_char="1534">En</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1536" end_char="1537">el</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1539" end_char="1542">hilo</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1544" end_char="1545">de</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1547" end_char="1553">Twitter</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1555" end_char="1556">se</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1558" end_char="1564">muestra</TOKEN>
+<TOKEN id="token-11-15" pos="punct" morph="none" start_char="1565" end_char="1565">,</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1567" end_char="1568">de</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1570" end_char="1574">hecho</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1575" end_char="1575">,</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1577" end_char="1578">la</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1580" end_char="1584">Wuhan</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1586" end_char="1589">Iron</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1591" end_char="1595">Steel</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1597" end_char="1603">Company</TOKEN>
+<TOKEN id="token-11-24" pos="punct" morph="none" start_char="1604" end_char="1604">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1607" end_char="1690">
+<ORIGINAL_TEXT>Problema uno: no es una observación real de las concentraciones de dióxido de azufre</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1607" end_char="1614">Problema</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1616" end_char="1618">uno</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1619" end_char="1619">:</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1621" end_char="1622">no</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1624" end_char="1625">es</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1627" end_char="1629">una</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1631" end_char="1641">observación</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1643" end_char="1646">real</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1648" end_char="1649">de</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1651" end_char="1653">las</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1655" end_char="1669">concentraciones</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1671" end_char="1672">de</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1674" end_char="1680">dióxido</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1682" end_char="1683">de</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1685" end_char="1690">azufre</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1694" end_char="1961">
+<ORIGINAL_TEXT>La fuente de los datos resaltados en el hilo de Twitter es una compañía llamada Windy.com, que combina varios modelos e insumos meteorológicos para crear mapas globales de condiciones climáticas dirigidas principalmente a personas que practican deportes al aire libre.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1694" end_char="1695">La</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1697" end_char="1702">fuente</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1704" end_char="1705">de</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1707" end_char="1709">los</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1711" end_char="1715">datos</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1717" end_char="1726">resaltados</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1728" end_char="1729">en</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1731" end_char="1732">el</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1734" end_char="1737">hilo</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1739" end_char="1740">de</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1742" end_char="1748">Twitter</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1750" end_char="1751">es</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1753" end_char="1755">una</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1757" end_char="1764">compañía</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1766" end_char="1772">llamada</TOKEN>
+<TOKEN id="token-13-15" pos="unknown" morph="none" start_char="1774" end_char="1782">Windy.com</TOKEN>
+<TOKEN id="token-13-16" pos="punct" morph="none" start_char="1783" end_char="1783">,</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1785" end_char="1787">que</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1789" end_char="1795">combina</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1797" end_char="1802">varios</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1804" end_char="1810">modelos</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1812" end_char="1812">e</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1814" end_char="1820">insumos</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1822" end_char="1835">meteorológicos</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1837" end_char="1840">para</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1842" end_char="1846">crear</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1848" end_char="1852">mapas</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="1854" end_char="1861">globales</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="1863" end_char="1864">de</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="1866" end_char="1876">condiciones</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="1878" end_char="1887">climáticas</TOKEN>
+<TOKEN id="token-13-31" pos="word" morph="none" start_char="1889" end_char="1897">dirigidas</TOKEN>
+<TOKEN id="token-13-32" pos="word" morph="none" start_char="1899" end_char="1912">principalmente</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="1914" end_char="1914">a</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="1916" end_char="1923">personas</TOKEN>
+<TOKEN id="token-13-35" pos="word" morph="none" start_char="1925" end_char="1927">que</TOKEN>
+<TOKEN id="token-13-36" pos="word" morph="none" start_char="1929" end_char="1937">practican</TOKEN>
+<TOKEN id="token-13-37" pos="word" morph="none" start_char="1939" end_char="1946">deportes</TOKEN>
+<TOKEN id="token-13-38" pos="word" morph="none" start_char="1948" end_char="1949">al</TOKEN>
+<TOKEN id="token-13-39" pos="word" morph="none" start_char="1951" end_char="1954">aire</TOKEN>
+<TOKEN id="token-13-40" pos="word" morph="none" start_char="1956" end_char="1960">libre</TOKEN>
+<TOKEN id="token-13-41" pos="punct" morph="none" start_char="1961" end_char="1961">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1963" end_char="2056">
+<ORIGINAL_TEXT>Windy, a su vez, obtiene sus datos de azufre de un modelo climático de la NASA llamado GEOS-5.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1963" end_char="1967">Windy</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="1968" end_char="1968">,</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1970" end_char="1970">a</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1972" end_char="1973">su</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1975" end_char="1977">vez</TOKEN>
+<TOKEN id="token-14-5" pos="punct" morph="none" start_char="1978" end_char="1978">,</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1980" end_char="1986">obtiene</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1988" end_char="1990">sus</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1992" end_char="1996">datos</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1998" end_char="1999">de</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2001" end_char="2006">azufre</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2008" end_char="2009">de</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2011" end_char="2012">un</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2014" end_char="2019">modelo</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2021" end_char="2029">climático</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2031" end_char="2032">de</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="2034" end_char="2035">la</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="2037" end_char="2040">NASA</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="2042" end_char="2048">llamado</TOKEN>
+<TOKEN id="token-14-19" pos="unknown" morph="none" start_char="2050" end_char="2055">GEOS-5</TOKEN>
+<TOKEN id="token-14-20" pos="punct" morph="none" start_char="2056" end_char="2056">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2058" end_char="2337">
+<ORIGINAL_TEXT>Arlindo da Silva, meteorólogo investigador de la Oficina de Modelación y Asimilación Global de la NASA, dijo a la organización británica de verificación de hechos Hecho completo que los modelos de dióxido de azufre GEOS-5 no "asimilan datos satelitales reales" en sus pronósticos.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2058" end_char="2064">Arlindo</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2066" end_char="2067">da</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2069" end_char="2073">Silva</TOKEN>
+<TOKEN id="token-15-3" pos="punct" morph="none" start_char="2074" end_char="2074">,</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2076" end_char="2086">meteorólogo</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2088" end_char="2099">investigador</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2101" end_char="2102">de</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2104" end_char="2105">la</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2107" end_char="2113">Oficina</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2115" end_char="2116">de</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2118" end_char="2127">Modelación</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2129" end_char="2129">y</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2131" end_char="2141">Asimilación</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2143" end_char="2148">Global</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2150" end_char="2151">de</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2153" end_char="2154">la</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2156" end_char="2159">NASA</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="2160" end_char="2160">,</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2162" end_char="2165">dijo</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="2167" end_char="2167">a</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="2169" end_char="2170">la</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2172" end_char="2183">organización</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2185" end_char="2193">británica</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2195" end_char="2196">de</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2198" end_char="2209">verificación</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2211" end_char="2212">de</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2214" end_char="2219">hechos</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="2221" end_char="2225">Hecho</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2227" end_char="2234">completo</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2236" end_char="2238">que</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2240" end_char="2242">los</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="2244" end_char="2250">modelos</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2252" end_char="2253">de</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2255" end_char="2261">dióxido</TOKEN>
+<TOKEN id="token-15-34" pos="word" morph="none" start_char="2263" end_char="2264">de</TOKEN>
+<TOKEN id="token-15-35" pos="word" morph="none" start_char="2266" end_char="2271">azufre</TOKEN>
+<TOKEN id="token-15-36" pos="unknown" morph="none" start_char="2273" end_char="2278">GEOS-5</TOKEN>
+<TOKEN id="token-15-37" pos="word" morph="none" start_char="2280" end_char="2281">no</TOKEN>
+<TOKEN id="token-15-38" pos="punct" morph="none" start_char="2283" end_char="2283">"</TOKEN>
+<TOKEN id="token-15-39" pos="word" morph="none" start_char="2284" end_char="2291">asimilan</TOKEN>
+<TOKEN id="token-15-40" pos="word" morph="none" start_char="2293" end_char="2297">datos</TOKEN>
+<TOKEN id="token-15-41" pos="word" morph="none" start_char="2299" end_char="2309">satelitales</TOKEN>
+<TOKEN id="token-15-42" pos="word" morph="none" start_char="2311" end_char="2316">reales</TOKEN>
+<TOKEN id="token-15-43" pos="punct" morph="none" start_char="2317" end_char="2317">"</TOKEN>
+<TOKEN id="token-15-44" pos="word" morph="none" start_char="2319" end_char="2320">en</TOKEN>
+<TOKEN id="token-15-45" pos="word" morph="none" start_char="2322" end_char="2324">sus</TOKEN>
+<TOKEN id="token-15-46" pos="word" morph="none" start_char="2326" end_char="2336">pronósticos</TOKEN>
+<TOKEN id="token-15-47" pos="punct" morph="none" start_char="2337" end_char="2337">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2340" end_char="2584">
+<ORIGINAL_TEXT>En cambio, dijo, "Nuestros pronósticos se basan en inventarios de emisiones fijas", que "no tienen en cuenta las variaciones diarias en las emisiones de SO2 y, como tales, no pueden tener en cuenta los cambios repentinos en la actividad humana".</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2340" end_char="2341">En</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2343" end_char="2348">cambio</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="2349" end_char="2349">,</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2351" end_char="2354">dijo</TOKEN>
+<TOKEN id="token-16-4" pos="punct" morph="none" start_char="2355" end_char="2355">,</TOKEN>
+<TOKEN id="token-16-5" pos="punct" morph="none" start_char="2357" end_char="2357">"</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2358" end_char="2365">Nuestros</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2367" end_char="2377">pronósticos</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2379" end_char="2380">se</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2382" end_char="2386">basan</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2388" end_char="2389">en</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2391" end_char="2401">inventarios</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2403" end_char="2404">de</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2406" end_char="2414">emisiones</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2416" end_char="2420">fijas</TOKEN>
+<TOKEN id="token-16-15" pos="punct" morph="none" start_char="2421" end_char="2422">",</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2424" end_char="2426">que</TOKEN>
+<TOKEN id="token-16-17" pos="punct" morph="none" start_char="2428" end_char="2428">"</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2429" end_char="2430">no</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2432" end_char="2437">tienen</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2439" end_char="2440">en</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2442" end_char="2447">cuenta</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2449" end_char="2451">las</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2453" end_char="2463">variaciones</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2465" end_char="2471">diarias</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2473" end_char="2474">en</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2476" end_char="2478">las</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2480" end_char="2488">emisiones</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="2490" end_char="2491">de</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2493" end_char="2495">SO2</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2497" end_char="2497">y</TOKEN>
+<TOKEN id="token-16-31" pos="punct" morph="none" start_char="2498" end_char="2498">,</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="2500" end_char="2503">como</TOKEN>
+<TOKEN id="token-16-33" pos="word" morph="none" start_char="2505" end_char="2509">tales</TOKEN>
+<TOKEN id="token-16-34" pos="punct" morph="none" start_char="2510" end_char="2510">,</TOKEN>
+<TOKEN id="token-16-35" pos="word" morph="none" start_char="2512" end_char="2513">no</TOKEN>
+<TOKEN id="token-16-36" pos="word" morph="none" start_char="2515" end_char="2520">pueden</TOKEN>
+<TOKEN id="token-16-37" pos="word" morph="none" start_char="2522" end_char="2526">tener</TOKEN>
+<TOKEN id="token-16-38" pos="word" morph="none" start_char="2528" end_char="2529">en</TOKEN>
+<TOKEN id="token-16-39" pos="word" morph="none" start_char="2531" end_char="2536">cuenta</TOKEN>
+<TOKEN id="token-16-40" pos="word" morph="none" start_char="2538" end_char="2540">los</TOKEN>
+<TOKEN id="token-16-41" pos="word" morph="none" start_char="2542" end_char="2548">cambios</TOKEN>
+<TOKEN id="token-16-42" pos="word" morph="none" start_char="2550" end_char="2559">repentinos</TOKEN>
+<TOKEN id="token-16-43" pos="word" morph="none" start_char="2561" end_char="2562">en</TOKEN>
+<TOKEN id="token-16-44" pos="word" morph="none" start_char="2564" end_char="2565">la</TOKEN>
+<TOKEN id="token-16-45" pos="word" morph="none" start_char="2567" end_char="2575">actividad</TOKEN>
+<TOKEN id="token-16-46" pos="word" morph="none" start_char="2577" end_char="2582">humana</TOKEN>
+<TOKEN id="token-16-47" pos="punct" morph="none" start_char="2583" end_char="2584">".</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2586" end_char="2731">
+<ORIGINAL_TEXT>Las fluctuaciones de azufre presentes en el modelo GEOS-5 provienen de "variaciones en las condiciones meteorológicas, en particular los vientos".</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2586" end_char="2588">Las</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2590" end_char="2602">fluctuaciones</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2604" end_char="2605">de</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2607" end_char="2612">azufre</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2614" end_char="2622">presentes</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2624" end_char="2625">en</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2627" end_char="2628">el</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2630" end_char="2635">modelo</TOKEN>
+<TOKEN id="token-17-8" pos="unknown" morph="none" start_char="2637" end_char="2642">GEOS-5</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2644" end_char="2652">provienen</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2654" end_char="2655">de</TOKEN>
+<TOKEN id="token-17-11" pos="punct" morph="none" start_char="2657" end_char="2657">"</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2658" end_char="2668">variaciones</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2670" end_char="2671">en</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2673" end_char="2675">las</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2677" end_char="2687">condiciones</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2689" end_char="2702">meteorológicas</TOKEN>
+<TOKEN id="token-17-17" pos="punct" morph="none" start_char="2703" end_char="2703">,</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2705" end_char="2706">en</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2708" end_char="2717">particular</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2719" end_char="2721">los</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2723" end_char="2729">vientos</TOKEN>
+<TOKEN id="token-17-22" pos="punct" morph="none" start_char="2730" end_char="2731">".</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2733" end_char="2766">
+<ORIGINAL_TEXT>Los altos niveles de la industria.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2733" end_char="2735">Los</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2737" end_char="2741">altos</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2743" end_char="2749">niveles</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2751" end_char="2752">de</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2754" end_char="2755">la</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2757" end_char="2765">industria</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="2766" end_char="2766">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2768" end_char="2923">
+<ORIGINAL_TEXT>en la región – Wuhan Iron Steel Company – son probablemente la causa de mayores "inventarios de emisiones" prescritos por el modelo para la región de Wuhan.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2768" end_char="2769">en</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2771" end_char="2772">la</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2774" end_char="2779">región</TOKEN>
+<TOKEN id="token-19-3" pos="punct" morph="none" start_char="2781" end_char="2781">–</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2783" end_char="2787">Wuhan</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2789" end_char="2792">Iron</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2794" end_char="2798">Steel</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2800" end_char="2806">Company</TOKEN>
+<TOKEN id="token-19-8" pos="punct" morph="none" start_char="2808" end_char="2808">–</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2810" end_char="2812">son</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2814" end_char="2826">probablemente</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2828" end_char="2829">la</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2831" end_char="2835">causa</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2837" end_char="2838">de</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2840" end_char="2846">mayores</TOKEN>
+<TOKEN id="token-19-15" pos="punct" morph="none" start_char="2848" end_char="2848">"</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2849" end_char="2859">inventarios</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2861" end_char="2862">de</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2864" end_char="2872">emisiones</TOKEN>
+<TOKEN id="token-19-19" pos="punct" morph="none" start_char="2873" end_char="2873">"</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2875" end_char="2884">prescritos</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2886" end_char="2888">por</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2890" end_char="2891">el</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2893" end_char="2898">modelo</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2900" end_char="2903">para</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2905" end_char="2906">la</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2908" end_char="2913">región</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="2915" end_char="2916">de</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="2918" end_char="2922">Wuhan</TOKEN>
+<TOKEN id="token-19-29" pos="punct" morph="none" start_char="2923" end_char="2923">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2926" end_char="3009">
+<ORIGINAL_TEXT>Problema dos: las emisiones de azufre no son un factor significativo en la cremación</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2926" end_char="2933">Problema</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2935" end_char="2937">dos</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="2938" end_char="2938">:</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2940" end_char="2942">las</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2944" end_char="2952">emisiones</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2954" end_char="2955">de</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2957" end_char="2962">azufre</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2964" end_char="2965">no</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2967" end_char="2969">son</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2971" end_char="2972">un</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2974" end_char="2979">factor</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2981" end_char="2993">significativo</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2995" end_char="2996">en</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2998" end_char="2999">la</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="3001" end_char="3009">cremación</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3013" end_char="3129">
+<ORIGINAL_TEXT>El hilo viral de twitter afirma ese "dióxido de azufre [is] comúnmente asociado con la quema de materias orgánicas ".</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="3013" end_char="3014">El</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="3016" end_char="3019">hilo</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3021" end_char="3025">viral</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3027" end_char="3028">de</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3030" end_char="3036">twitter</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3038" end_char="3043">afirma</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3045" end_char="3047">ese</TOKEN>
+<TOKEN id="token-21-7" pos="punct" morph="none" start_char="3049" end_char="3049">"</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3050" end_char="3056">dióxido</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3058" end_char="3059">de</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3061" end_char="3066">azufre</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="3068" end_char="3068">[</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="3069" end_char="3070">is</TOKEN>
+<TOKEN id="token-21-13" pos="punct" morph="none" start_char="3071" end_char="3071">]</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3073" end_char="3082">comúnmente</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3084" end_char="3091">asociado</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3093" end_char="3095">con</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3097" end_char="3098">la</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3100" end_char="3104">quema</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3106" end_char="3107">de</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3109" end_char="3116">materias</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3118" end_char="3126">orgánicas</TOKEN>
+<TOKEN id="token-21-22" pos="punct" morph="none" start_char="3128" end_char="3129">".</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3131" end_char="3224">
+<ORIGINAL_TEXT>Esta es una declaración técnicamente correcta que es extremadamente engañosa en este contexto.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3131" end_char="3134">Esta</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3136" end_char="3137">es</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3139" end_char="3141">una</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3143" end_char="3153">declaración</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3155" end_char="3166">técnicamente</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3168" end_char="3175">correcta</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3177" end_char="3179">que</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3181" end_char="3182">es</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3184" end_char="3197">extremadamente</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3199" end_char="3206">engañosa</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3208" end_char="3209">en</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3211" end_char="3214">este</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3216" end_char="3223">contexto</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="3224" end_char="3224">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3226" end_char="3292">
+<ORIGINAL_TEXT>El dióxido de azufre es comúnmente asociado con la quema de carbón.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3226" end_char="3227">El</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3229" end_char="3235">dióxido</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3237" end_char="3238">de</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3240" end_char="3245">azufre</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3247" end_char="3248">es</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3250" end_char="3259">comúnmente</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3261" end_char="3268">asociado</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3270" end_char="3272">con</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3274" end_char="3275">la</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3277" end_char="3281">quema</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3283" end_char="3284">de</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3286" end_char="3291">carbón</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="3292" end_char="3292">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3294" end_char="3573">
+<ORIGINAL_TEXT>El carbón, formado a partir de los compuestos de carbono del material vegetal muerto enterrado y calentado naturalmente en la tierra durante millones a cientos de millones de años, es de hecho un ejemplo de "materia orgánica" que, cuando se quema, puede liberar dióxido de azufre.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3294" end_char="3295">El</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3297" end_char="3302">carbón</TOKEN>
+<TOKEN id="token-24-2" pos="punct" morph="none" start_char="3303" end_char="3303">,</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3305" end_char="3311">formado</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3313" end_char="3313">a</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3315" end_char="3320">partir</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3322" end_char="3323">de</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3325" end_char="3327">los</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3329" end_char="3338">compuestos</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3340" end_char="3341">de</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3343" end_char="3349">carbono</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3351" end_char="3353">del</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3355" end_char="3362">material</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3364" end_char="3370">vegetal</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3372" end_char="3377">muerto</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3379" end_char="3387">enterrado</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="3389" end_char="3389">y</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3391" end_char="3399">calentado</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="3401" end_char="3412">naturalmente</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3414" end_char="3415">en</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="3417" end_char="3418">la</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="3420" end_char="3425">tierra</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="3427" end_char="3433">durante</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="3435" end_char="3442">millones</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="3444" end_char="3444">a</TOKEN>
+<TOKEN id="token-24-25" pos="word" morph="none" start_char="3446" end_char="3452">cientos</TOKEN>
+<TOKEN id="token-24-26" pos="word" morph="none" start_char="3454" end_char="3455">de</TOKEN>
+<TOKEN id="token-24-27" pos="word" morph="none" start_char="3457" end_char="3464">millones</TOKEN>
+<TOKEN id="token-24-28" pos="word" morph="none" start_char="3466" end_char="3467">de</TOKEN>
+<TOKEN id="token-24-29" pos="word" morph="none" start_char="3469" end_char="3472">años</TOKEN>
+<TOKEN id="token-24-30" pos="punct" morph="none" start_char="3473" end_char="3473">,</TOKEN>
+<TOKEN id="token-24-31" pos="word" morph="none" start_char="3475" end_char="3476">es</TOKEN>
+<TOKEN id="token-24-32" pos="word" morph="none" start_char="3478" end_char="3479">de</TOKEN>
+<TOKEN id="token-24-33" pos="word" morph="none" start_char="3481" end_char="3485">hecho</TOKEN>
+<TOKEN id="token-24-34" pos="word" morph="none" start_char="3487" end_char="3488">un</TOKEN>
+<TOKEN id="token-24-35" pos="word" morph="none" start_char="3490" end_char="3496">ejemplo</TOKEN>
+<TOKEN id="token-24-36" pos="word" morph="none" start_char="3498" end_char="3499">de</TOKEN>
+<TOKEN id="token-24-37" pos="punct" morph="none" start_char="3501" end_char="3501">"</TOKEN>
+<TOKEN id="token-24-38" pos="word" morph="none" start_char="3502" end_char="3508">materia</TOKEN>
+<TOKEN id="token-24-39" pos="word" morph="none" start_char="3510" end_char="3517">orgánica</TOKEN>
+<TOKEN id="token-24-40" pos="punct" morph="none" start_char="3518" end_char="3518">"</TOKEN>
+<TOKEN id="token-24-41" pos="word" morph="none" start_char="3520" end_char="3522">que</TOKEN>
+<TOKEN id="token-24-42" pos="punct" morph="none" start_char="3523" end_char="3523">,</TOKEN>
+<TOKEN id="token-24-43" pos="word" morph="none" start_char="3525" end_char="3530">cuando</TOKEN>
+<TOKEN id="token-24-44" pos="word" morph="none" start_char="3532" end_char="3533">se</TOKEN>
+<TOKEN id="token-24-45" pos="word" morph="none" start_char="3535" end_char="3539">quema</TOKEN>
+<TOKEN id="token-24-46" pos="punct" morph="none" start_char="3540" end_char="3540">,</TOKEN>
+<TOKEN id="token-24-47" pos="word" morph="none" start_char="3542" end_char="3546">puede</TOKEN>
+<TOKEN id="token-24-48" pos="word" morph="none" start_char="3548" end_char="3554">liberar</TOKEN>
+<TOKEN id="token-24-49" pos="word" morph="none" start_char="3556" end_char="3562">dióxido</TOKEN>
+<TOKEN id="token-24-50" pos="word" morph="none" start_char="3564" end_char="3565">de</TOKEN>
+<TOKEN id="token-24-51" pos="word" morph="none" start_char="3567" end_char="3572">azufre</TOKEN>
+<TOKEN id="token-24-52" pos="punct" morph="none" start_char="3573" end_char="3573">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3576" end_char="3687">
+<ORIGINAL_TEXT>Los humanos, aunque también son un ejemplo de materia orgánica, contienen una cantidad insignificante de azufre.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3576" end_char="3578">Los</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3580" end_char="3586">humanos</TOKEN>
+<TOKEN id="token-25-2" pos="punct" morph="none" start_char="3587" end_char="3587">,</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3589" end_char="3594">aunque</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3596" end_char="3602">también</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3604" end_char="3606">son</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3608" end_char="3609">un</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3611" end_char="3617">ejemplo</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3619" end_char="3620">de</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3622" end_char="3628">materia</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3630" end_char="3637">orgánica</TOKEN>
+<TOKEN id="token-25-11" pos="punct" morph="none" start_char="3638" end_char="3638">,</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3640" end_char="3648">contienen</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="3650" end_char="3652">una</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3654" end_char="3661">cantidad</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3663" end_char="3676">insignificante</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="3678" end_char="3679">de</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3681" end_char="3686">azufre</TOKEN>
+<TOKEN id="token-25-18" pos="punct" morph="none" start_char="3687" end_char="3687">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3689" end_char="3745">
+<ORIGINAL_TEXT>Carbono, hidrógeno, oxígeno, nitrógeno, calcio y fósforo.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3689" end_char="3695">Carbono</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="3696" end_char="3696">,</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3698" end_char="3706">hidrógeno</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="3707" end_char="3707">,</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3709" end_char="3715">oxígeno</TOKEN>
+<TOKEN id="token-26-5" pos="punct" morph="none" start_char="3716" end_char="3716">,</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3718" end_char="3726">nitrógeno</TOKEN>
+<TOKEN id="token-26-7" pos="punct" morph="none" start_char="3727" end_char="3727">,</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3729" end_char="3734">calcio</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3736" end_char="3736">y</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3738" end_char="3744">fósforo</TOKEN>
+<TOKEN id="token-26-11" pos="punct" morph="none" start_char="3745" end_char="3745">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3747" end_char="3890">
+<ORIGINAL_TEXT>mas que El 99% de todos los productos químicos en el cuerpo humano, dejando menos del 1 por ciento para cualquier otra cosa, incluido el azufre.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3747" end_char="3749">mas</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3751" end_char="3753">que</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3755" end_char="3756">El</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3758" end_char="3759">99</TOKEN>
+<TOKEN id="token-27-4" pos="punct" morph="none" start_char="3760" end_char="3760">%</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3762" end_char="3763">de</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3765" end_char="3769">todos</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3771" end_char="3773">los</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3775" end_char="3783">productos</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="3785" end_char="3792">químicos</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3794" end_char="3795">en</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3797" end_char="3798">el</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3800" end_char="3805">cuerpo</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="3807" end_char="3812">humano</TOKEN>
+<TOKEN id="token-27-14" pos="punct" morph="none" start_char="3813" end_char="3813">,</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="3815" end_char="3821">dejando</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="3823" end_char="3827">menos</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="3829" end_char="3831">del</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="3833" end_char="3833">1</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="3835" end_char="3837">por</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="3839" end_char="3844">ciento</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="3846" end_char="3849">para</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="3851" end_char="3859">cualquier</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="3861" end_char="3864">otra</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="3866" end_char="3869">cosa</TOKEN>
+<TOKEN id="token-27-25" pos="punct" morph="none" start_char="3870" end_char="3870">,</TOKEN>
+<TOKEN id="token-27-26" pos="word" morph="none" start_char="3872" end_char="3879">incluido</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="3881" end_char="3882">el</TOKEN>
+<TOKEN id="token-27-28" pos="word" morph="none" start_char="3884" end_char="3889">azufre</TOKEN>
+<TOKEN id="token-27-29" pos="punct" morph="none" start_char="3890" end_char="3890">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3892" end_char="4010">
+<ORIGINAL_TEXT>El azufre presente en el carbón proviene predominantemente de procesos geológicos que ocurren durante millones de años.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="3892" end_char="3893">El</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3895" end_char="3900">azufre</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3902" end_char="3909">presente</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3911" end_char="3912">en</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3914" end_char="3915">el</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3917" end_char="3922">carbón</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3924" end_char="3931">proviene</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3933" end_char="3949">predominantemente</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3951" end_char="3952">de</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3954" end_char="3961">procesos</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="3963" end_char="3972">geológicos</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="3974" end_char="3976">que</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="3978" end_char="3984">ocurren</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="3986" end_char="3992">durante</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="3994" end_char="4001">millones</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="4003" end_char="4004">de</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="4006" end_char="4009">años</TOKEN>
+<TOKEN id="token-28-17" pos="punct" morph="none" start_char="4010" end_char="4010">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4012" end_char="4251">
+<ORIGINAL_TEXT>Como tal, un cuerpo recientemente fallecido, cuando se quema, no va a generar una gran cantidad de compuestos de azufre, incluso si hubiera mediciones satelitales en vivo para documentar la liberación de productos químicos (que no existen).</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4012" end_char="4015">Como</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4017" end_char="4019">tal</TOKEN>
+<TOKEN id="token-29-2" pos="punct" morph="none" start_char="4020" end_char="4020">,</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4022" end_char="4023">un</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4025" end_char="4030">cuerpo</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4032" end_char="4044">recientemente</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4046" end_char="4054">fallecido</TOKEN>
+<TOKEN id="token-29-7" pos="punct" morph="none" start_char="4055" end_char="4055">,</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="4057" end_char="4062">cuando</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="4064" end_char="4065">se</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="4067" end_char="4071">quema</TOKEN>
+<TOKEN id="token-29-11" pos="punct" morph="none" start_char="4072" end_char="4072">,</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="4074" end_char="4075">no</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="4077" end_char="4078">va</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="4080" end_char="4080">a</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="4082" end_char="4088">generar</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="4090" end_char="4092">una</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="4094" end_char="4097">gran</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="4099" end_char="4106">cantidad</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="4108" end_char="4109">de</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="4111" end_char="4120">compuestos</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="4122" end_char="4123">de</TOKEN>
+<TOKEN id="token-29-22" pos="word" morph="none" start_char="4125" end_char="4130">azufre</TOKEN>
+<TOKEN id="token-29-23" pos="punct" morph="none" start_char="4131" end_char="4131">,</TOKEN>
+<TOKEN id="token-29-24" pos="word" morph="none" start_char="4133" end_char="4139">incluso</TOKEN>
+<TOKEN id="token-29-25" pos="word" morph="none" start_char="4141" end_char="4142">si</TOKEN>
+<TOKEN id="token-29-26" pos="word" morph="none" start_char="4144" end_char="4150">hubiera</TOKEN>
+<TOKEN id="token-29-27" pos="word" morph="none" start_char="4152" end_char="4161">mediciones</TOKEN>
+<TOKEN id="token-29-28" pos="word" morph="none" start_char="4163" end_char="4173">satelitales</TOKEN>
+<TOKEN id="token-29-29" pos="word" morph="none" start_char="4175" end_char="4176">en</TOKEN>
+<TOKEN id="token-29-30" pos="word" morph="none" start_char="4178" end_char="4181">vivo</TOKEN>
+<TOKEN id="token-29-31" pos="word" morph="none" start_char="4183" end_char="4186">para</TOKEN>
+<TOKEN id="token-29-32" pos="word" morph="none" start_char="4188" end_char="4197">documentar</TOKEN>
+<TOKEN id="token-29-33" pos="word" morph="none" start_char="4199" end_char="4200">la</TOKEN>
+<TOKEN id="token-29-34" pos="word" morph="none" start_char="4202" end_char="4211">liberación</TOKEN>
+<TOKEN id="token-29-35" pos="word" morph="none" start_char="4213" end_char="4214">de</TOKEN>
+<TOKEN id="token-29-36" pos="word" morph="none" start_char="4216" end_char="4224">productos</TOKEN>
+<TOKEN id="token-29-37" pos="word" morph="none" start_char="4226" end_char="4233">químicos</TOKEN>
+<TOKEN id="token-29-38" pos="punct" morph="none" start_char="4235" end_char="4235">(</TOKEN>
+<TOKEN id="token-29-39" pos="word" morph="none" start_char="4236" end_char="4238">que</TOKEN>
+<TOKEN id="token-29-40" pos="word" morph="none" start_char="4240" end_char="4241">no</TOKEN>
+<TOKEN id="token-29-41" pos="word" morph="none" start_char="4243" end_char="4249">existen</TOKEN>
+<TOKEN id="token-29-42" pos="punct" morph="none" start_char="4250" end_char="4251">).</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4254" end_char="4282">
+<ORIGINAL_TEXT>La cremación y el coronavirus</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="4254" end_char="4255">La</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4257" end_char="4265">cremación</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="4267" end_char="4267">y</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="4269" end_char="4270">el</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="4272" end_char="4282">coronavirus</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4286" end_char="4420">
+<ORIGINAL_TEXT>Nada de esto quiere decir que no haya habido un aumento en la cremación en áreas de China afectadas por la propagación del coronavirus.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4286" end_char="4289">Nada</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4291" end_char="4292">de</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="4294" end_char="4297">esto</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="4299" end_char="4304">quiere</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="4306" end_char="4310">decir</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="4312" end_char="4314">que</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="4316" end_char="4317">no</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="4319" end_char="4322">haya</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4324" end_char="4329">habido</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="4331" end_char="4332">un</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4334" end_char="4340">aumento</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4342" end_char="4343">en</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4345" end_char="4346">la</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="4348" end_char="4356">cremación</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4358" end_char="4359">en</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="4361" end_char="4365">áreas</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="4367" end_char="4368">de</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="4370" end_char="4374">China</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="4376" end_char="4384">afectadas</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="4386" end_char="4388">por</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="4390" end_char="4391">la</TOKEN>
+<TOKEN id="token-31-21" pos="word" morph="none" start_char="4393" end_char="4403">propagación</TOKEN>
+<TOKEN id="token-31-22" pos="word" morph="none" start_char="4405" end_char="4407">del</TOKEN>
+<TOKEN id="token-31-23" pos="word" morph="none" start_char="4409" end_char="4419">coronavirus</TOKEN>
+<TOKEN id="token-31-24" pos="punct" morph="none" start_char="4420" end_char="4420">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4422" end_char="4613">
+<ORIGINAL_TEXT>El 2 de febrero de 2020, el gobierno chino anunció que era prohibición todos los funerales para víctimas de la infección viral, estipulando además que se requeriría cremación para sus cuerpos.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4422" end_char="4423">El</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4425" end_char="4425">2</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="4427" end_char="4428">de</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="4430" end_char="4436">febrero</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="4438" end_char="4439">de</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="4441" end_char="4444">2020</TOKEN>
+<TOKEN id="token-32-6" pos="punct" morph="none" start_char="4445" end_char="4445">,</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="4447" end_char="4448">el</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="4450" end_char="4457">gobierno</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="4459" end_char="4463">chino</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="4465" end_char="4471">anunció</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="4473" end_char="4475">que</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="4477" end_char="4479">era</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="4481" end_char="4491">prohibición</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="4493" end_char="4497">todos</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="4499" end_char="4501">los</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="4503" end_char="4511">funerales</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="4513" end_char="4516">para</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="4518" end_char="4525">víctimas</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="4527" end_char="4528">de</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="4530" end_char="4531">la</TOKEN>
+<TOKEN id="token-32-21" pos="word" morph="none" start_char="4533" end_char="4541">infección</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="4543" end_char="4547">viral</TOKEN>
+<TOKEN id="token-32-23" pos="punct" morph="none" start_char="4548" end_char="4548">,</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="4550" end_char="4560">estipulando</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="4562" end_char="4567">además</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="4569" end_char="4571">que</TOKEN>
+<TOKEN id="token-32-27" pos="word" morph="none" start_char="4573" end_char="4574">se</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="4576" end_char="4585">requeriría</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="4587" end_char="4595">cremación</TOKEN>
+<TOKEN id="token-32-30" pos="word" morph="none" start_char="4597" end_char="4600">para</TOKEN>
+<TOKEN id="token-32-31" pos="word" morph="none" start_char="4602" end_char="4604">sus</TOKEN>
+<TOKEN id="token-32-32" pos="word" morph="none" start_char="4606" end_char="4612">cuerpos</TOKEN>
+<TOKEN id="token-32-33" pos="punct" morph="none" start_char="4613" end_char="4613">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4616" end_char="4855">
+<ORIGINAL_TEXT>Sin embargo, la sugerencia de que los datos satelitales proporcionan una señal medible de aumentos en la cremación se basa en dos malentendidos fundamentales sobre el modelo atmosférico en cuestión y la química utilizada para interpretarlo.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4616" end_char="4618">Sin</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4620" end_char="4626">embargo</TOKEN>
+<TOKEN id="token-33-2" pos="punct" morph="none" start_char="4627" end_char="4627">,</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="4629" end_char="4630">la</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4632" end_char="4641">sugerencia</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="4643" end_char="4644">de</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="4646" end_char="4648">que</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="4650" end_char="4652">los</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="4654" end_char="4658">datos</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="4660" end_char="4670">satelitales</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="4672" end_char="4683">proporcionan</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="4685" end_char="4687">una</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="4689" end_char="4693">señal</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="4695" end_char="4701">medible</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="4703" end_char="4704">de</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="4706" end_char="4713">aumentos</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="4715" end_char="4716">en</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="4718" end_char="4719">la</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="4721" end_char="4729">cremación</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="4731" end_char="4732">se</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="4734" end_char="4737">basa</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="4739" end_char="4740">en</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="4742" end_char="4744">dos</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="4746" end_char="4758">malentendidos</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="4760" end_char="4772">fundamentales</TOKEN>
+<TOKEN id="token-33-25" pos="word" morph="none" start_char="4774" end_char="4778">sobre</TOKEN>
+<TOKEN id="token-33-26" pos="word" morph="none" start_char="4780" end_char="4781">el</TOKEN>
+<TOKEN id="token-33-27" pos="word" morph="none" start_char="4783" end_char="4788">modelo</TOKEN>
+<TOKEN id="token-33-28" pos="word" morph="none" start_char="4790" end_char="4800">atmosférico</TOKEN>
+<TOKEN id="token-33-29" pos="word" morph="none" start_char="4802" end_char="4803">en</TOKEN>
+<TOKEN id="token-33-30" pos="word" morph="none" start_char="4805" end_char="4812">cuestión</TOKEN>
+<TOKEN id="token-33-31" pos="word" morph="none" start_char="4814" end_char="4814">y</TOKEN>
+<TOKEN id="token-33-32" pos="word" morph="none" start_char="4816" end_char="4817">la</TOKEN>
+<TOKEN id="token-33-33" pos="word" morph="none" start_char="4819" end_char="4825">química</TOKEN>
+<TOKEN id="token-33-34" pos="word" morph="none" start_char="4827" end_char="4835">utilizada</TOKEN>
+<TOKEN id="token-33-35" pos="word" morph="none" start_char="4837" end_char="4840">para</TOKEN>
+<TOKEN id="token-33-36" pos="word" morph="none" start_char="4842" end_char="4854">interpretarlo</TOKEN>
+<TOKEN id="token-33-37" pos="punct" morph="none" start_char="4855" end_char="4855">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="4857" end_char="4904">
+<ORIGINAL_TEXT>Como tal, calificamos este reclamo como "Falso".</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="4857" end_char="4860">Como</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="4862" end_char="4864">tal</TOKEN>
+<TOKEN id="token-34-2" pos="punct" morph="none" start_char="4865" end_char="4865">,</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="4867" end_char="4877">calificamos</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="4879" end_char="4882">este</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="4884" end_char="4890">reclamo</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="4892" end_char="4895">como</TOKEN>
+<TOKEN id="token-34-7" pos="punct" morph="none" start_char="4897" end_char="4897">"</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="4898" end_char="4902">Falso</TOKEN>
+<TOKEN id="token-34-9" pos="punct" morph="none" start_char="4903" end_char="4904">".</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,13 @@
+prefix auicql: <https://www.caci.com/aida-ui/claimquerylist#>
+
+SELECT DISTINCT ?queryListId ?queryListName ?assocaitedClaimQueryId
+
+FROM <https://www.caci.com/aida-ui/claimquerylist>
+
+WHERE
+{
+	?queryValue ?o ?p ;
+	auicql:queryListId ?queryListId;
+	OPTIONAL { ?queryValue auicql:queryListName ?queryListName } .
+    OPTIONAL { ?queryValue auicql:assocaitedClaimQueryId ?assocaitedClaimQueryId } .
+}

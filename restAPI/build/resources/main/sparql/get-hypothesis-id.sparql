@@ -1,0 +1,6 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+
+select distinct ?hypothesis {$from}
+where {
+    ?hypothesis a aida:Hypothesis .
+}

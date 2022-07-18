@@ -1,0 +1,14 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select distinct ?cluster ?prototype ?type {$from}
+where {
+    aida:{$ereType} ^a / ^aida:clusterMember /aida:cluster ?cluster .
+    ?cluster aida:prototype ?prototype .
+    ?prototype ^rdf:subject ?type_statement .
+    ?type_statement rdf:predicate rdf:type .
+    ?type_statement rdf:object ?type .
+
+    #remove long id's that causes issues with elastic search id's
+    FILTER (STRLEN(STR(?cluster)) < 511) .
+
+}

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C0495AG" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2550" raw_text_md5="ecca039a6c61d7c528936912c8ab0edc">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="63">
+<ORIGINAL_TEXT>'Crazy and evil': Bill Gates surprised by pandemic conspiracies</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="punct" morph="none" start_char="1" end_char="1">'</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="2" end_char="6">Crazy</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="8" end_char="10">and</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="12" end_char="15">evil</TOKEN>
+<TOKEN id="token-0-4" pos="punct" morph="none" start_char="16" end_char="17">':</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="19" end_char="22">Bill</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="24" end_char="28">Gates</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="30" end_char="38">surprised</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="40" end_char="41">by</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="43" end_char="50">pandemic</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="52" end_char="63">conspiracies</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="67" end_char="357">
+<ORIGINAL_TEXT>LONDON (Reuters) - Microsoft co-founder turned philanthropist Bill Gates says he has been taken aback by the volume of "crazy" and "evil" conspiracy theories about him spreading on social media during the COVID-19 pandemic, but said on Wednesday he would like to explore what is behind them.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="67" end_char="72">LONDON</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="74" end_char="74">(</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="75" end_char="81">Reuters</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="82" end_char="82">)</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="84" end_char="84">-</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="86" end_char="94">Microsoft</TOKEN>
+<TOKEN id="token-1-6" pos="unknown" morph="none" start_char="96" end_char="105">co-founder</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="107" end_char="112">turned</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="114" end_char="127">philanthropist</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="129" end_char="132">Bill</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="134" end_char="138">Gates</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="140" end_char="143">says</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="145" end_char="146">he</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="148" end_char="150">has</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="152" end_char="155">been</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="157" end_char="161">taken</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="163" end_char="167">aback</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="169" end_char="170">by</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="172" end_char="174">the</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="176" end_char="181">volume</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="183" end_char="184">of</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="186" end_char="186">"</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="187" end_char="191">crazy</TOKEN>
+<TOKEN id="token-1-23" pos="punct" morph="none" start_char="192" end_char="192">"</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="194" end_char="196">and</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="198" end_char="198">"</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="199" end_char="202">evil</TOKEN>
+<TOKEN id="token-1-27" pos="punct" morph="none" start_char="203" end_char="203">"</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="205" end_char="214">conspiracy</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="216" end_char="223">theories</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="225" end_char="229">about</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="231" end_char="233">him</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="235" end_char="243">spreading</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="245" end_char="246">on</TOKEN>
+<TOKEN id="token-1-34" pos="word" morph="none" start_char="248" end_char="253">social</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="255" end_char="259">media</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="261" end_char="266">during</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="268" end_char="270">the</TOKEN>
+<TOKEN id="token-1-38" pos="unknown" morph="none" start_char="272" end_char="279">COVID-19</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="281" end_char="288">pandemic</TOKEN>
+<TOKEN id="token-1-40" pos="punct" morph="none" start_char="289" end_char="289">,</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="291" end_char="293">but</TOKEN>
+<TOKEN id="token-1-42" pos="word" morph="none" start_char="295" end_char="298">said</TOKEN>
+<TOKEN id="token-1-43" pos="word" morph="none" start_char="300" end_char="301">on</TOKEN>
+<TOKEN id="token-1-44" pos="word" morph="none" start_char="303" end_char="311">Wednesday</TOKEN>
+<TOKEN id="token-1-45" pos="word" morph="none" start_char="313" end_char="314">he</TOKEN>
+<TOKEN id="token-1-46" pos="word" morph="none" start_char="316" end_char="320">would</TOKEN>
+<TOKEN id="token-1-47" pos="word" morph="none" start_char="322" end_char="325">like</TOKEN>
+<TOKEN id="token-1-48" pos="word" morph="none" start_char="327" end_char="328">to</TOKEN>
+<TOKEN id="token-1-49" pos="word" morph="none" start_char="330" end_char="336">explore</TOKEN>
+<TOKEN id="token-1-50" pos="word" morph="none" start_char="338" end_char="341">what</TOKEN>
+<TOKEN id="token-1-51" pos="word" morph="none" start_char="343" end_char="344">is</TOKEN>
+<TOKEN id="token-1-52" pos="word" morph="none" start_char="346" end_char="351">behind</TOKEN>
+<TOKEN id="token-1-53" pos="word" morph="none" start_char="353" end_char="356">them</TOKEN>
+<TOKEN id="token-1-54" pos="punct" morph="none" start_char="357" end_char="357">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="362" end_char="650">
+<ORIGINAL_TEXT>In an interview with Reuters, Gates said the millions of online posts and "crazy conspiracy theories" about him and about top U.S. infectious disease expert Anthony Fauci had likely taken hold in part because of the combination of a frightening viral pandemic and the rise of social media.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="362" end_char="363">In</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="365" end_char="366">an</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="368" end_char="376">interview</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="378" end_char="381">with</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="383" end_char="389">Reuters</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="390" end_char="390">,</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="392" end_char="396">Gates</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="398" end_char="401">said</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="403" end_char="405">the</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="407" end_char="414">millions</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="416" end_char="417">of</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="419" end_char="424">online</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="426" end_char="430">posts</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="432" end_char="434">and</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="436" end_char="436">"</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="437" end_char="441">crazy</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="443" end_char="452">conspiracy</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="454" end_char="461">theories</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="462" end_char="462">"</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="464" end_char="468">about</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="470" end_char="472">him</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="474" end_char="476">and</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="478" end_char="482">about</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="484" end_char="486">top</TOKEN>
+<TOKEN id="token-2-24" pos="unknown" morph="none" start_char="488" end_char="490">U.S</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="491" end_char="491">.</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="493" end_char="502">infectious</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="504" end_char="510">disease</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="512" end_char="517">expert</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="519" end_char="525">Anthony</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="527" end_char="531">Fauci</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="533" end_char="535">had</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="537" end_char="542">likely</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="544" end_char="548">taken</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="550" end_char="553">hold</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="555" end_char="556">in</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="558" end_char="561">part</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="563" end_char="569">because</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="571" end_char="572">of</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="574" end_char="576">the</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="578" end_char="588">combination</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="590" end_char="591">of</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="593" end_char="593">a</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="595" end_char="605">frightening</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="607" end_char="611">viral</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="613" end_char="620">pandemic</TOKEN>
+<TOKEN id="token-2-46" pos="word" morph="none" start_char="622" end_char="624">and</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="626" end_char="628">the</TOKEN>
+<TOKEN id="token-2-48" pos="word" morph="none" start_char="630" end_char="633">rise</TOKEN>
+<TOKEN id="token-2-49" pos="word" morph="none" start_char="635" end_char="636">of</TOKEN>
+<TOKEN id="token-2-50" pos="word" morph="none" start_char="638" end_char="643">social</TOKEN>
+<TOKEN id="token-2-51" pos="word" morph="none" start_char="645" end_char="649">media</TOKEN>
+<TOKEN id="token-2-52" pos="punct" morph="none" start_char="650" end_char="650">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="653" end_char="767">
+<ORIGINAL_TEXT>"Nobody would have predicted that I and Dr. Fauci would be so prominent in these really evil theories," Gates said.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="punct" morph="none" start_char="653" end_char="653">"</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="654" end_char="659">Nobody</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="661" end_char="665">would</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="667" end_char="670">have</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="672" end_char="680">predicted</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="682" end_char="685">that</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="687" end_char="687">I</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="689" end_char="691">and</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="693" end_char="694">Dr</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="695" end_char="695">.</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="697" end_char="701">Fauci</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="703" end_char="707">would</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="709" end_char="710">be</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="712" end_char="713">so</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="715" end_char="723">prominent</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="725" end_char="726">in</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="728" end_char="732">these</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="734" end_char="739">really</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="741" end_char="744">evil</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="746" end_char="753">theories</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="754" end_char="755">,"</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="757" end_char="761">Gates</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="763" end_char="766">said</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="767" end_char="767">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="770" end_char="797">
+<ORIGINAL_TEXT>"I’m very surprised by that.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="punct" morph="none" start_char="770" end_char="770">"</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="771" end_char="773">I’m</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="775" end_char="778">very</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="780" end_char="788">surprised</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="790" end_char="791">by</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="793" end_char="796">that</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="797" end_char="797">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="799" end_char="819">
+<ORIGINAL_TEXT>I hope it goes away."</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="799" end_char="799">I</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="801" end_char="804">hope</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="806" end_char="807">it</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="809" end_char="812">goes</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="814" end_char="817">away</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="818" end_char="819">."</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="822" end_char="1043">
+<ORIGINAL_TEXT>Gates, a billionaire who stepped down as chairman of Microsoft Corp in 2014, has through his philanthropic Bill and Melinda Gates Foundation committed at least $1.75 billion to the global response to the COVID-19 pandemic.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="822" end_char="826">Gates</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="827" end_char="827">,</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="829" end_char="829">a</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="831" end_char="841">billionaire</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="843" end_char="845">who</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="847" end_char="853">stepped</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="855" end_char="858">down</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="860" end_char="861">as</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="863" end_char="870">chairman</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="872" end_char="873">of</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="875" end_char="883">Microsoft</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="885" end_char="888">Corp</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="890" end_char="891">in</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="893" end_char="896">2014</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="897" end_char="897">,</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="899" end_char="901">has</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="903" end_char="909">through</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="911" end_char="913">his</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="915" end_char="927">philanthropic</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="929" end_char="932">Bill</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="934" end_char="936">and</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="938" end_char="944">Melinda</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="946" end_char="950">Gates</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="952" end_char="961">Foundation</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="963" end_char="971">committed</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="973" end_char="974">at</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="976" end_char="980">least</TOKEN>
+<TOKEN id="token-6-27" pos="unknown" morph="none" start_char="982" end_char="986">$1.75</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="988" end_char="994">billion</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="996" end_char="997">to</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="999" end_char="1001">the</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="1003" end_char="1008">global</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="1010" end_char="1017">response</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="1019" end_char="1020">to</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="1022" end_char="1024">the</TOKEN>
+<TOKEN id="token-6-35" pos="unknown" morph="none" start_char="1026" end_char="1033">COVID-19</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="1035" end_char="1042">pandemic</TOKEN>
+<TOKEN id="token-6-37" pos="punct" morph="none" start_char="1043" end_char="1043">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1045" end_char="1132">
+<ORIGINAL_TEXT>That includes support for some makers of vaccines, diagnostics and potential treatments.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1045" end_char="1048">That</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1050" end_char="1057">includes</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1059" end_char="1065">support</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1067" end_char="1069">for</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1071" end_char="1074">some</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1076" end_char="1081">makers</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1083" end_char="1084">of</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1086" end_char="1093">vaccines</TOKEN>
+<TOKEN id="token-7-8" pos="punct" morph="none" start_char="1094" end_char="1094">,</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1096" end_char="1106">diagnostics</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1108" end_char="1110">and</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1112" end_char="1120">potential</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1122" end_char="1131">treatments</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="1132" end_char="1132">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1135" end_char="1331">
+<ORIGINAL_TEXT>Since the pandemic began a year ago, millions of conspiracies have spread over the Internet, fuelling misinformation about the coronavirus, its origins and the motives of those working to fight it.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1135" end_char="1139">Since</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1141" end_char="1143">the</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1145" end_char="1152">pandemic</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1154" end_char="1158">began</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1160" end_char="1160">a</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1162" end_char="1165">year</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1167" end_char="1169">ago</TOKEN>
+<TOKEN id="token-8-7" pos="punct" morph="none" start_char="1170" end_char="1170">,</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1172" end_char="1179">millions</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1181" end_char="1182">of</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1184" end_char="1195">conspiracies</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1197" end_char="1200">have</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1202" end_char="1207">spread</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1209" end_char="1212">over</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1214" end_char="1216">the</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1218" end_char="1225">Internet</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="1226" end_char="1226">,</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1228" end_char="1235">fuelling</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1237" end_char="1250">misinformation</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1252" end_char="1256">about</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1258" end_char="1260">the</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1262" end_char="1272">coronavirus</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1273" end_char="1273">,</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1275" end_char="1277">its</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1279" end_char="1285">origins</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1287" end_char="1289">and</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1291" end_char="1293">the</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1295" end_char="1301">motives</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1303" end_char="1304">of</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1306" end_char="1310">those</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1312" end_char="1318">working</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1320" end_char="1321">to</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1323" end_char="1327">fight</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1329" end_char="1330">it</TOKEN>
+<TOKEN id="token-8-34" pos="punct" morph="none" start_char="1331" end_char="1331">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1334" end_char="1549">
+<ORIGINAL_TEXT>They include claims that Fauci and Gates created the pandemic to try and control people, that they want to profit from the virus’ spread, and that they want to use vaccines to insert trackable microchips into people.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1334" end_char="1337">They</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1339" end_char="1345">include</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1347" end_char="1352">claims</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1354" end_char="1357">that</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1359" end_char="1363">Fauci</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1365" end_char="1367">and</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1369" end_char="1373">Gates</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1375" end_char="1381">created</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1383" end_char="1385">the</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1387" end_char="1394">pandemic</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1396" end_char="1397">to</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1399" end_char="1401">try</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1403" end_char="1405">and</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1407" end_char="1413">control</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1415" end_char="1420">people</TOKEN>
+<TOKEN id="token-9-15" pos="punct" morph="none" start_char="1421" end_char="1421">,</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1423" end_char="1426">that</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1428" end_char="1431">they</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1433" end_char="1436">want</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1438" end_char="1439">to</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1441" end_char="1446">profit</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1448" end_char="1451">from</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1453" end_char="1455">the</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1457" end_char="1461">virus</TOKEN>
+<TOKEN id="token-9-24" pos="punct" morph="none" start_char="1462" end_char="1462">’</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1464" end_char="1469">spread</TOKEN>
+<TOKEN id="token-9-26" pos="punct" morph="none" start_char="1470" end_char="1470">,</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1472" end_char="1474">and</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="1476" end_char="1479">that</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="1481" end_char="1484">they</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="1486" end_char="1489">want</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="1491" end_char="1492">to</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="1494" end_char="1496">use</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="1498" end_char="1505">vaccines</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="1507" end_char="1508">to</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="1510" end_char="1515">insert</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="1517" end_char="1525">trackable</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="1527" end_char="1536">microchips</TOKEN>
+<TOKEN id="token-9-38" pos="word" morph="none" start_char="1538" end_char="1541">into</TOKEN>
+<TOKEN id="token-9-39" pos="word" morph="none" start_char="1543" end_char="1548">people</TOKEN>
+<TOKEN id="token-9-40" pos="punct" morph="none" start_char="1549" end_char="1549">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1552" end_char="1573">
+<ORIGINAL_TEXT>Slideshow ( 2 images )</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1552" end_char="1560">Slideshow</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="1562" end_char="1562">(</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1564" end_char="1564">2</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1566" end_char="1571">images</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="1573" end_char="1573">)</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1577" end_char="1632">
+<ORIGINAL_TEXT>"But do people really believe that stuff?," Gates asked.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="punct" morph="none" start_char="1577" end_char="1577">"</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1578" end_char="1580">But</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1582" end_char="1583">do</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1585" end_char="1590">people</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1592" end_char="1597">really</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1599" end_char="1605">believe</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1607" end_char="1610">that</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1612" end_char="1616">stuff</TOKEN>
+<TOKEN id="token-11-8" pos="punct" morph="none" start_char="1617" end_char="1619">?,"</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1621" end_char="1625">Gates</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1627" end_char="1631">asked</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="1632" end_char="1632">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1635" end_char="1803">
+<ORIGINAL_TEXT>"We’re really going to have to get educated about this over the next year and understand .. how does it change peoples’ behaviour and how should we have minimized this?"</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="1635" end_char="1635">"</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1636" end_char="1640">We’re</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1642" end_char="1647">really</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1649" end_char="1653">going</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1655" end_char="1656">to</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1658" end_char="1661">have</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1663" end_char="1664">to</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1666" end_char="1668">get</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1670" end_char="1677">educated</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1679" end_char="1683">about</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1685" end_char="1688">this</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1690" end_char="1693">over</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1695" end_char="1697">the</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1699" end_char="1702">next</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1704" end_char="1707">year</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1709" end_char="1711">and</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1713" end_char="1722">understand</TOKEN>
+<TOKEN id="token-12-17" pos="punct" morph="none" start_char="1724" end_char="1725">..</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1727" end_char="1729">how</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1731" end_char="1734">does</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1736" end_char="1737">it</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1739" end_char="1744">change</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1746" end_char="1752">peoples</TOKEN>
+<TOKEN id="token-12-23" pos="punct" morph="none" start_char="1753" end_char="1753">’</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1755" end_char="1763">behaviour</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1765" end_char="1767">and</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="1769" end_char="1771">how</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1773" end_char="1778">should</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1780" end_char="1781">we</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="1783" end_char="1786">have</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1788" end_char="1796">minimized</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1798" end_char="1801">this</TOKEN>
+<TOKEN id="token-12-32" pos="punct" morph="none" start_char="1802" end_char="1803">?"</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1806" end_char="1824">
+<ORIGINAL_TEXT>EXCITED ABOUT BIDEN</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1806" end_char="1812">EXCITED</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1814" end_char="1818">ABOUT</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1820" end_char="1824">BIDEN</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1828" end_char="2090">
+<ORIGINAL_TEXT>Gates praised Fauci and Francis Collins, head of the U.S. National Institutes of Health, as "smart" and "wonderful people", and said he looked forward to seeing them able to work effectively and speak the truth under the new administration of President Joe Biden.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1828" end_char="1832">Gates</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1834" end_char="1840">praised</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1842" end_char="1846">Fauci</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1848" end_char="1850">and</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1852" end_char="1858">Francis</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1860" end_char="1866">Collins</TOKEN>
+<TOKEN id="token-14-6" pos="punct" morph="none" start_char="1867" end_char="1867">,</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1869" end_char="1872">head</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1874" end_char="1875">of</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1877" end_char="1879">the</TOKEN>
+<TOKEN id="token-14-10" pos="unknown" morph="none" start_char="1881" end_char="1883">U.S</TOKEN>
+<TOKEN id="token-14-11" pos="punct" morph="none" start_char="1884" end_char="1884">.</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1886" end_char="1893">National</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1895" end_char="1904">Institutes</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1906" end_char="1907">of</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1909" end_char="1914">Health</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="1915" end_char="1915">,</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1917" end_char="1918">as</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="1920" end_char="1920">"</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1921" end_char="1925">smart</TOKEN>
+<TOKEN id="token-14-20" pos="punct" morph="none" start_char="1926" end_char="1926">"</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1928" end_char="1930">and</TOKEN>
+<TOKEN id="token-14-22" pos="punct" morph="none" start_char="1932" end_char="1932">"</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1933" end_char="1941">wonderful</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1943" end_char="1948">people</TOKEN>
+<TOKEN id="token-14-25" pos="punct" morph="none" start_char="1949" end_char="1950">",</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1952" end_char="1954">and</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="1956" end_char="1959">said</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="1961" end_char="1962">he</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="1964" end_char="1969">looked</TOKEN>
+<TOKEN id="token-14-30" pos="word" morph="none" start_char="1971" end_char="1977">forward</TOKEN>
+<TOKEN id="token-14-31" pos="word" morph="none" start_char="1979" end_char="1980">to</TOKEN>
+<TOKEN id="token-14-32" pos="word" morph="none" start_char="1982" end_char="1987">seeing</TOKEN>
+<TOKEN id="token-14-33" pos="word" morph="none" start_char="1989" end_char="1992">them</TOKEN>
+<TOKEN id="token-14-34" pos="word" morph="none" start_char="1994" end_char="1997">able</TOKEN>
+<TOKEN id="token-14-35" pos="word" morph="none" start_char="1999" end_char="2000">to</TOKEN>
+<TOKEN id="token-14-36" pos="word" morph="none" start_char="2002" end_char="2005">work</TOKEN>
+<TOKEN id="token-14-37" pos="word" morph="none" start_char="2007" end_char="2017">effectively</TOKEN>
+<TOKEN id="token-14-38" pos="word" morph="none" start_char="2019" end_char="2021">and</TOKEN>
+<TOKEN id="token-14-39" pos="word" morph="none" start_char="2023" end_char="2027">speak</TOKEN>
+<TOKEN id="token-14-40" pos="word" morph="none" start_char="2029" end_char="2031">the</TOKEN>
+<TOKEN id="token-14-41" pos="word" morph="none" start_char="2033" end_char="2037">truth</TOKEN>
+<TOKEN id="token-14-42" pos="word" morph="none" start_char="2039" end_char="2043">under</TOKEN>
+<TOKEN id="token-14-43" pos="word" morph="none" start_char="2045" end_char="2047">the</TOKEN>
+<TOKEN id="token-14-44" pos="word" morph="none" start_char="2049" end_char="2051">new</TOKEN>
+<TOKEN id="token-14-45" pos="word" morph="none" start_char="2053" end_char="2066">administration</TOKEN>
+<TOKEN id="token-14-46" pos="word" morph="none" start_char="2068" end_char="2069">of</TOKEN>
+<TOKEN id="token-14-47" pos="word" morph="none" start_char="2071" end_char="2079">President</TOKEN>
+<TOKEN id="token-14-48" pos="word" morph="none" start_char="2081" end_char="2083">Joe</TOKEN>
+<TOKEN id="token-14-49" pos="word" morph="none" start_char="2085" end_char="2089">Biden</TOKEN>
+<TOKEN id="token-14-50" pos="punct" morph="none" start_char="2090" end_char="2090">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2093" end_char="2239">
+<ORIGINAL_TEXT>During former President Donald Trump’s handling of the pandemic, Gates said, it had "sometimes felt like they were the only sane people in the U.S.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2093" end_char="2098">During</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2100" end_char="2105">former</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2107" end_char="2115">President</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2117" end_char="2122">Donald</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2124" end_char="2130">Trump’s</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2132" end_char="2139">handling</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2141" end_char="2142">of</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2144" end_char="2146">the</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2148" end_char="2155">pandemic</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="2156" end_char="2156">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2158" end_char="2162">Gates</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2164" end_char="2167">said</TOKEN>
+<TOKEN id="token-15-12" pos="punct" morph="none" start_char="2168" end_char="2168">,</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2170" end_char="2171">it</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2173" end_char="2175">had</TOKEN>
+<TOKEN id="token-15-15" pos="punct" morph="none" start_char="2177" end_char="2177">"</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2178" end_char="2186">sometimes</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2188" end_char="2191">felt</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2193" end_char="2196">like</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="2198" end_char="2201">they</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="2203" end_char="2206">were</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2208" end_char="2210">the</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2212" end_char="2215">only</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2217" end_char="2220">sane</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2222" end_char="2227">people</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2229" end_char="2230">in</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2232" end_char="2234">the</TOKEN>
+<TOKEN id="token-15-27" pos="unknown" morph="none" start_char="2236" end_char="2238">U.S</TOKEN>
+<TOKEN id="token-15-28" pos="punct" morph="none" start_char="2239" end_char="2239">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2241" end_char="2252">
+<ORIGINAL_TEXT>government."</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2241" end_char="2250">government</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="2251" end_char="2252">."</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2255" end_char="2345">
+<ORIGINAL_TEXT>"I’m excited about the team that Biden has picked" to tackle the health crisis, Gates said.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="punct" morph="none" start_char="2255" end_char="2255">"</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2256" end_char="2258">I’m</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2260" end_char="2266">excited</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2268" end_char="2272">about</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2274" end_char="2276">the</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2278" end_char="2281">team</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2283" end_char="2286">that</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2288" end_char="2292">Biden</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2294" end_char="2296">has</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2298" end_char="2303">picked</TOKEN>
+<TOKEN id="token-17-10" pos="punct" morph="none" start_char="2304" end_char="2304">"</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2306" end_char="2307">to</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2309" end_char="2314">tackle</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2316" end_char="2318">the</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2320" end_char="2325">health</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2327" end_char="2332">crisis</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="2333" end_char="2333">,</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2335" end_char="2339">Gates</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2341" end_char="2344">said</TOKEN>
+<TOKEN id="token-17-19" pos="punct" morph="none" start_char="2345" end_char="2345">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2348" end_char="2546">
+<ORIGINAL_TEXT>Gates said he was also pleased that under Biden, the United States has rejoined the World Health Organization, and "that he’s appointed smart people, and the fact that Dr. Fauci won’t be suppressed."</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2348" end_char="2352">Gates</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2354" end_char="2357">said</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2359" end_char="2360">he</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2362" end_char="2364">was</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2366" end_char="2369">also</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2371" end_char="2377">pleased</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2379" end_char="2382">that</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2384" end_char="2388">under</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2390" end_char="2394">Biden</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="2395" end_char="2395">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2397" end_char="2399">the</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2401" end_char="2406">United</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2408" end_char="2413">States</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2415" end_char="2417">has</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2419" end_char="2426">rejoined</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2428" end_char="2430">the</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2432" end_char="2436">World</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2438" end_char="2443">Health</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2445" end_char="2456">Organization</TOKEN>
+<TOKEN id="token-18-19" pos="punct" morph="none" start_char="2457" end_char="2457">,</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2459" end_char="2461">and</TOKEN>
+<TOKEN id="token-18-21" pos="punct" morph="none" start_char="2463" end_char="2463">"</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2464" end_char="2467">that</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2469" end_char="2472">he’s</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2474" end_char="2482">appointed</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2484" end_char="2488">smart</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2490" end_char="2495">people</TOKEN>
+<TOKEN id="token-18-27" pos="punct" morph="none" start_char="2496" end_char="2496">,</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="2498" end_char="2500">and</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2502" end_char="2504">the</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2506" end_char="2509">fact</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2511" end_char="2514">that</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2516" end_char="2517">Dr</TOKEN>
+<TOKEN id="token-18-33" pos="punct" morph="none" start_char="2518" end_char="2518">.</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2520" end_char="2524">Fauci</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2526" end_char="2530">won’t</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="2532" end_char="2533">be</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="2535" end_char="2544">suppressed</TOKEN>
+<TOKEN id="token-18-38" pos="punct" morph="none" start_char="2545" end_char="2546">."</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,28 @@
+version: "3"
+services:
+  verdi-ui-es:
+    image: elasticsearch:7.9.1
+    hostname: verdi-ui-es
+    environment:
+      - discovery.type=single-node
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+  verdi-ui-restapi:
+    hostname: verdi-ui-restapi
+    env_file:
+      - docker/prod/docker.env
+    build:
+      context: ./
+      dockerfile: docker/prod/verdi-ui-restapi/Dockerfile
+    ports:
+      - "8008:8008"
+  verdi-ui-gui:
+    hostname: verdi-ui-gui
+    env_file:
+      - docker/prod/docker.env
+    build:
+      context: ./GUI
+      dockerfile: ../docker/prod/verdi-ui-gui/Dockerfile
+    ports:
+      - "8081:8081"

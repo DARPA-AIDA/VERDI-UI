@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C049DU4" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4650" raw_text_md5="f7d32a876b0a3132515e394cfe2cbd6c">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="98">
+<ORIGINAL_TEXT>США платили гранты институту вирусологии в Ухане и покупали в Китае части домашних животных, — СМИ</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">США</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="11">платили</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="13" end_char="18">гранты</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="28">институту</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="30" end_char="40">вирусологии</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="42" end_char="42">в</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="44" end_char="48">Ухане</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="50" end_char="50">и</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="52" end_char="59">покупали</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="61" end_char="61">в</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="63" end_char="67">Китае</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="69" end_char="73">части</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="75" end_char="82">домашних</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="84" end_char="91">животных</TOKEN>
+<TOKEN id="token-0-14" pos="punct" morph="none" start_char="92" end_char="92">,</TOKEN>
+<TOKEN id="token-0-15" pos="punct" morph="none" start_char="94" end_char="94">—</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="96" end_char="98">СМИ</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="107" end_char="118">
+<ORIGINAL_TEXT>Фото: rbc.ru</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="107" end_char="110">Фото</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="111" end_char="111">:</TOKEN>
+<TOKEN id="token-1-2" pos="unknown" morph="none" start_char="113" end_char="118">rbc.ru</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="122" end_char="492">
+<ORIGINAL_TEXT>Национальный институт здоровья США выдавал гранты двум лабораториям, проводившим опыты над животными в Институте вирусологии в Ухане, а Министерство сельского хозяйства США приобретало в Китае части домашних животных, которые затем использовались в исследованиях, пишет The Washington Examiner, американский консервативный еженедельник, ориентированный на республиканцев.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="122" end_char="133">Национальный</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="135" end_char="142">институт</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="144" end_char="151">здоровья</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="153" end_char="155">США</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="157" end_char="163">выдавал</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="165" end_char="170">гранты</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="172" end_char="175">двум</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="177" end_char="188">лабораториям</TOKEN>
+<TOKEN id="token-2-8" pos="punct" morph="none" start_char="189" end_char="189">,</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="191" end_char="201">проводившим</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="203" end_char="207">опыты</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="209" end_char="211">над</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="213" end_char="221">животными</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="223" end_char="223">в</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="225" end_char="233">Институте</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="235" end_char="245">вирусологии</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="247" end_char="247">в</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="249" end_char="253">Ухане</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="254" end_char="254">,</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="256" end_char="256">а</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="258" end_char="269">Министерство</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="271" end_char="279">сельского</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="281" end_char="289">хозяйства</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="291" end_char="293">США</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="295" end_char="305">приобретало</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="307" end_char="307">в</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="309" end_char="313">Китае</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="315" end_char="319">части</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="321" end_char="328">домашних</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="330" end_char="337">животных</TOKEN>
+<TOKEN id="token-2-30" pos="punct" morph="none" start_char="338" end_char="338">,</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="340" end_char="346">которые</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="348" end_char="352">затем</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="354" end_char="367">использовались</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="369" end_char="369">в</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="371" end_char="383">исследованиях</TOKEN>
+<TOKEN id="token-2-36" pos="punct" morph="none" start_char="384" end_char="384">,</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="386" end_char="390">пишет</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="392" end_char="394">The</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="396" end_char="405">Washington</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="407" end_char="414">Examiner</TOKEN>
+<TOKEN id="token-2-41" pos="punct" morph="none" start_char="415" end_char="415">,</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="417" end_char="428">американский</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="430" end_char="443">консервативный</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="445" end_char="456">еженедельник</TOKEN>
+<TOKEN id="token-2-45" pos="punct" morph="none" start_char="457" end_char="457">,</TOKEN>
+<TOKEN id="token-2-46" pos="word" morph="none" start_char="459" end_char="473">ориентированный</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="475" end_char="476">на</TOKEN>
+<TOKEN id="token-2-48" pos="word" morph="none" start_char="478" end_char="491">республиканцев</TOKEN>
+<TOKEN id="token-2-49" pos="punct" morph="none" start_char="492" end_char="492">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="495" end_char="727">
+<ORIGINAL_TEXT>Как сообщает издание со ссылкой на зоозащитную организацию White Coat Waste Project, еще в 2015 году Министерство сельского хозяйства США покупало в Китае части кошек и собак, которое были нужны ученым для исследования токсоплазмоза.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="495" end_char="497">Как</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="499" end_char="506">сообщает</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="508" end_char="514">издание</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="516" end_char="517">со</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="519" end_char="525">ссылкой</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="527" end_char="528">на</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="530" end_char="540">зоозащитную</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="542" end_char="552">организацию</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="554" end_char="558">White</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="560" end_char="563">Coat</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="565" end_char="569">Waste</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="571" end_char="577">Project</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="578" end_char="578">,</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="580" end_char="582">еще</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="584" end_char="584">в</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="586" end_char="589">2015</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="591" end_char="594">году</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="596" end_char="607">Министерство</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="609" end_char="617">сельского</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="619" end_char="627">хозяйства</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="629" end_char="631">США</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="633" end_char="640">покупало</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="642" end_char="642">в</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="644" end_char="648">Китае</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="650" end_char="654">части</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="656" end_char="660">кошек</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="662" end_char="662">и</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="664" end_char="668">собак</TOKEN>
+<TOKEN id="token-3-28" pos="punct" morph="none" start_char="669" end_char="669">,</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="671" end_char="677">которое</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="679" end_char="682">были</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="684" end_char="688">нужны</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="690" end_char="695">ученым</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="697" end_char="699">для</TOKEN>
+<TOKEN id="token-3-34" pos="word" morph="none" start_char="701" end_char="712">исследования</TOKEN>
+<TOKEN id="token-3-35" pos="word" morph="none" start_char="714" end_char="726">токсоплазмоза</TOKEN>
+<TOKEN id="token-3-36" pos="punct" morph="none" start_char="727" end_char="727">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="729" end_char="924">
+<ORIGINAL_TEXT>Считается, что животные поступали с тех самых рынков, которые могли стать источником нового коронавируса SARS-Cov-2 и которые сейчас — уже после начала пандемии коронавируса — призывают запретить.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="729" end_char="737">Считается</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="738" end_char="738">,</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="740" end_char="742">что</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="744" end_char="751">животные</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="753" end_char="761">поступали</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="763" end_char="763">с</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="765" end_char="767">тех</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="769" end_char="773">самых</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="775" end_char="780">рынков</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="781" end_char="781">,</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="783" end_char="789">которые</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="791" end_char="795">могли</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="797" end_char="801">стать</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="803" end_char="812">источником</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="814" end_char="819">нового</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="821" end_char="832">коронавируса</TOKEN>
+<TOKEN id="token-4-16" pos="unknown" morph="none" start_char="834" end_char="843">SARS-Cov-2</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="845" end_char="845">и</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="847" end_char="853">которые</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="855" end_char="860">сейчас</TOKEN>
+<TOKEN id="token-4-20" pos="punct" morph="none" start_char="862" end_char="862">—</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="864" end_char="866">уже</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="868" end_char="872">после</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="874" end_char="879">начала</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="881" end_char="888">пандемии</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="890" end_char="901">коронавируса</TOKEN>
+<TOKEN id="token-4-26" pos="punct" morph="none" start_char="903" end_char="903">—</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="905" end_char="913">призывают</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="915" end_char="923">запретить</TOKEN>
+<TOKEN id="token-4-29" pos="punct" morph="none" start_char="924" end_char="924">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="927" end_char="1094">
+<ORIGINAL_TEXT>В публикации утверждается, что Национальный институт здоровья США выделял деньги двум лабораториям института вирусологии в Ухане, которые проводили опыты над животными.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="927" end_char="927">В</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="929" end_char="938">публикации</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="940" end_char="951">утверждается</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="952" end_char="952">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="954" end_char="956">что</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="958" end_char="969">Национальный</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="971" end_char="978">институт</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="980" end_char="987">здоровья</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="989" end_char="991">США</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="993" end_char="999">выделял</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="1001" end_char="1006">деньги</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="1008" end_char="1011">двум</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="1013" end_char="1024">лабораториям</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="1026" end_char="1034">института</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="1036" end_char="1046">вирусологии</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="1048" end_char="1048">в</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="1050" end_char="1054">Ухане</TOKEN>
+<TOKEN id="token-5-17" pos="punct" morph="none" start_char="1055" end_char="1055">,</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="1057" end_char="1063">которые</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="1065" end_char="1073">проводили</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="1075" end_char="1079">опыты</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="1081" end_char="1083">над</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="1085" end_char="1093">животными</TOKEN>
+<TOKEN id="token-5-23" pos="punct" morph="none" start_char="1094" end_char="1094">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1096" end_char="1253">
+<ORIGINAL_TEXT>Одно из исследований, которое там провели, было изучение коронавирусов, родственных тому, что вызвал вспышку атипичной пневмонии (SARS) в начале 2000-х годов.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1096" end_char="1099">Одно</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1101" end_char="1102">из</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1104" end_char="1115">исследований</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="1116" end_char="1116">,</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1118" end_char="1124">которое</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1126" end_char="1128">там</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1130" end_char="1136">провели</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="1137" end_char="1137">,</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1139" end_char="1142">было</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1144" end_char="1151">изучение</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1153" end_char="1165">коронавирусов</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="1166" end_char="1166">,</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1168" end_char="1178">родственных</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1180" end_char="1183">тому</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="1184" end_char="1184">,</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1186" end_char="1188">что</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1190" end_char="1195">вызвал</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1197" end_char="1203">вспышку</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1205" end_char="1213">атипичной</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1215" end_char="1223">пневмонии</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="1225" end_char="1225">(</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1226" end_char="1229">SARS</TOKEN>
+<TOKEN id="token-6-22" pos="punct" morph="none" start_char="1230" end_char="1230">)</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1232" end_char="1232">в</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1234" end_char="1239">начале</TOKEN>
+<TOKEN id="token-6-25" pos="unknown" morph="none" start_char="1241" end_char="1246">2000-х</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1248" end_char="1252">годов</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="1253" end_char="1253">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1255" end_char="1379">
+<ORIGINAL_TEXT>Их удалось найти у летучих мышей, живущих в пещере в провинции Юньнань, расположенной более чем в тысяче километров от Уханя.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1255" end_char="1256">Их</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1258" end_char="1264">удалось</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1266" end_char="1270">найти</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1272" end_char="1272">у</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1274" end_char="1280">летучих</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1282" end_char="1286">мышей</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="1287" end_char="1287">,</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1289" end_char="1295">живущих</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1297" end_char="1297">в</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1299" end_char="1304">пещере</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1306" end_char="1306">в</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1308" end_char="1316">провинции</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1318" end_char="1324">Юньнань</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="1325" end_char="1325">,</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1327" end_char="1339">расположенной</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1341" end_char="1345">более</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1347" end_char="1349">чем</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1351" end_char="1351">в</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1353" end_char="1358">тысяче</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1360" end_char="1369">километров</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1371" end_char="1372">от</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1374" end_char="1378">Уханя</TOKEN>
+<TOKEN id="token-7-22" pos="punct" morph="none" start_char="1379" end_char="1379">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1382" end_char="1646">
+<ORIGINAL_TEXT>The Washington Examiner критикует практику научного сотрудничества с Китаем за счет американского бюджета и отмечает, что некоторые члены конгресса и сената США предполагают, что коронавирус мог случайно вырваться из одной из двух лабораторий, находящихся в городе.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1382" end_char="1384">The</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1386" end_char="1395">Washington</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1397" end_char="1404">Examiner</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1406" end_char="1414">критикует</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1416" end_char="1423">практику</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1425" end_char="1432">научного</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1434" end_char="1447">сотрудничества</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1449" end_char="1449">с</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1451" end_char="1456">Китаем</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1458" end_char="1459">за</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1461" end_char="1464">счет</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1466" end_char="1478">американского</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1480" end_char="1486">бюджета</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1488" end_char="1488">и</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1490" end_char="1497">отмечает</TOKEN>
+<TOKEN id="token-8-15" pos="punct" morph="none" start_char="1498" end_char="1498">,</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1500" end_char="1502">что</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1504" end_char="1512">некоторые</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1514" end_char="1518">члены</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1520" end_char="1528">конгресса</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1530" end_char="1530">и</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1532" end_char="1537">сената</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1539" end_char="1541">США</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1543" end_char="1554">предполагают</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1555" end_char="1555">,</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1557" end_char="1559">что</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1561" end_char="1571">коронавирус</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1573" end_char="1575">мог</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1577" end_char="1584">случайно</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1586" end_char="1594">вырваться</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1596" end_char="1597">из</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1599" end_char="1603">одной</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1605" end_char="1606">из</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1608" end_char="1611">двух</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1613" end_char="1623">лабораторий</TOKEN>
+<TOKEN id="token-8-35" pos="punct" morph="none" start_char="1624" end_char="1624">,</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="1626" end_char="1636">находящихся</TOKEN>
+<TOKEN id="token-8-37" pos="word" morph="none" start_char="1638" end_char="1638">в</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="1640" end_char="1645">городе</TOKEN>
+<TOKEN id="token-8-39" pos="punct" morph="none" start_char="1646" end_char="1646">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1649" end_char="1796">
+<ORIGINAL_TEXT>"Это могло бы объяснить панические попытки китайского правительства скрыть вспышку", — заявлял в интервью сенатор Тед Круз (республиканская партия).</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1649" end_char="1649">"</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1650" end_char="1652">Это</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1654" end_char="1658">могло</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1660" end_char="1661">бы</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1663" end_char="1671">объяснить</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1673" end_char="1682">панические</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1684" end_char="1690">попытки</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1692" end_char="1701">китайского</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1703" end_char="1715">правительства</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1717" end_char="1722">скрыть</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1724" end_char="1730">вспышку</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="1731" end_char="1732">",</TOKEN>
+<TOKEN id="token-9-12" pos="punct" morph="none" start_char="1734" end_char="1734">—</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1736" end_char="1742">заявлял</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1744" end_char="1744">в</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1746" end_char="1753">интервью</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1755" end_char="1761">сенатор</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1763" end_char="1765">Тед</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1767" end_char="1770">Круз</TOKEN>
+<TOKEN id="token-9-19" pos="punct" morph="none" start_char="1772" end_char="1772">(</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1773" end_char="1787">республиканская</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1789" end_char="1794">партия</TOKEN>
+<TOKEN id="token-9-22" pos="punct" morph="none" start_char="1795" end_char="1796">).</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1803" end_char="1959">
+<ORIGINAL_TEXT>Американское издание The New York Post напоминает о двух случаях, когда коронавирус, вызывающий атипичную пневмонию (SARS), "сбегал" из лаборатории в Пекине.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1803" end_char="1814">Американское</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1816" end_char="1822">издание</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1824" end_char="1826">The</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1828" end_char="1830">New</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1832" end_char="1835">York</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1837" end_char="1840">Post</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1842" end_char="1851">напоминает</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1853" end_char="1853">о</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1855" end_char="1858">двух</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1860" end_char="1866">случаях</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="1867" end_char="1867">,</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1869" end_char="1873">когда</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1875" end_char="1885">коронавирус</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="1886" end_char="1886">,</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1888" end_char="1897">вызывающий</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1899" end_char="1907">атипичную</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1909" end_char="1917">пневмонию</TOKEN>
+<TOKEN id="token-10-17" pos="punct" morph="none" start_char="1919" end_char="1919">(</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1920" end_char="1923">SARS</TOKEN>
+<TOKEN id="token-10-19" pos="punct" morph="none" start_char="1924" end_char="1925">),</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1927" end_char="1927">"</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1928" end_char="1933">сбегал</TOKEN>
+<TOKEN id="token-10-22" pos="punct" morph="none" start_char="1934" end_char="1934">"</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1936" end_char="1937">из</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1939" end_char="1949">лаборатории</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1951" end_char="1951">в</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1953" end_char="1958">Пекине</TOKEN>
+<TOKEN id="token-10-27" pos="punct" morph="none" start_char="1959" end_char="1959">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1961" end_char="1997">
+<ORIGINAL_TEXT>Оба произошли еще в апреле 2004 года.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1961" end_char="1963">Оба</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1965" end_char="1973">произошли</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1975" end_char="1977">еще</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1979" end_char="1979">в</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1981" end_char="1986">апреле</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1988" end_char="1991">2004</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1993" end_char="1996">года</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="1997" end_char="1997">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1999" end_char="2159">
+<ORIGINAL_TEXT>The New York Post сообщала и о якобы существующей в Китае практике продавать диких животных, над которыми проводились эксперименты, на тех самых рынках животных.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1999" end_char="2001">The</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="2003" end_char="2005">New</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="2007" end_char="2010">York</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="2012" end_char="2015">Post</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="2017" end_char="2024">сообщала</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="2026" end_char="2026">и</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="2028" end_char="2028">о</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="2030" end_char="2034">якобы</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="2036" end_char="2047">существующей</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="2049" end_char="2049">в</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="2051" end_char="2055">Китае</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="2057" end_char="2064">практике</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="2066" end_char="2074">продавать</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="2076" end_char="2080">диких</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="2082" end_char="2089">животных</TOKEN>
+<TOKEN id="token-12-15" pos="punct" morph="none" start_char="2090" end_char="2090">,</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="2092" end_char="2094">над</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="2096" end_char="2103">которыми</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="2105" end_char="2115">проводились</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="2117" end_char="2128">эксперименты</TOKEN>
+<TOKEN id="token-12-20" pos="punct" morph="none" start_char="2129" end_char="2129">,</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="2131" end_char="2132">на</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="2134" end_char="2136">тех</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="2138" end_char="2142">самых</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="2144" end_char="2149">рынках</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="2151" end_char="2158">животных</TOKEN>
+<TOKEN id="token-12-26" pos="punct" morph="none" start_char="2159" end_char="2159">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2161" end_char="2382">
+<ORIGINAL_TEXT>Это утверждение повторяется в публикации The Washington Examiner и в статье Daily Mail, в которой также отмечается, что источником инфекции стали летучие мыши, живущие на юге Китая — более чем в тысяче километров от Уханя.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2161" end_char="2163">Это</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2165" end_char="2175">утверждение</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2177" end_char="2187">повторяется</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2189" end_char="2189">в</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2191" end_char="2200">публикации</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2202" end_char="2204">The</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2206" end_char="2215">Washington</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2217" end_char="2224">Examiner</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2226" end_char="2226">и</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2228" end_char="2228">в</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2230" end_char="2235">статье</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2237" end_char="2241">Daily</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2243" end_char="2246">Mail</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="2247" end_char="2247">,</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2249" end_char="2249">в</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="2251" end_char="2257">которой</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2259" end_char="2263">также</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2265" end_char="2274">отмечается</TOKEN>
+<TOKEN id="token-13-18" pos="punct" morph="none" start_char="2275" end_char="2275">,</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2277" end_char="2279">что</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2281" end_char="2290">источником</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="2292" end_char="2299">инфекции</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2301" end_char="2305">стали</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2307" end_char="2313">летучие</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2315" end_char="2318">мыши</TOKEN>
+<TOKEN id="token-13-25" pos="punct" morph="none" start_char="2319" end_char="2319">,</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="2321" end_char="2327">живущие</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="2329" end_char="2330">на</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="2332" end_char="2334">юге</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="2336" end_char="2340">Китая</TOKEN>
+<TOKEN id="token-13-30" pos="punct" morph="none" start_char="2342" end_char="2342">—</TOKEN>
+<TOKEN id="token-13-31" pos="word" morph="none" start_char="2344" end_char="2348">более</TOKEN>
+<TOKEN id="token-13-32" pos="word" morph="none" start_char="2350" end_char="2352">чем</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="2354" end_char="2354">в</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="2356" end_char="2361">тысяче</TOKEN>
+<TOKEN id="token-13-35" pos="word" morph="none" start_char="2363" end_char="2372">километров</TOKEN>
+<TOKEN id="token-13-36" pos="word" morph="none" start_char="2374" end_char="2375">от</TOKEN>
+<TOKEN id="token-13-37" pos="word" morph="none" start_char="2377" end_char="2381">Уханя</TOKEN>
+<TOKEN id="token-13-38" pos="punct" morph="none" start_char="2382" end_char="2382">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2388" end_char="2467">
+<ORIGINAL_TEXT>Ши Чжэнли потратила много лет, изучая вирусы летучих мышей, живущих на юге Китая</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2388" end_char="2389">Ши</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2391" end_char="2396">Чжэнли</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2398" end_char="2406">потратила</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2408" end_char="2412">много</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2414" end_char="2416">лет</TOKEN>
+<TOKEN id="token-14-5" pos="punct" morph="none" start_char="2417" end_char="2417">,</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2419" end_char="2424">изучая</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2426" end_char="2431">вирусы</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2433" end_char="2439">летучих</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2441" end_char="2445">мышей</TOKEN>
+<TOKEN id="token-14-10" pos="punct" morph="none" start_char="2446" end_char="2446">,</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2448" end_char="2454">живущих</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2456" end_char="2457">на</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2459" end_char="2461">юге</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2463" end_char="2467">Китая</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2471" end_char="2730">
+<ORIGINAL_TEXT>Издание цитирует заместителя директора института вирусологии Уханя Ши Чжэнли, которая утверждала, что "не могла сомкнуть глаз", пока не убедилась, что вирус не сбежал из ее лаборатории, сравнив геном SARS-Cov-2 с геномами коронавирусов, хранящихся в пробирках.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2471" end_char="2477">Издание</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2479" end_char="2486">цитирует</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2488" end_char="2498">заместителя</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2500" end_char="2508">директора</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2510" end_char="2518">института</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2520" end_char="2530">вирусологии</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2532" end_char="2536">Уханя</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2538" end_char="2539">Ши</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2541" end_char="2546">Чжэнли</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="2547" end_char="2547">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2549" end_char="2555">которая</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2557" end_char="2566">утверждала</TOKEN>
+<TOKEN id="token-15-12" pos="punct" morph="none" start_char="2567" end_char="2567">,</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2569" end_char="2571">что</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="2573" end_char="2573">"</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2574" end_char="2575">не</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2577" end_char="2581">могла</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2583" end_char="2590">сомкнуть</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2592" end_char="2595">глаз</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="2596" end_char="2597">",</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="2599" end_char="2602">пока</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2604" end_char="2605">не</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2607" end_char="2615">убедилась</TOKEN>
+<TOKEN id="token-15-23" pos="punct" morph="none" start_char="2616" end_char="2616">,</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2618" end_char="2620">что</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2622" end_char="2626">вирус</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2628" end_char="2629">не</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="2631" end_char="2636">сбежал</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2638" end_char="2639">из</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2641" end_char="2642">ее</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2644" end_char="2654">лаборатории</TOKEN>
+<TOKEN id="token-15-31" pos="punct" morph="none" start_char="2655" end_char="2655">,</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2657" end_char="2663">сравнив</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2665" end_char="2669">геном</TOKEN>
+<TOKEN id="token-15-34" pos="unknown" morph="none" start_char="2671" end_char="2680">SARS-Cov-2</TOKEN>
+<TOKEN id="token-15-35" pos="word" morph="none" start_char="2682" end_char="2682">с</TOKEN>
+<TOKEN id="token-15-36" pos="word" morph="none" start_char="2684" end_char="2691">геномами</TOKEN>
+<TOKEN id="token-15-37" pos="word" morph="none" start_char="2693" end_char="2705">коронавирусов</TOKEN>
+<TOKEN id="token-15-38" pos="punct" morph="none" start_char="2706" end_char="2706">,</TOKEN>
+<TOKEN id="token-15-39" pos="word" morph="none" start_char="2708" end_char="2717">хранящихся</TOKEN>
+<TOKEN id="token-15-40" pos="word" morph="none" start_char="2719" end_char="2719">в</TOKEN>
+<TOKEN id="token-15-41" pos="word" morph="none" start_char="2721" end_char="2729">пробирках</TOKEN>
+<TOKEN id="token-15-42" pos="punct" morph="none" start_char="2730" end_char="2730">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2732" end_char="2937">
+<ORIGINAL_TEXT>Ученая также отмечала, что ее исследования указывало на то, что вспышка какого-то нового коронавируса с большей вероятностью могла случиться в субтропиках, где живут летучие мыши — переносчики коронавируса.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2732" end_char="2737">Ученая</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2739" end_char="2743">также</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2745" end_char="2752">отмечала</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="2753" end_char="2753">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2755" end_char="2757">что</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2759" end_char="2760">ее</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2762" end_char="2773">исследования</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2775" end_char="2783">указывало</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2785" end_char="2786">на</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2788" end_char="2789">то</TOKEN>
+<TOKEN id="token-16-10" pos="punct" morph="none" start_char="2790" end_char="2790">,</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2792" end_char="2794">что</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2796" end_char="2802">вспышка</TOKEN>
+<TOKEN id="token-16-13" pos="unknown" morph="none" start_char="2804" end_char="2812">какого-то</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2814" end_char="2819">нового</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2821" end_char="2832">коронавируса</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2834" end_char="2834">с</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2836" end_char="2842">большей</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2844" end_char="2855">вероятностью</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2857" end_char="2861">могла</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2863" end_char="2871">случиться</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2873" end_char="2873">в</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2875" end_char="2885">субтропиках</TOKEN>
+<TOKEN id="token-16-23" pos="punct" morph="none" start_char="2886" end_char="2886">,</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2888" end_char="2890">где</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2892" end_char="2896">живут</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2898" end_char="2904">летучие</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2906" end_char="2909">мыши</TOKEN>
+<TOKEN id="token-16-28" pos="punct" morph="none" start_char="2911" end_char="2911">—</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2913" end_char="2923">переносчики</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2925" end_char="2936">коронавируса</TOKEN>
+<TOKEN id="token-16-31" pos="punct" morph="none" start_char="2937" end_char="2937">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2940" end_char="3137">
+<ORIGINAL_TEXT>При этом, утверждается в материале Daily Mail со ссылкой на китайского журналиста, Ши Чжэнли еще 2 января сумела расшифровать геном SARS-Cov-2, но опубликовали в открытом доступе его лишь 10 января.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2940" end_char="2942">При</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2944" end_char="2947">этом</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="2948" end_char="2948">,</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2950" end_char="2961">утверждается</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2963" end_char="2963">в</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2965" end_char="2973">материале</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2975" end_char="2979">Daily</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2981" end_char="2984">Mail</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2986" end_char="2987">со</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2989" end_char="2995">ссылкой</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2997" end_char="2998">на</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="3000" end_char="3009">китайского</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="3011" end_char="3020">журналиста</TOKEN>
+<TOKEN id="token-17-13" pos="punct" morph="none" start_char="3021" end_char="3021">,</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="3023" end_char="3024">Ши</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="3026" end_char="3031">Чжэнли</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="3033" end_char="3035">еще</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="3037" end_char="3037">2</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="3039" end_char="3044">января</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="3046" end_char="3051">сумела</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="3053" end_char="3064">расшифровать</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="3066" end_char="3070">геном</TOKEN>
+<TOKEN id="token-17-22" pos="unknown" morph="none" start_char="3072" end_char="3081">SARS-Cov-2</TOKEN>
+<TOKEN id="token-17-23" pos="punct" morph="none" start_char="3082" end_char="3082">,</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="3084" end_char="3085">но</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="3087" end_char="3098">опубликовали</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="3100" end_char="3100">в</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="3102" end_char="3109">открытом</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="3111" end_char="3117">доступе</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="3119" end_char="3121">его</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="3123" end_char="3126">лишь</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="3128" end_char="3129">10</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="3131" end_char="3136">января</TOKEN>
+<TOKEN id="token-17-33" pos="punct" morph="none" start_char="3137" end_char="3137">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3139" end_char="3293">
+<ORIGINAL_TEXT>Причем сделали это сотрудники другой лаборатории, расположенной в Шанхае, которые смогли изучить коронавирус, полученный из пациента, заболевшего COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="3139" end_char="3144">Причем</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="3146" end_char="3152">сделали</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="3154" end_char="3156">это</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="3158" end_char="3167">сотрудники</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="3169" end_char="3174">другой</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="3176" end_char="3186">лаборатории</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="3187" end_char="3187">,</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="3189" end_char="3201">расположенной</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="3203" end_char="3203">в</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="3205" end_char="3210">Шанхае</TOKEN>
+<TOKEN id="token-18-10" pos="punct" morph="none" start_char="3211" end_char="3211">,</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="3213" end_char="3219">которые</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="3221" end_char="3226">смогли</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="3228" end_char="3234">изучить</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="3236" end_char="3246">коронавирус</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="3247" end_char="3247">,</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="3249" end_char="3258">полученный</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="3260" end_char="3261">из</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="3263" end_char="3270">пациента</TOKEN>
+<TOKEN id="token-18-19" pos="punct" morph="none" start_char="3271" end_char="3271">,</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="3273" end_char="3283">заболевшего</TOKEN>
+<TOKEN id="token-18-21" pos="unknown" morph="none" start_char="3285" end_char="3292">COVID-19</TOKEN>
+<TOKEN id="token-18-22" pos="punct" morph="none" start_char="3293" end_char="3293">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3295" end_char="3419">
+<ORIGINAL_TEXT>Интересно, что эту лабораторию, как сообщает South China Morning Post, через два дня после этого закрыли для "реорганизации".</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3295" end_char="3303">Интересно</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="3304" end_char="3304">,</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3306" end_char="3308">что</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3310" end_char="3312">эту</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3314" end_char="3324">лабораторию</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="3325" end_char="3325">,</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3327" end_char="3329">как</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3331" end_char="3338">сообщает</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3340" end_char="3344">South</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3346" end_char="3350">China</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="3352" end_char="3358">Morning</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="3360" end_char="3363">Post</TOKEN>
+<TOKEN id="token-19-12" pos="punct" morph="none" start_char="3364" end_char="3364">,</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3366" end_char="3370">через</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="3372" end_char="3374">два</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="3376" end_char="3378">дня</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3380" end_char="3384">после</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="3386" end_char="3390">этого</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="3392" end_char="3398">закрыли</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="3400" end_char="3402">для</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="3404" end_char="3404">"</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="3405" end_char="3417">реорганизации</TOKEN>
+<TOKEN id="token-19-22" pos="punct" morph="none" start_char="3418" end_char="3419">".</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3422" end_char="3508">
+<ORIGINAL_TEXT>"Мы не получили ни одного объяснения, почему лаборатория была закрыта на реорганизацию.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="3422" end_char="3422">"</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="3423" end_char="3424">Мы</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="3426" end_char="3427">не</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="3429" end_char="3436">получили</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="3438" end_char="3439">ни</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="3441" end_char="3446">одного</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="3448" end_char="3457">объяснения</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="3458" end_char="3458">,</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="3460" end_char="3465">почему</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="3467" end_char="3477">лаборатория</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="3479" end_char="3482">была</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="3484" end_char="3490">закрыта</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="3492" end_char="3493">на</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="3495" end_char="3507">реорганизацию</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="3508" end_char="3508">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3510" end_char="3661">
+<ORIGINAL_TEXT>Мы подали четыре запроса на возобновление работы, но не получили ответа", — цитирует издание одного из сотрудников Центра общественного здоровья Шанхая.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="3510" end_char="3511">Мы</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="3513" end_char="3518">подали</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3520" end_char="3525">четыре</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3527" end_char="3533">запроса</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3535" end_char="3536">на</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3538" end_char="3550">возобновление</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3552" end_char="3557">работы</TOKEN>
+<TOKEN id="token-21-7" pos="punct" morph="none" start_char="3558" end_char="3558">,</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3560" end_char="3561">но</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3563" end_char="3564">не</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3566" end_char="3573">получили</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3575" end_char="3580">ответа</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="3581" end_char="3582">",</TOKEN>
+<TOKEN id="token-21-13" pos="punct" morph="none" start_char="3584" end_char="3584">—</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3586" end_char="3593">цитирует</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3595" end_char="3601">издание</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3603" end_char="3608">одного</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3610" end_char="3611">из</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3613" end_char="3623">сотрудников</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3625" end_char="3630">Центра</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3632" end_char="3644">общественного</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3646" end_char="3653">здоровья</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="3655" end_char="3660">Шанхая</TOKEN>
+<TOKEN id="token-21-23" pos="punct" morph="none" start_char="3661" end_char="3661">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3664" end_char="3856">
+<ORIGINAL_TEXT>Как отмечает Daily Mail, Ши Чжэнли в одной из своих последних онлайн-лекций рассказала, что ее команда еще 14 января обнаружила доказательства того, что вирус передается от человека к человеку.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3664" end_char="3666">Как</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3668" end_char="3675">отмечает</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3677" end_char="3681">Daily</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3683" end_char="3686">Mail</TOKEN>
+<TOKEN id="token-22-4" pos="punct" morph="none" start_char="3687" end_char="3687">,</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3689" end_char="3690">Ши</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3692" end_char="3697">Чжэнли</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3699" end_char="3699">в</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3701" end_char="3705">одной</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3707" end_char="3708">из</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3710" end_char="3714">своих</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3716" end_char="3724">последних</TOKEN>
+<TOKEN id="token-22-12" pos="unknown" morph="none" start_char="3726" end_char="3738">онлайн-лекций</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3740" end_char="3749">рассказала</TOKEN>
+<TOKEN id="token-22-14" pos="punct" morph="none" start_char="3750" end_char="3750">,</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="3752" end_char="3754">что</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3756" end_char="3757">ее</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3759" end_char="3765">команда</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3767" end_char="3769">еще</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="3771" end_char="3772">14</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="3774" end_char="3779">января</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3781" end_char="3790">обнаружила</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3792" end_char="3805">доказательства</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3807" end_char="3810">того</TOKEN>
+<TOKEN id="token-22-24" pos="punct" morph="none" start_char="3811" end_char="3811">,</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="3813" end_char="3815">что</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="3817" end_char="3821">вирус</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="3823" end_char="3832">передается</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="3834" end_char="3835">от</TOKEN>
+<TOKEN id="token-22-29" pos="word" morph="none" start_char="3837" end_char="3844">человека</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="3846" end_char="3846">к</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="3848" end_char="3855">человеку</TOKEN>
+<TOKEN id="token-22-32" pos="punct" morph="none" start_char="3856" end_char="3856">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3858" end_char="3911">
+<ORIGINAL_TEXT>Однако Китай официально заявил об этом лишь 20 января.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3858" end_char="3863">Однако</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3865" end_char="3869">Китай</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3871" end_char="3880">официально</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3882" end_char="3887">заявил</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3889" end_char="3890">об</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3892" end_char="3895">этом</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3897" end_char="3900">лишь</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3902" end_char="3903">20</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3905" end_char="3910">января</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="3911" end_char="3911">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3914" end_char="4409">
+<ORIGINAL_TEXT>"Мне отвратительно слышать, что правительство США оплачивало опасные и жестокие эксперименты в институте вирусологии Уханя, которые могли привести к распространению коронавируса по всему миру, а также исследования в других лабораториях Китая, над которыми власти США не могут осуществлять никакого надзора", — цитирует Washington Examiner конгрессмена Мэтта Гаеца (республиканская партия), который ранее возглавлял кампанию против практики покупки правительством частей домашних животных в Китае.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="3914" end_char="3914">"</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3915" end_char="3917">Мне</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3919" end_char="3931">отвратительно</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3933" end_char="3939">слышать</TOKEN>
+<TOKEN id="token-24-4" pos="punct" morph="none" start_char="3940" end_char="3940">,</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3942" end_char="3944">что</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3946" end_char="3958">правительство</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3960" end_char="3962">США</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3964" end_char="3973">оплачивало</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3975" end_char="3981">опасные</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3983" end_char="3983">и</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3985" end_char="3992">жестокие</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3994" end_char="4005">эксперименты</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="4007" end_char="4007">в</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="4009" end_char="4017">институте</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="4019" end_char="4029">вирусологии</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="4031" end_char="4035">Уханя</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="4036" end_char="4036">,</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="4038" end_char="4044">которые</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="4046" end_char="4050">могли</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="4052" end_char="4059">привести</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="4061" end_char="4061">к</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="4063" end_char="4077">распространению</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="4079" end_char="4090">коронавируса</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="4092" end_char="4093">по</TOKEN>
+<TOKEN id="token-24-25" pos="word" morph="none" start_char="4095" end_char="4099">всему</TOKEN>
+<TOKEN id="token-24-26" pos="word" morph="none" start_char="4101" end_char="4104">миру</TOKEN>
+<TOKEN id="token-24-27" pos="punct" morph="none" start_char="4105" end_char="4105">,</TOKEN>
+<TOKEN id="token-24-28" pos="word" morph="none" start_char="4107" end_char="4107">а</TOKEN>
+<TOKEN id="token-24-29" pos="word" morph="none" start_char="4109" end_char="4113">также</TOKEN>
+<TOKEN id="token-24-30" pos="word" morph="none" start_char="4115" end_char="4126">исследования</TOKEN>
+<TOKEN id="token-24-31" pos="word" morph="none" start_char="4128" end_char="4128">в</TOKEN>
+<TOKEN id="token-24-32" pos="word" morph="none" start_char="4130" end_char="4135">других</TOKEN>
+<TOKEN id="token-24-33" pos="word" morph="none" start_char="4137" end_char="4148">лабораториях</TOKEN>
+<TOKEN id="token-24-34" pos="word" morph="none" start_char="4150" end_char="4154">Китая</TOKEN>
+<TOKEN id="token-24-35" pos="punct" morph="none" start_char="4155" end_char="4155">,</TOKEN>
+<TOKEN id="token-24-36" pos="word" morph="none" start_char="4157" end_char="4159">над</TOKEN>
+<TOKEN id="token-24-37" pos="word" morph="none" start_char="4161" end_char="4168">которыми</TOKEN>
+<TOKEN id="token-24-38" pos="word" morph="none" start_char="4170" end_char="4175">власти</TOKEN>
+<TOKEN id="token-24-39" pos="word" morph="none" start_char="4177" end_char="4179">США</TOKEN>
+<TOKEN id="token-24-40" pos="word" morph="none" start_char="4181" end_char="4182">не</TOKEN>
+<TOKEN id="token-24-41" pos="word" morph="none" start_char="4184" end_char="4188">могут</TOKEN>
+<TOKEN id="token-24-42" pos="word" morph="none" start_char="4190" end_char="4201">осуществлять</TOKEN>
+<TOKEN id="token-24-43" pos="word" morph="none" start_char="4203" end_char="4210">никакого</TOKEN>
+<TOKEN id="token-24-44" pos="word" morph="none" start_char="4212" end_char="4218">надзора</TOKEN>
+<TOKEN id="token-24-45" pos="punct" morph="none" start_char="4219" end_char="4220">",</TOKEN>
+<TOKEN id="token-24-46" pos="punct" morph="none" start_char="4222" end_char="4222">—</TOKEN>
+<TOKEN id="token-24-47" pos="word" morph="none" start_char="4224" end_char="4231">цитирует</TOKEN>
+<TOKEN id="token-24-48" pos="word" morph="none" start_char="4233" end_char="4242">Washington</TOKEN>
+<TOKEN id="token-24-49" pos="word" morph="none" start_char="4244" end_char="4251">Examiner</TOKEN>
+<TOKEN id="token-24-50" pos="word" morph="none" start_char="4253" end_char="4264">конгрессмена</TOKEN>
+<TOKEN id="token-24-51" pos="word" morph="none" start_char="4266" end_char="4270">Мэтта</TOKEN>
+<TOKEN id="token-24-52" pos="word" morph="none" start_char="4272" end_char="4276">Гаеца</TOKEN>
+<TOKEN id="token-24-53" pos="punct" morph="none" start_char="4278" end_char="4278">(</TOKEN>
+<TOKEN id="token-24-54" pos="word" morph="none" start_char="4279" end_char="4293">республиканская</TOKEN>
+<TOKEN id="token-24-55" pos="word" morph="none" start_char="4295" end_char="4300">партия</TOKEN>
+<TOKEN id="token-24-56" pos="punct" morph="none" start_char="4301" end_char="4302">),</TOKEN>
+<TOKEN id="token-24-57" pos="word" morph="none" start_char="4304" end_char="4310">который</TOKEN>
+<TOKEN id="token-24-58" pos="word" morph="none" start_char="4312" end_char="4316">ранее</TOKEN>
+<TOKEN id="token-24-59" pos="word" morph="none" start_char="4318" end_char="4327">возглавлял</TOKEN>
+<TOKEN id="token-24-60" pos="word" morph="none" start_char="4329" end_char="4336">кампанию</TOKEN>
+<TOKEN id="token-24-61" pos="word" morph="none" start_char="4338" end_char="4343">против</TOKEN>
+<TOKEN id="token-24-62" pos="word" morph="none" start_char="4345" end_char="4352">практики</TOKEN>
+<TOKEN id="token-24-63" pos="word" morph="none" start_char="4354" end_char="4360">покупки</TOKEN>
+<TOKEN id="token-24-64" pos="word" morph="none" start_char="4362" end_char="4375">правительством</TOKEN>
+<TOKEN id="token-24-65" pos="word" morph="none" start_char="4377" end_char="4382">частей</TOKEN>
+<TOKEN id="token-24-66" pos="word" morph="none" start_char="4384" end_char="4391">домашних</TOKEN>
+<TOKEN id="token-24-67" pos="word" morph="none" start_char="4393" end_char="4400">животных</TOKEN>
+<TOKEN id="token-24-68" pos="word" morph="none" start_char="4402" end_char="4402">в</TOKEN>
+<TOKEN id="token-24-69" pos="word" morph="none" start_char="4404" end_char="4408">Китае</TOKEN>
+<TOKEN id="token-24-70" pos="punct" morph="none" start_char="4409" end_char="4409">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="4412" end_char="4428">
+<ORIGINAL_TEXT>Как ранее сообщал</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="4412" end_char="4414">Как</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="4416" end_char="4420">ранее</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="4422" end_char="4428">сообщал</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4431" end_char="4436">
+<ORIGINAL_TEXT>Фокус:</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="4431" end_char="4435">Фокус</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="4436" end_char="4436">:</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4441" end_char="4573">
+<ORIGINAL_TEXT>Ученые из Кембриджа заявили, что коронавирус постоянно мутирует, чтобы преодолеть устойчивость иммунной системы в разных частях мира.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4441" end_char="4446">Ученые</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4448" end_char="4449">из</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4451" end_char="4459">Кембриджа</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4461" end_char="4467">заявили</TOKEN>
+<TOKEN id="token-27-4" pos="punct" morph="none" start_char="4468" end_char="4468">,</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4470" end_char="4472">что</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4474" end_char="4484">коронавирус</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4486" end_char="4494">постоянно</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4496" end_char="4503">мутирует</TOKEN>
+<TOKEN id="token-27-9" pos="punct" morph="none" start_char="4504" end_char="4504">,</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4506" end_char="4510">чтобы</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4512" end_char="4521">преодолеть</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4523" end_char="4534">устойчивость</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="4536" end_char="4543">иммунной</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4545" end_char="4551">системы</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="4553" end_char="4553">в</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="4555" end_char="4560">разных</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="4562" end_char="4567">частях</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="4569" end_char="4572">мира</TOKEN>
+<TOKEN id="token-27-19" pos="punct" morph="none" start_char="4573" end_char="4573">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4579" end_char="4645">
+<ORIGINAL_TEXT>В Исландии обнаружили пациента сразу с двумя штаммами коронавируса.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4579" end_char="4579">В</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4581" end_char="4588">Исландии</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4590" end_char="4599">обнаружили</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="4601" end_char="4608">пациента</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="4610" end_char="4614">сразу</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="4616" end_char="4616">с</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="4618" end_char="4622">двумя</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="4624" end_char="4631">штаммами</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="4633" end_char="4644">коронавируса</TOKEN>
+<TOKEN id="token-28-9" pos="punct" morph="none" start_char="4645" end_char="4645">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

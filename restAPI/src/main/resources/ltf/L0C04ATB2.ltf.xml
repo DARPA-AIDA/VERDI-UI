@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04ATB2" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4098" raw_text_md5="8387debdf0e99a4c3908d923100af48c">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="53">
+<ORIGINAL_TEXT>¿Por qué no debemos usar guantes durante la pandemia?</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="punct" morph="none" start_char="1" end_char="1">¿</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="2" end_char="4">Por</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="6" end_char="8">qué</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="10" end_char="11">no</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="13" end_char="19">debemos</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="21" end_char="24">usar</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="26" end_char="32">guantes</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="34" end_char="40">durante</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="42" end_char="43">la</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="45" end_char="52">pandemia</TOKEN>
+<TOKEN id="token-0-10" pos="punct" morph="none" start_char="53" end_char="53">?</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="57" end_char="161">
+<ORIGINAL_TEXT>Usar guantes puede generar una sensación de aparente seguridad, sin embargo, la OMS no recomienda su uso.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="57" end_char="60">Usar</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="62" end_char="68">guantes</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="70" end_char="74">puede</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="76" end_char="82">generar</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="84" end_char="86">una</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="88" end_char="96">sensación</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="98" end_char="99">de</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="101" end_char="108">aparente</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="110" end_char="118">seguridad</TOKEN>
+<TOKEN id="token-1-9" pos="punct" morph="none" start_char="119" end_char="119">,</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="121" end_char="123">sin</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="125" end_char="131">embargo</TOKEN>
+<TOKEN id="token-1-12" pos="punct" morph="none" start_char="132" end_char="132">,</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="134" end_char="135">la</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="137" end_char="139">OMS</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="141" end_char="142">no</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="144" end_char="153">recomienda</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="155" end_char="156">su</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="158" end_char="160">uso</TOKEN>
+<TOKEN id="token-1-19" pos="punct" morph="none" start_char="161" end_char="161">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="165" end_char="388">
+<ORIGINAL_TEXT>En el supermercado, el parque o hasta en los centros comerciales se pueden avistar personas usando guantes de látex para protegerse ante la actual pandemia; sin embargo, esto no es tan efectivo como puede llegar a aparentar.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="165" end_char="166">En</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="168" end_char="169">el</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="171" end_char="182">supermercado</TOKEN>
+<TOKEN id="token-2-3" pos="punct" morph="none" start_char="183" end_char="183">,</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="185" end_char="186">el</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="188" end_char="193">parque</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="195" end_char="195">o</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="197" end_char="201">hasta</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="203" end_char="204">en</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="206" end_char="208">los</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="210" end_char="216">centros</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="218" end_char="228">comerciales</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="230" end_char="231">se</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="233" end_char="238">pueden</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="240" end_char="246">avistar</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="248" end_char="255">personas</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="257" end_char="262">usando</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="264" end_char="270">guantes</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="272" end_char="273">de</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="275" end_char="279">látex</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="281" end_char="284">para</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="286" end_char="295">protegerse</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="297" end_char="300">ante</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="302" end_char="303">la</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="305" end_char="310">actual</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="312" end_char="319">pandemia</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="320" end_char="320">;</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="322" end_char="324">sin</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="326" end_char="332">embargo</TOKEN>
+<TOKEN id="token-2-29" pos="punct" morph="none" start_char="333" end_char="333">,</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="335" end_char="338">esto</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="340" end_char="341">no</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="343" end_char="344">es</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="346" end_char="348">tan</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="350" end_char="357">efectivo</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="359" end_char="362">como</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="364" end_char="368">puede</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="370" end_char="375">llegar</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="377" end_char="377">a</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="379" end_char="387">aparentar</TOKEN>
+<TOKEN id="token-2-40" pos="punct" morph="none" start_char="388" end_char="388">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="391" end_char="618">
+<ORIGINAL_TEXT>La Organización Mundial de la Salud (OMS) aseguró en su guía de "Medidas de protección básicas contra el nuevo coronavirus" que usar guantes de goma cuando se está en público no es una forma eficaz de protegerse contra el virus.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="391" end_char="392">La</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="394" end_char="405">Organización</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="407" end_char="413">Mundial</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="415" end_char="416">de</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="418" end_char="419">la</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="421" end_char="425">Salud</TOKEN>
+<TOKEN id="token-3-6" pos="punct" morph="none" start_char="427" end_char="427">(</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="428" end_char="430">OMS</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="431" end_char="431">)</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="433" end_char="439">aseguró</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="441" end_char="442">en</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="444" end_char="445">su</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="447" end_char="450">guía</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="452" end_char="453">de</TOKEN>
+<TOKEN id="token-3-14" pos="punct" morph="none" start_char="455" end_char="455">"</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="456" end_char="462">Medidas</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="464" end_char="465">de</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="467" end_char="476">protección</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="478" end_char="484">básicas</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="486" end_char="491">contra</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="493" end_char="494">el</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="496" end_char="500">nuevo</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="502" end_char="512">coronavirus</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="513" end_char="513">"</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="515" end_char="517">que</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="519" end_char="522">usar</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="524" end_char="530">guantes</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="532" end_char="533">de</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="535" end_char="538">goma</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="540" end_char="545">cuando</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="547" end_char="548">se</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="550" end_char="553">está</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="555" end_char="556">en</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="558" end_char="564">público</TOKEN>
+<TOKEN id="token-3-34" pos="word" morph="none" start_char="566" end_char="567">no</TOKEN>
+<TOKEN id="token-3-35" pos="word" morph="none" start_char="569" end_char="570">es</TOKEN>
+<TOKEN id="token-3-36" pos="word" morph="none" start_char="572" end_char="574">una</TOKEN>
+<TOKEN id="token-3-37" pos="word" morph="none" start_char="576" end_char="580">forma</TOKEN>
+<TOKEN id="token-3-38" pos="word" morph="none" start_char="582" end_char="587">eficaz</TOKEN>
+<TOKEN id="token-3-39" pos="word" morph="none" start_char="589" end_char="590">de</TOKEN>
+<TOKEN id="token-3-40" pos="word" morph="none" start_char="592" end_char="601">protegerse</TOKEN>
+<TOKEN id="token-3-41" pos="word" morph="none" start_char="603" end_char="608">contra</TOKEN>
+<TOKEN id="token-3-42" pos="word" morph="none" start_char="610" end_char="611">el</TOKEN>
+<TOKEN id="token-3-43" pos="word" morph="none" start_char="613" end_char="617">virus</TOKEN>
+<TOKEN id="token-3-44" pos="punct" morph="none" start_char="618" end_char="618">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="620" end_char="683">
+<ORIGINAL_TEXT>Lo que el órgano recomienda es lavarse las manos con frecuencia.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="620" end_char="621">Lo</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="623" end_char="625">que</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="627" end_char="628">el</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="630" end_char="635">órgano</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="637" end_char="646">recomienda</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="648" end_char="649">es</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="651" end_char="657">lavarse</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="659" end_char="661">las</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="663" end_char="667">manos</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="669" end_char="671">con</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="673" end_char="682">frecuencia</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="683" end_char="683">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="685" end_char="888">
+<ORIGINAL_TEXT>Sobre los guantes, la OMS afirma que: "Llevarlos puestos no impide el contagio, ya que si uno se toca la cara ‎mientras los lleva, la contaminación pasa del guante a la cara y puede ‎causar la infección".</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="685" end_char="689">Sobre</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="691" end_char="693">los</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="695" end_char="701">guantes</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="702" end_char="702">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="704" end_char="705">la</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="707" end_char="709">OMS</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="711" end_char="716">afirma</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="718" end_char="720">que</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="721" end_char="721">:</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="723" end_char="723">"</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="724" end_char="732">Llevarlos</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="734" end_char="740">puestos</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="742" end_char="743">no</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="745" end_char="750">impide</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="752" end_char="753">el</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="755" end_char="762">contagio</TOKEN>
+<TOKEN id="token-5-16" pos="punct" morph="none" start_char="763" end_char="763">,</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="765" end_char="766">ya</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="768" end_char="770">que</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="772" end_char="773">si</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="775" end_char="777">uno</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="779" end_char="780">se</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="782" end_char="785">toca</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="787" end_char="788">la</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="790" end_char="793">cara</TOKEN>
+<TOKEN id="token-5-25" pos="unknown" morph="none" start_char="795" end_char="803">‎mientras</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="805" end_char="807">los</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="809" end_char="813">lleva</TOKEN>
+<TOKEN id="token-5-28" pos="punct" morph="none" start_char="814" end_char="814">,</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="816" end_char="817">la</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="819" end_char="831">contaminación</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="833" end_char="836">pasa</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="838" end_char="840">del</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="842" end_char="847">guante</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="849" end_char="849">a</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="851" end_char="852">la</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="854" end_char="857">cara</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="859" end_char="859">y</TOKEN>
+<TOKEN id="token-5-38" pos="word" morph="none" start_char="861" end_char="865">puede</TOKEN>
+<TOKEN id="token-5-39" pos="unknown" morph="none" start_char="867" end_char="873">‎causar</TOKEN>
+<TOKEN id="token-5-40" pos="word" morph="none" start_char="875" end_char="876">la</TOKEN>
+<TOKEN id="token-5-41" pos="word" morph="none" start_char="878" end_char="886">infección</TOKEN>
+<TOKEN id="token-5-42" pos="punct" morph="none" start_char="887" end_char="888">".</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="891" end_char="1094">
+<ORIGINAL_TEXT>Asimismo, el Centro Europeo para el Control y la Prevención de Enfermedades (ECDC, por sus siglas en inglés) no recomienda a la población en general el uso de guantes para protegerse frente al SARS-CoV-2.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="891" end_char="898">Asimismo</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="899" end_char="899">,</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="901" end_char="902">el</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="904" end_char="909">Centro</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="911" end_char="917">Europeo</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="919" end_char="922">para</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="924" end_char="925">el</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="927" end_char="933">Control</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="935" end_char="935">y</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="937" end_char="938">la</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="940" end_char="949">Prevención</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="951" end_char="952">de</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="954" end_char="965">Enfermedades</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="967" end_char="967">(</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="968" end_char="971">ECDC</TOKEN>
+<TOKEN id="token-6-15" pos="punct" morph="none" start_char="972" end_char="972">,</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="974" end_char="976">por</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="978" end_char="980">sus</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="982" end_char="987">siglas</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="989" end_char="990">en</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="992" end_char="997">inglés</TOKEN>
+<TOKEN id="token-6-21" pos="punct" morph="none" start_char="998" end_char="998">)</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1000" end_char="1001">no</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1003" end_char="1012">recomienda</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1014" end_char="1014">a</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1016" end_char="1017">la</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1019" end_char="1027">población</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="1029" end_char="1030">en</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="1032" end_char="1038">general</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="1040" end_char="1041">el</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="1043" end_char="1045">uso</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="1047" end_char="1048">de</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="1050" end_char="1056">guantes</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="1058" end_char="1061">para</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="1063" end_char="1072">protegerse</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="1074" end_char="1079">frente</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="1081" end_char="1082">al</TOKEN>
+<TOKEN id="token-6-37" pos="unknown" morph="none" start_char="1084" end_char="1093">SARS-CoV-2</TOKEN>
+<TOKEN id="token-6-38" pos="punct" morph="none" start_char="1094" end_char="1094">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1096" end_char="1246">
+<ORIGINAL_TEXT>Esto debido a que no hay evidencia científica suficiente para recomendar su uso para la sociedad civil, pues puede evitar la correcta higiene de manos.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1096" end_char="1099">Esto</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1101" end_char="1106">debido</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1108" end_char="1108">a</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1110" end_char="1112">que</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1114" end_char="1115">no</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1117" end_char="1119">hay</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1121" end_char="1129">evidencia</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1131" end_char="1140">científica</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1142" end_char="1151">suficiente</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1153" end_char="1156">para</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1158" end_char="1167">recomendar</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1169" end_char="1170">su</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1172" end_char="1174">uso</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1176" end_char="1179">para</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1181" end_char="1182">la</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1184" end_char="1191">sociedad</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1193" end_char="1197">civil</TOKEN>
+<TOKEN id="token-7-17" pos="punct" morph="none" start_char="1198" end_char="1198">,</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1200" end_char="1203">pues</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1205" end_char="1209">puede</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1211" end_char="1216">evitar</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1218" end_char="1219">la</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1221" end_char="1228">correcta</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1230" end_char="1236">higiene</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1238" end_char="1239">de</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1241" end_char="1245">manos</TOKEN>
+<TOKEN id="token-7-26" pos="punct" morph="none" start_char="1246" end_char="1246">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1249" end_char="1419">
+<ORIGINAL_TEXT>La institución también ha advertido que el uso regular de guantes puede provocar efectos en la piel, así como generar residuos innecesarios que impacten al medio ambiente.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1249" end_char="1250">La</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1252" end_char="1262">institución</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1264" end_char="1270">también</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1272" end_char="1273">ha</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1275" end_char="1283">advertido</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1285" end_char="1287">que</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1289" end_char="1290">el</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1292" end_char="1294">uso</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1296" end_char="1302">regular</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1304" end_char="1305">de</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1307" end_char="1313">guantes</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1315" end_char="1319">puede</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1321" end_char="1328">provocar</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1330" end_char="1336">efectos</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1338" end_char="1339">en</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1341" end_char="1342">la</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1344" end_char="1347">piel</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="1348" end_char="1348">,</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1350" end_char="1352">así</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1354" end_char="1357">como</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1359" end_char="1365">generar</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1367" end_char="1374">residuos</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1376" end_char="1387">innecesarios</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1389" end_char="1391">que</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1393" end_char="1400">impacten</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1402" end_char="1403">al</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1405" end_char="1409">medio</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1411" end_char="1418">ambiente</TOKEN>
+<TOKEN id="token-8-28" pos="punct" morph="none" start_char="1419" end_char="1419">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1422" end_char="1465">
+<ORIGINAL_TEXT>Además, de acuerdo con estudio realizado por</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1422" end_char="1427">Además</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="1428" end_char="1428">,</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1430" end_char="1431">de</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1433" end_char="1439">acuerdo</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1441" end_char="1443">con</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1445" end_char="1451">estudio</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1453" end_char="1461">realizado</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1463" end_char="1465">por</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1468" end_char="1504">
+<ORIGINAL_TEXT>American Journal of Infection Control</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1468" end_char="1475">American</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1477" end_char="1483">Journal</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1485" end_char="1486">of</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1488" end_char="1496">Infection</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1498" end_char="1504">Control</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1507" end_char="1707">
+<ORIGINAL_TEXT>, en promedio, una persona se toca la cara 20 veces cada hora, por ello, incluso cuando se utilice guantes, si se llega a tener contacto con una superficie sucia, hay riesgo de infectarse con el virus.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="punct" morph="none" start_char="1507" end_char="1507">,</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1509" end_char="1510">en</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1512" end_char="1519">promedio</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="1520" end_char="1520">,</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1522" end_char="1524">una</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1526" end_char="1532">persona</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1534" end_char="1535">se</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1537" end_char="1540">toca</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1542" end_char="1543">la</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1545" end_char="1548">cara</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1550" end_char="1551">20</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1553" end_char="1557">veces</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1559" end_char="1562">cada</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1564" end_char="1567">hora</TOKEN>
+<TOKEN id="token-11-14" pos="punct" morph="none" start_char="1568" end_char="1568">,</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1570" end_char="1572">por</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1574" end_char="1577">ello</TOKEN>
+<TOKEN id="token-11-17" pos="punct" morph="none" start_char="1578" end_char="1578">,</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1580" end_char="1586">incluso</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1588" end_char="1593">cuando</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1595" end_char="1596">se</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1598" end_char="1604">utilice</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1606" end_char="1612">guantes</TOKEN>
+<TOKEN id="token-11-23" pos="punct" morph="none" start_char="1613" end_char="1613">,</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1615" end_char="1616">si</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="1618" end_char="1619">se</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="1621" end_char="1625">llega</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="1627" end_char="1627">a</TOKEN>
+<TOKEN id="token-11-28" pos="word" morph="none" start_char="1629" end_char="1633">tener</TOKEN>
+<TOKEN id="token-11-29" pos="word" morph="none" start_char="1635" end_char="1642">contacto</TOKEN>
+<TOKEN id="token-11-30" pos="word" morph="none" start_char="1644" end_char="1646">con</TOKEN>
+<TOKEN id="token-11-31" pos="word" morph="none" start_char="1648" end_char="1650">una</TOKEN>
+<TOKEN id="token-11-32" pos="word" morph="none" start_char="1652" end_char="1661">superficie</TOKEN>
+<TOKEN id="token-11-33" pos="word" morph="none" start_char="1663" end_char="1667">sucia</TOKEN>
+<TOKEN id="token-11-34" pos="punct" morph="none" start_char="1668" end_char="1668">,</TOKEN>
+<TOKEN id="token-11-35" pos="word" morph="none" start_char="1670" end_char="1672">hay</TOKEN>
+<TOKEN id="token-11-36" pos="word" morph="none" start_char="1674" end_char="1679">riesgo</TOKEN>
+<TOKEN id="token-11-37" pos="word" morph="none" start_char="1681" end_char="1682">de</TOKEN>
+<TOKEN id="token-11-38" pos="word" morph="none" start_char="1684" end_char="1693">infectarse</TOKEN>
+<TOKEN id="token-11-39" pos="word" morph="none" start_char="1695" end_char="1697">con</TOKEN>
+<TOKEN id="token-11-40" pos="word" morph="none" start_char="1699" end_char="1700">el</TOKEN>
+<TOKEN id="token-11-41" pos="word" morph="none" start_char="1702" end_char="1706">virus</TOKEN>
+<TOKEN id="token-11-42" pos="punct" morph="none" start_char="1707" end_char="1707">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1710" end_char="1979">
+<ORIGINAL_TEXT>Asimismo, hay que tomar en cuenta que la COVID-19 no se contagia a través del contacto con la piel, sino que, de acuerdo con la OMS, se transmite a través de las gotículas que salen despedidas de la nariz o la boca de una persona infectada al toser, estornudar o hablar.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1710" end_char="1717">Asimismo</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="1718" end_char="1718">,</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1720" end_char="1722">hay</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1724" end_char="1726">que</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1728" end_char="1732">tomar</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1734" end_char="1735">en</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1737" end_char="1742">cuenta</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1744" end_char="1746">que</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1748" end_char="1749">la</TOKEN>
+<TOKEN id="token-12-9" pos="unknown" morph="none" start_char="1751" end_char="1758">COVID-19</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1760" end_char="1761">no</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1763" end_char="1764">se</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1766" end_char="1773">contagia</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1775" end_char="1775">a</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1777" end_char="1782">través</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1784" end_char="1786">del</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1788" end_char="1795">contacto</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1797" end_char="1799">con</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1801" end_char="1802">la</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1804" end_char="1807">piel</TOKEN>
+<TOKEN id="token-12-20" pos="punct" morph="none" start_char="1808" end_char="1808">,</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1810" end_char="1813">sino</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1815" end_char="1817">que</TOKEN>
+<TOKEN id="token-12-23" pos="punct" morph="none" start_char="1818" end_char="1818">,</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1820" end_char="1821">de</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1823" end_char="1829">acuerdo</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="1831" end_char="1833">con</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1835" end_char="1836">la</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1838" end_char="1840">OMS</TOKEN>
+<TOKEN id="token-12-29" pos="punct" morph="none" start_char="1841" end_char="1841">,</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1843" end_char="1844">se</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1846" end_char="1854">transmite</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="1856" end_char="1856">a</TOKEN>
+<TOKEN id="token-12-33" pos="word" morph="none" start_char="1858" end_char="1863">través</TOKEN>
+<TOKEN id="token-12-34" pos="word" morph="none" start_char="1865" end_char="1866">de</TOKEN>
+<TOKEN id="token-12-35" pos="word" morph="none" start_char="1868" end_char="1870">las</TOKEN>
+<TOKEN id="token-12-36" pos="word" morph="none" start_char="1872" end_char="1880">gotículas</TOKEN>
+<TOKEN id="token-12-37" pos="word" morph="none" start_char="1882" end_char="1884">que</TOKEN>
+<TOKEN id="token-12-38" pos="word" morph="none" start_char="1886" end_char="1890">salen</TOKEN>
+<TOKEN id="token-12-39" pos="word" morph="none" start_char="1892" end_char="1901">despedidas</TOKEN>
+<TOKEN id="token-12-40" pos="word" morph="none" start_char="1903" end_char="1904">de</TOKEN>
+<TOKEN id="token-12-41" pos="word" morph="none" start_char="1906" end_char="1907">la</TOKEN>
+<TOKEN id="token-12-42" pos="word" morph="none" start_char="1909" end_char="1913">nariz</TOKEN>
+<TOKEN id="token-12-43" pos="word" morph="none" start_char="1915" end_char="1915">o</TOKEN>
+<TOKEN id="token-12-44" pos="word" morph="none" start_char="1917" end_char="1918">la</TOKEN>
+<TOKEN id="token-12-45" pos="word" morph="none" start_char="1920" end_char="1923">boca</TOKEN>
+<TOKEN id="token-12-46" pos="word" morph="none" start_char="1925" end_char="1926">de</TOKEN>
+<TOKEN id="token-12-47" pos="word" morph="none" start_char="1928" end_char="1930">una</TOKEN>
+<TOKEN id="token-12-48" pos="word" morph="none" start_char="1932" end_char="1938">persona</TOKEN>
+<TOKEN id="token-12-49" pos="word" morph="none" start_char="1940" end_char="1948">infectada</TOKEN>
+<TOKEN id="token-12-50" pos="word" morph="none" start_char="1950" end_char="1951">al</TOKEN>
+<TOKEN id="token-12-51" pos="word" morph="none" start_char="1953" end_char="1957">toser</TOKEN>
+<TOKEN id="token-12-52" pos="punct" morph="none" start_char="1958" end_char="1958">,</TOKEN>
+<TOKEN id="token-12-53" pos="word" morph="none" start_char="1960" end_char="1969">estornudar</TOKEN>
+<TOKEN id="token-12-54" pos="word" morph="none" start_char="1971" end_char="1971">o</TOKEN>
+<TOKEN id="token-12-55" pos="word" morph="none" start_char="1973" end_char="1978">hablar</TOKEN>
+<TOKEN id="token-12-56" pos="punct" morph="none" start_char="1979" end_char="1979">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1982" end_char="2179">
+<ORIGINAL_TEXT>Entonces, un individuo puede contraer la COVID‑19 al inhalar las gotículas procedentes de una persona infectada por el nuevo coronavirus, o tocarse la cara (ojos, nariz o boca) con las manos sucias.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1982" end_char="1989">Entonces</TOKEN>
+<TOKEN id="token-13-1" pos="punct" morph="none" start_char="1990" end_char="1990">,</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1992" end_char="1993">un</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1995" end_char="2003">individuo</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2005" end_char="2009">puede</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2011" end_char="2018">contraer</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2020" end_char="2021">la</TOKEN>
+<TOKEN id="token-13-7" pos="unknown" morph="none" start_char="2023" end_char="2030">COVID‑19</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2032" end_char="2033">al</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2035" end_char="2041">inhalar</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2043" end_char="2045">las</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2047" end_char="2055">gotículas</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2057" end_char="2067">procedentes</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2069" end_char="2070">de</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2072" end_char="2074">una</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="2076" end_char="2082">persona</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2084" end_char="2092">infectada</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2094" end_char="2096">por</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2098" end_char="2099">el</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2101" end_char="2105">nuevo</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2107" end_char="2117">coronavirus</TOKEN>
+<TOKEN id="token-13-21" pos="punct" morph="none" start_char="2118" end_char="2118">,</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2120" end_char="2120">o</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2122" end_char="2128">tocarse</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2130" end_char="2131">la</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="2133" end_char="2136">cara</TOKEN>
+<TOKEN id="token-13-26" pos="punct" morph="none" start_char="2138" end_char="2138">(</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="2139" end_char="2142">ojos</TOKEN>
+<TOKEN id="token-13-28" pos="punct" morph="none" start_char="2143" end_char="2143">,</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="2145" end_char="2149">nariz</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="2151" end_char="2151">o</TOKEN>
+<TOKEN id="token-13-31" pos="word" morph="none" start_char="2153" end_char="2156">boca</TOKEN>
+<TOKEN id="token-13-32" pos="punct" morph="none" start_char="2157" end_char="2157">)</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="2159" end_char="2161">con</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="2163" end_char="2165">las</TOKEN>
+<TOKEN id="token-13-35" pos="word" morph="none" start_char="2167" end_char="2171">manos</TOKEN>
+<TOKEN id="token-13-36" pos="word" morph="none" start_char="2173" end_char="2178">sucias</TOKEN>
+<TOKEN id="token-13-37" pos="punct" morph="none" start_char="2179" end_char="2179">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2181" end_char="2270">
+<ORIGINAL_TEXT>En ese sentido, los guantes, que también podrían estar sucios, no proporcionan protección.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2181" end_char="2182">En</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2184" end_char="2186">ese</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2188" end_char="2194">sentido</TOKEN>
+<TOKEN id="token-14-3" pos="punct" morph="none" start_char="2195" end_char="2195">,</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2197" end_char="2199">los</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2201" end_char="2207">guantes</TOKEN>
+<TOKEN id="token-14-6" pos="punct" morph="none" start_char="2208" end_char="2208">,</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2210" end_char="2212">que</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2214" end_char="2220">también</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2222" end_char="2228">podrían</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2230" end_char="2234">estar</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2236" end_char="2241">sucios</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="2242" end_char="2242">,</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2244" end_char="2245">no</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2247" end_char="2258">proporcionan</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2260" end_char="2269">protección</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="2270" end_char="2270">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2273" end_char="2478">
+<ORIGINAL_TEXT>Una medida efectiva para protegerse del contagio es mantenerse al menos a un metro de distancia de las demás personas y el correcto lavado de manos con agua y jabón o con un desinfectante a base de alcohol.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2273" end_char="2275">Una</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2277" end_char="2282">medida</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2284" end_char="2291">efectiva</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2293" end_char="2296">para</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2298" end_char="2307">protegerse</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2309" end_char="2311">del</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2313" end_char="2320">contagio</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2322" end_char="2323">es</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2325" end_char="2334">mantenerse</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2336" end_char="2337">al</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2339" end_char="2343">menos</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2345" end_char="2345">a</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2347" end_char="2348">un</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2350" end_char="2354">metro</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2356" end_char="2357">de</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2359" end_char="2367">distancia</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2369" end_char="2370">de</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2372" end_char="2374">las</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2376" end_char="2380">demás</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="2382" end_char="2389">personas</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="2391" end_char="2391">y</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2393" end_char="2394">el</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2396" end_char="2403">correcto</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2405" end_char="2410">lavado</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2412" end_char="2413">de</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2415" end_char="2419">manos</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2421" end_char="2423">con</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="2425" end_char="2428">agua</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2430" end_char="2430">y</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2432" end_char="2436">jabón</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2438" end_char="2438">o</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="2440" end_char="2442">con</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2444" end_char="2445">un</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2447" end_char="2459">desinfectante</TOKEN>
+<TOKEN id="token-15-34" pos="word" morph="none" start_char="2461" end_char="2461">a</TOKEN>
+<TOKEN id="token-15-35" pos="word" morph="none" start_char="2463" end_char="2466">base</TOKEN>
+<TOKEN id="token-15-36" pos="word" morph="none" start_char="2468" end_char="2469">de</TOKEN>
+<TOKEN id="token-15-37" pos="word" morph="none" start_char="2471" end_char="2477">alcohol</TOKEN>
+<TOKEN id="token-15-38" pos="punct" morph="none" start_char="2478" end_char="2478">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2481" end_char="2532">
+<ORIGINAL_TEXT>El personal de salud sí debe usar guantes, ¿por qué?</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2481" end_char="2482">El</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2484" end_char="2491">personal</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2493" end_char="2494">de</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2496" end_char="2500">salud</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2502" end_char="2503">sí</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2505" end_char="2508">debe</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2510" end_char="2513">usar</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2515" end_char="2521">guantes</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="2522" end_char="2522">,</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="2524" end_char="2524">¿</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2525" end_char="2527">por</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2529" end_char="2531">qué</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="2532" end_char="2532">?</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2536" end_char="2772">
+<ORIGINAL_TEXT>De acuerdo con el diario France 24, a diferencia de la sociedad civil, los profesionales de la salud sí deben utilizar guantes de látex, pues forman parte de su protección personal, como las mascarillas, las batas y lentes de protección.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2536" end_char="2537">De</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2539" end_char="2545">acuerdo</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2547" end_char="2549">con</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2551" end_char="2552">el</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2554" end_char="2559">diario</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2561" end_char="2566">France</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2568" end_char="2569">24</TOKEN>
+<TOKEN id="token-17-7" pos="punct" morph="none" start_char="2570" end_char="2570">,</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2572" end_char="2572">a</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2574" end_char="2583">diferencia</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2585" end_char="2586">de</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2588" end_char="2589">la</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2591" end_char="2598">sociedad</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2600" end_char="2604">civil</TOKEN>
+<TOKEN id="token-17-14" pos="punct" morph="none" start_char="2605" end_char="2605">,</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2607" end_char="2609">los</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2611" end_char="2623">profesionales</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2625" end_char="2626">de</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2628" end_char="2629">la</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2631" end_char="2635">salud</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2637" end_char="2638">sí</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2640" end_char="2644">deben</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2646" end_char="2653">utilizar</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2655" end_char="2661">guantes</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2663" end_char="2664">de</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2666" end_char="2670">látex</TOKEN>
+<TOKEN id="token-17-26" pos="punct" morph="none" start_char="2671" end_char="2671">,</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2673" end_char="2676">pues</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2678" end_char="2683">forman</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="2685" end_char="2689">parte</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2691" end_char="2692">de</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="2694" end_char="2695">su</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="2697" end_char="2706">protección</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="2708" end_char="2715">personal</TOKEN>
+<TOKEN id="token-17-34" pos="punct" morph="none" start_char="2716" end_char="2716">,</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="2718" end_char="2721">como</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="2723" end_char="2725">las</TOKEN>
+<TOKEN id="token-17-37" pos="word" morph="none" start_char="2727" end_char="2737">mascarillas</TOKEN>
+<TOKEN id="token-17-38" pos="punct" morph="none" start_char="2738" end_char="2738">,</TOKEN>
+<TOKEN id="token-17-39" pos="word" morph="none" start_char="2740" end_char="2742">las</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="2744" end_char="2748">batas</TOKEN>
+<TOKEN id="token-17-41" pos="word" morph="none" start_char="2750" end_char="2750">y</TOKEN>
+<TOKEN id="token-17-42" pos="word" morph="none" start_char="2752" end_char="2757">lentes</TOKEN>
+<TOKEN id="token-17-43" pos="word" morph="none" start_char="2759" end_char="2760">de</TOKEN>
+<TOKEN id="token-17-44" pos="word" morph="none" start_char="2762" end_char="2771">protección</TOKEN>
+<TOKEN id="token-17-45" pos="punct" morph="none" start_char="2772" end_char="2772">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2774" end_char="3057">
+<ORIGINAL_TEXT>Ellos deben utilizar estos dispositivos porque se tienen contacto de manera directa con personas contagiadas y llevan a cabo procedimientos de riesgo, como la intubación traqueal, la revisión respiratoria y la conexión a ventiladores que ayudan a los pacientes a mantenerlos con vida.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2774" end_char="2778">Ellos</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2780" end_char="2784">deben</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2786" end_char="2793">utilizar</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2795" end_char="2799">estos</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2801" end_char="2812">dispositivos</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2814" end_char="2819">porque</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2821" end_char="2822">se</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2824" end_char="2829">tienen</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2831" end_char="2838">contacto</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2840" end_char="2841">de</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2843" end_char="2848">manera</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2850" end_char="2856">directa</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2858" end_char="2860">con</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2862" end_char="2869">personas</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2871" end_char="2881">contagiadas</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2883" end_char="2883">y</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2885" end_char="2890">llevan</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2892" end_char="2892">a</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2894" end_char="2897">cabo</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2899" end_char="2912">procedimientos</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2914" end_char="2915">de</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2917" end_char="2922">riesgo</TOKEN>
+<TOKEN id="token-18-22" pos="punct" morph="none" start_char="2923" end_char="2923">,</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2925" end_char="2928">como</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2930" end_char="2931">la</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2933" end_char="2942">intubación</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2944" end_char="2951">traqueal</TOKEN>
+<TOKEN id="token-18-27" pos="punct" morph="none" start_char="2952" end_char="2952">,</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="2954" end_char="2955">la</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2957" end_char="2964">revisión</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2966" end_char="2977">respiratoria</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2979" end_char="2979">y</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2981" end_char="2982">la</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="2984" end_char="2991">conexión</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2993" end_char="2993">a</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2995" end_char="3006">ventiladores</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="3008" end_char="3010">que</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="3012" end_char="3017">ayudan</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="3019" end_char="3019">a</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="3021" end_char="3023">los</TOKEN>
+<TOKEN id="token-18-40" pos="word" morph="none" start_char="3025" end_char="3033">pacientes</TOKEN>
+<TOKEN id="token-18-41" pos="word" morph="none" start_char="3035" end_char="3035">a</TOKEN>
+<TOKEN id="token-18-42" pos="word" morph="none" start_char="3037" end_char="3047">mantenerlos</TOKEN>
+<TOKEN id="token-18-43" pos="word" morph="none" start_char="3049" end_char="3051">con</TOKEN>
+<TOKEN id="token-18-44" pos="word" morph="none" start_char="3053" end_char="3056">vida</TOKEN>
+<TOKEN id="token-18-45" pos="punct" morph="none" start_char="3057" end_char="3057">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3060" end_char="3256">
+<ORIGINAL_TEXT>El Centro Europeo para el Control y la Prevención de Enfermedades también recomienda el uso de guantes en entornos hospitalarios, ya que esto ayuda a reducir el riesgo de diseminación de patógenos.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3060" end_char="3061">El</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="3063" end_char="3068">Centro</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3070" end_char="3076">Europeo</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3078" end_char="3081">para</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3083" end_char="3084">el</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3086" end_char="3092">Control</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3094" end_char="3094">y</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3096" end_char="3097">la</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3099" end_char="3108">Prevención</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3110" end_char="3111">de</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="3113" end_char="3124">Enfermedades</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="3126" end_char="3132">también</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="3134" end_char="3143">recomienda</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3145" end_char="3146">el</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="3148" end_char="3150">uso</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="3152" end_char="3153">de</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3155" end_char="3161">guantes</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="3163" end_char="3164">en</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="3166" end_char="3173">entornos</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="3175" end_char="3187">hospitalarios</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="3188" end_char="3188">,</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="3190" end_char="3191">ya</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="3193" end_char="3195">que</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="3197" end_char="3200">esto</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="3202" end_char="3206">ayuda</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="3208" end_char="3208">a</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="3210" end_char="3216">reducir</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="3218" end_char="3219">el</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="3221" end_char="3226">riesgo</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="3228" end_char="3229">de</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="3231" end_char="3242">diseminación</TOKEN>
+<TOKEN id="token-19-31" pos="word" morph="none" start_char="3244" end_char="3245">de</TOKEN>
+<TOKEN id="token-19-32" pos="word" morph="none" start_char="3247" end_char="3255">patógenos</TOKEN>
+<TOKEN id="token-19-33" pos="punct" morph="none" start_char="3256" end_char="3256">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3258" end_char="3391">
+<ORIGINAL_TEXT>Asimismo, el centro ha advertido que estos dispositivos no deben usarse prolongadamente ni ser reutilizados cuando son de un solo uso.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="3258" end_char="3265">Asimismo</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="3266" end_char="3266">,</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="3268" end_char="3269">el</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="3271" end_char="3276">centro</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="3278" end_char="3279">ha</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="3281" end_char="3289">advertido</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="3291" end_char="3293">que</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="3295" end_char="3299">estos</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="3301" end_char="3312">dispositivos</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="3314" end_char="3315">no</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="3317" end_char="3321">deben</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="3323" end_char="3328">usarse</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="3330" end_char="3344">prolongadamente</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="3346" end_char="3347">ni</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="3349" end_char="3351">ser</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="3353" end_char="3364">reutilizados</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="3366" end_char="3371">cuando</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="3373" end_char="3375">son</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="3377" end_char="3378">de</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="3380" end_char="3381">un</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="3383" end_char="3386">solo</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="3388" end_char="3390">uso</TOKEN>
+<TOKEN id="token-20-22" pos="punct" morph="none" start_char="3391" end_char="3391">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3394" end_char="3652">
+<ORIGINAL_TEXT>Además, los Centros para el Control y la Prevención de Enfermedades (CDC, por sus siglas en inglés) recomiendan su uso al cuidar de una persona enferma, ya sea que se encuentre al cuidado de una persona en casa o en otro entorno que no sea de atención médica.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="3394" end_char="3399">Además</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="3400" end_char="3400">,</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3402" end_char="3404">los</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3406" end_char="3412">Centros</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3414" end_char="3417">para</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3419" end_char="3420">el</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3422" end_char="3428">Control</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="3430" end_char="3430">y</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3432" end_char="3433">la</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3435" end_char="3444">Prevención</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3446" end_char="3447">de</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3449" end_char="3460">Enfermedades</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="3462" end_char="3462">(</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="3463" end_char="3465">CDC</TOKEN>
+<TOKEN id="token-21-14" pos="punct" morph="none" start_char="3466" end_char="3466">,</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3468" end_char="3470">por</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3472" end_char="3474">sus</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3476" end_char="3481">siglas</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3483" end_char="3484">en</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3486" end_char="3491">inglés</TOKEN>
+<TOKEN id="token-21-20" pos="punct" morph="none" start_char="3492" end_char="3492">)</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3494" end_char="3504">recomiendan</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="3506" end_char="3507">su</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="3509" end_char="3511">uso</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="3513" end_char="3514">al</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="3516" end_char="3521">cuidar</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="3523" end_char="3524">de</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="3526" end_char="3528">una</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="3530" end_char="3536">persona</TOKEN>
+<TOKEN id="token-21-29" pos="word" morph="none" start_char="3538" end_char="3544">enferma</TOKEN>
+<TOKEN id="token-21-30" pos="punct" morph="none" start_char="3545" end_char="3545">,</TOKEN>
+<TOKEN id="token-21-31" pos="word" morph="none" start_char="3547" end_char="3548">ya</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="3550" end_char="3552">sea</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="3554" end_char="3556">que</TOKEN>
+<TOKEN id="token-21-34" pos="word" morph="none" start_char="3558" end_char="3559">se</TOKEN>
+<TOKEN id="token-21-35" pos="word" morph="none" start_char="3561" end_char="3569">encuentre</TOKEN>
+<TOKEN id="token-21-36" pos="word" morph="none" start_char="3571" end_char="3572">al</TOKEN>
+<TOKEN id="token-21-37" pos="word" morph="none" start_char="3574" end_char="3580">cuidado</TOKEN>
+<TOKEN id="token-21-38" pos="word" morph="none" start_char="3582" end_char="3583">de</TOKEN>
+<TOKEN id="token-21-39" pos="word" morph="none" start_char="3585" end_char="3587">una</TOKEN>
+<TOKEN id="token-21-40" pos="word" morph="none" start_char="3589" end_char="3595">persona</TOKEN>
+<TOKEN id="token-21-41" pos="word" morph="none" start_char="3597" end_char="3598">en</TOKEN>
+<TOKEN id="token-21-42" pos="word" morph="none" start_char="3600" end_char="3603">casa</TOKEN>
+<TOKEN id="token-21-43" pos="word" morph="none" start_char="3605" end_char="3605">o</TOKEN>
+<TOKEN id="token-21-44" pos="word" morph="none" start_char="3607" end_char="3608">en</TOKEN>
+<TOKEN id="token-21-45" pos="word" morph="none" start_char="3610" end_char="3613">otro</TOKEN>
+<TOKEN id="token-21-46" pos="word" morph="none" start_char="3615" end_char="3621">entorno</TOKEN>
+<TOKEN id="token-21-47" pos="word" morph="none" start_char="3623" end_char="3625">que</TOKEN>
+<TOKEN id="token-21-48" pos="word" morph="none" start_char="3627" end_char="3628">no</TOKEN>
+<TOKEN id="token-21-49" pos="word" morph="none" start_char="3630" end_char="3632">sea</TOKEN>
+<TOKEN id="token-21-50" pos="word" morph="none" start_char="3634" end_char="3635">de</TOKEN>
+<TOKEN id="token-21-51" pos="word" morph="none" start_char="3637" end_char="3644">atención</TOKEN>
+<TOKEN id="token-21-52" pos="word" morph="none" start_char="3646" end_char="3651">médica</TOKEN>
+<TOKEN id="token-21-53" pos="punct" morph="none" start_char="3652" end_char="3652">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3655" end_char="3698">
+<ORIGINAL_TEXT>En estos contextos, los centros recomiendan:</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3655" end_char="3656">En</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3658" end_char="3662">estos</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3664" end_char="3672">contextos</TOKEN>
+<TOKEN id="token-22-3" pos="punct" morph="none" start_char="3673" end_char="3673">,</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3675" end_char="3677">los</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3679" end_char="3685">centros</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3687" end_char="3697">recomiendan</TOKEN>
+<TOKEN id="token-22-7" pos="punct" morph="none" start_char="3698" end_char="3698">:</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3702" end_char="3795">
+<ORIGINAL_TEXT>Usar guantes desechables para limpiar y desinfectar las áreas que rodean a la persona enferma.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3702" end_char="3705">Usar</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3707" end_char="3713">guantes</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3715" end_char="3725">desechables</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3727" end_char="3730">para</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3732" end_char="3738">limpiar</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3740" end_char="3740">y</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3742" end_char="3752">desinfectar</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3754" end_char="3756">las</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3758" end_char="3762">áreas</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3764" end_char="3766">que</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3768" end_char="3773">rodean</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3775" end_char="3775">a</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3777" end_char="3778">la</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3780" end_char="3786">persona</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="3788" end_char="3794">enferma</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="3795" end_char="3795">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3799" end_char="3918">
+<ORIGINAL_TEXT>Usar guantes desechables al tocar o tener contacto con sangre, deposiciones o fluidos como saliva, moco, vómito u orina.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3799" end_char="3802">Usar</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3804" end_char="3810">guantes</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3812" end_char="3822">desechables</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3824" end_char="3825">al</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3827" end_char="3831">tocar</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3833" end_char="3833">o</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3835" end_char="3839">tener</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3841" end_char="3848">contacto</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3850" end_char="3852">con</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3854" end_char="3859">sangre</TOKEN>
+<TOKEN id="token-24-10" pos="punct" morph="none" start_char="3860" end_char="3860">,</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3862" end_char="3873">deposiciones</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3875" end_char="3875">o</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3877" end_char="3883">fluidos</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3885" end_char="3888">como</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3890" end_char="3895">saliva</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="3896" end_char="3896">,</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3898" end_char="3901">moco</TOKEN>
+<TOKEN id="token-24-18" pos="punct" morph="none" start_char="3902" end_char="3902">,</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3904" end_char="3909">vómito</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="3911" end_char="3911">u</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="3913" end_char="3917">orina</TOKEN>
+<TOKEN id="token-24-22" pos="punct" morph="none" start_char="3918" end_char="3918">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3922" end_char="3983">
+<ORIGINAL_TEXT>Desechar los guantes en un cesto con bolsa después de usarlos.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3922" end_char="3929">Desechar</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3931" end_char="3933">los</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3935" end_char="3941">guantes</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3943" end_char="3944">en</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3946" end_char="3947">un</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3949" end_char="3953">cesto</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3955" end_char="3957">con</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3959" end_char="3963">bolsa</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3965" end_char="3971">después</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3973" end_char="3974">de</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3976" end_char="3982">usarlos</TOKEN>
+<TOKEN id="token-25-11" pos="punct" morph="none" start_char="3983" end_char="3983">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3985" end_char="4025">
+<ORIGINAL_TEXT>No desinfectar ni reutilizar los guantes.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3985" end_char="3986">No</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3988" end_char="3998">desinfectar</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4000" end_char="4001">ni</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="4003" end_char="4012">reutilizar</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="4014" end_char="4016">los</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="4018" end_char="4024">guantes</TOKEN>
+<TOKEN id="token-26-6" pos="punct" morph="none" start_char="4025" end_char="4025">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4029" end_char="4093">
+<ORIGINAL_TEXT>Lavarse las manos inmediatamente después de quitarse los guantes.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4029" end_char="4035">Lavarse</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4037" end_char="4039">las</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4041" end_char="4045">manos</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4047" end_char="4060">inmediatamente</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4062" end_char="4068">después</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4070" end_char="4071">de</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4073" end_char="4080">quitarse</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4082" end_char="4084">los</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4086" end_char="4092">guantes</TOKEN>
+<TOKEN id="token-27-9" pos="punct" morph="none" start_char="4093" end_char="4093">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

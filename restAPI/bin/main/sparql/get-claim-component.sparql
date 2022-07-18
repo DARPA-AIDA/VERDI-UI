@@ -1,0 +1,19 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?componentName ?componentIdentity ?componentKE ?componentProvenance ?system (GROUP_CONCAT(DISTINCT ?componentType;SEPARATOR=",") as ?componentTypes)
+
+{$from}
+
+where {
+  <{$claimURI}> a aida:Claim .
+  <{$componentURI}> a aida:ClaimComponent ;
+      aida:componentName ?componentName ;
+      aida:componentIdentity ?componentIdentity ;
+      aida:componentKE ?componentKE ;
+      aida:componentType ?componentType ;
+      aida:componentProvenance ?componentProvenance ;
+      aida:system ?system .
+}
+
+group by ?componentName ?componentIdentity ?componentKE ?componentProvenance ?system

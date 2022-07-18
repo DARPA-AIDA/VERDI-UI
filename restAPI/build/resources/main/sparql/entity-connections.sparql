@@ -1,0 +1,18 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select distinct ?role ?node ?type ?category (GROUP_CONCAT(DISTINCT ?doc;SEPARATOR=",") as ?docs)
+where {
+    ?arg_statement rdf:object <{$node}> .
+    ?arg_statement rdf:predicate ?role .
+    ?arg_statement rdf:subject ?subject . 
+    ?arg_statement aida:justifiedBy / aida:containedJustification? / aida:sourceDocument ?doc .
+    FILTER (NOT EXISTS { ?arg_statement rdf:predicate rdf:type } ) .
+
+    ?subject a ?category .
+
+    ?subject ^aida:clusterMember / aida:cluster ?node .
+    ?connection_type rdf:subject / ^aida:prototype ?node .
+    ?connection_type rdf:predicate rdf:type .
+    ?connection_type rdf:object ?type .
+}
+group by ?role ?node ?type ?category

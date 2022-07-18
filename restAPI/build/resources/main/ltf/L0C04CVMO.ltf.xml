@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CVMO" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2273" raw_text_md5="c751bf966f6593d7a8330b37e33074fb">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="66">
+<ORIGINAL_TEXT>Trial of azithromycin in severe COVID-19 patients finds no benefit</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">Trial</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="8">of</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="10" end_char="21">azithromycin</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="23" end_char="24">in</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="26" end_char="31">severe</TOKEN>
+<TOKEN id="token-0-5" pos="unknown" morph="none" start_char="33" end_char="40">COVID-19</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="42" end_char="49">patients</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="51" end_char="55">finds</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="57" end_char="58">no</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="60" end_char="66">benefit</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="70" end_char="314">
+<ORIGINAL_TEXT>LONDON (Reuters) - A clinical trial of the widely-used antibiotic azithromycin in COVID-19 patients in hospital has found no convincing evidence of benefit, prompting doctors to announce on Monday that they have closed that section of the trial.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="70" end_char="75">LONDON</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="77" end_char="77">(</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="78" end_char="84">Reuters</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="85" end_char="85">)</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="87" end_char="87">-</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="89" end_char="89">A</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="91" end_char="98">clinical</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="100" end_char="104">trial</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="106" end_char="107">of</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="109" end_char="111">the</TOKEN>
+<TOKEN id="token-1-10" pos="unknown" morph="none" start_char="113" end_char="123">widely-used</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="125" end_char="134">antibiotic</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="136" end_char="147">azithromycin</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="149" end_char="150">in</TOKEN>
+<TOKEN id="token-1-14" pos="unknown" morph="none" start_char="152" end_char="159">COVID-19</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="161" end_char="168">patients</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="170" end_char="171">in</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="173" end_char="180">hospital</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="182" end_char="184">has</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="186" end_char="190">found</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="192" end_char="193">no</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="195" end_char="204">convincing</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="206" end_char="213">evidence</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="215" end_char="216">of</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="218" end_char="224">benefit</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="225" end_char="225">,</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="227" end_char="235">prompting</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="237" end_char="243">doctors</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="245" end_char="246">to</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="248" end_char="255">announce</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="257" end_char="258">on</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="260" end_char="265">Monday</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="267" end_char="270">that</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="272" end_char="275">they</TOKEN>
+<TOKEN id="token-1-34" pos="word" morph="none" start_char="277" end_char="280">have</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="282" end_char="287">closed</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="289" end_char="292">that</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="294" end_char="300">section</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="302" end_char="303">of</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="305" end_char="307">the</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="309" end_char="313">trial</TOKEN>
+<TOKEN id="token-1-41" pos="punct" morph="none" start_char="314" end_char="314">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="317" end_char="600">
+<ORIGINAL_TEXT>"Our results show very clearly that for patients hospitalised with COVID-19, azithromycin is not an effective treatment," said Peter Horby, a co-lead investigator on the UK RECOVERY trial, which is exploring a range of existing drugs for their potential to treat the pandemic disease.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="317" end_char="317">"</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="318" end_char="320">Our</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="322" end_char="328">results</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="330" end_char="333">show</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="335" end_char="338">very</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="340" end_char="346">clearly</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="348" end_char="351">that</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="353" end_char="355">for</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="357" end_char="364">patients</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="366" end_char="377">hospitalised</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="379" end_char="382">with</TOKEN>
+<TOKEN id="token-2-11" pos="unknown" morph="none" start_char="384" end_char="391">COVID-19</TOKEN>
+<TOKEN id="token-2-12" pos="punct" morph="none" start_char="392" end_char="392">,</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="394" end_char="405">azithromycin</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="407" end_char="408">is</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="410" end_char="412">not</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="414" end_char="415">an</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="417" end_char="425">effective</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="427" end_char="435">treatment</TOKEN>
+<TOKEN id="token-2-19" pos="punct" morph="none" start_char="436" end_char="437">,"</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="439" end_char="442">said</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="444" end_char="448">Peter</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="450" end_char="454">Horby</TOKEN>
+<TOKEN id="token-2-23" pos="punct" morph="none" start_char="455" end_char="455">,</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="457" end_char="457">a</TOKEN>
+<TOKEN id="token-2-25" pos="unknown" morph="none" start_char="459" end_char="465">co-lead</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="467" end_char="478">investigator</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="480" end_char="481">on</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="483" end_char="485">the</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="487" end_char="488">UK</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="490" end_char="497">RECOVERY</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="499" end_char="503">trial</TOKEN>
+<TOKEN id="token-2-32" pos="punct" morph="none" start_char="504" end_char="504">,</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="506" end_char="510">which</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="512" end_char="513">is</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="515" end_char="523">exploring</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="525" end_char="525">a</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="527" end_char="531">range</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="533" end_char="534">of</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="536" end_char="543">existing</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="545" end_char="549">drugs</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="551" end_char="553">for</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="555" end_char="559">their</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="561" end_char="569">potential</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="571" end_char="572">to</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="574" end_char="578">treat</TOKEN>
+<TOKEN id="token-2-46" pos="word" morph="none" start_char="580" end_char="582">the</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="584" end_char="591">pandemic</TOKEN>
+<TOKEN id="token-2-48" pos="word" morph="none" start_char="593" end_char="599">disease</TOKEN>
+<TOKEN id="token-2-49" pos="punct" morph="none" start_char="600" end_char="600">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="603" end_char="786">
+<ORIGINAL_TEXT>He said that while results for azithromycin were "disappointing", they would provide guidance for doctors around the world caring for patients infected with the SARS-CoV-2 coronavirus.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="603" end_char="604">He</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="606" end_char="609">said</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="611" end_char="614">that</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="616" end_char="620">while</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="622" end_char="628">results</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="630" end_char="632">for</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="634" end_char="645">azithromycin</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="647" end_char="650">were</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="652" end_char="652">"</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="653" end_char="665">disappointing</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="666" end_char="667">",</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="669" end_char="672">they</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="674" end_char="678">would</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="680" end_char="686">provide</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="688" end_char="695">guidance</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="697" end_char="699">for</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="701" end_char="707">doctors</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="709" end_char="714">around</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="716" end_char="718">the</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="720" end_char="724">world</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="726" end_char="731">caring</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="733" end_char="735">for</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="737" end_char="744">patients</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="746" end_char="753">infected</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="755" end_char="758">with</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="760" end_char="762">the</TOKEN>
+<TOKEN id="token-3-26" pos="unknown" morph="none" start_char="764" end_char="773">SARS-CoV-2</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="775" end_char="785">coronavirus</TOKEN>
+<TOKEN id="token-3-28" pos="punct" morph="none" start_char="786" end_char="786">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="789" end_char="973">
+<ORIGINAL_TEXT>The RECOVERY trial was the first to show that dexamethasone, a steroid that, like azithromycin, is cheap and widely available, could save the lives of people severely ill with COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="789" end_char="791">The</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="793" end_char="800">RECOVERY</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="802" end_char="806">trial</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="808" end_char="810">was</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="812" end_char="814">the</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="816" end_char="820">first</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="822" end_char="823">to</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="825" end_char="828">show</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="830" end_char="833">that</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="835" end_char="847">dexamethasone</TOKEN>
+<TOKEN id="token-4-10" pos="punct" morph="none" start_char="848" end_char="848">,</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="850" end_char="850">a</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="852" end_char="858">steroid</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="860" end_char="863">that</TOKEN>
+<TOKEN id="token-4-14" pos="punct" morph="none" start_char="864" end_char="864">,</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="866" end_char="869">like</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="871" end_char="882">azithromycin</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="883" end_char="883">,</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="885" end_char="886">is</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="888" end_char="892">cheap</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="894" end_char="896">and</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="898" end_char="903">widely</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="905" end_char="913">available</TOKEN>
+<TOKEN id="token-4-23" pos="punct" morph="none" start_char="914" end_char="914">,</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="916" end_char="920">could</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="922" end_char="925">save</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="927" end_char="929">the</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="931" end_char="935">lives</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="937" end_char="938">of</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="940" end_char="945">people</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="947" end_char="954">severely</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="956" end_char="958">ill</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="960" end_char="963">with</TOKEN>
+<TOKEN id="token-4-33" pos="unknown" morph="none" start_char="965" end_char="972">COVID-19</TOKEN>
+<TOKEN id="token-4-34" pos="punct" morph="none" start_char="973" end_char="973">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="976" end_char="1130">
+<ORIGINAL_TEXT>It also showed that the anti-malarial drug hydroxychloroquine, once touted by U.S. President Donald Trump, was of no benefit in treating COVID-19 patients.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="976" end_char="977">It</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="979" end_char="982">also</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="984" end_char="989">showed</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="991" end_char="994">that</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="996" end_char="998">the</TOKEN>
+<TOKEN id="token-5-5" pos="unknown" morph="none" start_char="1000" end_char="1012">anti-malarial</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="1014" end_char="1017">drug</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="1019" end_char="1036">hydroxychloroquine</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="1037" end_char="1037">,</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="1039" end_char="1042">once</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="1044" end_char="1049">touted</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="1051" end_char="1052">by</TOKEN>
+<TOKEN id="token-5-12" pos="unknown" morph="none" start_char="1054" end_char="1056">U.S</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="1057" end_char="1057">.</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="1059" end_char="1067">President</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="1069" end_char="1074">Donald</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="1076" end_char="1080">Trump</TOKEN>
+<TOKEN id="token-5-17" pos="punct" morph="none" start_char="1081" end_char="1081">,</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="1083" end_char="1085">was</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="1087" end_char="1088">of</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="1090" end_char="1091">no</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="1093" end_char="1099">benefit</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="1101" end_char="1102">in</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="1104" end_char="1111">treating</TOKEN>
+<TOKEN id="token-5-24" pos="unknown" morph="none" start_char="1113" end_char="1120">COVID-19</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="1122" end_char="1129">patients</TOKEN>
+<TOKEN id="token-5-26" pos="punct" morph="none" start_char="1130" end_char="1130">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1133" end_char="1297">
+<ORIGINAL_TEXT>In the azithromycin arm of the trial, 2,582 patients were randomised to azithromycin and compared with 5,182 patients who were randomly assigned to usual care alone.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1133" end_char="1134">In</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1136" end_char="1138">the</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1140" end_char="1151">azithromycin</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1153" end_char="1155">arm</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1157" end_char="1158">of</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1160" end_char="1162">the</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1164" end_char="1168">trial</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="1169" end_char="1169">,</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="1171" end_char="1175">2,582</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1177" end_char="1184">patients</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1186" end_char="1189">were</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1191" end_char="1200">randomised</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1202" end_char="1203">to</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1205" end_char="1216">azithromycin</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1218" end_char="1220">and</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1222" end_char="1229">compared</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1231" end_char="1234">with</TOKEN>
+<TOKEN id="token-6-17" pos="unknown" morph="none" start_char="1236" end_char="1240">5,182</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1242" end_char="1249">patients</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1251" end_char="1253">who</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1255" end_char="1258">were</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1260" end_char="1267">randomly</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1269" end_char="1276">assigned</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1278" end_char="1279">to</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1281" end_char="1285">usual</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1287" end_char="1290">care</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1292" end_char="1296">alone</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="1297" end_char="1297">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1300" end_char="1415">
+<ORIGINAL_TEXT>A preliminary analysis showed no significant difference in death rates after 28 days, which were 19% in both groups.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1300" end_char="1300">A</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1302" end_char="1312">preliminary</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1314" end_char="1321">analysis</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1323" end_char="1328">showed</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1330" end_char="1331">no</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1333" end_char="1343">significant</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1345" end_char="1354">difference</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1356" end_char="1357">in</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1359" end_char="1363">death</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1365" end_char="1369">rates</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1371" end_char="1375">after</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1377" end_char="1378">28</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1380" end_char="1383">days</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="1384" end_char="1384">,</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1386" end_char="1390">which</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1392" end_char="1395">were</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1397" end_char="1398">19</TOKEN>
+<TOKEN id="token-7-17" pos="punct" morph="none" start_char="1399" end_char="1399">%</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1401" end_char="1402">in</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1404" end_char="1407">both</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1409" end_char="1414">groups</TOKEN>
+<TOKEN id="token-7-21" pos="punct" morph="none" start_char="1415" end_char="1415">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1418" end_char="1566">
+<ORIGINAL_TEXT>There was also no evidence of beneficial effects on the risk of patients needing mechanical ventilation or on how long they needed to be in hospital.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1418" end_char="1422">There</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1424" end_char="1426">was</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1428" end_char="1431">also</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1433" end_char="1434">no</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1436" end_char="1443">evidence</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1445" end_char="1446">of</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1448" end_char="1457">beneficial</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1459" end_char="1465">effects</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1467" end_char="1468">on</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1470" end_char="1472">the</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1474" end_char="1477">risk</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1479" end_char="1480">of</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1482" end_char="1489">patients</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1491" end_char="1497">needing</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1499" end_char="1508">mechanical</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1510" end_char="1520">ventilation</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1522" end_char="1523">or</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1525" end_char="1526">on</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1528" end_char="1530">how</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1532" end_char="1535">long</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1537" end_char="1540">they</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1542" end_char="1547">needed</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1549" end_char="1550">to</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1552" end_char="1553">be</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1555" end_char="1556">in</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1558" end_char="1565">hospital</TOKEN>
+<TOKEN id="token-8-26" pos="punct" morph="none" start_char="1566" end_char="1566">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1568" end_char="1665">
+<ORIGINAL_TEXT>The data have yet to be peer reviewed, but were published on Monday online on the medRxiv website.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1568" end_char="1570">The</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1572" end_char="1575">data</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1577" end_char="1580">have</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1582" end_char="1584">yet</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1586" end_char="1587">to</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1589" end_char="1590">be</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1592" end_char="1595">peer</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1597" end_char="1604">reviewed</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="1605" end_char="1605">,</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1607" end_char="1609">but</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1611" end_char="1614">were</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1616" end_char="1624">published</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1626" end_char="1627">on</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1629" end_char="1634">Monday</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1636" end_char="1641">online</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1643" end_char="1644">on</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1646" end_char="1648">the</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1650" end_char="1656">medRxiv</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1658" end_char="1664">website</TOKEN>
+<TOKEN id="token-9-19" pos="punct" morph="none" start_char="1665" end_char="1665">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1668" end_char="1783">
+<ORIGINAL_TEXT>Given the lack of benefit, experts on the steering committee overseeing the trial agreed it should be closed on Nov.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1668" end_char="1672">Given</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1674" end_char="1676">the</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1678" end_char="1681">lack</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1683" end_char="1684">of</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1686" end_char="1692">benefit</TOKEN>
+<TOKEN id="token-10-5" pos="punct" morph="none" start_char="1693" end_char="1693">,</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1695" end_char="1701">experts</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1703" end_char="1704">on</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1706" end_char="1708">the</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1710" end_char="1717">steering</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1719" end_char="1727">committee</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1729" end_char="1738">overseeing</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1740" end_char="1742">the</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1744" end_char="1748">trial</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1750" end_char="1755">agreed</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1757" end_char="1758">it</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1760" end_char="1765">should</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1767" end_char="1768">be</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1770" end_char="1775">closed</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1777" end_char="1778">on</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1780" end_char="1782">Nov</TOKEN>
+<TOKEN id="token-10-21" pos="punct" morph="none" start_char="1783" end_char="1783">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1785" end_char="1814">
+<ORIGINAL_TEXT>27, Horby said in a statement.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1785" end_char="1786">27</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="1787" end_char="1787">,</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1789" end_char="1793">Horby</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1795" end_char="1798">said</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1800" end_char="1801">in</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1803" end_char="1803">a</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1805" end_char="1813">statement</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="1814" end_char="1814">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1817" end_char="2023">
+<ORIGINAL_TEXT>Since the trial only included hospitalised COVID-19 patients, he said it could not offer any conclusions about the effectiveness of azithromycin in treating people with COVID-19 whose illness is less severe.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1817" end_char="1821">Since</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1823" end_char="1825">the</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1827" end_char="1831">trial</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1833" end_char="1836">only</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1838" end_char="1845">included</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1847" end_char="1858">hospitalised</TOKEN>
+<TOKEN id="token-12-6" pos="unknown" morph="none" start_char="1860" end_char="1867">COVID-19</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1869" end_char="1876">patients</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="1877" end_char="1877">,</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1879" end_char="1880">he</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1882" end_char="1885">said</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1887" end_char="1888">it</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1890" end_char="1894">could</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1896" end_char="1898">not</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1900" end_char="1904">offer</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1906" end_char="1908">any</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1910" end_char="1920">conclusions</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1922" end_char="1926">about</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1928" end_char="1930">the</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1932" end_char="1944">effectiveness</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1946" end_char="1947">of</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1949" end_char="1960">azithromycin</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1962" end_char="1963">in</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1965" end_char="1972">treating</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1974" end_char="1979">people</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1981" end_char="1984">with</TOKEN>
+<TOKEN id="token-12-26" pos="unknown" morph="none" start_char="1986" end_char="1993">COVID-19</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1995" end_char="1999">whose</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="2001" end_char="2007">illness</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="2009" end_char="2010">is</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="2012" end_char="2015">less</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="2017" end_char="2022">severe</TOKEN>
+<TOKEN id="token-12-32" pos="punct" morph="none" start_char="2023" end_char="2023">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2026" end_char="2195">
+<ORIGINAL_TEXT>The RECOVERY trial will continue to assess several other potential COVID-19 treatments, he said, including convalescent plasma and an antibody cocktail made by Regeneron.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2026" end_char="2028">The</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2030" end_char="2037">RECOVERY</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2039" end_char="2043">trial</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2045" end_char="2048">will</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2050" end_char="2057">continue</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2059" end_char="2060">to</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2062" end_char="2067">assess</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2069" end_char="2075">several</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2077" end_char="2081">other</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2083" end_char="2091">potential</TOKEN>
+<TOKEN id="token-13-10" pos="unknown" morph="none" start_char="2093" end_char="2100">COVID-19</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2102" end_char="2111">treatments</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="2112" end_char="2112">,</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2114" end_char="2115">he</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2117" end_char="2120">said</TOKEN>
+<TOKEN id="token-13-15" pos="punct" morph="none" start_char="2121" end_char="2121">,</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2123" end_char="2131">including</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2133" end_char="2144">convalescent</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2146" end_char="2151">plasma</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2153" end_char="2155">and</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2157" end_char="2158">an</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="2160" end_char="2167">antibody</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2169" end_char="2176">cocktail</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2178" end_char="2181">made</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2183" end_char="2184">by</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="2186" end_char="2194">Regeneron</TOKEN>
+<TOKEN id="token-13-26" pos="punct" morph="none" start_char="2195" end_char="2195">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2198" end_char="2269">
+<ORIGINAL_TEXT>"Further results are likely over the next couple of months," Horby said.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="2198" end_char="2198">"</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2199" end_char="2205">Further</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2207" end_char="2213">results</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2215" end_char="2217">are</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2219" end_char="2224">likely</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2226" end_char="2229">over</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2231" end_char="2233">the</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2235" end_char="2238">next</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2240" end_char="2245">couple</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2247" end_char="2248">of</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2250" end_char="2255">months</TOKEN>
+<TOKEN id="token-14-11" pos="punct" morph="none" start_char="2256" end_char="2257">,"</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2259" end_char="2263">Horby</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2265" end_char="2268">said</TOKEN>
+<TOKEN id="token-14-14" pos="punct" morph="none" start_char="2269" end_char="2269">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

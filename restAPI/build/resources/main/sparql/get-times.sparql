@@ -1,0 +1,23 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+
+select distinct ?tmp (GROUP_CONCAT(DISTINCT ?date;SEPARATOR=",") as ?dates) {$from}
+
+where {
+    <{$subject}> {$timeProperty} ?tmp . #LDCTime
+    ?tmp aida:start ?startTime ;
+        aida:end ?endTime .
+    {
+        ?startTime aida:timeType ?startTimeType .
+        OPTIONAL { ?startTime aida:day ?startDay }.
+        OPTIONAL { ?startTime aida:month ?startMonth }.
+        OPTIONAL { ?startTime aida:year ?startYear }.
+        BIND(CONCAT("start:", ?startTimeType, ":", str(?startYear), str(?startMonth), str(?startDay)) as ?date) #start:BEFORE:year--m---d
+    } UNION {
+        ?endTime aida:timeType ?endTimeType .
+        OPTIONAL { ?endTime aida:day ?endDay }.
+        OPTIONAL { ?endTime aida:month ?endMonth }.
+        OPTIONAL { ?endTime aida:year ?endYear }.
+        BIND(CONCAT("end:", ?endTimeType, ":", str(?endYear), str(?endMonth), str(?endDay)) as ?date)
+    }
+}
+group by ?tmp

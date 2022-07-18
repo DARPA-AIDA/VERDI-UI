@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04ATGD" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="5043" raw_text_md5="60319db28b00f5c5f764a3c074d46d7e">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="85">
+<ORIGINAL_TEXT>Covid-19 will become endemic but with decreased potency over time, scientists believe</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="1" end_char="8">Covid-19</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="13">will</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="15" end_char="20">become</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="22" end_char="28">endemic</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="30" end_char="32">but</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="34" end_char="37">with</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="39" end_char="47">decreased</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="49" end_char="55">potency</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="57" end_char="60">over</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="62" end_char="65">time</TOKEN>
+<TOKEN id="token-0-10" pos="punct" morph="none" start_char="66" end_char="66">,</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="68" end_char="77">scientists</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="79" end_char="85">believe</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="89" end_char="344">
+<ORIGINAL_TEXT>The SARS-CoV-2 coronavirus will not be eradicated but will become endemic, continuing to circulate in pockets of the global population for years to come and causing outbreaks in regions where it had been eliminated, scientists working in the field believe.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="89" end_char="91">The</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="93" end_char="102">SARS-CoV-2</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="104" end_char="114">coronavirus</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="116" end_char="119">will</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="121" end_char="123">not</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="125" end_char="126">be</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="128" end_char="137">eradicated</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="139" end_char="141">but</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="143" end_char="146">will</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="148" end_char="153">become</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="155" end_char="161">endemic</TOKEN>
+<TOKEN id="token-1-11" pos="punct" morph="none" start_char="162" end_char="162">,</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="164" end_char="173">continuing</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="175" end_char="176">to</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="178" end_char="186">circulate</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="188" end_char="189">in</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="191" end_char="197">pockets</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="199" end_char="200">of</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="202" end_char="204">the</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="206" end_char="211">global</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="213" end_char="222">population</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="224" end_char="226">for</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="228" end_char="232">years</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="234" end_char="235">to</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="237" end_char="240">come</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="242" end_char="244">and</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="246" end_char="252">causing</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="254" end_char="262">outbreaks</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="264" end_char="265">in</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="267" end_char="273">regions</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="275" end_char="279">where</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="281" end_char="282">it</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="284" end_char="286">had</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="288" end_char="291">been</TOKEN>
+<TOKEN id="token-1-34" pos="word" morph="none" start_char="293" end_char="302">eliminated</TOKEN>
+<TOKEN id="token-1-35" pos="punct" morph="none" start_char="303" end_char="303">,</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="305" end_char="314">scientists</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="316" end_char="322">working</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="324" end_char="325">in</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="327" end_char="329">the</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="331" end_char="335">field</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="337" end_char="343">believe</TOKEN>
+<TOKEN id="token-1-42" pos="punct" morph="none" start_char="344" end_char="344">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="347" end_char="578">
+<ORIGINAL_TEXT>But the impact of the virus on the world in terms of deaths, illness, and the need for social isolation will lessen, they say, as more of the population acquires some immunity to it through exposure to the virus or from vaccination.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="347" end_char="349">But</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="351" end_char="353">the</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="355" end_char="360">impact</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="362" end_char="363">of</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="365" end_char="367">the</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="369" end_char="373">virus</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="375" end_char="376">on</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="378" end_char="380">the</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="382" end_char="386">world</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="388" end_char="389">in</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="391" end_char="395">terms</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="397" end_char="398">of</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="400" end_char="405">deaths</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="406" end_char="406">,</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="408" end_char="414">illness</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="415" end_char="415">,</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="417" end_char="419">and</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="421" end_char="423">the</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="425" end_char="428">need</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="430" end_char="432">for</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="434" end_char="439">social</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="441" end_char="449">isolation</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="451" end_char="454">will</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="456" end_char="461">lessen</TOKEN>
+<TOKEN id="token-2-24" pos="punct" morph="none" start_char="462" end_char="462">,</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="464" end_char="467">they</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="469" end_char="471">say</TOKEN>
+<TOKEN id="token-2-27" pos="punct" morph="none" start_char="472" end_char="472">,</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="474" end_char="475">as</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="477" end_char="480">more</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="482" end_char="483">of</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="485" end_char="487">the</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="489" end_char="498">population</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="500" end_char="507">acquires</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="509" end_char="512">some</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="514" end_char="521">immunity</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="523" end_char="524">to</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="526" end_char="527">it</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="529" end_char="535">through</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="537" end_char="544">exposure</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="546" end_char="547">to</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="549" end_char="551">the</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="553" end_char="557">virus</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="559" end_char="560">or</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="562" end_char="565">from</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="567" end_char="577">vaccination</TOKEN>
+<TOKEN id="token-2-46" pos="punct" morph="none" start_char="578" end_char="578">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="581" end_char="652">
+<ORIGINAL_TEXT>The predictions come from a survey carried out in January by the journal</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="581" end_char="583">The</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="585" end_char="595">predictions</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="597" end_char="600">come</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="602" end_char="605">from</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="607" end_char="607">a</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="609" end_char="614">survey</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="616" end_char="622">carried</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="624" end_char="626">out</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="628" end_char="629">in</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="631" end_char="637">January</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="639" end_char="640">by</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="642" end_char="644">the</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="646" end_char="652">journal</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="655" end_char="660">
+<ORIGINAL_TEXT>Nature</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="655" end_char="660">Nature</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="663" end_char="967">
+<ORIGINAL_TEXT>of more than 100 immunologists, infectious disease researchers, and virologists working on SARS-CoV-2.1 Almost 90% of respondents said that they expected the coronavirus to become endemic, although more than a third thought that it would be possible to eliminate SARS-CoV-2 from some regions of the world.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="663" end_char="664">of</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="666" end_char="669">more</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="671" end_char="674">than</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="676" end_char="678">100</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="680" end_char="692">immunologists</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="693" end_char="693">,</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="695" end_char="704">infectious</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="706" end_char="712">disease</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="714" end_char="724">researchers</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="725" end_char="725">,</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="727" end_char="729">and</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="731" end_char="741">virologists</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="743" end_char="749">working</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="751" end_char="752">on</TOKEN>
+<TOKEN id="token-5-14" pos="unknown" morph="none" start_char="754" end_char="765">SARS-CoV-2.1</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="767" end_char="772">Almost</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="774" end_char="775">90</TOKEN>
+<TOKEN id="token-5-17" pos="punct" morph="none" start_char="776" end_char="776">%</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="778" end_char="779">of</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="781" end_char="791">respondents</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="793" end_char="796">said</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="798" end_char="801">that</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="803" end_char="806">they</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="808" end_char="815">expected</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="817" end_char="819">the</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="821" end_char="831">coronavirus</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="833" end_char="834">to</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="836" end_char="841">become</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="843" end_char="849">endemic</TOKEN>
+<TOKEN id="token-5-29" pos="punct" morph="none" start_char="850" end_char="850">,</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="852" end_char="859">although</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="861" end_char="864">more</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="866" end_char="869">than</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="871" end_char="871">a</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="873" end_char="877">third</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="879" end_char="885">thought</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="887" end_char="890">that</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="892" end_char="893">it</TOKEN>
+<TOKEN id="token-5-38" pos="word" morph="none" start_char="895" end_char="899">would</TOKEN>
+<TOKEN id="token-5-39" pos="word" morph="none" start_char="901" end_char="902">be</TOKEN>
+<TOKEN id="token-5-40" pos="word" morph="none" start_char="904" end_char="911">possible</TOKEN>
+<TOKEN id="token-5-41" pos="word" morph="none" start_char="913" end_char="914">to</TOKEN>
+<TOKEN id="token-5-42" pos="word" morph="none" start_char="916" end_char="924">eliminate</TOKEN>
+<TOKEN id="token-5-43" pos="unknown" morph="none" start_char="926" end_char="935">SARS-CoV-2</TOKEN>
+<TOKEN id="token-5-44" pos="word" morph="none" start_char="937" end_char="940">from</TOKEN>
+<TOKEN id="token-5-45" pos="word" morph="none" start_char="942" end_char="945">some</TOKEN>
+<TOKEN id="token-5-46" pos="word" morph="none" start_char="947" end_char="953">regions</TOKEN>
+<TOKEN id="token-5-47" pos="word" morph="none" start_char="955" end_char="956">of</TOKEN>
+<TOKEN id="token-5-48" pos="word" morph="none" start_char="958" end_char="960">the</TOKEN>
+<TOKEN id="token-5-49" pos="word" morph="none" start_char="962" end_char="966">world</TOKEN>
+<TOKEN id="token-5-50" pos="punct" morph="none" start_char="967" end_char="967">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="970" end_char="1231">
+<ORIGINAL_TEXT>While there would be a continual risk of covid-19 outbreaks in areas where the virus had been eliminated, these could be stifled quickly by herd immunity if most people had been vaccinated, said Christopher Dye, an epidemiologist at the University of Oxford, UK.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="970" end_char="974">While</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="976" end_char="980">there</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="982" end_char="986">would</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="988" end_char="989">be</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="991" end_char="991">a</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="993" end_char="1001">continual</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1003" end_char="1006">risk</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1008" end_char="1009">of</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="1011" end_char="1018">covid-19</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1020" end_char="1028">outbreaks</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1030" end_char="1031">in</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1033" end_char="1037">areas</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1039" end_char="1043">where</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1045" end_char="1047">the</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1049" end_char="1053">virus</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1055" end_char="1057">had</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1059" end_char="1062">been</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1064" end_char="1073">eliminated</TOKEN>
+<TOKEN id="token-6-18" pos="punct" morph="none" start_char="1074" end_char="1074">,</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1076" end_char="1080">these</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1082" end_char="1086">could</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1088" end_char="1089">be</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1091" end_char="1097">stifled</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1099" end_char="1105">quickly</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1107" end_char="1108">by</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1110" end_char="1113">herd</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1115" end_char="1122">immunity</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="1124" end_char="1125">if</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="1127" end_char="1130">most</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="1132" end_char="1137">people</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="1139" end_char="1141">had</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="1143" end_char="1146">been</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="1148" end_char="1157">vaccinated</TOKEN>
+<TOKEN id="token-6-33" pos="punct" morph="none" start_char="1158" end_char="1158">,</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="1160" end_char="1163">said</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="1165" end_char="1175">Christopher</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="1177" end_char="1179">Dye</TOKEN>
+<TOKEN id="token-6-37" pos="punct" morph="none" start_char="1180" end_char="1180">,</TOKEN>
+<TOKEN id="token-6-38" pos="word" morph="none" start_char="1182" end_char="1183">an</TOKEN>
+<TOKEN id="token-6-39" pos="word" morph="none" start_char="1185" end_char="1198">epidemiologist</TOKEN>
+<TOKEN id="token-6-40" pos="word" morph="none" start_char="1200" end_char="1201">at</TOKEN>
+<TOKEN id="token-6-41" pos="word" morph="none" start_char="1203" end_char="1205">the</TOKEN>
+<TOKEN id="token-6-42" pos="word" morph="none" start_char="1207" end_char="1216">University</TOKEN>
+<TOKEN id="token-6-43" pos="word" morph="none" start_char="1218" end_char="1219">of</TOKEN>
+<TOKEN id="token-6-44" pos="word" morph="none" start_char="1221" end_char="1226">Oxford</TOKEN>
+<TOKEN id="token-6-45" pos="punct" morph="none" start_char="1227" end_char="1227">,</TOKEN>
+<TOKEN id="token-6-46" pos="word" morph="none" start_char="1229" end_char="1230">UK</TOKEN>
+<TOKEN id="token-6-47" pos="punct" morph="none" start_char="1231" end_char="1231">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1233" end_char="1239">
+<ORIGINAL_TEXT>He told</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1233" end_char="1234">He</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1236" end_char="1239">told</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1242" end_char="1247">
+<ORIGINAL_TEXT>Nature</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1242" end_char="1247">Nature</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1250" end_char="1459">
+<ORIGINAL_TEXT>, "I guess covid will be eliminated from some countries, but with a continuing and maybe seasonal risk of reintroduction from places where vaccine coverage and public health measures have not been good enough."</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1250" end_char="1250">,</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="1252" end_char="1252">"</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1253" end_char="1253">I</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1255" end_char="1259">guess</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1261" end_char="1265">covid</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1267" end_char="1270">will</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1272" end_char="1273">be</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1275" end_char="1284">eliminated</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1286" end_char="1289">from</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1291" end_char="1294">some</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1296" end_char="1304">countries</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="1305" end_char="1305">,</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1307" end_char="1309">but</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1311" end_char="1314">with</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1316" end_char="1316">a</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1318" end_char="1327">continuing</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1329" end_char="1331">and</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1333" end_char="1337">maybe</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1339" end_char="1346">seasonal</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1348" end_char="1351">risk</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1353" end_char="1354">of</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1356" end_char="1369">reintroduction</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1371" end_char="1374">from</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1376" end_char="1381">places</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1383" end_char="1387">where</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1389" end_char="1395">vaccine</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1397" end_char="1404">coverage</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1406" end_char="1408">and</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="1410" end_char="1415">public</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="1417" end_char="1422">health</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="1424" end_char="1431">measures</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="1433" end_char="1436">have</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="1438" end_char="1440">not</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="1442" end_char="1445">been</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="1447" end_char="1450">good</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="1452" end_char="1457">enough</TOKEN>
+<TOKEN id="token-9-36" pos="punct" morph="none" start_char="1458" end_char="1459">."</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1462" end_char="1598">
+<ORIGINAL_TEXT>Covid-19 is still classed as in a pandemic phase because infections continue to increase worldwide and many people are still susceptible.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="1462" end_char="1469">Covid-19</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1471" end_char="1472">is</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1474" end_char="1478">still</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1480" end_char="1486">classed</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1488" end_char="1489">as</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1491" end_char="1492">in</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1494" end_char="1494">a</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1496" end_char="1503">pandemic</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1505" end_char="1509">phase</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1511" end_char="1517">because</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1519" end_char="1528">infections</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1530" end_char="1537">continue</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1539" end_char="1540">to</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1542" end_char="1549">increase</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1551" end_char="1559">worldwide</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1561" end_char="1563">and</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1565" end_char="1568">many</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1570" end_char="1575">people</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1577" end_char="1579">are</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1581" end_char="1585">still</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1587" end_char="1597">susceptible</TOKEN>
+<TOKEN id="token-10-21" pos="punct" morph="none" start_char="1598" end_char="1598">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1600" end_char="1712">
+<ORIGINAL_TEXT>In an endemic phase the number of infections becomes relatively constant across years, with occasional flare-ups.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1600" end_char="1601">In</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1603" end_char="1604">an</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1606" end_char="1612">endemic</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1614" end_char="1618">phase</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1620" end_char="1622">the</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1624" end_char="1629">number</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1631" end_char="1632">of</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1634" end_char="1643">infections</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1645" end_char="1651">becomes</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1653" end_char="1662">relatively</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1664" end_char="1671">constant</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1673" end_char="1678">across</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1680" end_char="1684">years</TOKEN>
+<TOKEN id="token-11-13" pos="punct" morph="none" start_char="1685" end_char="1685">,</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1687" end_char="1690">with</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1692" end_char="1701">occasional</TOKEN>
+<TOKEN id="token-11-16" pos="unknown" morph="none" start_char="1703" end_char="1711">flare-ups</TOKEN>
+<TOKEN id="token-11-17" pos="punct" morph="none" start_char="1712" end_char="1712">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1715" end_char="1740">
+<ORIGINAL_TEXT>Antibodies and reinfection</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1715" end_char="1724">Antibodies</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1726" end_char="1728">and</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1730" end_char="1740">reinfection</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1744" end_char="1973">
+<ORIGINAL_TEXT>Over time covid-19 could become a disease first encountered in early childhood, when it would typically cause mild infection or none at all, Jennie Lavine, an infectious disease researcher at Emory University in Atlanta, USA, told</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1744" end_char="1747">Over</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1749" end_char="1752">time</TOKEN>
+<TOKEN id="token-13-2" pos="unknown" morph="none" start_char="1754" end_char="1761">covid-19</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1763" end_char="1767">could</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1769" end_char="1774">become</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1776" end_char="1776">a</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1778" end_char="1784">disease</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1786" end_char="1790">first</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1792" end_char="1802">encountered</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1804" end_char="1805">in</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1807" end_char="1811">early</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1813" end_char="1821">childhood</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="1822" end_char="1822">,</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1824" end_char="1827">when</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1829" end_char="1830">it</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1832" end_char="1836">would</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1838" end_char="1846">typically</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1848" end_char="1852">cause</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1854" end_char="1857">mild</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1859" end_char="1867">infection</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1869" end_char="1870">or</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1872" end_char="1875">none</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1877" end_char="1878">at</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1880" end_char="1882">all</TOKEN>
+<TOKEN id="token-13-24" pos="punct" morph="none" start_char="1883" end_char="1883">,</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1885" end_char="1890">Jennie</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1892" end_char="1897">Lavine</TOKEN>
+<TOKEN id="token-13-27" pos="punct" morph="none" start_char="1898" end_char="1898">,</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="1900" end_char="1901">an</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="1903" end_char="1912">infectious</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="1914" end_char="1920">disease</TOKEN>
+<TOKEN id="token-13-31" pos="word" morph="none" start_char="1922" end_char="1931">researcher</TOKEN>
+<TOKEN id="token-13-32" pos="word" morph="none" start_char="1933" end_char="1934">at</TOKEN>
+<TOKEN id="token-13-33" pos="word" morph="none" start_char="1936" end_char="1940">Emory</TOKEN>
+<TOKEN id="token-13-34" pos="word" morph="none" start_char="1942" end_char="1951">University</TOKEN>
+<TOKEN id="token-13-35" pos="word" morph="none" start_char="1953" end_char="1954">in</TOKEN>
+<TOKEN id="token-13-36" pos="word" morph="none" start_char="1956" end_char="1962">Atlanta</TOKEN>
+<TOKEN id="token-13-37" pos="punct" morph="none" start_char="1963" end_char="1963">,</TOKEN>
+<TOKEN id="token-13-38" pos="word" morph="none" start_char="1965" end_char="1967">USA</TOKEN>
+<TOKEN id="token-13-39" pos="punct" morph="none" start_char="1968" end_char="1968">,</TOKEN>
+<TOKEN id="token-13-40" pos="word" morph="none" start_char="1970" end_char="1973">told</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1976" end_char="1981">
+<ORIGINAL_TEXT>Nature</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1976" end_char="1981">Nature</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1984" end_char="1984">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="punct" morph="none" start_char="1984" end_char="1984">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1986" end_char="2145">
+<ORIGINAL_TEXT>Although that defence would wane quickly and not be sufficient to block reinfection entirely, it could be enough to protect adults experiencing severe symptoms.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1986" end_char="1993">Although</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1995" end_char="1998">that</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2000" end_char="2006">defence</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2008" end_char="2012">would</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2014" end_char="2017">wane</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2019" end_char="2025">quickly</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2027" end_char="2029">and</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2031" end_char="2033">not</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2035" end_char="2036">be</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2038" end_char="2047">sufficient</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2049" end_char="2050">to</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2052" end_char="2056">block</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2058" end_char="2068">reinfection</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2070" end_char="2077">entirely</TOKEN>
+<TOKEN id="token-16-14" pos="punct" morph="none" start_char="2078" end_char="2078">,</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2080" end_char="2081">it</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2083" end_char="2087">could</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2089" end_char="2090">be</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2092" end_char="2097">enough</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2099" end_char="2100">to</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2102" end_char="2108">protect</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2110" end_char="2115">adults</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2117" end_char="2128">experiencing</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2130" end_char="2135">severe</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2137" end_char="2144">symptoms</TOKEN>
+<TOKEN id="token-16-25" pos="punct" morph="none" start_char="2145" end_char="2145">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2148" end_char="2292">
+<ORIGINAL_TEXT>Scientists consider this scenario likely because it matches four existing endemic coronaviruses—OC43, 229E, NL63, and HKU1—but it is not certain.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2148" end_char="2157">Scientists</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2159" end_char="2166">consider</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2168" end_char="2171">this</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2173" end_char="2180">scenario</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2182" end_char="2187">likely</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2189" end_char="2195">because</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2197" end_char="2198">it</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2200" end_char="2206">matches</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2208" end_char="2211">four</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2213" end_char="2220">existing</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2222" end_char="2228">endemic</TOKEN>
+<TOKEN id="token-17-11" pos="unknown" morph="none" start_char="2230" end_char="2247">coronaviruses—OC43</TOKEN>
+<TOKEN id="token-17-12" pos="punct" morph="none" start_char="2248" end_char="2248">,</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2250" end_char="2253">229E</TOKEN>
+<TOKEN id="token-17-14" pos="punct" morph="none" start_char="2254" end_char="2254">,</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2256" end_char="2259">NL63</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="2260" end_char="2260">,</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2262" end_char="2264">and</TOKEN>
+<TOKEN id="token-17-18" pos="unknown" morph="none" start_char="2266" end_char="2273">HKU1—but</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2275" end_char="2276">it</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2278" end_char="2279">is</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2281" end_char="2283">not</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2285" end_char="2291">certain</TOKEN>
+<TOKEN id="token-17-23" pos="punct" morph="none" start_char="2292" end_char="2292">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2294" end_char="2650">
+<ORIGINAL_TEXT>A large study has shown that levels of neutralising antibodies start to decline after around six to eight months after infection with SARS-CoV-2.2 If a new infection arises, memory B cells can manufacture antibodies and T cells that can eliminate virus infected cells, but it has yet to be established whether this immune memory can block viral reinfection.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2294" end_char="2294">A</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2296" end_char="2300">large</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2302" end_char="2306">study</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2308" end_char="2310">has</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2312" end_char="2316">shown</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2318" end_char="2321">that</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2323" end_char="2328">levels</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2330" end_char="2331">of</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2333" end_char="2344">neutralising</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2346" end_char="2355">antibodies</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2357" end_char="2361">start</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2363" end_char="2364">to</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2366" end_char="2372">decline</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2374" end_char="2378">after</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2380" end_char="2385">around</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2387" end_char="2389">six</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2391" end_char="2392">to</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2394" end_char="2398">eight</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2400" end_char="2405">months</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2407" end_char="2411">after</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2413" end_char="2421">infection</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2423" end_char="2426">with</TOKEN>
+<TOKEN id="token-18-22" pos="unknown" morph="none" start_char="2428" end_char="2439">SARS-CoV-2.2</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2441" end_char="2442">If</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2444" end_char="2444">a</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2446" end_char="2448">new</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2450" end_char="2458">infection</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="2460" end_char="2465">arises</TOKEN>
+<TOKEN id="token-18-28" pos="punct" morph="none" start_char="2466" end_char="2466">,</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2468" end_char="2473">memory</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2475" end_char="2475">B</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2477" end_char="2481">cells</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2483" end_char="2485">can</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="2487" end_char="2497">manufacture</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2499" end_char="2508">antibodies</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2510" end_char="2512">and</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="2514" end_char="2514">T</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="2516" end_char="2520">cells</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="2522" end_char="2525">that</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="2527" end_char="2529">can</TOKEN>
+<TOKEN id="token-18-40" pos="word" morph="none" start_char="2531" end_char="2539">eliminate</TOKEN>
+<TOKEN id="token-18-41" pos="word" morph="none" start_char="2541" end_char="2545">virus</TOKEN>
+<TOKEN id="token-18-42" pos="word" morph="none" start_char="2547" end_char="2554">infected</TOKEN>
+<TOKEN id="token-18-43" pos="word" morph="none" start_char="2556" end_char="2560">cells</TOKEN>
+<TOKEN id="token-18-44" pos="punct" morph="none" start_char="2561" end_char="2561">,</TOKEN>
+<TOKEN id="token-18-45" pos="word" morph="none" start_char="2563" end_char="2565">but</TOKEN>
+<TOKEN id="token-18-46" pos="word" morph="none" start_char="2567" end_char="2568">it</TOKEN>
+<TOKEN id="token-18-47" pos="word" morph="none" start_char="2570" end_char="2572">has</TOKEN>
+<TOKEN id="token-18-48" pos="word" morph="none" start_char="2574" end_char="2576">yet</TOKEN>
+<TOKEN id="token-18-49" pos="word" morph="none" start_char="2578" end_char="2579">to</TOKEN>
+<TOKEN id="token-18-50" pos="word" morph="none" start_char="2581" end_char="2582">be</TOKEN>
+<TOKEN id="token-18-51" pos="word" morph="none" start_char="2584" end_char="2594">established</TOKEN>
+<TOKEN id="token-18-52" pos="word" morph="none" start_char="2596" end_char="2602">whether</TOKEN>
+<TOKEN id="token-18-53" pos="word" morph="none" start_char="2604" end_char="2607">this</TOKEN>
+<TOKEN id="token-18-54" pos="word" morph="none" start_char="2609" end_char="2614">immune</TOKEN>
+<TOKEN id="token-18-55" pos="word" morph="none" start_char="2616" end_char="2621">memory</TOKEN>
+<TOKEN id="token-18-56" pos="word" morph="none" start_char="2623" end_char="2625">can</TOKEN>
+<TOKEN id="token-18-57" pos="word" morph="none" start_char="2627" end_char="2631">block</TOKEN>
+<TOKEN id="token-18-58" pos="word" morph="none" start_char="2633" end_char="2637">viral</TOKEN>
+<TOKEN id="token-18-59" pos="word" morph="none" start_char="2639" end_char="2649">reinfection</TOKEN>
+<TOKEN id="token-18-60" pos="punct" morph="none" start_char="2650" end_char="2650">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2653" end_char="2774">
+<ORIGINAL_TEXT>It could take years or even decades to reach a state where enough of the population has sufficient immunity, Lavine added.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2653" end_char="2654">It</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2656" end_char="2660">could</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2662" end_char="2665">take</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2667" end_char="2671">years</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2673" end_char="2674">or</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2676" end_char="2679">even</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2681" end_char="2687">decades</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2689" end_char="2690">to</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2692" end_char="2696">reach</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2698" end_char="2698">a</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2700" end_char="2704">state</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2706" end_char="2710">where</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2712" end_char="2717">enough</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2719" end_char="2720">of</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2722" end_char="2724">the</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2726" end_char="2735">population</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2737" end_char="2739">has</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2741" end_char="2750">sufficient</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2752" end_char="2759">immunity</TOKEN>
+<TOKEN id="token-19-19" pos="punct" morph="none" start_char="2760" end_char="2760">,</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2762" end_char="2767">Lavine</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2769" end_char="2773">added</TOKEN>
+<TOKEN id="token-19-22" pos="punct" morph="none" start_char="2774" end_char="2774">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2776" end_char="2969">
+<ORIGINAL_TEXT>Allowing the virus to spread unchecked would be the fastest way to get to that point, but it would result in many millions of deaths, so the most palatable path is through vaccination, she said.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2776" end_char="2783">Allowing</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2785" end_char="2787">the</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2789" end_char="2793">virus</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2795" end_char="2796">to</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2798" end_char="2803">spread</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2805" end_char="2813">unchecked</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2815" end_char="2819">would</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2821" end_char="2822">be</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2824" end_char="2826">the</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2828" end_char="2834">fastest</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2836" end_char="2838">way</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2840" end_char="2841">to</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2843" end_char="2845">get</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2847" end_char="2848">to</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2850" end_char="2853">that</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2855" end_char="2859">point</TOKEN>
+<TOKEN id="token-20-16" pos="punct" morph="none" start_char="2860" end_char="2860">,</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2862" end_char="2864">but</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2866" end_char="2867">it</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2869" end_char="2873">would</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2875" end_char="2880">result</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2882" end_char="2883">in</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2885" end_char="2888">many</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2890" end_char="2897">millions</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="2899" end_char="2900">of</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="2902" end_char="2907">deaths</TOKEN>
+<TOKEN id="token-20-26" pos="punct" morph="none" start_char="2908" end_char="2908">,</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="2910" end_char="2911">so</TOKEN>
+<TOKEN id="token-20-28" pos="word" morph="none" start_char="2913" end_char="2915">the</TOKEN>
+<TOKEN id="token-20-29" pos="word" morph="none" start_char="2917" end_char="2920">most</TOKEN>
+<TOKEN id="token-20-30" pos="word" morph="none" start_char="2922" end_char="2930">palatable</TOKEN>
+<TOKEN id="token-20-31" pos="word" morph="none" start_char="2932" end_char="2935">path</TOKEN>
+<TOKEN id="token-20-32" pos="word" morph="none" start_char="2937" end_char="2938">is</TOKEN>
+<TOKEN id="token-20-33" pos="word" morph="none" start_char="2940" end_char="2946">through</TOKEN>
+<TOKEN id="token-20-34" pos="word" morph="none" start_char="2948" end_char="2958">vaccination</TOKEN>
+<TOKEN id="token-20-35" pos="punct" morph="none" start_char="2959" end_char="2959">,</TOKEN>
+<TOKEN id="token-20-36" pos="word" morph="none" start_char="2961" end_char="2963">she</TOKEN>
+<TOKEN id="token-20-37" pos="word" morph="none" start_char="2965" end_char="2968">said</TOKEN>
+<TOKEN id="token-20-38" pos="punct" morph="none" start_char="2969" end_char="2969">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2972" end_char="3136">
+<ORIGINAL_TEXT>If vaccines do block transmission and are effective against newer variants it may be possible to achieve herd immunity in regions where enough people are vaccinated.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2972" end_char="2973">If</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2975" end_char="2982">vaccines</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2984" end_char="2985">do</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2987" end_char="2991">block</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2993" end_char="3004">transmission</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3006" end_char="3008">and</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3010" end_char="3012">are</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="3014" end_char="3022">effective</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3024" end_char="3030">against</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3032" end_char="3036">newer</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3038" end_char="3045">variants</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3047" end_char="3048">it</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="3050" end_char="3052">may</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="3054" end_char="3055">be</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3057" end_char="3064">possible</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3066" end_char="3067">to</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3069" end_char="3075">achieve</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3077" end_char="3080">herd</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3082" end_char="3089">immunity</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3091" end_char="3092">in</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3094" end_char="3100">regions</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3102" end_char="3106">where</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="3108" end_char="3113">enough</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="3115" end_char="3120">people</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="3122" end_char="3124">are</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="3126" end_char="3135">vaccinated</TOKEN>
+<TOKEN id="token-21-26" pos="punct" morph="none" start_char="3136" end_char="3136">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3138" end_char="3691">
+<ORIGINAL_TEXT>A model developed by Alexandra Hogan at Imperial College London and her colleagues showed that a vaccine that is 90% effective would need to reach at least 55% coverage to achieve temporary herd immunity with some social distancing measures, such as face masks and many people working from home.3 The same vaccine would need 67% coverage to provide herd immunity if all social distancing measures were lifted—and even higher levels if the vaccine was less than 90% effective at blocking transmission or if transmission increased because of a new variant.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3138" end_char="3138">A</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3140" end_char="3144">model</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3146" end_char="3154">developed</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3156" end_char="3157">by</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3159" end_char="3167">Alexandra</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3169" end_char="3173">Hogan</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3175" end_char="3176">at</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3178" end_char="3185">Imperial</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3187" end_char="3193">College</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3195" end_char="3200">London</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3202" end_char="3204">and</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3206" end_char="3208">her</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3210" end_char="3219">colleagues</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3221" end_char="3226">showed</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="3228" end_char="3231">that</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="3233" end_char="3233">a</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3235" end_char="3241">vaccine</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3243" end_char="3246">that</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3248" end_char="3249">is</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="3251" end_char="3252">90</TOKEN>
+<TOKEN id="token-22-20" pos="punct" morph="none" start_char="3253" end_char="3253">%</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3255" end_char="3263">effective</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3265" end_char="3269">would</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3271" end_char="3274">need</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="3276" end_char="3277">to</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="3279" end_char="3283">reach</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="3285" end_char="3286">at</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="3288" end_char="3292">least</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="3294" end_char="3295">55</TOKEN>
+<TOKEN id="token-22-29" pos="punct" morph="none" start_char="3296" end_char="3296">%</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="3298" end_char="3305">coverage</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="3307" end_char="3308">to</TOKEN>
+<TOKEN id="token-22-32" pos="word" morph="none" start_char="3310" end_char="3316">achieve</TOKEN>
+<TOKEN id="token-22-33" pos="word" morph="none" start_char="3318" end_char="3326">temporary</TOKEN>
+<TOKEN id="token-22-34" pos="word" morph="none" start_char="3328" end_char="3331">herd</TOKEN>
+<TOKEN id="token-22-35" pos="word" morph="none" start_char="3333" end_char="3340">immunity</TOKEN>
+<TOKEN id="token-22-36" pos="word" morph="none" start_char="3342" end_char="3345">with</TOKEN>
+<TOKEN id="token-22-37" pos="word" morph="none" start_char="3347" end_char="3350">some</TOKEN>
+<TOKEN id="token-22-38" pos="word" morph="none" start_char="3352" end_char="3357">social</TOKEN>
+<TOKEN id="token-22-39" pos="word" morph="none" start_char="3359" end_char="3368">distancing</TOKEN>
+<TOKEN id="token-22-40" pos="word" morph="none" start_char="3370" end_char="3377">measures</TOKEN>
+<TOKEN id="token-22-41" pos="punct" morph="none" start_char="3378" end_char="3378">,</TOKEN>
+<TOKEN id="token-22-42" pos="word" morph="none" start_char="3380" end_char="3383">such</TOKEN>
+<TOKEN id="token-22-43" pos="word" morph="none" start_char="3385" end_char="3386">as</TOKEN>
+<TOKEN id="token-22-44" pos="word" morph="none" start_char="3388" end_char="3391">face</TOKEN>
+<TOKEN id="token-22-45" pos="word" morph="none" start_char="3393" end_char="3397">masks</TOKEN>
+<TOKEN id="token-22-46" pos="word" morph="none" start_char="3399" end_char="3401">and</TOKEN>
+<TOKEN id="token-22-47" pos="word" morph="none" start_char="3403" end_char="3406">many</TOKEN>
+<TOKEN id="token-22-48" pos="word" morph="none" start_char="3408" end_char="3413">people</TOKEN>
+<TOKEN id="token-22-49" pos="word" morph="none" start_char="3415" end_char="3421">working</TOKEN>
+<TOKEN id="token-22-50" pos="word" morph="none" start_char="3423" end_char="3426">from</TOKEN>
+<TOKEN id="token-22-51" pos="unknown" morph="none" start_char="3428" end_char="3433">home.3</TOKEN>
+<TOKEN id="token-22-52" pos="word" morph="none" start_char="3435" end_char="3437">The</TOKEN>
+<TOKEN id="token-22-53" pos="word" morph="none" start_char="3439" end_char="3442">same</TOKEN>
+<TOKEN id="token-22-54" pos="word" morph="none" start_char="3444" end_char="3450">vaccine</TOKEN>
+<TOKEN id="token-22-55" pos="word" morph="none" start_char="3452" end_char="3456">would</TOKEN>
+<TOKEN id="token-22-56" pos="word" morph="none" start_char="3458" end_char="3461">need</TOKEN>
+<TOKEN id="token-22-57" pos="word" morph="none" start_char="3463" end_char="3464">67</TOKEN>
+<TOKEN id="token-22-58" pos="punct" morph="none" start_char="3465" end_char="3465">%</TOKEN>
+<TOKEN id="token-22-59" pos="word" morph="none" start_char="3467" end_char="3474">coverage</TOKEN>
+<TOKEN id="token-22-60" pos="word" morph="none" start_char="3476" end_char="3477">to</TOKEN>
+<TOKEN id="token-22-61" pos="word" morph="none" start_char="3479" end_char="3485">provide</TOKEN>
+<TOKEN id="token-22-62" pos="word" morph="none" start_char="3487" end_char="3490">herd</TOKEN>
+<TOKEN id="token-22-63" pos="word" morph="none" start_char="3492" end_char="3499">immunity</TOKEN>
+<TOKEN id="token-22-64" pos="word" morph="none" start_char="3501" end_char="3502">if</TOKEN>
+<TOKEN id="token-22-65" pos="word" morph="none" start_char="3504" end_char="3506">all</TOKEN>
+<TOKEN id="token-22-66" pos="word" morph="none" start_char="3508" end_char="3513">social</TOKEN>
+<TOKEN id="token-22-67" pos="word" morph="none" start_char="3515" end_char="3524">distancing</TOKEN>
+<TOKEN id="token-22-68" pos="word" morph="none" start_char="3526" end_char="3533">measures</TOKEN>
+<TOKEN id="token-22-69" pos="word" morph="none" start_char="3535" end_char="3538">were</TOKEN>
+<TOKEN id="token-22-70" pos="unknown" morph="none" start_char="3540" end_char="3549">lifted—and</TOKEN>
+<TOKEN id="token-22-71" pos="word" morph="none" start_char="3551" end_char="3554">even</TOKEN>
+<TOKEN id="token-22-72" pos="word" morph="none" start_char="3556" end_char="3561">higher</TOKEN>
+<TOKEN id="token-22-73" pos="word" morph="none" start_char="3563" end_char="3568">levels</TOKEN>
+<TOKEN id="token-22-74" pos="word" morph="none" start_char="3570" end_char="3571">if</TOKEN>
+<TOKEN id="token-22-75" pos="word" morph="none" start_char="3573" end_char="3575">the</TOKEN>
+<TOKEN id="token-22-76" pos="word" morph="none" start_char="3577" end_char="3583">vaccine</TOKEN>
+<TOKEN id="token-22-77" pos="word" morph="none" start_char="3585" end_char="3587">was</TOKEN>
+<TOKEN id="token-22-78" pos="word" morph="none" start_char="3589" end_char="3592">less</TOKEN>
+<TOKEN id="token-22-79" pos="word" morph="none" start_char="3594" end_char="3597">than</TOKEN>
+<TOKEN id="token-22-80" pos="word" morph="none" start_char="3599" end_char="3600">90</TOKEN>
+<TOKEN id="token-22-81" pos="punct" morph="none" start_char="3601" end_char="3601">%</TOKEN>
+<TOKEN id="token-22-82" pos="word" morph="none" start_char="3603" end_char="3611">effective</TOKEN>
+<TOKEN id="token-22-83" pos="word" morph="none" start_char="3613" end_char="3614">at</TOKEN>
+<TOKEN id="token-22-84" pos="word" morph="none" start_char="3616" end_char="3623">blocking</TOKEN>
+<TOKEN id="token-22-85" pos="word" morph="none" start_char="3625" end_char="3636">transmission</TOKEN>
+<TOKEN id="token-22-86" pos="word" morph="none" start_char="3638" end_char="3639">or</TOKEN>
+<TOKEN id="token-22-87" pos="word" morph="none" start_char="3641" end_char="3642">if</TOKEN>
+<TOKEN id="token-22-88" pos="word" morph="none" start_char="3644" end_char="3655">transmission</TOKEN>
+<TOKEN id="token-22-89" pos="word" morph="none" start_char="3657" end_char="3665">increased</TOKEN>
+<TOKEN id="token-22-90" pos="word" morph="none" start_char="3667" end_char="3673">because</TOKEN>
+<TOKEN id="token-22-91" pos="word" morph="none" start_char="3675" end_char="3676">of</TOKEN>
+<TOKEN id="token-22-92" pos="word" morph="none" start_char="3678" end_char="3678">a</TOKEN>
+<TOKEN id="token-22-93" pos="word" morph="none" start_char="3680" end_char="3682">new</TOKEN>
+<TOKEN id="token-22-94" pos="word" morph="none" start_char="3684" end_char="3690">variant</TOKEN>
+<TOKEN id="token-22-95" pos="punct" morph="none" start_char="3691" end_char="3691">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3694" end_char="3978">
+<ORIGINAL_TEXT>Already, preprint results from laboratory studies suggest that neutralising antibodies in the blood of people who have had covid-19 are less capable of recognising a viral variant first identified in South Africa (called 501Y.V2) than variants that circulated earlier in the pandemic.4</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3694" end_char="3700">Already</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="3701" end_char="3701">,</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3703" end_char="3710">preprint</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3712" end_char="3718">results</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3720" end_char="3723">from</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3725" end_char="3734">laboratory</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3736" end_char="3742">studies</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3744" end_char="3750">suggest</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3752" end_char="3755">that</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3757" end_char="3768">neutralising</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3770" end_char="3779">antibodies</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3781" end_char="3782">in</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3784" end_char="3786">the</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3788" end_char="3792">blood</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="3794" end_char="3795">of</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3797" end_char="3802">people</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="3804" end_char="3806">who</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="3808" end_char="3811">have</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="3813" end_char="3815">had</TOKEN>
+<TOKEN id="token-23-19" pos="unknown" morph="none" start_char="3817" end_char="3824">covid-19</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="3826" end_char="3828">are</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="3830" end_char="3833">less</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="3835" end_char="3841">capable</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="3843" end_char="3844">of</TOKEN>
+<TOKEN id="token-23-24" pos="word" morph="none" start_char="3846" end_char="3856">recognising</TOKEN>
+<TOKEN id="token-23-25" pos="word" morph="none" start_char="3858" end_char="3858">a</TOKEN>
+<TOKEN id="token-23-26" pos="word" morph="none" start_char="3860" end_char="3864">viral</TOKEN>
+<TOKEN id="token-23-27" pos="word" morph="none" start_char="3866" end_char="3872">variant</TOKEN>
+<TOKEN id="token-23-28" pos="word" morph="none" start_char="3874" end_char="3878">first</TOKEN>
+<TOKEN id="token-23-29" pos="word" morph="none" start_char="3880" end_char="3889">identified</TOKEN>
+<TOKEN id="token-23-30" pos="word" morph="none" start_char="3891" end_char="3892">in</TOKEN>
+<TOKEN id="token-23-31" pos="word" morph="none" start_char="3894" end_char="3898">South</TOKEN>
+<TOKEN id="token-23-32" pos="word" morph="none" start_char="3900" end_char="3905">Africa</TOKEN>
+<TOKEN id="token-23-33" pos="punct" morph="none" start_char="3907" end_char="3907">(</TOKEN>
+<TOKEN id="token-23-34" pos="word" morph="none" start_char="3908" end_char="3913">called</TOKEN>
+<TOKEN id="token-23-35" pos="unknown" morph="none" start_char="3915" end_char="3921">501Y.V2</TOKEN>
+<TOKEN id="token-23-36" pos="punct" morph="none" start_char="3922" end_char="3922">)</TOKEN>
+<TOKEN id="token-23-37" pos="word" morph="none" start_char="3924" end_char="3927">than</TOKEN>
+<TOKEN id="token-23-38" pos="word" morph="none" start_char="3929" end_char="3936">variants</TOKEN>
+<TOKEN id="token-23-39" pos="word" morph="none" start_char="3938" end_char="3941">that</TOKEN>
+<TOKEN id="token-23-40" pos="word" morph="none" start_char="3943" end_char="3952">circulated</TOKEN>
+<TOKEN id="token-23-41" pos="word" morph="none" start_char="3954" end_char="3960">earlier</TOKEN>
+<TOKEN id="token-23-42" pos="word" morph="none" start_char="3962" end_char="3963">in</TOKEN>
+<TOKEN id="token-23-43" pos="word" morph="none" start_char="3965" end_char="3967">the</TOKEN>
+<TOKEN id="token-23-44" pos="unknown" morph="none" start_char="3969" end_char="3978">pandemic.4</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3981" end_char="4024">
+<ORIGINAL_TEXT>More than 70% of the researchers surveyed by</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3981" end_char="3984">More</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3986" end_char="3989">than</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3991" end_char="3992">70</TOKEN>
+<TOKEN id="token-24-3" pos="punct" morph="none" start_char="3993" end_char="3993">%</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3995" end_char="3996">of</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3998" end_char="4000">the</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="4002" end_char="4012">researchers</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="4014" end_char="4021">surveyed</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="4023" end_char="4024">by</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="4027" end_char="4032">
+<ORIGINAL_TEXT>Nature</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="4027" end_char="4032">Nature</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4035" end_char="4143">
+<ORIGINAL_TEXT>believed that the ability to adapt and evade immune defences would drive continued circulation of SARS-CoV-2.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="4035" end_char="4042">believed</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="4044" end_char="4047">that</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4049" end_char="4051">the</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="4053" end_char="4059">ability</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="4061" end_char="4062">to</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="4064" end_char="4068">adapt</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="4070" end_char="4072">and</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="4074" end_char="4078">evade</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="4080" end_char="4085">immune</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="4087" end_char="4094">defences</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="4096" end_char="4100">would</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="4102" end_char="4106">drive</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="4108" end_char="4116">continued</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="4118" end_char="4128">circulation</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="4130" end_char="4131">of</TOKEN>
+<TOKEN id="token-26-15" pos="unknown" morph="none" start_char="4133" end_char="4142">SARS-CoV-2</TOKEN>
+<TOKEN id="token-26-16" pos="punct" morph="none" start_char="4143" end_char="4143">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4145" end_char="4258">
+<ORIGINAL_TEXT>As a result, updated vaccines may need to be developed and administered, possibly every year like the flu vaccine.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4145" end_char="4146">As</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4148" end_char="4148">a</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4150" end_char="4155">result</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="4156" end_char="4156">,</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4158" end_char="4164">updated</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4166" end_char="4173">vaccines</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4175" end_char="4177">may</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4179" end_char="4182">need</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4184" end_char="4185">to</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="4187" end_char="4188">be</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4190" end_char="4198">developed</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4200" end_char="4202">and</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4204" end_char="4215">administered</TOKEN>
+<TOKEN id="token-27-13" pos="punct" morph="none" start_char="4216" end_char="4216">,</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4218" end_char="4225">possibly</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="4227" end_char="4231">every</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="4233" end_char="4236">year</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="4238" end_char="4241">like</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="4243" end_char="4245">the</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="4247" end_char="4249">flu</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="4251" end_char="4257">vaccine</TOKEN>
+<TOKEN id="token-27-21" pos="punct" morph="none" start_char="4258" end_char="4258">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4261" end_char="4371">
+<ORIGINAL_TEXT>The future impact of SARS-CoV-2 will also depend on how well it establishes itself in a wild animal population.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4261" end_char="4263">The</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4265" end_char="4270">future</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4272" end_char="4277">impact</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="4279" end_char="4280">of</TOKEN>
+<TOKEN id="token-28-4" pos="unknown" morph="none" start_char="4282" end_char="4291">SARS-CoV-2</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="4293" end_char="4296">will</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="4298" end_char="4301">also</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="4303" end_char="4308">depend</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="4310" end_char="4311">on</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="4313" end_char="4315">how</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="4317" end_char="4320">well</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="4322" end_char="4323">it</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="4325" end_char="4335">establishes</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="4337" end_char="4342">itself</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="4344" end_char="4345">in</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="4347" end_char="4347">a</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="4349" end_char="4352">wild</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="4354" end_char="4359">animal</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="4361" end_char="4370">population</TOKEN>
+<TOKEN id="token-28-19" pos="punct" morph="none" start_char="4371" end_char="4371">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4373" end_char="4518">
+<ORIGINAL_TEXT>Several diseases that have been brought under control, including yellow fever, Ebola, and chikungunya virus, persist because of animal reservoirs.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4373" end_char="4379">Several</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4381" end_char="4388">diseases</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="4390" end_char="4393">that</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4395" end_char="4398">have</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4400" end_char="4403">been</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4405" end_char="4411">brought</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4413" end_char="4417">under</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="4419" end_char="4425">control</TOKEN>
+<TOKEN id="token-29-8" pos="punct" morph="none" start_char="4426" end_char="4426">,</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="4428" end_char="4436">including</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="4438" end_char="4443">yellow</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="4445" end_char="4449">fever</TOKEN>
+<TOKEN id="token-29-12" pos="punct" morph="none" start_char="4450" end_char="4450">,</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="4452" end_char="4456">Ebola</TOKEN>
+<TOKEN id="token-29-14" pos="punct" morph="none" start_char="4457" end_char="4457">,</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="4459" end_char="4461">and</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="4463" end_char="4473">chikungunya</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="4475" end_char="4479">virus</TOKEN>
+<TOKEN id="token-29-18" pos="punct" morph="none" start_char="4480" end_char="4480">,</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="4482" end_char="4488">persist</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="4490" end_char="4496">because</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="4498" end_char="4499">of</TOKEN>
+<TOKEN id="token-29-22" pos="word" morph="none" start_char="4501" end_char="4506">animal</TOKEN>
+<TOKEN id="token-29-23" pos="word" morph="none" start_char="4508" end_char="4517">reservoirs</TOKEN>
+<TOKEN id="token-29-24" pos="punct" morph="none" start_char="4518" end_char="4518">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4520" end_char="4676">
+<ORIGINAL_TEXT>SARS-CoV-2 probably originated in bats and can readily infect many animals, including cats, rabbits, and hamsters, and it is particularly infectious in mink.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="4520" end_char="4529">SARS-CoV-2</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4531" end_char="4538">probably</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="4540" end_char="4549">originated</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="4551" end_char="4552">in</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="4554" end_char="4557">bats</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="4559" end_char="4561">and</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="4563" end_char="4565">can</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="4567" end_char="4573">readily</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="4575" end_char="4580">infect</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="4582" end_char="4585">many</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="4587" end_char="4593">animals</TOKEN>
+<TOKEN id="token-30-11" pos="punct" morph="none" start_char="4594" end_char="4594">,</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="4596" end_char="4604">including</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="4606" end_char="4609">cats</TOKEN>
+<TOKEN id="token-30-14" pos="punct" morph="none" start_char="4610" end_char="4610">,</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="4612" end_char="4618">rabbits</TOKEN>
+<TOKEN id="token-30-16" pos="punct" morph="none" start_char="4619" end_char="4619">,</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="4621" end_char="4623">and</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="4625" end_char="4632">hamsters</TOKEN>
+<TOKEN id="token-30-19" pos="punct" morph="none" start_char="4633" end_char="4633">,</TOKEN>
+<TOKEN id="token-30-20" pos="word" morph="none" start_char="4635" end_char="4637">and</TOKEN>
+<TOKEN id="token-30-21" pos="word" morph="none" start_char="4639" end_char="4640">it</TOKEN>
+<TOKEN id="token-30-22" pos="word" morph="none" start_char="4642" end_char="4643">is</TOKEN>
+<TOKEN id="token-30-23" pos="word" morph="none" start_char="4645" end_char="4656">particularly</TOKEN>
+<TOKEN id="token-30-24" pos="word" morph="none" start_char="4658" end_char="4667">infectious</TOKEN>
+<TOKEN id="token-30-25" pos="word" morph="none" start_char="4669" end_char="4670">in</TOKEN>
+<TOKEN id="token-30-26" pos="word" morph="none" start_char="4672" end_char="4675">mink</TOKEN>
+<TOKEN id="token-30-27" pos="punct" morph="none" start_char="4676" end_char="4676">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4679" end_char="4857">
+<ORIGINAL_TEXT>This article is made freely available for use in accordance with BMJ's website terms and conditions for the duration of the covid-19 pandemic or until otherwise determined by BMJ.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4679" end_char="4682">This</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4684" end_char="4690">article</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="4692" end_char="4693">is</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="4695" end_char="4698">made</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="4700" end_char="4705">freely</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="4707" end_char="4715">available</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="4717" end_char="4719">for</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="4721" end_char="4723">use</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4725" end_char="4726">in</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="4728" end_char="4737">accordance</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4739" end_char="4742">with</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4744" end_char="4748">BMJ's</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4750" end_char="4756">website</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="4758" end_char="4762">terms</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4764" end_char="4766">and</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="4768" end_char="4777">conditions</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="4779" end_char="4781">for</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="4783" end_char="4785">the</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="4787" end_char="4794">duration</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="4796" end_char="4797">of</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="4799" end_char="4801">the</TOKEN>
+<TOKEN id="token-31-21" pos="unknown" morph="none" start_char="4803" end_char="4810">covid-19</TOKEN>
+<TOKEN id="token-31-22" pos="word" morph="none" start_char="4812" end_char="4819">pandemic</TOKEN>
+<TOKEN id="token-31-23" pos="word" morph="none" start_char="4821" end_char="4822">or</TOKEN>
+<TOKEN id="token-31-24" pos="word" morph="none" start_char="4824" end_char="4828">until</TOKEN>
+<TOKEN id="token-31-25" pos="word" morph="none" start_char="4830" end_char="4838">otherwise</TOKEN>
+<TOKEN id="token-31-26" pos="word" morph="none" start_char="4840" end_char="4849">determined</TOKEN>
+<TOKEN id="token-31-27" pos="word" morph="none" start_char="4851" end_char="4852">by</TOKEN>
+<TOKEN id="token-31-28" pos="word" morph="none" start_char="4854" end_char="4856">BMJ</TOKEN>
+<TOKEN id="token-31-29" pos="punct" morph="none" start_char="4857" end_char="4857">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4859" end_char="5039">
+<ORIGINAL_TEXT>You may use, download and print the article for any lawful, non-commercial purpose (including text and data mining) provided that all copyright notices and trade marks are retained.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4859" end_char="4861">You</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4863" end_char="4865">may</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="4867" end_char="4869">use</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="4870" end_char="4870">,</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="4872" end_char="4879">download</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="4881" end_char="4883">and</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="4885" end_char="4889">print</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="4891" end_char="4893">the</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="4895" end_char="4901">article</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="4903" end_char="4905">for</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="4907" end_char="4909">any</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="4911" end_char="4916">lawful</TOKEN>
+<TOKEN id="token-32-12" pos="punct" morph="none" start_char="4917" end_char="4917">,</TOKEN>
+<TOKEN id="token-32-13" pos="unknown" morph="none" start_char="4919" end_char="4932">non-commercial</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="4934" end_char="4940">purpose</TOKEN>
+<TOKEN id="token-32-15" pos="punct" morph="none" start_char="4942" end_char="4942">(</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="4943" end_char="4951">including</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="4953" end_char="4956">text</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="4958" end_char="4960">and</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="4962" end_char="4965">data</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="4967" end_char="4972">mining</TOKEN>
+<TOKEN id="token-32-21" pos="punct" morph="none" start_char="4973" end_char="4973">)</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="4975" end_char="4982">provided</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="4984" end_char="4987">that</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="4989" end_char="4991">all</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="4993" end_char="5001">copyright</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="5003" end_char="5009">notices</TOKEN>
+<TOKEN id="token-32-27" pos="word" morph="none" start_char="5011" end_char="5013">and</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="5015" end_char="5019">trade</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="5021" end_char="5025">marks</TOKEN>
+<TOKEN id="token-32-30" pos="word" morph="none" start_char="5027" end_char="5029">are</TOKEN>
+<TOKEN id="token-32-31" pos="word" morph="none" start_char="5031" end_char="5038">retained</TOKEN>
+<TOKEN id="token-32-32" pos="punct" morph="none" start_char="5039" end_char="5039">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

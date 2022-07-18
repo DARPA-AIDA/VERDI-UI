@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C04959L" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3217" raw_text_md5="923317e4ecece534e1f8d65d229334dc">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="27">
+<ORIGINAL_TEXT>Convalescent plasma therapy</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="12">Convalescent</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="14" end_char="19">plasma</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="21" end_char="27">therapy</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="31" end_char="35">
+<ORIGINAL_TEXT>Print</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="31" end_char="35">Print</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="38" end_char="45">
+<ORIGINAL_TEXT>Overview</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="38" end_char="45">Overview</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="49" end_char="182">
+<ORIGINAL_TEXT>Convalescent plasma (kon-vuh-LES-unt PLAZ-muh) therapy uses blood from people who've recovered from an illness to help others recover.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="49" end_char="60">Convalescent</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="62" end_char="67">plasma</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="69" end_char="69">(</TOKEN>
+<TOKEN id="token-3-3" pos="unknown" morph="none" start_char="70" end_char="84">kon-vuh-LES-unt</TOKEN>
+<TOKEN id="token-3-4" pos="unknown" morph="none" start_char="86" end_char="93">PLAZ-muh</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="94" end_char="94">)</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="96" end_char="102">therapy</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="104" end_char="107">uses</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="109" end_char="113">blood</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="115" end_char="118">from</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="120" end_char="125">people</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="127" end_char="132">who've</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="134" end_char="142">recovered</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="144" end_char="147">from</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="149" end_char="150">an</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="152" end_char="158">illness</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="160" end_char="161">to</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="163" end_char="166">help</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="168" end_char="173">others</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="175" end_char="181">recover</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="182" end_char="182">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="185" end_char="319">
+<ORIGINAL_TEXT>The U.S. Food and Drug Administration (FDA) authorized convalescent plasma therapy for people with coronavirus disease 2019 (COVID-19).</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="185" end_char="187">The</TOKEN>
+<TOKEN id="token-4-1" pos="unknown" morph="none" start_char="189" end_char="191">U.S</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="192" end_char="192">.</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="194" end_char="197">Food</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="199" end_char="201">and</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="203" end_char="206">Drug</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="208" end_char="221">Administration</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="223" end_char="223">(</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="224" end_char="226">FDA</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="227" end_char="227">)</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="229" end_char="238">authorized</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="240" end_char="251">convalescent</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="253" end_char="258">plasma</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="260" end_char="266">therapy</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="268" end_char="270">for</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="272" end_char="277">people</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="279" end_char="282">with</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="284" end_char="294">coronavirus</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="296" end_char="302">disease</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="304" end_char="307">2019</TOKEN>
+<TOKEN id="token-4-20" pos="punct" morph="none" start_char="309" end_char="309">(</TOKEN>
+<TOKEN id="token-4-21" pos="unknown" morph="none" start_char="310" end_char="317">COVID-19</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="318" end_char="319">).</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="321" end_char="419">
+<ORIGINAL_TEXT>The FDA is allowing its use during the pandemic because there's no approved treatment for COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="321" end_char="323">The</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="325" end_char="327">FDA</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="329" end_char="330">is</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="332" end_char="339">allowing</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="341" end_char="343">its</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="345" end_char="347">use</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="349" end_char="354">during</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="356" end_char="358">the</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="360" end_char="367">pandemic</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="369" end_char="375">because</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="377" end_char="383">there's</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="385" end_char="386">no</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="388" end_char="395">approved</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="397" end_char="405">treatment</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="407" end_char="409">for</TOKEN>
+<TOKEN id="token-5-15" pos="unknown" morph="none" start_char="411" end_char="418">COVID-19</TOKEN>
+<TOKEN id="token-5-16" pos="punct" morph="none" start_char="419" end_char="419">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="422" end_char="519">
+<ORIGINAL_TEXT>Blood donated by people who've recovered from COVID-19 has antibodies to the virus that causes it.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="422" end_char="426">Blood</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="428" end_char="434">donated</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="436" end_char="437">by</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="439" end_char="444">people</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="446" end_char="451">who've</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="453" end_char="461">recovered</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="463" end_char="466">from</TOKEN>
+<TOKEN id="token-6-7" pos="unknown" morph="none" start_char="468" end_char="475">COVID-19</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="477" end_char="479">has</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="481" end_char="490">antibodies</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="492" end_char="493">to</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="495" end_char="497">the</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="499" end_char="503">virus</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="505" end_char="508">that</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="510" end_char="515">causes</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="517" end_char="518">it</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="519" end_char="519">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="521" end_char="620">
+<ORIGINAL_TEXT>The donated blood is processed to remove blood cells, leaving behind liquid (plasma) and antibodies.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="521" end_char="523">The</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="525" end_char="531">donated</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="533" end_char="537">blood</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="539" end_char="540">is</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="542" end_char="550">processed</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="552" end_char="553">to</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="555" end_char="560">remove</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="562" end_char="566">blood</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="568" end_char="572">cells</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="573" end_char="573">,</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="575" end_char="581">leaving</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="583" end_char="588">behind</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="590" end_char="595">liquid</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="597" end_char="597">(</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="598" end_char="603">plasma</TOKEN>
+<TOKEN id="token-7-15" pos="punct" morph="none" start_char="604" end_char="604">)</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="606" end_char="608">and</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="610" end_char="619">antibodies</TOKEN>
+<TOKEN id="token-7-18" pos="punct" morph="none" start_char="620" end_char="620">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="622" end_char="706">
+<ORIGINAL_TEXT>These can be given to people with COVID-19 to boost their ability to fight the virus.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="622" end_char="626">These</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="628" end_char="630">can</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="632" end_char="633">be</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="635" end_char="639">given</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="641" end_char="642">to</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="644" end_char="649">people</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="651" end_char="654">with</TOKEN>
+<TOKEN id="token-8-7" pos="unknown" morph="none" start_char="656" end_char="663">COVID-19</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="665" end_char="666">to</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="668" end_char="672">boost</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="674" end_char="678">their</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="680" end_char="686">ability</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="688" end_char="689">to</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="691" end_char="695">fight</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="697" end_char="699">the</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="701" end_char="705">virus</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="706" end_char="706">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="709" end_char="721">
+<ORIGINAL_TEXT>Why it's done</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="709" end_char="711">Why</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="713" end_char="716">it's</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="718" end_char="721">done</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="725" end_char="810">
+<ORIGINAL_TEXT>Convalescent plasma therapy may be given to people who are hospitalized with COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="725" end_char="736">Convalescent</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="738" end_char="743">plasma</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="745" end_char="751">therapy</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="753" end_char="755">may</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="757" end_char="758">be</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="760" end_char="764">given</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="766" end_char="767">to</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="769" end_char="774">people</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="776" end_char="778">who</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="780" end_char="782">are</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="784" end_char="795">hospitalized</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="797" end_char="800">with</TOKEN>
+<TOKEN id="token-10-12" pos="unknown" morph="none" start_char="802" end_char="809">COVID-19</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="810" end_char="810">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="813" end_char="878">
+<ORIGINAL_TEXT>Convalescent plasma therapy may help people recover from COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="813" end_char="824">Convalescent</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="826" end_char="831">plasma</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="833" end_char="839">therapy</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="841" end_char="843">may</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="845" end_char="848">help</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="850" end_char="855">people</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="857" end_char="863">recover</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="865" end_char="868">from</TOKEN>
+<TOKEN id="token-11-8" pos="unknown" morph="none" start_char="870" end_char="877">COVID-19</TOKEN>
+<TOKEN id="token-11-9" pos="punct" morph="none" start_char="878" end_char="878">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="880" end_char="943">
+<ORIGINAL_TEXT>It may lessen the severity or shorten the length of the disease.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="880" end_char="881">It</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="883" end_char="885">may</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="887" end_char="892">lessen</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="894" end_char="896">the</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="898" end_char="905">severity</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="907" end_char="908">or</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="910" end_char="916">shorten</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="918" end_char="920">the</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="922" end_char="927">length</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="929" end_char="930">of</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="932" end_char="934">the</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="936" end_char="942">disease</TOKEN>
+<TOKEN id="token-12-12" pos="punct" morph="none" start_char="943" end_char="943">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="946" end_char="950">
+<ORIGINAL_TEXT>Risks</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="946" end_char="950">Risks</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="954" end_char="1004">
+<ORIGINAL_TEXT>Blood has been used to treat many other conditions.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="954" end_char="958">Blood</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="960" end_char="962">has</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="964" end_char="967">been</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="969" end_char="972">used</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="974" end_char="975">to</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="977" end_char="981">treat</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="983" end_char="986">many</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="988" end_char="992">other</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="994" end_char="1003">conditions</TOKEN>
+<TOKEN id="token-14-9" pos="punct" morph="none" start_char="1004" end_char="1004">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1006" end_char="1028">
+<ORIGINAL_TEXT>It's usually very safe.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1006" end_char="1009">It's</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1011" end_char="1017">usually</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1019" end_char="1022">very</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1024" end_char="1027">safe</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="1028" end_char="1028">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1030" end_char="1106">
+<ORIGINAL_TEXT>The risk of getting COVID-19 from convalescent plasma hasn't been tested yet.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1030" end_char="1032">The</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1034" end_char="1037">risk</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1039" end_char="1040">of</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1042" end_char="1048">getting</TOKEN>
+<TOKEN id="token-16-4" pos="unknown" morph="none" start_char="1050" end_char="1057">COVID-19</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1059" end_char="1062">from</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1064" end_char="1075">convalescent</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1077" end_char="1082">plasma</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1084" end_char="1089">hasn't</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1091" end_char="1094">been</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1096" end_char="1101">tested</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1103" end_char="1105">yet</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="1106" end_char="1106">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1108" end_char="1207">
+<ORIGINAL_TEXT>But researchers believe that the risk is low because donors have fully recovered from the infection.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1108" end_char="1110">But</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1112" end_char="1122">researchers</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1124" end_char="1130">believe</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1132" end_char="1135">that</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1137" end_char="1139">the</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1141" end_char="1144">risk</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1146" end_char="1147">is</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1149" end_char="1151">low</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1153" end_char="1159">because</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1161" end_char="1166">donors</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1168" end_char="1171">have</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1173" end_char="1177">fully</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1179" end_char="1187">recovered</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1189" end_char="1192">from</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1194" end_char="1196">the</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1198" end_char="1206">infection</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="1207" end_char="1207">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1210" end_char="1261">
+<ORIGINAL_TEXT>Convalescent plasma therapy has some risks, such as:</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1210" end_char="1221">Convalescent</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1223" end_char="1228">plasma</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1230" end_char="1236">therapy</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1238" end_char="1240">has</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1242" end_char="1245">some</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1247" end_char="1251">risks</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="1252" end_char="1252">,</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1254" end_char="1257">such</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1259" end_char="1260">as</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="1261" end_char="1261">:</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1265" end_char="1282">
+<ORIGINAL_TEXT>Allergic reactions</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1265" end_char="1272">Allergic</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1274" end_char="1282">reactions</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1286" end_char="1321">
+<ORIGINAL_TEXT>Lung damage and difficulty breathing</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1286" end_char="1289">Lung</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1291" end_char="1296">damage</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1298" end_char="1300">and</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1302" end_char="1311">difficulty</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1313" end_char="1321">breathing</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1325" end_char="1368">
+<ORIGINAL_TEXT>Infections such as HIV and hepatitis B and C</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1325" end_char="1334">Infections</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1336" end_char="1339">such</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1341" end_char="1342">as</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1344" end_char="1346">HIV</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1348" end_char="1350">and</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1352" end_char="1360">hepatitis</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1362" end_char="1362">B</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1364" end_char="1366">and</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1368" end_char="1368">C</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1373" end_char="1407">
+<ORIGINAL_TEXT>The risk of such infections is low.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1373" end_char="1375">The</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1377" end_char="1380">risk</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1382" end_char="1383">of</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1385" end_char="1388">such</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1390" end_char="1399">infections</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1401" end_char="1402">is</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1404" end_char="1406">low</TOKEN>
+<TOKEN id="token-22-7" pos="punct" morph="none" start_char="1407" end_char="1407">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1409" end_char="1448">
+<ORIGINAL_TEXT>Donated blood must be tested for safety.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1409" end_char="1415">Donated</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1417" end_char="1421">blood</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1423" end_char="1426">must</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1428" end_char="1429">be</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1431" end_char="1436">tested</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1438" end_char="1440">for</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1442" end_char="1447">safety</TOKEN>
+<TOKEN id="token-23-7" pos="punct" morph="none" start_char="1448" end_char="1448">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1450" end_char="1504">
+<ORIGINAL_TEXT>Some people may have mild complications or none at all.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1450" end_char="1453">Some</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1455" end_char="1460">people</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1462" end_char="1464">may</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1466" end_char="1469">have</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1471" end_char="1474">mild</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="1476" end_char="1488">complications</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="1490" end_char="1491">or</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="1493" end_char="1496">none</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="1498" end_char="1499">at</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="1501" end_char="1503">all</TOKEN>
+<TOKEN id="token-24-10" pos="punct" morph="none" start_char="1504" end_char="1504">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1506" end_char="1568">
+<ORIGINAL_TEXT>Other people may have severe or life-threatening complications.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1506" end_char="1510">Other</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1512" end_char="1517">people</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1519" end_char="1521">may</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1523" end_char="1526">have</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1528" end_char="1533">severe</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1535" end_char="1536">or</TOKEN>
+<TOKEN id="token-25-6" pos="unknown" morph="none" start_char="1538" end_char="1553">life-threatening</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1555" end_char="1567">complications</TOKEN>
+<TOKEN id="token-25-8" pos="punct" morph="none" start_char="1568" end_char="1568">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1571" end_char="1589">
+<ORIGINAL_TEXT>What you can expect</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1571" end_char="1574">What</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1576" end_char="1578">you</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1580" end_char="1582">can</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1584" end_char="1589">expect</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1593" end_char="1685">
+<ORIGINAL_TEXT>Your doctor may consider convalescent plasma therapy if you're in the hospital with COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1593" end_char="1596">Your</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1598" end_char="1603">doctor</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1605" end_char="1607">may</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="1609" end_char="1616">consider</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1618" end_char="1629">convalescent</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1631" end_char="1636">plasma</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1638" end_char="1644">therapy</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1646" end_char="1647">if</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="1649" end_char="1654">you're</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="1656" end_char="1657">in</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="1659" end_char="1661">the</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="1663" end_char="1670">hospital</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="1672" end_char="1675">with</TOKEN>
+<TOKEN id="token-27-13" pos="unknown" morph="none" start_char="1677" end_char="1684">COVID-19</TOKEN>
+<TOKEN id="token-27-14" pos="punct" morph="none" start_char="1685" end_char="1685">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1687" end_char="1759">
+<ORIGINAL_TEXT>If you have questions about convalescent plasma therapy, ask your doctor.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1687" end_char="1688">If</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1690" end_char="1692">you</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1694" end_char="1697">have</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1699" end_char="1707">questions</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1709" end_char="1713">about</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1715" end_char="1726">convalescent</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1728" end_char="1733">plasma</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="1735" end_char="1741">therapy</TOKEN>
+<TOKEN id="token-28-8" pos="punct" morph="none" start_char="1742" end_char="1742">,</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="1744" end_char="1746">ask</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="1748" end_char="1751">your</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="1753" end_char="1758">doctor</TOKEN>
+<TOKEN id="token-28-12" pos="punct" morph="none" start_char="1759" end_char="1759">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1762" end_char="1886">
+<ORIGINAL_TEXT>Your doctor will order convalescent plasma that is compatible with your blood type from your hospital's local blood supplier.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="1762" end_char="1765">Your</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1767" end_char="1772">doctor</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="1774" end_char="1777">will</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="1779" end_char="1783">order</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="1785" end_char="1796">convalescent</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="1798" end_char="1803">plasma</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1805" end_char="1808">that</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1810" end_char="1811">is</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="1813" end_char="1822">compatible</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="1824" end_char="1827">with</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1829" end_char="1832">your</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="1834" end_char="1838">blood</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="1840" end_char="1843">type</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="1845" end_char="1848">from</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="1850" end_char="1853">your</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="1855" end_char="1864">hospital's</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="1866" end_char="1870">local</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="1872" end_char="1876">blood</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="1878" end_char="1885">supplier</TOKEN>
+<TOKEN id="token-29-19" pos="punct" morph="none" start_char="1886" end_char="1886">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1889" end_char="1908">
+<ORIGINAL_TEXT>Before the procedure</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1889" end_char="1894">Before</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="1896" end_char="1898">the</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1900" end_char="1908">procedure</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1912" end_char="2000">
+<ORIGINAL_TEXT>Before convalescent plasma therapy, your health care team prepares you for the procedure.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1912" end_char="1917">Before</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1919" end_char="1930">convalescent</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1932" end_char="1937">plasma</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="1939" end_char="1945">therapy</TOKEN>
+<TOKEN id="token-31-4" pos="punct" morph="none" start_char="1946" end_char="1946">,</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1948" end_char="1951">your</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="1953" end_char="1958">health</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="1960" end_char="1963">care</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="1965" end_char="1968">team</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="1970" end_char="1977">prepares</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="1979" end_char="1981">you</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="1983" end_char="1985">for</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="1987" end_char="1989">the</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="1991" end_char="1999">procedure</TOKEN>
+<TOKEN id="token-31-14" pos="punct" morph="none" start_char="2000" end_char="2000">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="2002" end_char="2142">
+<ORIGINAL_TEXT>A health care team member inserts a sterile single-use needle connected to a tube (intravenous, or IV, line) into a vein in one of your arms.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="2002" end_char="2002">A</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="2004" end_char="2009">health</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="2011" end_char="2014">care</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="2016" end_char="2019">team</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="2021" end_char="2026">member</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="2028" end_char="2034">inserts</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="2036" end_char="2036">a</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="2038" end_char="2044">sterile</TOKEN>
+<TOKEN id="token-32-8" pos="unknown" morph="none" start_char="2046" end_char="2055">single-use</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="2057" end_char="2062">needle</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="2064" end_char="2072">connected</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="2074" end_char="2075">to</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="2077" end_char="2077">a</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="2079" end_char="2082">tube</TOKEN>
+<TOKEN id="token-32-14" pos="punct" morph="none" start_char="2084" end_char="2084">(</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="2085" end_char="2095">intravenous</TOKEN>
+<TOKEN id="token-32-16" pos="punct" morph="none" start_char="2096" end_char="2096">,</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="2098" end_char="2099">or</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="2101" end_char="2102">IV</TOKEN>
+<TOKEN id="token-32-19" pos="punct" morph="none" start_char="2103" end_char="2103">,</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="2105" end_char="2108">line</TOKEN>
+<TOKEN id="token-32-21" pos="punct" morph="none" start_char="2109" end_char="2109">)</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="2111" end_char="2114">into</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="2116" end_char="2116">a</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="2118" end_char="2121">vein</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="2123" end_char="2124">in</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="2126" end_char="2128">one</TOKEN>
+<TOKEN id="token-32-27" pos="word" morph="none" start_char="2130" end_char="2131">of</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="2133" end_char="2136">your</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="2138" end_char="2141">arms</TOKEN>
+<TOKEN id="token-32-30" pos="punct" morph="none" start_char="2142" end_char="2142">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="2145" end_char="2164">
+<ORIGINAL_TEXT>During the procedure</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="2145" end_char="2150">During</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="2152" end_char="2154">the</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="2156" end_char="2164">procedure</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="2168" end_char="2293">
+<ORIGINAL_TEXT>When the plasma arrives, the sterile plasma bag is attached to the tube and the plasma drips out of the bag and into the tube.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="2168" end_char="2171">When</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="2173" end_char="2175">the</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="2177" end_char="2182">plasma</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="2184" end_char="2190">arrives</TOKEN>
+<TOKEN id="token-34-4" pos="punct" morph="none" start_char="2191" end_char="2191">,</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="2193" end_char="2195">the</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="2197" end_char="2203">sterile</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="2205" end_char="2210">plasma</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="2212" end_char="2214">bag</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="2216" end_char="2217">is</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="2219" end_char="2226">attached</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="2228" end_char="2229">to</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="2231" end_char="2233">the</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="2235" end_char="2238">tube</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="2240" end_char="2242">and</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="2244" end_char="2246">the</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="2248" end_char="2253">plasma</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="2255" end_char="2259">drips</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="2261" end_char="2263">out</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="2265" end_char="2266">of</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="2268" end_char="2270">the</TOKEN>
+<TOKEN id="token-34-21" pos="word" morph="none" start_char="2272" end_char="2274">bag</TOKEN>
+<TOKEN id="token-34-22" pos="word" morph="none" start_char="2276" end_char="2278">and</TOKEN>
+<TOKEN id="token-34-23" pos="word" morph="none" start_char="2280" end_char="2283">into</TOKEN>
+<TOKEN id="token-34-24" pos="word" morph="none" start_char="2285" end_char="2287">the</TOKEN>
+<TOKEN id="token-34-25" pos="word" morph="none" start_char="2289" end_char="2292">tube</TOKEN>
+<TOKEN id="token-34-26" pos="punct" morph="none" start_char="2293" end_char="2293">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="2295" end_char="2352">
+<ORIGINAL_TEXT>It takes about one to two hours to complete the procedure.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="2295" end_char="2296">It</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="2298" end_char="2302">takes</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="2304" end_char="2308">about</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="2310" end_char="2312">one</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="2314" end_char="2315">to</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="2317" end_char="2319">two</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="2321" end_char="2325">hours</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="2327" end_char="2328">to</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="2330" end_char="2337">complete</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="2339" end_char="2341">the</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="2343" end_char="2351">procedure</TOKEN>
+<TOKEN id="token-35-11" pos="punct" morph="none" start_char="2352" end_char="2352">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="2355" end_char="2373">
+<ORIGINAL_TEXT>After the procedure</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="2355" end_char="2359">After</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="2361" end_char="2363">the</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="2365" end_char="2373">procedure</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="2377" end_char="2446">
+<ORIGINAL_TEXT>You'll be closely monitored after you receive the convalescent plasma.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="2377" end_char="2382">You'll</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="2384" end_char="2385">be</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="2387" end_char="2393">closely</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="2395" end_char="2403">monitored</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="2405" end_char="2409">after</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="2411" end_char="2413">you</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="2415" end_char="2421">receive</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="2423" end_char="2425">the</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="2427" end_char="2438">convalescent</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="2440" end_char="2445">plasma</TOKEN>
+<TOKEN id="token-37-10" pos="punct" morph="none" start_char="2446" end_char="2446">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="2448" end_char="2502">
+<ORIGINAL_TEXT>Your doctor will record your response to the treatment.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="2448" end_char="2451">Your</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="2453" end_char="2458">doctor</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="2460" end_char="2463">will</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="2465" end_char="2470">record</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="2472" end_char="2475">your</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="2477" end_char="2484">response</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="2486" end_char="2487">to</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="2489" end_char="2491">the</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="2493" end_char="2501">treatment</TOKEN>
+<TOKEN id="token-38-9" pos="punct" morph="none" start_char="2502" end_char="2502">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2504" end_char="2603">
+<ORIGINAL_TEXT>He or she also may record how long you need to stay in the hospital and if you need other therapies.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="2504" end_char="2505">He</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="2507" end_char="2508">or</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="2510" end_char="2512">she</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="2514" end_char="2517">also</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="2519" end_char="2521">may</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="2523" end_char="2528">record</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="2530" end_char="2532">how</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="2534" end_char="2537">long</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="2539" end_char="2541">you</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="2543" end_char="2546">need</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="2548" end_char="2549">to</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="2551" end_char="2554">stay</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="2556" end_char="2557">in</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="2559" end_char="2561">the</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="2563" end_char="2570">hospital</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="2572" end_char="2574">and</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="2576" end_char="2577">if</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="2579" end_char="2581">you</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="2583" end_char="2586">need</TOKEN>
+<TOKEN id="token-39-19" pos="word" morph="none" start_char="2588" end_char="2592">other</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="2594" end_char="2602">therapies</TOKEN>
+<TOKEN id="token-39-21" pos="punct" morph="none" start_char="2603" end_char="2603">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2606" end_char="2612">
+<ORIGINAL_TEXT>Results</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="2606" end_char="2612">Results</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="2616" end_char="2709">
+<ORIGINAL_TEXT>It's not yet known if convalescent plasma therapy will be an effective treatment for COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="2616" end_char="2619">It's</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="2621" end_char="2623">not</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="2625" end_char="2627">yet</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="2629" end_char="2633">known</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="2635" end_char="2636">if</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="2638" end_char="2649">convalescent</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="2651" end_char="2656">plasma</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="2658" end_char="2664">therapy</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="2666" end_char="2669">will</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="2671" end_char="2672">be</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="2674" end_char="2675">an</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="2677" end_char="2685">effective</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="2687" end_char="2695">treatment</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="2697" end_char="2699">for</TOKEN>
+<TOKEN id="token-41-14" pos="unknown" morph="none" start_char="2701" end_char="2708">COVID-19</TOKEN>
+<TOKEN id="token-41-15" pos="punct" morph="none" start_char="2709" end_char="2709">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2711" end_char="2747">
+<ORIGINAL_TEXT>You might not experience any benefit.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="2711" end_char="2713">You</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="2715" end_char="2719">might</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="2721" end_char="2723">not</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="2725" end_char="2734">experience</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="2736" end_char="2738">any</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="2740" end_char="2746">benefit</TOKEN>
+<TOKEN id="token-42-6" pos="punct" morph="none" start_char="2747" end_char="2747">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2749" end_char="2810">
+<ORIGINAL_TEXT>However, this therapy might help you recover from the disease.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="2749" end_char="2755">However</TOKEN>
+<TOKEN id="token-43-1" pos="punct" morph="none" start_char="2756" end_char="2756">,</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="2758" end_char="2761">this</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="2763" end_char="2769">therapy</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="2771" end_char="2775">might</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="2777" end_char="2780">help</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="2782" end_char="2784">you</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="2786" end_char="2792">recover</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="2794" end_char="2797">from</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="2799" end_char="2801">the</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="2803" end_char="2809">disease</TOKEN>
+<TOKEN id="token-43-11" pos="punct" morph="none" start_char="2810" end_char="2810">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2813" end_char="2967">
+<ORIGINAL_TEXT>Data from small clinical trials and a national access program suggest that convalescent plasma may lessen the severity or shorten the duration of COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="2813" end_char="2816">Data</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="2818" end_char="2821">from</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="2823" end_char="2827">small</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="2829" end_char="2836">clinical</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="2838" end_char="2843">trials</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="2845" end_char="2847">and</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="2849" end_char="2849">a</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="2851" end_char="2858">national</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="2860" end_char="2865">access</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="2867" end_char="2873">program</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="2875" end_char="2881">suggest</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="2883" end_char="2886">that</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="2888" end_char="2899">convalescent</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="2901" end_char="2906">plasma</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="2908" end_char="2910">may</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="2912" end_char="2917">lessen</TOKEN>
+<TOKEN id="token-44-16" pos="word" morph="none" start_char="2919" end_char="2921">the</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="2923" end_char="2930">severity</TOKEN>
+<TOKEN id="token-44-18" pos="word" morph="none" start_char="2932" end_char="2933">or</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="2935" end_char="2941">shorten</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="2943" end_char="2945">the</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="2947" end_char="2954">duration</TOKEN>
+<TOKEN id="token-44-22" pos="word" morph="none" start_char="2956" end_char="2957">of</TOKEN>
+<TOKEN id="token-44-23" pos="unknown" morph="none" start_char="2959" end_char="2966">COVID-19</TOKEN>
+<TOKEN id="token-44-24" pos="punct" morph="none" start_char="2967" end_char="2967">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2969" end_char="3089">
+<ORIGINAL_TEXT>However, more research is needed to determine if convalescent plasma therapy will be an effective treatment for COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="2969" end_char="2975">However</TOKEN>
+<TOKEN id="token-45-1" pos="punct" morph="none" start_char="2976" end_char="2976">,</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="2978" end_char="2981">more</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="2983" end_char="2990">research</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="2992" end_char="2993">is</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="2995" end_char="3000">needed</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="3002" end_char="3003">to</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="3005" end_char="3013">determine</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="3015" end_char="3016">if</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="3018" end_char="3029">convalescent</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="3031" end_char="3036">plasma</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="3038" end_char="3044">therapy</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="3046" end_char="3049">will</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="3051" end_char="3052">be</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="3054" end_char="3055">an</TOKEN>
+<TOKEN id="token-45-15" pos="word" morph="none" start_char="3057" end_char="3065">effective</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="3067" end_char="3075">treatment</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="3077" end_char="3079">for</TOKEN>
+<TOKEN id="token-45-18" pos="unknown" morph="none" start_char="3081" end_char="3088">COVID-19</TOKEN>
+<TOKEN id="token-45-19" pos="punct" morph="none" start_char="3089" end_char="3089">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="3092" end_char="3106">
+<ORIGINAL_TEXT>Clinical trials</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="3092" end_char="3099">Clinical</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="3101" end_char="3106">trials</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="3110" end_char="3213">
+<ORIGINAL_TEXT>Explore Mayo Clinic studies of tests and procedures to help prevent, detect, treat or manage conditions.</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="3110" end_char="3116">Explore</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="3118" end_char="3121">Mayo</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="3123" end_char="3128">Clinic</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="3130" end_char="3136">studies</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="3138" end_char="3139">of</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="3141" end_char="3145">tests</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="3147" end_char="3149">and</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="3151" end_char="3160">procedures</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="3162" end_char="3163">to</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="3165" end_char="3168">help</TOKEN>
+<TOKEN id="token-47-10" pos="word" morph="none" start_char="3170" end_char="3176">prevent</TOKEN>
+<TOKEN id="token-47-11" pos="punct" morph="none" start_char="3177" end_char="3177">,</TOKEN>
+<TOKEN id="token-47-12" pos="word" morph="none" start_char="3179" end_char="3184">detect</TOKEN>
+<TOKEN id="token-47-13" pos="punct" morph="none" start_char="3185" end_char="3185">,</TOKEN>
+<TOKEN id="token-47-14" pos="word" morph="none" start_char="3187" end_char="3191">treat</TOKEN>
+<TOKEN id="token-47-15" pos="word" morph="none" start_char="3193" end_char="3194">or</TOKEN>
+<TOKEN id="token-47-16" pos="word" morph="none" start_char="3196" end_char="3201">manage</TOKEN>
+<TOKEN id="token-47-17" pos="word" morph="none" start_char="3203" end_char="3212">conditions</TOKEN>
+<TOKEN id="token-47-18" pos="punct" morph="none" start_char="3213" end_char="3213">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

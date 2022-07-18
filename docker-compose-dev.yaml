@@ -1,0 +1,44 @@
+version: "3"
+services:
+  verdi-ui-es:
+    image: elasticsearch:7.9.1
+    hostname: verdi-ui-es
+    environment:
+      - discovery.type=single-node
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    deploy:
+      resources:
+        reservations:
+          memory: 512M
+    volumes:
+      - /verdiui-efs/es:/usr/share/elasticsearch/data
+  verdi-ui-restapi:
+    hostname: verdi-ui-restapi
+    image: 606941321404.dkr.ecr.us-east-1.amazonaws.com/verdi-ui-restapi
+    env_file:
+      - docker/dev/docker.env
+    build:
+      context: ./
+      dockerfile: docker/dev/verdi-ui-restapi/Dockerfile
+    ports:
+      - "8008:8008"
+    deploy:
+      resources:
+        reservations:
+          memory: 1024M
+  verdi-ui-gui:
+    hostname: verdi-ui-gui
+    image: 606941321404.dkr.ecr.us-east-1.amazonaws.com/verdi-ui-gui
+    env_file:
+      - docker/dev/docker.env
+    build:
+      context: ./GUI
+      dockerfile: ../docker/dev/verdi-ui-gui/Dockerfile
+    ports:
+      - "8081:8081"
+    deploy:
+      resources:
+        reservations:
+          memory: 512M

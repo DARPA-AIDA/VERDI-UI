@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CAFW" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="9266" raw_text_md5="2c7f06ce63f941d9d90b68dccf69510e">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="148">
+<ORIGINAL_TEXT>RadarCOVID ya está rastreando contactos en España: así han ayudado o fracasado las apps de 5 países europeos combatiendo los rebrotes de coronavirus</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="10">RadarCOVID</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="12" end_char="13">ya</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="15" end_char="18">está</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="29">rastreando</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="31" end_char="39">contactos</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="41" end_char="42">en</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="44" end_char="49">España</TOKEN>
+<TOKEN id="token-0-7" pos="punct" morph="none" start_char="50" end_char="50">:</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="52" end_char="54">así</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="56" end_char="58">han</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="60" end_char="66">ayudado</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="68" end_char="68">o</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="70" end_char="78">fracasado</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="80" end_char="82">las</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="84" end_char="87">apps</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="89" end_char="90">de</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="92" end_char="92">5</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="94" end_char="99">países</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="101" end_char="108">europeos</TOKEN>
+<TOKEN id="token-0-19" pos="word" morph="none" start_char="110" end_char="120">combatiendo</TOKEN>
+<TOKEN id="token-0-20" pos="word" morph="none" start_char="122" end_char="124">los</TOKEN>
+<TOKEN id="token-0-21" pos="word" morph="none" start_char="126" end_char="133">rebrotes</TOKEN>
+<TOKEN id="token-0-22" pos="word" morph="none" start_char="135" end_char="136">de</TOKEN>
+<TOKEN id="token-0-23" pos="word" morph="none" start_char="138" end_char="148">coronavirus</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="154" end_char="305">
+<ORIGINAL_TEXT>España ya tiene RadarCOVID rastreando contactos en varias comunidades autónomas, y se espera que el 15 de septiembre ya esté disponible en todo el país.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="154" end_char="159">España</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="161" end_char="162">ya</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="164" end_char="168">tiene</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="170" end_char="179">RadarCOVID</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="181" end_char="190">rastreando</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="192" end_char="200">contactos</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="202" end_char="203">en</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="205" end_char="210">varias</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="212" end_char="222">comunidades</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="224" end_char="232">autónomas</TOKEN>
+<TOKEN id="token-1-10" pos="punct" morph="none" start_char="233" end_char="233">,</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="235" end_char="235">y</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="237" end_char="238">se</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="240" end_char="245">espera</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="247" end_char="249">que</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="251" end_char="252">el</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="254" end_char="255">15</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="257" end_char="258">de</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="260" end_char="269">septiembre</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="271" end_char="272">ya</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="274" end_char="277">esté</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="279" end_char="288">disponible</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="290" end_char="291">en</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="293" end_char="296">todo</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="298" end_char="299">el</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="301" end_char="304">país</TOKEN>
+<TOKEN id="token-1-26" pos="punct" morph="none" start_char="305" end_char="305">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="309" end_char="443">
+<ORIGINAL_TEXT>Países como Italia o Francia ya tienen sus apps disponibles desde principios de junio, o Alemania y Suiza, desde finales del mismo mes.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="309" end_char="314">Países</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="316" end_char="319">como</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="321" end_char="326">Italia</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="328" end_char="328">o</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="330" end_char="336">Francia</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="338" end_char="339">ya</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="341" end_char="346">tienen</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="348" end_char="350">sus</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="352" end_char="355">apps</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="357" end_char="367">disponibles</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="369" end_char="373">desde</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="375" end_char="384">principios</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="386" end_char="387">de</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="389" end_char="393">junio</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="394" end_char="394">,</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="396" end_char="396">o</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="398" end_char="405">Alemania</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="407" end_char="407">y</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="409" end_char="413">Suiza</TOKEN>
+<TOKEN id="token-2-19" pos="punct" morph="none" start_char="414" end_char="414">,</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="416" end_char="420">desde</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="422" end_char="428">finales</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="430" end_char="432">del</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="434" end_char="438">mismo</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="440" end_char="442">mes</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="443" end_char="443">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="447" end_char="612">
+<ORIGINAL_TEXT>Casi dos meses después de su lanzamiento, ya se pueden sacar las primeras conclusiones sobre si esta tecnología está resultando eficaz para luchar contra el COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="447" end_char="450">Casi</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="452" end_char="454">dos</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="456" end_char="460">meses</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="462" end_char="468">después</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="470" end_char="471">de</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="473" end_char="474">su</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="476" end_char="486">lanzamiento</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="487" end_char="487">,</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="489" end_char="490">ya</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="492" end_char="493">se</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="495" end_char="500">pueden</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="502" end_char="506">sacar</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="508" end_char="510">las</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="512" end_char="519">primeras</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="521" end_char="532">conclusiones</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="534" end_char="538">sobre</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="540" end_char="541">si</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="543" end_char="546">esta</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="548" end_char="557">tecnología</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="559" end_char="562">está</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="564" end_char="573">resultando</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="575" end_char="580">eficaz</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="582" end_char="585">para</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="587" end_char="592">luchar</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="594" end_char="599">contra</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="601" end_char="602">el</TOKEN>
+<TOKEN id="token-3-26" pos="unknown" morph="none" start_char="604" end_char="611">COVID-19</TOKEN>
+<TOKEN id="token-3-27" pos="punct" morph="none" start_char="612" end_char="612">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="616" end_char="749">
+<ORIGINAL_TEXT>Se repite una constante: no hay suficientes descargas, a pesar de que en Alemania la app se ha descargado más de 17 millones de veces.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="616" end_char="617">Se</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="619" end_char="624">repite</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="626" end_char="628">una</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="630" end_char="638">constante</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="639" end_char="639">:</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="641" end_char="642">no</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="644" end_char="646">hay</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="648" end_char="658">suficientes</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="660" end_char="668">descargas</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="669" end_char="669">,</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="671" end_char="671">a</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="673" end_char="677">pesar</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="679" end_char="680">de</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="682" end_char="684">que</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="686" end_char="687">en</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="689" end_char="696">Alemania</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="698" end_char="699">la</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="701" end_char="703">app</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="705" end_char="706">se</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="708" end_char="709">ha</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="711" end_char="720">descargado</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="722" end_char="724">más</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="726" end_char="727">de</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="729" end_char="730">17</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="732" end_char="739">millones</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="741" end_char="742">de</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="744" end_char="748">veces</TOKEN>
+<TOKEN id="token-4-27" pos="punct" morph="none" start_char="749" end_char="749">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="753" end_char="881">
+<ORIGINAL_TEXT>Francia tiene problemas ya que su app no es compatible con el protocolo de Apple y Google por una decisión de su propio Gobierno.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="753" end_char="759">Francia</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="761" end_char="765">tiene</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="767" end_char="775">problemas</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="777" end_char="778">ya</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="780" end_char="782">que</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="784" end_char="785">su</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="787" end_char="789">app</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="791" end_char="792">no</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="794" end_char="795">es</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="797" end_char="806">compatible</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="808" end_char="810">con</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="812" end_char="813">el</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="815" end_char="823">protocolo</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="825" end_char="826">de</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="828" end_char="832">Apple</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="834" end_char="834">y</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="836" end_char="841">Google</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="843" end_char="845">por</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="847" end_char="849">una</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="851" end_char="858">decisión</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="860" end_char="861">de</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="863" end_char="864">su</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="866" end_char="871">propio</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="873" end_char="880">Gobierno</TOKEN>
+<TOKEN id="token-5-24" pos="punct" morph="none" start_char="881" end_char="881">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="885" end_char="1018">
+<ORIGINAL_TEXT>Reino Unido ha tenido que reiniciar el desarrollo de su app de rastreo de contactos para adaptarse a la API de estas dos tecnológicas.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="885" end_char="889">Reino</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="891" end_char="895">Unido</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="897" end_char="898">ha</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="900" end_char="905">tenido</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="907" end_char="909">que</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="911" end_char="919">reiniciar</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="921" end_char="922">el</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="924" end_char="933">desarrollo</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="935" end_char="936">de</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="938" end_char="939">su</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="941" end_char="943">app</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="945" end_char="946">de</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="948" end_char="954">rastreo</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="956" end_char="957">de</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="959" end_char="967">contactos</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="969" end_char="972">para</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="974" end_char="982">adaptarse</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="984" end_char="984">a</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="986" end_char="987">la</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="989" end_char="991">API</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="993" end_char="994">de</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="996" end_char="1000">estas</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1002" end_char="1004">dos</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1006" end_char="1017">tecnológicas</TOKEN>
+<TOKEN id="token-6-24" pos="punct" morph="none" start_char="1018" end_char="1018">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1023" end_char="1183">
+<ORIGINAL_TEXT>España ya tiene su app de rastreo de contactos activada en varias comunidades autónomas y espera que esté lista en todo el territorio antes del 15 de septiembre.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1023" end_char="1028">España</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1030" end_char="1031">ya</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1033" end_char="1037">tiene</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1039" end_char="1040">su</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1042" end_char="1044">app</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1046" end_char="1047">de</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1049" end_char="1055">rastreo</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1057" end_char="1058">de</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1060" end_char="1068">contactos</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1070" end_char="1077">activada</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1079" end_char="1080">en</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1082" end_char="1087">varias</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1089" end_char="1099">comunidades</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1101" end_char="1109">autónomas</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1111" end_char="1111">y</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1113" end_char="1118">espera</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1120" end_char="1122">que</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1124" end_char="1127">esté</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1129" end_char="1133">lista</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1135" end_char="1136">en</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1138" end_char="1141">todo</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1143" end_char="1144">el</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1146" end_char="1155">territorio</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1157" end_char="1161">antes</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1163" end_char="1165">del</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1167" end_char="1168">15</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1170" end_char="1171">de</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1173" end_char="1182">septiembre</TOKEN>
+<TOKEN id="token-7-28" pos="punct" morph="none" start_char="1183" end_char="1183">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1185" end_char="1317">
+<ORIGINAL_TEXT>Se ha hecho de rogar, pero el Gobierno de España ya está utilizando este instrumento para mejorar las ratios de rastreo de contactos.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1185" end_char="1186">Se</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1188" end_char="1189">ha</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1191" end_char="1195">hecho</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1197" end_char="1198">de</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1200" end_char="1204">rogar</TOKEN>
+<TOKEN id="token-8-5" pos="punct" morph="none" start_char="1205" end_char="1205">,</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1207" end_char="1210">pero</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1212" end_char="1213">el</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1215" end_char="1222">Gobierno</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1224" end_char="1225">de</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1227" end_char="1232">España</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1234" end_char="1235">ya</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1237" end_char="1240">está</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1242" end_char="1251">utilizando</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1253" end_char="1256">este</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1258" end_char="1268">instrumento</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1270" end_char="1273">para</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1275" end_char="1281">mejorar</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1283" end_char="1285">las</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1287" end_char="1292">ratios</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1294" end_char="1295">de</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1297" end_char="1303">rastreo</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1305" end_char="1306">de</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1308" end_char="1316">contactos</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1317" end_char="1317">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1319" end_char="1442">
+<ORIGINAL_TEXT>Esta medida se suma al anuncio del presidente Sánchez de poner 2.000 rastreadores militares a disposición de las autonomías.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1319" end_char="1322">Esta</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1324" end_char="1329">medida</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1331" end_char="1332">se</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1334" end_char="1337">suma</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1339" end_char="1340">al</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1342" end_char="1348">anuncio</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1350" end_char="1352">del</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1354" end_char="1363">presidente</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1365" end_char="1371">Sánchez</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1373" end_char="1374">de</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1376" end_char="1380">poner</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1382" end_char="1386">2.000</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1388" end_char="1399">rastreadores</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1401" end_char="1409">militares</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1411" end_char="1411">a</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1413" end_char="1423">disposición</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1425" end_char="1426">de</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1428" end_char="1430">las</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1432" end_char="1441">autonomías</TOKEN>
+<TOKEN id="token-9-19" pos="punct" morph="none" start_char="1442" end_char="1442">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1445" end_char="1644">
+<ORIGINAL_TEXT>A finales de julio se supo gracias a un estudio del Instituto de Salud Carlos III que España solo era capaz de rastrear 3 contactos de media por cada caso de coronavirus, tal y como recogía la agencia</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1445" end_char="1445">A</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1447" end_char="1453">finales</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1455" end_char="1456">de</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1458" end_char="1462">julio</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1464" end_char="1465">se</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1467" end_char="1470">supo</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1472" end_char="1478">gracias</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1480" end_char="1480">a</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1482" end_char="1483">un</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1485" end_char="1491">estudio</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1493" end_char="1495">del</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1497" end_char="1505">Instituto</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1507" end_char="1508">de</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1510" end_char="1514">Salud</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1516" end_char="1521">Carlos</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1523" end_char="1525">III</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1527" end_char="1529">que</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1531" end_char="1536">España</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1538" end_char="1541">solo</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1543" end_char="1545">era</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1547" end_char="1551">capaz</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1553" end_char="1554">de</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1556" end_char="1563">rastrear</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1565" end_char="1565">3</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1567" end_char="1575">contactos</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1577" end_char="1578">de</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1580" end_char="1584">media</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1586" end_char="1588">por</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1590" end_char="1593">cada</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1595" end_char="1598">caso</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="1600" end_char="1601">de</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="1603" end_char="1613">coronavirus</TOKEN>
+<TOKEN id="token-10-32" pos="punct" morph="none" start_char="1614" end_char="1614">,</TOKEN>
+<TOKEN id="token-10-33" pos="word" morph="none" start_char="1616" end_char="1618">tal</TOKEN>
+<TOKEN id="token-10-34" pos="word" morph="none" start_char="1620" end_char="1620">y</TOKEN>
+<TOKEN id="token-10-35" pos="word" morph="none" start_char="1622" end_char="1625">como</TOKEN>
+<TOKEN id="token-10-36" pos="word" morph="none" start_char="1627" end_char="1633">recogía</TOKEN>
+<TOKEN id="token-10-37" pos="word" morph="none" start_char="1635" end_char="1636">la</TOKEN>
+<TOKEN id="token-10-38" pos="word" morph="none" start_char="1638" end_char="1644">agencia</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1647" end_char="1649">
+<ORIGINAL_TEXT>EFE</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1647" end_char="1649">EFE</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1652" end_char="1652">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="1652" end_char="1652">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1654" end_char="1803">
+<ORIGINAL_TEXT>El rastreo de contactos es indispensable para combatir una enfermedad como el COVID-19, en la que el número de asintomáticos y portadores es muy alto.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1654" end_char="1655">El</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1657" end_char="1663">rastreo</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1665" end_char="1666">de</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1668" end_char="1676">contactos</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1678" end_char="1679">es</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1681" end_char="1693">indispensable</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1695" end_char="1698">para</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1700" end_char="1707">combatir</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1709" end_char="1711">una</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1713" end_char="1722">enfermedad</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1724" end_char="1727">como</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1729" end_char="1730">el</TOKEN>
+<TOKEN id="token-13-12" pos="unknown" morph="none" start_char="1732" end_char="1739">COVID-19</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="1740" end_char="1740">,</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1742" end_char="1743">en</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1745" end_char="1746">la</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1748" end_char="1750">que</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1752" end_char="1753">el</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1755" end_char="1760">número</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1762" end_char="1763">de</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1765" end_char="1777">asintomáticos</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1779" end_char="1779">y</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1781" end_char="1790">portadores</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1792" end_char="1793">es</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1795" end_char="1797">muy</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1799" end_char="1802">alto</TOKEN>
+<TOKEN id="token-13-26" pos="punct" morph="none" start_char="1803" end_char="1803">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1806" end_char="2062">
+<ORIGINAL_TEXT>Desarrollada por la multinacional Indra por unos 330.000 euros, RadarCOVID ha registrado en sus primeros días operando más de 2 millones de descargas entre las realizadas desde la Play Store de Google (Android) y la App Store de Apple (en teléfonos iPhone).</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1806" end_char="1817">Desarrollada</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1819" end_char="1821">por</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1823" end_char="1824">la</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1826" end_char="1838">multinacional</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1840" end_char="1844">Indra</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1846" end_char="1848">por</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1850" end_char="1853">unos</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1855" end_char="1861">330.000</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1863" end_char="1867">euros</TOKEN>
+<TOKEN id="token-14-9" pos="punct" morph="none" start_char="1868" end_char="1868">,</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1870" end_char="1879">RadarCOVID</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1881" end_char="1882">ha</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1884" end_char="1893">registrado</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1895" end_char="1896">en</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1898" end_char="1900">sus</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1902" end_char="1909">primeros</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1911" end_char="1914">días</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1916" end_char="1923">operando</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1925" end_char="1927">más</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1929" end_char="1930">de</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1932" end_char="1932">2</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1934" end_char="1941">millones</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1943" end_char="1944">de</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1946" end_char="1954">descargas</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1956" end_char="1960">entre</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1962" end_char="1964">las</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1966" end_char="1975">realizadas</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="1977" end_char="1981">desde</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="1983" end_char="1984">la</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="1986" end_char="1989">Play</TOKEN>
+<TOKEN id="token-14-30" pos="word" morph="none" start_char="1991" end_char="1995">Store</TOKEN>
+<TOKEN id="token-14-31" pos="word" morph="none" start_char="1997" end_char="1998">de</TOKEN>
+<TOKEN id="token-14-32" pos="word" morph="none" start_char="2000" end_char="2005">Google</TOKEN>
+<TOKEN id="token-14-33" pos="punct" morph="none" start_char="2007" end_char="2007">(</TOKEN>
+<TOKEN id="token-14-34" pos="word" morph="none" start_char="2008" end_char="2014">Android</TOKEN>
+<TOKEN id="token-14-35" pos="punct" morph="none" start_char="2015" end_char="2015">)</TOKEN>
+<TOKEN id="token-14-36" pos="word" morph="none" start_char="2017" end_char="2017">y</TOKEN>
+<TOKEN id="token-14-37" pos="word" morph="none" start_char="2019" end_char="2020">la</TOKEN>
+<TOKEN id="token-14-38" pos="word" morph="none" start_char="2022" end_char="2024">App</TOKEN>
+<TOKEN id="token-14-39" pos="word" morph="none" start_char="2026" end_char="2030">Store</TOKEN>
+<TOKEN id="token-14-40" pos="word" morph="none" start_char="2032" end_char="2033">de</TOKEN>
+<TOKEN id="token-14-41" pos="word" morph="none" start_char="2035" end_char="2039">Apple</TOKEN>
+<TOKEN id="token-14-42" pos="punct" morph="none" start_char="2041" end_char="2041">(</TOKEN>
+<TOKEN id="token-14-43" pos="word" morph="none" start_char="2042" end_char="2043">en</TOKEN>
+<TOKEN id="token-14-44" pos="word" morph="none" start_char="2045" end_char="2053">teléfonos</TOKEN>
+<TOKEN id="token-14-45" pos="word" morph="none" start_char="2055" end_char="2060">iPhone</TOKEN>
+<TOKEN id="token-14-46" pos="punct" morph="none" start_char="2061" end_char="2062">).</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2064" end_char="2153">
+<ORIGINAL_TEXT>Aunque estas cifras no quieren decir cuántas apps hay ahora mismo correctamente activadas.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2064" end_char="2069">Aunque</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2071" end_char="2075">estas</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2077" end_char="2082">cifras</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2084" end_char="2085">no</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2087" end_char="2093">quieren</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2095" end_char="2099">decir</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2101" end_char="2107">cuántas</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2109" end_char="2112">apps</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2114" end_char="2116">hay</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2118" end_char="2122">ahora</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2124" end_char="2128">mismo</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2130" end_char="2142">correctamente</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2144" end_char="2152">activadas</TOKEN>
+<TOKEN id="token-15-13" pos="punct" morph="none" start_char="2153" end_char="2153">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2156" end_char="2327">
+<ORIGINAL_TEXT>Leer más: El verdadero desafío de RadarCOVID, la app de rastreo de contactos, es configurarla: los usuarios menos expertos en tecnología tendrán problemas para que funcione</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2156" end_char="2159">Leer</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2161" end_char="2163">más</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="2164" end_char="2164">:</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2166" end_char="2167">El</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2169" end_char="2177">verdadero</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2179" end_char="2185">desafío</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2187" end_char="2188">de</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2190" end_char="2199">RadarCOVID</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="2200" end_char="2200">,</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2202" end_char="2203">la</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2205" end_char="2207">app</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2209" end_char="2210">de</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2212" end_char="2218">rastreo</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2220" end_char="2221">de</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2223" end_char="2231">contactos</TOKEN>
+<TOKEN id="token-16-15" pos="punct" morph="none" start_char="2232" end_char="2232">,</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2234" end_char="2235">es</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2237" end_char="2248">configurarla</TOKEN>
+<TOKEN id="token-16-18" pos="punct" morph="none" start_char="2249" end_char="2249">:</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2251" end_char="2253">los</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2255" end_char="2262">usuarios</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2264" end_char="2268">menos</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2270" end_char="2277">expertos</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2279" end_char="2280">en</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2282" end_char="2291">tecnología</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2293" end_char="2299">tendrán</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2301" end_char="2309">problemas</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2311" end_char="2314">para</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="2316" end_char="2318">que</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2320" end_char="2327">funcione</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2331" end_char="2448">
+<ORIGINAL_TEXT>RadarCOVID utiliza un protocolo de Apple y Google con el que los teléfonos envían unos códigos a los móviles cercanos.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2331" end_char="2340">RadarCOVID</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2342" end_char="2348">utiliza</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2350" end_char="2351">un</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2353" end_char="2361">protocolo</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2363" end_char="2364">de</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2366" end_char="2370">Apple</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2372" end_char="2372">y</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2374" end_char="2379">Google</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2381" end_char="2383">con</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2385" end_char="2386">el</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2388" end_char="2390">que</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2392" end_char="2394">los</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2396" end_char="2404">teléfonos</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2406" end_char="2411">envían</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2413" end_char="2416">unos</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2418" end_char="2424">códigos</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2426" end_char="2426">a</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2428" end_char="2430">los</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2432" end_char="2438">móviles</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2440" end_char="2447">cercanos</TOKEN>
+<TOKEN id="token-17-20" pos="punct" morph="none" start_char="2448" end_char="2448">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2450" end_char="2592">
+<ORIGINAL_TEXT>Si alguien da positivo en una prueba de coronavirus, su comunidad le dará una clave que tendrá que introducir para confirmar su caso en la app.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2450" end_char="2451">Si</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2453" end_char="2459">alguien</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2461" end_char="2462">da</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2464" end_char="2471">positivo</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2473" end_char="2474">en</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2476" end_char="2478">una</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2480" end_char="2485">prueba</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2487" end_char="2488">de</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2490" end_char="2500">coronavirus</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="2501" end_char="2501">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2503" end_char="2504">su</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2506" end_char="2514">comunidad</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2516" end_char="2517">le</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2519" end_char="2522">dará</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2524" end_char="2526">una</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2528" end_char="2532">clave</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2534" end_char="2536">que</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2538" end_char="2543">tendrá</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2545" end_char="2547">que</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2549" end_char="2558">introducir</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2560" end_char="2563">para</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2565" end_char="2573">confirmar</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2575" end_char="2576">su</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2578" end_char="2581">caso</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2583" end_char="2584">en</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2586" end_char="2587">la</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2589" end_char="2591">app</TOKEN>
+<TOKEN id="token-18-27" pos="punct" morph="none" start_char="2592" end_char="2592">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2594" end_char="2747">
+<ORIGINAL_TEXT>Todos los teléfonos con los que se cruzó el contagiado recibirán una alarma anónima para que sus usuarios sepan que se han expuesto a un posible contagio.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2594" end_char="2598">Todos</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2600" end_char="2602">los</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2604" end_char="2612">teléfonos</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2614" end_char="2616">con</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2618" end_char="2620">los</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2622" end_char="2624">que</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2626" end_char="2627">se</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2629" end_char="2633">cruzó</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2635" end_char="2636">el</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2638" end_char="2647">contagiado</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2649" end_char="2657">recibirán</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2659" end_char="2661">una</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2663" end_char="2668">alarma</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2670" end_char="2676">anónima</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2678" end_char="2681">para</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2683" end_char="2685">que</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2687" end_char="2689">sus</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2691" end_char="2698">usuarios</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2700" end_char="2704">sepan</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2706" end_char="2708">que</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2710" end_char="2711">se</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2713" end_char="2715">han</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2717" end_char="2724">expuesto</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2726" end_char="2726">a</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2728" end_char="2729">un</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2731" end_char="2737">posible</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2739" end_char="2746">contagio</TOKEN>
+<TOKEN id="token-19-27" pos="punct" morph="none" start_char="2747" end_char="2747">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2750" end_char="2892">
+<ORIGINAL_TEXT>Muchos titulares han detallado que este tipo de aplicaciones solo conseguirían frenar la pandemia si son utilizadas por el 60% de la población.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2750" end_char="2755">Muchos</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2757" end_char="2765">titulares</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2767" end_char="2769">han</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2771" end_char="2779">detallado</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2781" end_char="2783">que</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2785" end_char="2788">este</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2790" end_char="2793">tipo</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2795" end_char="2796">de</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2798" end_char="2809">aplicaciones</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2811" end_char="2814">solo</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2816" end_char="2827">conseguirían</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2829" end_char="2834">frenar</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2836" end_char="2837">la</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2839" end_char="2846">pandemia</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2848" end_char="2849">si</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2851" end_char="2853">son</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2855" end_char="2864">utilizadas</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2866" end_char="2868">por</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2870" end_char="2871">el</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2873" end_char="2874">60</TOKEN>
+<TOKEN id="token-20-20" pos="punct" morph="none" start_char="2875" end_char="2875">%</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2877" end_char="2878">de</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2880" end_char="2881">la</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2883" end_char="2891">población</TOKEN>
+<TOKEN id="token-20-24" pos="punct" morph="none" start_char="2892" end_char="2892">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2894" end_char="2907">
+<ORIGINAL_TEXT>Un artículo en</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2894" end_char="2895">Un</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2897" end_char="2904">artículo</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2906" end_char="2907">en</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2910" end_char="2926">
+<ORIGINAL_TEXT>Technology Review</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2910" end_char="2919">Technology</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2921" end_char="2926">Review</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2929" end_char="3024">
+<ORIGINAL_TEXT>, la revista del Instituto Tecnológico de Massachusetts (MIT) hablaba con los investigadores del</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="punct" morph="none" start_char="2929" end_char="2929">,</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2931" end_char="2932">la</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2934" end_char="2940">revista</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2942" end_char="2944">del</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2946" end_char="2954">Instituto</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2956" end_char="2966">Tecnológico</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2968" end_char="2969">de</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2971" end_char="2983">Massachusetts</TOKEN>
+<TOKEN id="token-23-8" pos="punct" morph="none" start_char="2985" end_char="2985">(</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2986" end_char="2988">MIT</TOKEN>
+<TOKEN id="token-23-10" pos="punct" morph="none" start_char="2989" end_char="2989">)</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2991" end_char="2997">hablaba</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2999" end_char="3001">con</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3003" end_char="3005">los</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="3007" end_char="3020">investigadores</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3022" end_char="3024">del</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3027" end_char="3031">
+<ORIGINAL_TEXT>paper</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3027" end_char="3031">paper</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3034" end_char="3199">
+<ORIGINAL_TEXT>del que salía este dato, quienes aclaraban que incluso con el uso de un 10% o de un 20% de la población ya se ayudaría no a erradicar, pero sí a frenar los contagios.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3034" end_char="3036">del</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3038" end_char="3040">que</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3042" end_char="3046">salía</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3048" end_char="3051">este</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3053" end_char="3056">dato</TOKEN>
+<TOKEN id="token-25-5" pos="punct" morph="none" start_char="3057" end_char="3057">,</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3059" end_char="3065">quienes</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3067" end_char="3075">aclaraban</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3077" end_char="3079">que</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3081" end_char="3087">incluso</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3089" end_char="3091">con</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="3093" end_char="3094">el</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3096" end_char="3098">uso</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="3100" end_char="3101">de</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3103" end_char="3104">un</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3106" end_char="3107">10</TOKEN>
+<TOKEN id="token-25-16" pos="punct" morph="none" start_char="3108" end_char="3108">%</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3110" end_char="3110">o</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="3112" end_char="3113">de</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="3115" end_char="3116">un</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="3118" end_char="3119">20</TOKEN>
+<TOKEN id="token-25-21" pos="punct" morph="none" start_char="3120" end_char="3120">%</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="3122" end_char="3123">de</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="3125" end_char="3126">la</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="3128" end_char="3136">población</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="3138" end_char="3139">ya</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="3141" end_char="3142">se</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="3144" end_char="3151">ayudaría</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="3153" end_char="3154">no</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="3156" end_char="3156">a</TOKEN>
+<TOKEN id="token-25-30" pos="word" morph="none" start_char="3158" end_char="3166">erradicar</TOKEN>
+<TOKEN id="token-25-31" pos="punct" morph="none" start_char="3167" end_char="3167">,</TOKEN>
+<TOKEN id="token-25-32" pos="word" morph="none" start_char="3169" end_char="3172">pero</TOKEN>
+<TOKEN id="token-25-33" pos="word" morph="none" start_char="3174" end_char="3175">sí</TOKEN>
+<TOKEN id="token-25-34" pos="word" morph="none" start_char="3177" end_char="3177">a</TOKEN>
+<TOKEN id="token-25-35" pos="word" morph="none" start_char="3179" end_char="3184">frenar</TOKEN>
+<TOKEN id="token-25-36" pos="word" morph="none" start_char="3186" end_char="3188">los</TOKEN>
+<TOKEN id="token-25-37" pos="word" morph="none" start_char="3190" end_char="3198">contagios</TOKEN>
+<TOKEN id="token-25-38" pos="punct" morph="none" start_char="3199" end_char="3199">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3202" end_char="3409">
+<ORIGINAL_TEXT>El lanzamiento oficial y definitivo de RadarCOVID será el próximo 15 de septiembre, pero otros países como Alemania, Italia, Francia o Suiza ya llevan usando apps similares desde hace semanas e incluso meses.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3202" end_char="3203">El</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3205" end_char="3215">lanzamiento</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3217" end_char="3223">oficial</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3225" end_char="3225">y</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3227" end_char="3236">definitivo</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="3238" end_char="3239">de</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3241" end_char="3250">RadarCOVID</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3252" end_char="3255">será</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3257" end_char="3258">el</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3260" end_char="3266">próximo</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3268" end_char="3269">15</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="3271" end_char="3272">de</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="3274" end_char="3283">septiembre</TOKEN>
+<TOKEN id="token-26-13" pos="punct" morph="none" start_char="3284" end_char="3284">,</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="3286" end_char="3289">pero</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="3291" end_char="3295">otros</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="3297" end_char="3302">países</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="3304" end_char="3307">como</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="3309" end_char="3316">Alemania</TOKEN>
+<TOKEN id="token-26-19" pos="punct" morph="none" start_char="3317" end_char="3317">,</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="3319" end_char="3324">Italia</TOKEN>
+<TOKEN id="token-26-21" pos="punct" morph="none" start_char="3325" end_char="3325">,</TOKEN>
+<TOKEN id="token-26-22" pos="word" morph="none" start_char="3327" end_char="3333">Francia</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="3335" end_char="3335">o</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="3337" end_char="3341">Suiza</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="3343" end_char="3344">ya</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="3346" end_char="3351">llevan</TOKEN>
+<TOKEN id="token-26-27" pos="word" morph="none" start_char="3353" end_char="3358">usando</TOKEN>
+<TOKEN id="token-26-28" pos="word" morph="none" start_char="3360" end_char="3363">apps</TOKEN>
+<TOKEN id="token-26-29" pos="word" morph="none" start_char="3365" end_char="3373">similares</TOKEN>
+<TOKEN id="token-26-30" pos="word" morph="none" start_char="3375" end_char="3379">desde</TOKEN>
+<TOKEN id="token-26-31" pos="word" morph="none" start_char="3381" end_char="3384">hace</TOKEN>
+<TOKEN id="token-26-32" pos="word" morph="none" start_char="3386" end_char="3392">semanas</TOKEN>
+<TOKEN id="token-26-33" pos="word" morph="none" start_char="3394" end_char="3394">e</TOKEN>
+<TOKEN id="token-26-34" pos="word" morph="none" start_char="3396" end_char="3402">incluso</TOKEN>
+<TOKEN id="token-26-35" pos="word" morph="none" start_char="3404" end_char="3408">meses</TOKEN>
+<TOKEN id="token-26-36" pos="punct" morph="none" start_char="3409" end_char="3409">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3411" end_char="3456">
+<ORIGINAL_TEXT>En algunos casos han sido un completo fracaso.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3411" end_char="3412">En</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3414" end_char="3420">algunos</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3422" end_char="3426">casos</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3428" end_char="3430">han</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3432" end_char="3435">sido</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3437" end_char="3438">un</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3440" end_char="3447">completo</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3449" end_char="3455">fracaso</TOKEN>
+<TOKEN id="token-27-8" pos="punct" morph="none" start_char="3456" end_char="3456">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3459" end_char="3522">
+<ORIGINAL_TEXT>En Alemania, unas 17 millones de descargas se consideran "pocas"</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="3459" end_char="3460">En</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3462" end_char="3469">Alemania</TOKEN>
+<TOKEN id="token-28-2" pos="punct" morph="none" start_char="3470" end_char="3470">,</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3472" end_char="3475">unas</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3477" end_char="3478">17</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3480" end_char="3487">millones</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3489" end_char="3490">de</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3492" end_char="3500">descargas</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3502" end_char="3503">se</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3505" end_char="3514">consideran</TOKEN>
+<TOKEN id="token-28-10" pos="punct" morph="none" start_char="3516" end_char="3516">"</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="3517" end_char="3521">pocas</TOKEN>
+<TOKEN id="token-28-12" pos="punct" morph="none" start_char="3522" end_char="3522">"</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3526" end_char="3552">
+<ORIGINAL_TEXT>App de rastreo de Alemania.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="3526" end_char="3528">App</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3530" end_char="3531">de</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3533" end_char="3539">rastreo</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="3541" end_char="3542">de</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="3544" end_char="3551">Alemania</TOKEN>
+<TOKEN id="token-29-5" pos="punct" morph="none" start_char="3552" end_char="3552">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3556" end_char="3695">
+<ORIGINAL_TEXT>Alemania lanzó Corona Warn App, basada en el mismo modelo de Apple y Google en el que se basa la app española, pero lo hizo ya hace 2 meses.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="3556" end_char="3563">Alemania</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="3565" end_char="3569">lanzó</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="3571" end_char="3576">Corona</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="3578" end_char="3581">Warn</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="3583" end_char="3585">App</TOKEN>
+<TOKEN id="token-30-5" pos="punct" morph="none" start_char="3586" end_char="3586">,</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="3588" end_char="3593">basada</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="3595" end_char="3596">en</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="3598" end_char="3599">el</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="3601" end_char="3605">mismo</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="3607" end_char="3612">modelo</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="3614" end_char="3615">de</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="3617" end_char="3621">Apple</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="3623" end_char="3623">y</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="3625" end_char="3630">Google</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="3632" end_char="3633">en</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="3635" end_char="3636">el</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="3638" end_char="3640">que</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="3642" end_char="3643">se</TOKEN>
+<TOKEN id="token-30-19" pos="word" morph="none" start_char="3645" end_char="3648">basa</TOKEN>
+<TOKEN id="token-30-20" pos="word" morph="none" start_char="3650" end_char="3651">la</TOKEN>
+<TOKEN id="token-30-21" pos="word" morph="none" start_char="3653" end_char="3655">app</TOKEN>
+<TOKEN id="token-30-22" pos="word" morph="none" start_char="3657" end_char="3664">española</TOKEN>
+<TOKEN id="token-30-23" pos="punct" morph="none" start_char="3665" end_char="3665">,</TOKEN>
+<TOKEN id="token-30-24" pos="word" morph="none" start_char="3667" end_char="3670">pero</TOKEN>
+<TOKEN id="token-30-25" pos="word" morph="none" start_char="3672" end_char="3673">lo</TOKEN>
+<TOKEN id="token-30-26" pos="word" morph="none" start_char="3675" end_char="3678">hizo</TOKEN>
+<TOKEN id="token-30-27" pos="word" morph="none" start_char="3680" end_char="3681">ya</TOKEN>
+<TOKEN id="token-30-28" pos="word" morph="none" start_char="3683" end_char="3686">hace</TOKEN>
+<TOKEN id="token-30-29" pos="word" morph="none" start_char="3688" end_char="3688">2</TOKEN>
+<TOKEN id="token-30-30" pos="word" morph="none" start_char="3690" end_char="3694">meses</TOKEN>
+<TOKEN id="token-30-31" pos="punct" morph="none" start_char="3695" end_char="3695">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3697" end_char="3799">
+<ORIGINAL_TEXT>La aplicación germana pasó a estar disponible a nivel nacional el 16 de junio, según recogía la emisora</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="3697" end_char="3698">La</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3700" end_char="3709">aplicación</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3711" end_char="3717">germana</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3719" end_char="3722">pasó</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3724" end_char="3724">a</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="3726" end_char="3730">estar</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="3732" end_char="3741">disponible</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3743" end_char="3743">a</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3745" end_char="3749">nivel</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="3751" end_char="3758">nacional</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="3760" end_char="3761">el</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="3763" end_char="3764">16</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="3766" end_char="3767">de</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="3769" end_char="3773">junio</TOKEN>
+<TOKEN id="token-31-14" pos="punct" morph="none" start_char="3774" end_char="3774">,</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="3776" end_char="3780">según</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="3782" end_char="3788">recogía</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="3790" end_char="3791">la</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="3793" end_char="3799">emisora</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3802" end_char="3803">
+<ORIGINAL_TEXT>DW</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3802" end_char="3803">DW</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3806" end_char="3806">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="punct" morph="none" start_char="3806" end_char="3806">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3809" end_char="3904">
+<ORIGINAL_TEXT>Sin embargo, a mediados de agosto los datos no eran satisfactorios... para los propios alemanes.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3809" end_char="3811">Sin</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="3813" end_char="3819">embargo</TOKEN>
+<TOKEN id="token-34-2" pos="punct" morph="none" start_char="3820" end_char="3820">,</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="3822" end_char="3822">a</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="3824" end_char="3831">mediados</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="3833" end_char="3834">de</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="3836" end_char="3841">agosto</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="3843" end_char="3845">los</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="3847" end_char="3851">datos</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="3853" end_char="3854">no</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="3856" end_char="3859">eran</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="3861" end_char="3874">satisfactorios</TOKEN>
+<TOKEN id="token-34-12" pos="punct" morph="none" start_char="3875" end_char="3877">...</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="3879" end_char="3882">para</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="3884" end_char="3886">los</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="3888" end_char="3894">propios</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="3896" end_char="3903">alemanes</TOKEN>
+<TOKEN id="token-34-17" pos="punct" morph="none" start_char="3904" end_char="3904">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3906" end_char="4012">
+<ORIGINAL_TEXT>La aplicación ha superado por poco las 17 millones de descargas en un país de unas 83 millones de personas.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3906" end_char="3907">La</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="3909" end_char="3918">aplicación</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3920" end_char="3921">ha</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="3923" end_char="3930">superado</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="3932" end_char="3934">por</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="3936" end_char="3939">poco</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="3941" end_char="3943">las</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="3945" end_char="3946">17</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="3948" end_char="3955">millones</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="3957" end_char="3958">de</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="3960" end_char="3968">descargas</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="3970" end_char="3971">en</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="3973" end_char="3974">un</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="3976" end_char="3979">país</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="3981" end_char="3982">de</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="3984" end_char="3987">unas</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="3989" end_char="3990">83</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="3992" end_char="3999">millones</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="4001" end_char="4002">de</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="4004" end_char="4011">personas</TOKEN>
+<TOKEN id="token-35-20" pos="punct" morph="none" start_char="4012" end_char="4012">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="4014" end_char="4275">
+<ORIGINAL_TEXT>Varios medios alemanes han destacado que esa cifra no supone ni el 20% de la población, e incluso expertos han declarado en varios portales del país que si una persona contagia a otra, la posibilidad actual de que la afectada se entere por la app es solo del 6%.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="4014" end_char="4019">Varios</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="4021" end_char="4026">medios</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="4028" end_char="4035">alemanes</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="4037" end_char="4039">han</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="4041" end_char="4049">destacado</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="4051" end_char="4053">que</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="4055" end_char="4057">esa</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="4059" end_char="4063">cifra</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="4065" end_char="4066">no</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="4068" end_char="4073">supone</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="4075" end_char="4076">ni</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="4078" end_char="4079">el</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="4081" end_char="4082">20</TOKEN>
+<TOKEN id="token-36-13" pos="punct" morph="none" start_char="4083" end_char="4083">%</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="4085" end_char="4086">de</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="4088" end_char="4089">la</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="4091" end_char="4099">población</TOKEN>
+<TOKEN id="token-36-17" pos="punct" morph="none" start_char="4100" end_char="4100">,</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="4102" end_char="4102">e</TOKEN>
+<TOKEN id="token-36-19" pos="word" morph="none" start_char="4104" end_char="4110">incluso</TOKEN>
+<TOKEN id="token-36-20" pos="word" morph="none" start_char="4112" end_char="4119">expertos</TOKEN>
+<TOKEN id="token-36-21" pos="word" morph="none" start_char="4121" end_char="4123">han</TOKEN>
+<TOKEN id="token-36-22" pos="word" morph="none" start_char="4125" end_char="4133">declarado</TOKEN>
+<TOKEN id="token-36-23" pos="word" morph="none" start_char="4135" end_char="4136">en</TOKEN>
+<TOKEN id="token-36-24" pos="word" morph="none" start_char="4138" end_char="4143">varios</TOKEN>
+<TOKEN id="token-36-25" pos="word" morph="none" start_char="4145" end_char="4152">portales</TOKEN>
+<TOKEN id="token-36-26" pos="word" morph="none" start_char="4154" end_char="4156">del</TOKEN>
+<TOKEN id="token-36-27" pos="word" morph="none" start_char="4158" end_char="4161">país</TOKEN>
+<TOKEN id="token-36-28" pos="word" morph="none" start_char="4163" end_char="4165">que</TOKEN>
+<TOKEN id="token-36-29" pos="word" morph="none" start_char="4167" end_char="4168">si</TOKEN>
+<TOKEN id="token-36-30" pos="word" morph="none" start_char="4170" end_char="4172">una</TOKEN>
+<TOKEN id="token-36-31" pos="word" morph="none" start_char="4174" end_char="4180">persona</TOKEN>
+<TOKEN id="token-36-32" pos="word" morph="none" start_char="4182" end_char="4189">contagia</TOKEN>
+<TOKEN id="token-36-33" pos="word" morph="none" start_char="4191" end_char="4191">a</TOKEN>
+<TOKEN id="token-36-34" pos="word" morph="none" start_char="4193" end_char="4196">otra</TOKEN>
+<TOKEN id="token-36-35" pos="punct" morph="none" start_char="4197" end_char="4197">,</TOKEN>
+<TOKEN id="token-36-36" pos="word" morph="none" start_char="4199" end_char="4200">la</TOKEN>
+<TOKEN id="token-36-37" pos="word" morph="none" start_char="4202" end_char="4212">posibilidad</TOKEN>
+<TOKEN id="token-36-38" pos="word" morph="none" start_char="4214" end_char="4219">actual</TOKEN>
+<TOKEN id="token-36-39" pos="word" morph="none" start_char="4221" end_char="4222">de</TOKEN>
+<TOKEN id="token-36-40" pos="word" morph="none" start_char="4224" end_char="4226">que</TOKEN>
+<TOKEN id="token-36-41" pos="word" morph="none" start_char="4228" end_char="4229">la</TOKEN>
+<TOKEN id="token-36-42" pos="word" morph="none" start_char="4231" end_char="4238">afectada</TOKEN>
+<TOKEN id="token-36-43" pos="word" morph="none" start_char="4240" end_char="4241">se</TOKEN>
+<TOKEN id="token-36-44" pos="word" morph="none" start_char="4243" end_char="4248">entere</TOKEN>
+<TOKEN id="token-36-45" pos="word" morph="none" start_char="4250" end_char="4252">por</TOKEN>
+<TOKEN id="token-36-46" pos="word" morph="none" start_char="4254" end_char="4255">la</TOKEN>
+<TOKEN id="token-36-47" pos="word" morph="none" start_char="4257" end_char="4259">app</TOKEN>
+<TOKEN id="token-36-48" pos="word" morph="none" start_char="4261" end_char="4262">es</TOKEN>
+<TOKEN id="token-36-49" pos="word" morph="none" start_char="4264" end_char="4267">solo</TOKEN>
+<TOKEN id="token-36-50" pos="word" morph="none" start_char="4269" end_char="4271">del</TOKEN>
+<TOKEN id="token-36-51" pos="word" morph="none" start_char="4273" end_char="4273">6</TOKEN>
+<TOKEN id="token-36-52" pos="punct" morph="none" start_char="4274" end_char="4275">%.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="4278" end_char="4405">
+<ORIGINAL_TEXT>Leer más: Cómo saber si RadarCOVID, la app para rastrear contactos española, funciona correctamente en tu móvil Android o iPhone</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="4278" end_char="4281">Leer</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="4283" end_char="4285">más</TOKEN>
+<TOKEN id="token-37-2" pos="punct" morph="none" start_char="4286" end_char="4286">:</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="4288" end_char="4291">Cómo</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="4293" end_char="4297">saber</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="4299" end_char="4300">si</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="4302" end_char="4311">RadarCOVID</TOKEN>
+<TOKEN id="token-37-7" pos="punct" morph="none" start_char="4312" end_char="4312">,</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="4314" end_char="4315">la</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="4317" end_char="4319">app</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="4321" end_char="4324">para</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="4326" end_char="4333">rastrear</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="4335" end_char="4343">contactos</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="4345" end_char="4352">española</TOKEN>
+<TOKEN id="token-37-14" pos="punct" morph="none" start_char="4353" end_char="4353">,</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="4355" end_char="4362">funciona</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="4364" end_char="4376">correctamente</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="4378" end_char="4379">en</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="4381" end_char="4382">tu</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="4384" end_char="4388">móvil</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="4390" end_char="4396">Android</TOKEN>
+<TOKEN id="token-37-21" pos="word" morph="none" start_char="4398" end_char="4398">o</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="4400" end_char="4405">iPhone</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="4409" end_char="4490">
+<ORIGINAL_TEXT>La app francesa ha tenido 2,3 millones de descargas pero ha alertado solo 73 veces</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="4409" end_char="4410">La</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="4412" end_char="4414">app</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="4416" end_char="4423">francesa</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="4425" end_char="4426">ha</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="4428" end_char="4433">tenido</TOKEN>
+<TOKEN id="token-38-5" pos="unknown" morph="none" start_char="4435" end_char="4437">2,3</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="4439" end_char="4446">millones</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="4448" end_char="4449">de</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="4451" end_char="4459">descargas</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="4461" end_char="4464">pero</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="4466" end_char="4467">ha</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="4469" end_char="4476">alertado</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="4478" end_char="4481">solo</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="4483" end_char="4484">73</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="4486" end_char="4490">veces</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="4494" end_char="4555">
+<ORIGINAL_TEXT>Cédric O, secretario de Economía Digital del Gobierno francés.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="4494" end_char="4499">Cédric</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="4501" end_char="4501">O</TOKEN>
+<TOKEN id="token-39-2" pos="punct" morph="none" start_char="4502" end_char="4502">,</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="4504" end_char="4513">secretario</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="4515" end_char="4516">de</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="4518" end_char="4525">Economía</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="4527" end_char="4533">Digital</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="4535" end_char="4537">del</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="4539" end_char="4546">Gobierno</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="4548" end_char="4554">francés</TOKEN>
+<TOKEN id="token-39-10" pos="punct" morph="none" start_char="4555" end_char="4555">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="4559" end_char="4748">
+<ORIGINAL_TEXT>Francia fue, junto con Reino Unido, uno de los dos grandes países europeos que optaron por no seguir a Apple y Google y utilizar su protocolo para desarrollar su app de rastreo de contactos.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="4559" end_char="4565">Francia</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="4567" end_char="4569">fue</TOKEN>
+<TOKEN id="token-40-2" pos="punct" morph="none" start_char="4570" end_char="4570">,</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="4572" end_char="4576">junto</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="4578" end_char="4580">con</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="4582" end_char="4586">Reino</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="4588" end_char="4592">Unido</TOKEN>
+<TOKEN id="token-40-7" pos="punct" morph="none" start_char="4593" end_char="4593">,</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="4595" end_char="4597">uno</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="4599" end_char="4600">de</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="4602" end_char="4604">los</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="4606" end_char="4608">dos</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="4610" end_char="4616">grandes</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="4618" end_char="4623">países</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="4625" end_char="4632">europeos</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="4634" end_char="4636">que</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="4638" end_char="4644">optaron</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="4646" end_char="4648">por</TOKEN>
+<TOKEN id="token-40-18" pos="word" morph="none" start_char="4650" end_char="4651">no</TOKEN>
+<TOKEN id="token-40-19" pos="word" morph="none" start_char="4653" end_char="4658">seguir</TOKEN>
+<TOKEN id="token-40-20" pos="word" morph="none" start_char="4660" end_char="4660">a</TOKEN>
+<TOKEN id="token-40-21" pos="word" morph="none" start_char="4662" end_char="4666">Apple</TOKEN>
+<TOKEN id="token-40-22" pos="word" morph="none" start_char="4668" end_char="4668">y</TOKEN>
+<TOKEN id="token-40-23" pos="word" morph="none" start_char="4670" end_char="4675">Google</TOKEN>
+<TOKEN id="token-40-24" pos="word" morph="none" start_char="4677" end_char="4677">y</TOKEN>
+<TOKEN id="token-40-25" pos="word" morph="none" start_char="4679" end_char="4686">utilizar</TOKEN>
+<TOKEN id="token-40-26" pos="word" morph="none" start_char="4688" end_char="4689">su</TOKEN>
+<TOKEN id="token-40-27" pos="word" morph="none" start_char="4691" end_char="4699">protocolo</TOKEN>
+<TOKEN id="token-40-28" pos="word" morph="none" start_char="4701" end_char="4704">para</TOKEN>
+<TOKEN id="token-40-29" pos="word" morph="none" start_char="4706" end_char="4716">desarrollar</TOKEN>
+<TOKEN id="token-40-30" pos="word" morph="none" start_char="4718" end_char="4719">su</TOKEN>
+<TOKEN id="token-40-31" pos="word" morph="none" start_char="4721" end_char="4723">app</TOKEN>
+<TOKEN id="token-40-32" pos="word" morph="none" start_char="4725" end_char="4726">de</TOKEN>
+<TOKEN id="token-40-33" pos="word" morph="none" start_char="4728" end_char="4734">rastreo</TOKEN>
+<TOKEN id="token-40-34" pos="word" morph="none" start_char="4736" end_char="4737">de</TOKEN>
+<TOKEN id="token-40-35" pos="word" morph="none" start_char="4739" end_char="4747">contactos</TOKEN>
+<TOKEN id="token-40-36" pos="punct" morph="none" start_char="4748" end_char="4748">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="4750" end_char="4787">
+<ORIGINAL_TEXT>La app se lanzó a principios de junio.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="4750" end_char="4751">La</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="4753" end_char="4755">app</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="4757" end_char="4758">se</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="4760" end_char="4764">lanzó</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="4766" end_char="4766">a</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="4768" end_char="4777">principios</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="4779" end_char="4780">de</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="4782" end_char="4786">junio</TOKEN>
+<TOKEN id="token-41-8" pos="punct" morph="none" start_char="4787" end_char="4787">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="4790" end_char="4983">
+<ORIGINAL_TEXT>Esto fue así porque el Gobierno de Macron optó porque su aplicación tuviese una gestión centralizada de los datos que se generaran cuando dos móviles próximos registraban un "contacto estrecho".</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="4790" end_char="4793">Esto</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="4795" end_char="4797">fue</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="4799" end_char="4801">así</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="4803" end_char="4808">porque</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="4810" end_char="4811">el</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="4813" end_char="4820">Gobierno</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="4822" end_char="4823">de</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="4825" end_char="4830">Macron</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="4832" end_char="4835">optó</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="4837" end_char="4842">porque</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="4844" end_char="4845">su</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="4847" end_char="4856">aplicación</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="4858" end_char="4864">tuviese</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="4866" end_char="4868">una</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="4870" end_char="4876">gestión</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="4878" end_char="4889">centralizada</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="4891" end_char="4892">de</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="4894" end_char="4896">los</TOKEN>
+<TOKEN id="token-42-18" pos="word" morph="none" start_char="4898" end_char="4902">datos</TOKEN>
+<TOKEN id="token-42-19" pos="word" morph="none" start_char="4904" end_char="4906">que</TOKEN>
+<TOKEN id="token-42-20" pos="word" morph="none" start_char="4908" end_char="4909">se</TOKEN>
+<TOKEN id="token-42-21" pos="word" morph="none" start_char="4911" end_char="4919">generaran</TOKEN>
+<TOKEN id="token-42-22" pos="word" morph="none" start_char="4921" end_char="4926">cuando</TOKEN>
+<TOKEN id="token-42-23" pos="word" morph="none" start_char="4928" end_char="4930">dos</TOKEN>
+<TOKEN id="token-42-24" pos="word" morph="none" start_char="4932" end_char="4938">móviles</TOKEN>
+<TOKEN id="token-42-25" pos="word" morph="none" start_char="4940" end_char="4947">próximos</TOKEN>
+<TOKEN id="token-42-26" pos="word" morph="none" start_char="4949" end_char="4959">registraban</TOKEN>
+<TOKEN id="token-42-27" pos="word" morph="none" start_char="4961" end_char="4962">un</TOKEN>
+<TOKEN id="token-42-28" pos="punct" morph="none" start_char="4964" end_char="4964">"</TOKEN>
+<TOKEN id="token-42-29" pos="word" morph="none" start_char="4965" end_char="4972">contacto</TOKEN>
+<TOKEN id="token-42-30" pos="word" morph="none" start_char="4974" end_char="4981">estrecho</TOKEN>
+<TOKEN id="token-42-31" pos="punct" morph="none" start_char="4982" end_char="4983">".</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="4985" end_char="5155">
+<ORIGINAL_TEXT>La API de Apple y Google prefiere que esos datos se almacenen en los dispositivos, y solo se deriven a un servidor centralizado cuando haya un caso confirmado de COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="4985" end_char="4986">La</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="4988" end_char="4990">API</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="4992" end_char="4993">de</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="4995" end_char="4999">Apple</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="5001" end_char="5001">y</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="5003" end_char="5008">Google</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="5010" end_char="5017">prefiere</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="5019" end_char="5021">que</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="5023" end_char="5026">esos</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="5028" end_char="5032">datos</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="5034" end_char="5035">se</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="5037" end_char="5045">almacenen</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="5047" end_char="5048">en</TOKEN>
+<TOKEN id="token-43-13" pos="word" morph="none" start_char="5050" end_char="5052">los</TOKEN>
+<TOKEN id="token-43-14" pos="word" morph="none" start_char="5054" end_char="5065">dispositivos</TOKEN>
+<TOKEN id="token-43-15" pos="punct" morph="none" start_char="5066" end_char="5066">,</TOKEN>
+<TOKEN id="token-43-16" pos="word" morph="none" start_char="5068" end_char="5068">y</TOKEN>
+<TOKEN id="token-43-17" pos="word" morph="none" start_char="5070" end_char="5073">solo</TOKEN>
+<TOKEN id="token-43-18" pos="word" morph="none" start_char="5075" end_char="5076">se</TOKEN>
+<TOKEN id="token-43-19" pos="word" morph="none" start_char="5078" end_char="5084">deriven</TOKEN>
+<TOKEN id="token-43-20" pos="word" morph="none" start_char="5086" end_char="5086">a</TOKEN>
+<TOKEN id="token-43-21" pos="word" morph="none" start_char="5088" end_char="5089">un</TOKEN>
+<TOKEN id="token-43-22" pos="word" morph="none" start_char="5091" end_char="5098">servidor</TOKEN>
+<TOKEN id="token-43-23" pos="word" morph="none" start_char="5100" end_char="5111">centralizado</TOKEN>
+<TOKEN id="token-43-24" pos="word" morph="none" start_char="5113" end_char="5118">cuando</TOKEN>
+<TOKEN id="token-43-25" pos="word" morph="none" start_char="5120" end_char="5123">haya</TOKEN>
+<TOKEN id="token-43-26" pos="word" morph="none" start_char="5125" end_char="5126">un</TOKEN>
+<TOKEN id="token-43-27" pos="word" morph="none" start_char="5128" end_char="5131">caso</TOKEN>
+<TOKEN id="token-43-28" pos="word" morph="none" start_char="5133" end_char="5142">confirmado</TOKEN>
+<TOKEN id="token-43-29" pos="word" morph="none" start_char="5144" end_char="5145">de</TOKEN>
+<TOKEN id="token-43-30" pos="unknown" morph="none" start_char="5147" end_char="5154">COVID-19</TOKEN>
+<TOKEN id="token-43-31" pos="punct" morph="none" start_char="5155" end_char="5155">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="5158" end_char="5321">
+<ORIGINAL_TEXT>Leer más: La app de rastreo de contactos no será "un punto de inflexión" en la lucha contra el COVID-19 sin una estructura "sólida" de Salud Pública, según expertos</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="5158" end_char="5161">Leer</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="5163" end_char="5165">más</TOKEN>
+<TOKEN id="token-44-2" pos="punct" morph="none" start_char="5166" end_char="5166">:</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="5168" end_char="5169">La</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="5171" end_char="5173">app</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="5175" end_char="5176">de</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="5178" end_char="5184">rastreo</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="5186" end_char="5187">de</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="5189" end_char="5197">contactos</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="5199" end_char="5200">no</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="5202" end_char="5205">será</TOKEN>
+<TOKEN id="token-44-11" pos="punct" morph="none" start_char="5207" end_char="5207">"</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="5208" end_char="5209">un</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="5211" end_char="5215">punto</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="5217" end_char="5218">de</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="5220" end_char="5228">inflexión</TOKEN>
+<TOKEN id="token-44-16" pos="punct" morph="none" start_char="5229" end_char="5229">"</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="5231" end_char="5232">en</TOKEN>
+<TOKEN id="token-44-18" pos="word" morph="none" start_char="5234" end_char="5235">la</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="5237" end_char="5241">lucha</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="5243" end_char="5248">contra</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="5250" end_char="5251">el</TOKEN>
+<TOKEN id="token-44-22" pos="unknown" morph="none" start_char="5253" end_char="5260">COVID-19</TOKEN>
+<TOKEN id="token-44-23" pos="word" morph="none" start_char="5262" end_char="5264">sin</TOKEN>
+<TOKEN id="token-44-24" pos="word" morph="none" start_char="5266" end_char="5268">una</TOKEN>
+<TOKEN id="token-44-25" pos="word" morph="none" start_char="5270" end_char="5279">estructura</TOKEN>
+<TOKEN id="token-44-26" pos="punct" morph="none" start_char="5281" end_char="5281">"</TOKEN>
+<TOKEN id="token-44-27" pos="word" morph="none" start_char="5282" end_char="5287">sólida</TOKEN>
+<TOKEN id="token-44-28" pos="punct" morph="none" start_char="5288" end_char="5288">"</TOKEN>
+<TOKEN id="token-44-29" pos="word" morph="none" start_char="5290" end_char="5291">de</TOKEN>
+<TOKEN id="token-44-30" pos="word" morph="none" start_char="5293" end_char="5297">Salud</TOKEN>
+<TOKEN id="token-44-31" pos="word" morph="none" start_char="5299" end_char="5305">Pública</TOKEN>
+<TOKEN id="token-44-32" pos="punct" morph="none" start_char="5306" end_char="5306">,</TOKEN>
+<TOKEN id="token-44-33" pos="word" morph="none" start_char="5308" end_char="5312">según</TOKEN>
+<TOKEN id="token-44-34" pos="word" morph="none" start_char="5314" end_char="5321">expertos</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="5325" end_char="5632">
+<ORIGINAL_TEXT>El hecho de que la app francesa no utilice la API de las propietarias de los principales sistemas operativos de móviles puede hacer entender que StopCovid, como se llama esta app, se haya descargado 2,3 millones de veces... y solo haya reportado 73 contactos de riesgo con confirmados de COVID-19 implicados.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="5325" end_char="5326">El</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="5328" end_char="5332">hecho</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="5334" end_char="5335">de</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="5337" end_char="5339">que</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="5341" end_char="5342">la</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="5344" end_char="5346">app</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="5348" end_char="5355">francesa</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="5357" end_char="5358">no</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="5360" end_char="5366">utilice</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="5368" end_char="5369">la</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="5371" end_char="5373">API</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="5375" end_char="5376">de</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="5378" end_char="5380">las</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="5382" end_char="5393">propietarias</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="5395" end_char="5396">de</TOKEN>
+<TOKEN id="token-45-15" pos="word" morph="none" start_char="5398" end_char="5400">los</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="5402" end_char="5412">principales</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="5414" end_char="5421">sistemas</TOKEN>
+<TOKEN id="token-45-18" pos="word" morph="none" start_char="5423" end_char="5432">operativos</TOKEN>
+<TOKEN id="token-45-19" pos="word" morph="none" start_char="5434" end_char="5435">de</TOKEN>
+<TOKEN id="token-45-20" pos="word" morph="none" start_char="5437" end_char="5443">móviles</TOKEN>
+<TOKEN id="token-45-21" pos="word" morph="none" start_char="5445" end_char="5449">puede</TOKEN>
+<TOKEN id="token-45-22" pos="word" morph="none" start_char="5451" end_char="5455">hacer</TOKEN>
+<TOKEN id="token-45-23" pos="word" morph="none" start_char="5457" end_char="5464">entender</TOKEN>
+<TOKEN id="token-45-24" pos="word" morph="none" start_char="5466" end_char="5468">que</TOKEN>
+<TOKEN id="token-45-25" pos="word" morph="none" start_char="5470" end_char="5478">StopCovid</TOKEN>
+<TOKEN id="token-45-26" pos="punct" morph="none" start_char="5479" end_char="5479">,</TOKEN>
+<TOKEN id="token-45-27" pos="word" morph="none" start_char="5481" end_char="5484">como</TOKEN>
+<TOKEN id="token-45-28" pos="word" morph="none" start_char="5486" end_char="5487">se</TOKEN>
+<TOKEN id="token-45-29" pos="word" morph="none" start_char="5489" end_char="5493">llama</TOKEN>
+<TOKEN id="token-45-30" pos="word" morph="none" start_char="5495" end_char="5498">esta</TOKEN>
+<TOKEN id="token-45-31" pos="word" morph="none" start_char="5500" end_char="5502">app</TOKEN>
+<TOKEN id="token-45-32" pos="punct" morph="none" start_char="5503" end_char="5503">,</TOKEN>
+<TOKEN id="token-45-33" pos="word" morph="none" start_char="5505" end_char="5506">se</TOKEN>
+<TOKEN id="token-45-34" pos="word" morph="none" start_char="5508" end_char="5511">haya</TOKEN>
+<TOKEN id="token-45-35" pos="word" morph="none" start_char="5513" end_char="5522">descargado</TOKEN>
+<TOKEN id="token-45-36" pos="unknown" morph="none" start_char="5524" end_char="5526">2,3</TOKEN>
+<TOKEN id="token-45-37" pos="word" morph="none" start_char="5528" end_char="5535">millones</TOKEN>
+<TOKEN id="token-45-38" pos="word" morph="none" start_char="5537" end_char="5538">de</TOKEN>
+<TOKEN id="token-45-39" pos="word" morph="none" start_char="5540" end_char="5544">veces</TOKEN>
+<TOKEN id="token-45-40" pos="punct" morph="none" start_char="5545" end_char="5547">...</TOKEN>
+<TOKEN id="token-45-41" pos="word" morph="none" start_char="5549" end_char="5549">y</TOKEN>
+<TOKEN id="token-45-42" pos="word" morph="none" start_char="5551" end_char="5554">solo</TOKEN>
+<TOKEN id="token-45-43" pos="word" morph="none" start_char="5556" end_char="5559">haya</TOKEN>
+<TOKEN id="token-45-44" pos="word" morph="none" start_char="5561" end_char="5569">reportado</TOKEN>
+<TOKEN id="token-45-45" pos="word" morph="none" start_char="5571" end_char="5572">73</TOKEN>
+<TOKEN id="token-45-46" pos="word" morph="none" start_char="5574" end_char="5582">contactos</TOKEN>
+<TOKEN id="token-45-47" pos="word" morph="none" start_char="5584" end_char="5585">de</TOKEN>
+<TOKEN id="token-45-48" pos="word" morph="none" start_char="5587" end_char="5592">riesgo</TOKEN>
+<TOKEN id="token-45-49" pos="word" morph="none" start_char="5594" end_char="5596">con</TOKEN>
+<TOKEN id="token-45-50" pos="word" morph="none" start_char="5598" end_char="5608">confirmados</TOKEN>
+<TOKEN id="token-45-51" pos="word" morph="none" start_char="5610" end_char="5611">de</TOKEN>
+<TOKEN id="token-45-52" pos="unknown" morph="none" start_char="5613" end_char="5620">COVID-19</TOKEN>
+<TOKEN id="token-45-53" pos="word" morph="none" start_char="5622" end_char="5631">implicados</TOKEN>
+<TOKEN id="token-45-54" pos="punct" morph="none" start_char="5632" end_char="5632">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="5635" end_char="5813">
+<ORIGINAL_TEXT>Por si fuera poco, al usar otra tecnología, la app francesa no será compatible con las aplicaciones de rastreo de contacto de países de su entorno, como España, Alemania o Italia.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="5635" end_char="5637">Por</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="5639" end_char="5640">si</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="5642" end_char="5646">fuera</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="5648" end_char="5651">poco</TOKEN>
+<TOKEN id="token-46-4" pos="punct" morph="none" start_char="5652" end_char="5652">,</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="5654" end_char="5655">al</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="5657" end_char="5660">usar</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="5662" end_char="5665">otra</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="5667" end_char="5676">tecnología</TOKEN>
+<TOKEN id="token-46-9" pos="punct" morph="none" start_char="5677" end_char="5677">,</TOKEN>
+<TOKEN id="token-46-10" pos="word" morph="none" start_char="5679" end_char="5680">la</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="5682" end_char="5684">app</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="5686" end_char="5693">francesa</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="5695" end_char="5696">no</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="5698" end_char="5701">será</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="5703" end_char="5712">compatible</TOKEN>
+<TOKEN id="token-46-16" pos="word" morph="none" start_char="5714" end_char="5716">con</TOKEN>
+<TOKEN id="token-46-17" pos="word" morph="none" start_char="5718" end_char="5720">las</TOKEN>
+<TOKEN id="token-46-18" pos="word" morph="none" start_char="5722" end_char="5733">aplicaciones</TOKEN>
+<TOKEN id="token-46-19" pos="word" morph="none" start_char="5735" end_char="5736">de</TOKEN>
+<TOKEN id="token-46-20" pos="word" morph="none" start_char="5738" end_char="5744">rastreo</TOKEN>
+<TOKEN id="token-46-21" pos="word" morph="none" start_char="5746" end_char="5747">de</TOKEN>
+<TOKEN id="token-46-22" pos="word" morph="none" start_char="5749" end_char="5756">contacto</TOKEN>
+<TOKEN id="token-46-23" pos="word" morph="none" start_char="5758" end_char="5759">de</TOKEN>
+<TOKEN id="token-46-24" pos="word" morph="none" start_char="5761" end_char="5766">países</TOKEN>
+<TOKEN id="token-46-25" pos="word" morph="none" start_char="5768" end_char="5769">de</TOKEN>
+<TOKEN id="token-46-26" pos="word" morph="none" start_char="5771" end_char="5772">su</TOKEN>
+<TOKEN id="token-46-27" pos="word" morph="none" start_char="5774" end_char="5780">entorno</TOKEN>
+<TOKEN id="token-46-28" pos="punct" morph="none" start_char="5781" end_char="5781">,</TOKEN>
+<TOKEN id="token-46-29" pos="word" morph="none" start_char="5783" end_char="5786">como</TOKEN>
+<TOKEN id="token-46-30" pos="word" morph="none" start_char="5788" end_char="5793">España</TOKEN>
+<TOKEN id="token-46-31" pos="punct" morph="none" start_char="5794" end_char="5794">,</TOKEN>
+<TOKEN id="token-46-32" pos="word" morph="none" start_char="5796" end_char="5803">Alemania</TOKEN>
+<TOKEN id="token-46-33" pos="word" morph="none" start_char="5805" end_char="5805">o</TOKEN>
+<TOKEN id="token-46-34" pos="word" morph="none" start_char="5807" end_char="5812">Italia</TOKEN>
+<TOKEN id="token-46-35" pos="punct" morph="none" start_char="5813" end_char="5813">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="5815" end_char="5909">
+<ORIGINAL_TEXT>La Comisión Europea ya está trabajando en la interoperabilidad que hará estas apps compatibles.</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="5815" end_char="5816">La</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="5818" end_char="5825">Comisión</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="5827" end_char="5833">Europea</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="5835" end_char="5836">ya</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="5838" end_char="5841">está</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="5843" end_char="5852">trabajando</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="5854" end_char="5855">en</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="5857" end_char="5858">la</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="5860" end_char="5876">interoperabilidad</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="5878" end_char="5880">que</TOKEN>
+<TOKEN id="token-47-10" pos="word" morph="none" start_char="5882" end_char="5885">hará</TOKEN>
+<TOKEN id="token-47-11" pos="word" morph="none" start_char="5887" end_char="5891">estas</TOKEN>
+<TOKEN id="token-47-12" pos="word" morph="none" start_char="5893" end_char="5896">apps</TOKEN>
+<TOKEN id="token-47-13" pos="word" morph="none" start_char="5898" end_char="5908">compatibles</TOKEN>
+<TOKEN id="token-47-14" pos="punct" morph="none" start_char="5909" end_char="5909">.</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="5912" end_char="5992">
+<ORIGINAL_TEXT>En Italia solo la descargó el 13% de la población pero ha demostrado su potencial</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="5912" end_char="5913">En</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="5915" end_char="5920">Italia</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="5922" end_char="5925">solo</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="5927" end_char="5928">la</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="5930" end_char="5937">descargó</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="5939" end_char="5940">el</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="5942" end_char="5943">13</TOKEN>
+<TOKEN id="token-48-7" pos="punct" morph="none" start_char="5944" end_char="5944">%</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="5946" end_char="5947">de</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="5949" end_char="5950">la</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="5952" end_char="5960">población</TOKEN>
+<TOKEN id="token-48-11" pos="word" morph="none" start_char="5962" end_char="5965">pero</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="5967" end_char="5968">ha</TOKEN>
+<TOKEN id="token-48-13" pos="word" morph="none" start_char="5970" end_char="5979">demostrado</TOKEN>
+<TOKEN id="token-48-14" pos="word" morph="none" start_char="5981" end_char="5982">su</TOKEN>
+<TOKEN id="token-48-15" pos="word" morph="none" start_char="5984" end_char="5992">potencial</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="5996" end_char="6020">
+<ORIGINAL_TEXT>App de rastreo de Italia.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="5996" end_char="5998">App</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="6000" end_char="6001">de</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="6003" end_char="6009">rastreo</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="6011" end_char="6012">de</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="6014" end_char="6019">Italia</TOKEN>
+<TOKEN id="token-49-5" pos="punct" morph="none" start_char="6020" end_char="6020">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="6024" end_char="6120">
+<ORIGINAL_TEXT>Al igual que Francia, Italia lanzó Immuni, su app de rastreo de contactos, a principios de junio.</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="6024" end_char="6025">Al</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="6027" end_char="6031">igual</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="6033" end_char="6035">que</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="6037" end_char="6043">Francia</TOKEN>
+<TOKEN id="token-50-4" pos="punct" morph="none" start_char="6044" end_char="6044">,</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="6046" end_char="6051">Italia</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="6053" end_char="6057">lanzó</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="6059" end_char="6064">Immuni</TOKEN>
+<TOKEN id="token-50-8" pos="punct" morph="none" start_char="6065" end_char="6065">,</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="6067" end_char="6068">su</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="6070" end_char="6072">app</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="6074" end_char="6075">de</TOKEN>
+<TOKEN id="token-50-12" pos="word" morph="none" start_char="6077" end_char="6083">rastreo</TOKEN>
+<TOKEN id="token-50-13" pos="word" morph="none" start_char="6085" end_char="6086">de</TOKEN>
+<TOKEN id="token-50-14" pos="word" morph="none" start_char="6088" end_char="6096">contactos</TOKEN>
+<TOKEN id="token-50-15" pos="punct" morph="none" start_char="6097" end_char="6097">,</TOKEN>
+<TOKEN id="token-50-16" pos="word" morph="none" start_char="6099" end_char="6099">a</TOKEN>
+<TOKEN id="token-50-17" pos="word" morph="none" start_char="6101" end_char="6110">principios</TOKEN>
+<TOKEN id="token-50-18" pos="word" morph="none" start_char="6112" end_char="6113">de</TOKEN>
+<TOKEN id="token-50-19" pos="word" morph="none" start_char="6115" end_char="6119">junio</TOKEN>
+<TOKEN id="token-50-20" pos="punct" morph="none" start_char="6120" end_char="6120">.</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="6122" end_char="6192">
+<ORIGINAL_TEXT>En este caso, la aplicación sí utiliza el desarrollo de Apple y Google.</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="6122" end_char="6123">En</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="6125" end_char="6128">este</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="6130" end_char="6133">caso</TOKEN>
+<TOKEN id="token-51-3" pos="punct" morph="none" start_char="6134" end_char="6134">,</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="6136" end_char="6137">la</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="6139" end_char="6148">aplicación</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="6150" end_char="6151">sí</TOKEN>
+<TOKEN id="token-51-7" pos="word" morph="none" start_char="6153" end_char="6159">utiliza</TOKEN>
+<TOKEN id="token-51-8" pos="word" morph="none" start_char="6161" end_char="6162">el</TOKEN>
+<TOKEN id="token-51-9" pos="word" morph="none" start_char="6164" end_char="6173">desarrollo</TOKEN>
+<TOKEN id="token-51-10" pos="word" morph="none" start_char="6175" end_char="6176">de</TOKEN>
+<TOKEN id="token-51-11" pos="word" morph="none" start_char="6178" end_char="6182">Apple</TOKEN>
+<TOKEN id="token-51-12" pos="word" morph="none" start_char="6184" end_char="6184">y</TOKEN>
+<TOKEN id="token-51-13" pos="word" morph="none" start_char="6186" end_char="6191">Google</TOKEN>
+<TOKEN id="token-51-14" pos="punct" morph="none" start_char="6192" end_char="6192">.</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="6195" end_char="6273">
+<ORIGINAL_TEXT>Sin embargo, muchos italianos tampoco están muy satisfechos con los resultados.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="6195" end_char="6197">Sin</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="6199" end_char="6205">embargo</TOKEN>
+<TOKEN id="token-52-2" pos="punct" morph="none" start_char="6206" end_char="6206">,</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="6208" end_char="6213">muchos</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="6215" end_char="6223">italianos</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="6225" end_char="6231">tampoco</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="6233" end_char="6237">están</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="6239" end_char="6241">muy</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="6243" end_char="6253">satisfechos</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="6255" end_char="6257">con</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="6259" end_char="6261">los</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="6263" end_char="6272">resultados</TOKEN>
+<TOKEN id="token-52-12" pos="punct" morph="none" start_char="6273" end_char="6273">.</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="6275" end_char="6413">
+<ORIGINAL_TEXT>Dos meses y medio después de su lanzamiento, la aplicación se ha descargado 5 millones de veces, lo que supone solo un 13% de la población.</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="6275" end_char="6277">Dos</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="6279" end_char="6283">meses</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="6285" end_char="6285">y</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="6287" end_char="6291">medio</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="6293" end_char="6299">después</TOKEN>
+<TOKEN id="token-53-5" pos="word" morph="none" start_char="6301" end_char="6302">de</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="6304" end_char="6305">su</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="6307" end_char="6317">lanzamiento</TOKEN>
+<TOKEN id="token-53-8" pos="punct" morph="none" start_char="6318" end_char="6318">,</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="6320" end_char="6321">la</TOKEN>
+<TOKEN id="token-53-10" pos="word" morph="none" start_char="6323" end_char="6332">aplicación</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="6334" end_char="6335">se</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="6337" end_char="6338">ha</TOKEN>
+<TOKEN id="token-53-13" pos="word" morph="none" start_char="6340" end_char="6349">descargado</TOKEN>
+<TOKEN id="token-53-14" pos="word" morph="none" start_char="6351" end_char="6351">5</TOKEN>
+<TOKEN id="token-53-15" pos="word" morph="none" start_char="6353" end_char="6360">millones</TOKEN>
+<TOKEN id="token-53-16" pos="word" morph="none" start_char="6362" end_char="6363">de</TOKEN>
+<TOKEN id="token-53-17" pos="word" morph="none" start_char="6365" end_char="6369">veces</TOKEN>
+<TOKEN id="token-53-18" pos="punct" morph="none" start_char="6370" end_char="6370">,</TOKEN>
+<TOKEN id="token-53-19" pos="word" morph="none" start_char="6372" end_char="6373">lo</TOKEN>
+<TOKEN id="token-53-20" pos="word" morph="none" start_char="6375" end_char="6377">que</TOKEN>
+<TOKEN id="token-53-21" pos="word" morph="none" start_char="6379" end_char="6384">supone</TOKEN>
+<TOKEN id="token-53-22" pos="word" morph="none" start_char="6386" end_char="6389">solo</TOKEN>
+<TOKEN id="token-53-23" pos="word" morph="none" start_char="6391" end_char="6392">un</TOKEN>
+<TOKEN id="token-53-24" pos="word" morph="none" start_char="6394" end_char="6395">13</TOKEN>
+<TOKEN id="token-53-25" pos="punct" morph="none" start_char="6396" end_char="6396">%</TOKEN>
+<TOKEN id="token-53-26" pos="word" morph="none" start_char="6398" end_char="6399">de</TOKEN>
+<TOKEN id="token-53-27" pos="word" morph="none" start_char="6401" end_char="6402">la</TOKEN>
+<TOKEN id="token-53-28" pos="word" morph="none" start_char="6404" end_char="6412">población</TOKEN>
+<TOKEN id="token-53-29" pos="punct" morph="none" start_char="6413" end_char="6413">.</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="6416" end_char="6567">
+<ORIGINAL_TEXT>Leer más: RadarCOVID, la app de rastreo española, ya está disponible en algunas regiones: 7 claves para entender cómo funciona y por qué podría ser útil</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="6416" end_char="6419">Leer</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="6421" end_char="6423">más</TOKEN>
+<TOKEN id="token-54-2" pos="punct" morph="none" start_char="6424" end_char="6424">:</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="6426" end_char="6435">RadarCOVID</TOKEN>
+<TOKEN id="token-54-4" pos="punct" morph="none" start_char="6436" end_char="6436">,</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="6438" end_char="6439">la</TOKEN>
+<TOKEN id="token-54-6" pos="word" morph="none" start_char="6441" end_char="6443">app</TOKEN>
+<TOKEN id="token-54-7" pos="word" morph="none" start_char="6445" end_char="6446">de</TOKEN>
+<TOKEN id="token-54-8" pos="word" morph="none" start_char="6448" end_char="6454">rastreo</TOKEN>
+<TOKEN id="token-54-9" pos="word" morph="none" start_char="6456" end_char="6463">española</TOKEN>
+<TOKEN id="token-54-10" pos="punct" morph="none" start_char="6464" end_char="6464">,</TOKEN>
+<TOKEN id="token-54-11" pos="word" morph="none" start_char="6466" end_char="6467">ya</TOKEN>
+<TOKEN id="token-54-12" pos="word" morph="none" start_char="6469" end_char="6472">está</TOKEN>
+<TOKEN id="token-54-13" pos="word" morph="none" start_char="6474" end_char="6483">disponible</TOKEN>
+<TOKEN id="token-54-14" pos="word" morph="none" start_char="6485" end_char="6486">en</TOKEN>
+<TOKEN id="token-54-15" pos="word" morph="none" start_char="6488" end_char="6494">algunas</TOKEN>
+<TOKEN id="token-54-16" pos="word" morph="none" start_char="6496" end_char="6503">regiones</TOKEN>
+<TOKEN id="token-54-17" pos="punct" morph="none" start_char="6504" end_char="6504">:</TOKEN>
+<TOKEN id="token-54-18" pos="word" morph="none" start_char="6506" end_char="6506">7</TOKEN>
+<TOKEN id="token-54-19" pos="word" morph="none" start_char="6508" end_char="6513">claves</TOKEN>
+<TOKEN id="token-54-20" pos="word" morph="none" start_char="6515" end_char="6518">para</TOKEN>
+<TOKEN id="token-54-21" pos="word" morph="none" start_char="6520" end_char="6527">entender</TOKEN>
+<TOKEN id="token-54-22" pos="word" morph="none" start_char="6529" end_char="6532">cómo</TOKEN>
+<TOKEN id="token-54-23" pos="word" morph="none" start_char="6534" end_char="6541">funciona</TOKEN>
+<TOKEN id="token-54-24" pos="word" morph="none" start_char="6543" end_char="6543">y</TOKEN>
+<TOKEN id="token-54-25" pos="word" morph="none" start_char="6545" end_char="6547">por</TOKEN>
+<TOKEN id="token-54-26" pos="word" morph="none" start_char="6549" end_char="6551">qué</TOKEN>
+<TOKEN id="token-54-27" pos="word" morph="none" start_char="6553" end_char="6558">podría</TOKEN>
+<TOKEN id="token-54-28" pos="word" morph="none" start_char="6560" end_char="6562">ser</TOKEN>
+<TOKEN id="token-54-29" pos="word" morph="none" start_char="6564" end_char="6567">útil</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="6571" end_char="6649">
+<ORIGINAL_TEXT>Aun con esos datos, Immuni también tiene unos números que invitan al optimismo.</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="6571" end_char="6573">Aun</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="6575" end_char="6577">con</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="6579" end_char="6582">esos</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="6584" end_char="6588">datos</TOKEN>
+<TOKEN id="token-55-4" pos="punct" morph="none" start_char="6589" end_char="6589">,</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="6591" end_char="6596">Immuni</TOKEN>
+<TOKEN id="token-55-6" pos="word" morph="none" start_char="6598" end_char="6604">también</TOKEN>
+<TOKEN id="token-55-7" pos="word" morph="none" start_char="6606" end_char="6610">tiene</TOKEN>
+<TOKEN id="token-55-8" pos="word" morph="none" start_char="6612" end_char="6615">unos</TOKEN>
+<TOKEN id="token-55-9" pos="word" morph="none" start_char="6617" end_char="6623">números</TOKEN>
+<TOKEN id="token-55-10" pos="word" morph="none" start_char="6625" end_char="6627">que</TOKEN>
+<TOKEN id="token-55-11" pos="word" morph="none" start_char="6629" end_char="6635">invitan</TOKEN>
+<TOKEN id="token-55-12" pos="word" morph="none" start_char="6637" end_char="6638">al</TOKEN>
+<TOKEN id="token-55-13" pos="word" morph="none" start_char="6640" end_char="6648">optimismo</TOKEN>
+<TOKEN id="token-55-14" pos="punct" morph="none" start_char="6649" end_char="6649">.</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="6651" end_char="6782">
+<ORIGINAL_TEXT>Desde el 1 de junio, 105 personas han comunicado su positivo en la plataforma: 21 en junio, 38 en julio y 46 en lo que va de agosto.</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="6651" end_char="6655">Desde</TOKEN>
+<TOKEN id="token-56-1" pos="word" morph="none" start_char="6657" end_char="6658">el</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="6660" end_char="6660">1</TOKEN>
+<TOKEN id="token-56-3" pos="word" morph="none" start_char="6662" end_char="6663">de</TOKEN>
+<TOKEN id="token-56-4" pos="word" morph="none" start_char="6665" end_char="6669">junio</TOKEN>
+<TOKEN id="token-56-5" pos="punct" morph="none" start_char="6670" end_char="6670">,</TOKEN>
+<TOKEN id="token-56-6" pos="word" morph="none" start_char="6672" end_char="6674">105</TOKEN>
+<TOKEN id="token-56-7" pos="word" morph="none" start_char="6676" end_char="6683">personas</TOKEN>
+<TOKEN id="token-56-8" pos="word" morph="none" start_char="6685" end_char="6687">han</TOKEN>
+<TOKEN id="token-56-9" pos="word" morph="none" start_char="6689" end_char="6698">comunicado</TOKEN>
+<TOKEN id="token-56-10" pos="word" morph="none" start_char="6700" end_char="6701">su</TOKEN>
+<TOKEN id="token-56-11" pos="word" morph="none" start_char="6703" end_char="6710">positivo</TOKEN>
+<TOKEN id="token-56-12" pos="word" morph="none" start_char="6712" end_char="6713">en</TOKEN>
+<TOKEN id="token-56-13" pos="word" morph="none" start_char="6715" end_char="6716">la</TOKEN>
+<TOKEN id="token-56-14" pos="word" morph="none" start_char="6718" end_char="6727">plataforma</TOKEN>
+<TOKEN id="token-56-15" pos="punct" morph="none" start_char="6728" end_char="6728">:</TOKEN>
+<TOKEN id="token-56-16" pos="word" morph="none" start_char="6730" end_char="6731">21</TOKEN>
+<TOKEN id="token-56-17" pos="word" morph="none" start_char="6733" end_char="6734">en</TOKEN>
+<TOKEN id="token-56-18" pos="word" morph="none" start_char="6736" end_char="6740">junio</TOKEN>
+<TOKEN id="token-56-19" pos="punct" morph="none" start_char="6741" end_char="6741">,</TOKEN>
+<TOKEN id="token-56-20" pos="word" morph="none" start_char="6743" end_char="6744">38</TOKEN>
+<TOKEN id="token-56-21" pos="word" morph="none" start_char="6746" end_char="6747">en</TOKEN>
+<TOKEN id="token-56-22" pos="word" morph="none" start_char="6749" end_char="6753">julio</TOKEN>
+<TOKEN id="token-56-23" pos="word" morph="none" start_char="6755" end_char="6755">y</TOKEN>
+<TOKEN id="token-56-24" pos="word" morph="none" start_char="6757" end_char="6758">46</TOKEN>
+<TOKEN id="token-56-25" pos="word" morph="none" start_char="6760" end_char="6761">en</TOKEN>
+<TOKEN id="token-56-26" pos="word" morph="none" start_char="6763" end_char="6764">lo</TOKEN>
+<TOKEN id="token-56-27" pos="word" morph="none" start_char="6766" end_char="6768">que</TOKEN>
+<TOKEN id="token-56-28" pos="word" morph="none" start_char="6770" end_char="6771">va</TOKEN>
+<TOKEN id="token-56-29" pos="word" morph="none" start_char="6773" end_char="6774">de</TOKEN>
+<TOKEN id="token-56-30" pos="word" morph="none" start_char="6776" end_char="6781">agosto</TOKEN>
+<TOKEN id="token-56-31" pos="punct" morph="none" start_char="6782" end_char="6782">.</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="6785" end_char="6916">
+<ORIGINAL_TEXT>Fruto de esos positivos, se han advertido de 809 potenciales contagios y se han podido frenar a tiempo 4 rebrotes de COVID-19, según</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="6785" end_char="6789">Fruto</TOKEN>
+<TOKEN id="token-57-1" pos="word" morph="none" start_char="6791" end_char="6792">de</TOKEN>
+<TOKEN id="token-57-2" pos="word" morph="none" start_char="6794" end_char="6797">esos</TOKEN>
+<TOKEN id="token-57-3" pos="word" morph="none" start_char="6799" end_char="6807">positivos</TOKEN>
+<TOKEN id="token-57-4" pos="punct" morph="none" start_char="6808" end_char="6808">,</TOKEN>
+<TOKEN id="token-57-5" pos="word" morph="none" start_char="6810" end_char="6811">se</TOKEN>
+<TOKEN id="token-57-6" pos="word" morph="none" start_char="6813" end_char="6815">han</TOKEN>
+<TOKEN id="token-57-7" pos="word" morph="none" start_char="6817" end_char="6825">advertido</TOKEN>
+<TOKEN id="token-57-8" pos="word" morph="none" start_char="6827" end_char="6828">de</TOKEN>
+<TOKEN id="token-57-9" pos="word" morph="none" start_char="6830" end_char="6832">809</TOKEN>
+<TOKEN id="token-57-10" pos="word" morph="none" start_char="6834" end_char="6844">potenciales</TOKEN>
+<TOKEN id="token-57-11" pos="word" morph="none" start_char="6846" end_char="6854">contagios</TOKEN>
+<TOKEN id="token-57-12" pos="word" morph="none" start_char="6856" end_char="6856">y</TOKEN>
+<TOKEN id="token-57-13" pos="word" morph="none" start_char="6858" end_char="6859">se</TOKEN>
+<TOKEN id="token-57-14" pos="word" morph="none" start_char="6861" end_char="6863">han</TOKEN>
+<TOKEN id="token-57-15" pos="word" morph="none" start_char="6865" end_char="6870">podido</TOKEN>
+<TOKEN id="token-57-16" pos="word" morph="none" start_char="6872" end_char="6877">frenar</TOKEN>
+<TOKEN id="token-57-17" pos="word" morph="none" start_char="6879" end_char="6879">a</TOKEN>
+<TOKEN id="token-57-18" pos="word" morph="none" start_char="6881" end_char="6886">tiempo</TOKEN>
+<TOKEN id="token-57-19" pos="word" morph="none" start_char="6888" end_char="6888">4</TOKEN>
+<TOKEN id="token-57-20" pos="word" morph="none" start_char="6890" end_char="6897">rebrotes</TOKEN>
+<TOKEN id="token-57-21" pos="word" morph="none" start_char="6899" end_char="6900">de</TOKEN>
+<TOKEN id="token-57-22" pos="unknown" morph="none" start_char="6902" end_char="6909">COVID-19</TOKEN>
+<TOKEN id="token-57-23" pos="punct" morph="none" start_char="6910" end_char="6910">,</TOKEN>
+<TOKEN id="token-57-24" pos="word" morph="none" start_char="6912" end_char="6916">según</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="6919" end_char="6931">
+<ORIGINAL_TEXT>La Repubblica</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="6919" end_char="6920">La</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="6922" end_char="6931">Repubblica</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="6934" end_char="6934">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="punct" morph="none" start_char="6934" end_char="6934">.</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="6937" end_char="7001">
+<ORIGINAL_TEXT>Reino Unido ha tenido que empezar de cero el desarrollo de su app</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="6937" end_char="6941">Reino</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="6943" end_char="6947">Unido</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="6949" end_char="6950">ha</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="6952" end_char="6957">tenido</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="6959" end_char="6961">que</TOKEN>
+<TOKEN id="token-60-5" pos="word" morph="none" start_char="6963" end_char="6969">empezar</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="6971" end_char="6972">de</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="6974" end_char="6977">cero</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="6979" end_char="6980">el</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="6982" end_char="6991">desarrollo</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="6993" end_char="6994">de</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="6996" end_char="6997">su</TOKEN>
+<TOKEN id="token-60-12" pos="word" morph="none" start_char="6999" end_char="7001">app</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="7005" end_char="7054">
+<ORIGINAL_TEXT>Aplicación de rastreo de contactos en Reino Unido.</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="7005" end_char="7014">Aplicación</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="7016" end_char="7017">de</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="7019" end_char="7025">rastreo</TOKEN>
+<TOKEN id="token-61-3" pos="word" morph="none" start_char="7027" end_char="7028">de</TOKEN>
+<TOKEN id="token-61-4" pos="word" morph="none" start_char="7030" end_char="7038">contactos</TOKEN>
+<TOKEN id="token-61-5" pos="word" morph="none" start_char="7040" end_char="7041">en</TOKEN>
+<TOKEN id="token-61-6" pos="word" morph="none" start_char="7043" end_char="7047">Reino</TOKEN>
+<TOKEN id="token-61-7" pos="word" morph="none" start_char="7049" end_char="7053">Unido</TOKEN>
+<TOKEN id="token-61-8" pos="punct" morph="none" start_char="7054" end_char="7054">.</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="7058" end_char="7094">
+<ORIGINAL_TEXT>El británico es un caso rocambolesco.</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="7058" end_char="7059">El</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="7061" end_char="7069">británico</TOKEN>
+<TOKEN id="token-62-2" pos="word" morph="none" start_char="7071" end_char="7072">es</TOKEN>
+<TOKEN id="token-62-3" pos="word" morph="none" start_char="7074" end_char="7075">un</TOKEN>
+<TOKEN id="token-62-4" pos="word" morph="none" start_char="7077" end_char="7080">caso</TOKEN>
+<TOKEN id="token-62-5" pos="word" morph="none" start_char="7082" end_char="7093">rocambolesco</TOKEN>
+<TOKEN id="token-62-6" pos="punct" morph="none" start_char="7094" end_char="7094">.</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="7096" end_char="7229">
+<ORIGINAL_TEXT>El país vecino, Irlanda, ya cuenta con una app de rastreo de contactos que sus vecinos de Irlanda del Norte, Reino Unido, pueden usar.</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="7096" end_char="7097">El</TOKEN>
+<TOKEN id="token-63-1" pos="word" morph="none" start_char="7099" end_char="7102">país</TOKEN>
+<TOKEN id="token-63-2" pos="word" morph="none" start_char="7104" end_char="7109">vecino</TOKEN>
+<TOKEN id="token-63-3" pos="punct" morph="none" start_char="7110" end_char="7110">,</TOKEN>
+<TOKEN id="token-63-4" pos="word" morph="none" start_char="7112" end_char="7118">Irlanda</TOKEN>
+<TOKEN id="token-63-5" pos="punct" morph="none" start_char="7119" end_char="7119">,</TOKEN>
+<TOKEN id="token-63-6" pos="word" morph="none" start_char="7121" end_char="7122">ya</TOKEN>
+<TOKEN id="token-63-7" pos="word" morph="none" start_char="7124" end_char="7129">cuenta</TOKEN>
+<TOKEN id="token-63-8" pos="word" morph="none" start_char="7131" end_char="7133">con</TOKEN>
+<TOKEN id="token-63-9" pos="word" morph="none" start_char="7135" end_char="7137">una</TOKEN>
+<TOKEN id="token-63-10" pos="word" morph="none" start_char="7139" end_char="7141">app</TOKEN>
+<TOKEN id="token-63-11" pos="word" morph="none" start_char="7143" end_char="7144">de</TOKEN>
+<TOKEN id="token-63-12" pos="word" morph="none" start_char="7146" end_char="7152">rastreo</TOKEN>
+<TOKEN id="token-63-13" pos="word" morph="none" start_char="7154" end_char="7155">de</TOKEN>
+<TOKEN id="token-63-14" pos="word" morph="none" start_char="7157" end_char="7165">contactos</TOKEN>
+<TOKEN id="token-63-15" pos="word" morph="none" start_char="7167" end_char="7169">que</TOKEN>
+<TOKEN id="token-63-16" pos="word" morph="none" start_char="7171" end_char="7173">sus</TOKEN>
+<TOKEN id="token-63-17" pos="word" morph="none" start_char="7175" end_char="7181">vecinos</TOKEN>
+<TOKEN id="token-63-18" pos="word" morph="none" start_char="7183" end_char="7184">de</TOKEN>
+<TOKEN id="token-63-19" pos="word" morph="none" start_char="7186" end_char="7192">Irlanda</TOKEN>
+<TOKEN id="token-63-20" pos="word" morph="none" start_char="7194" end_char="7196">del</TOKEN>
+<TOKEN id="token-63-21" pos="word" morph="none" start_char="7198" end_char="7202">Norte</TOKEN>
+<TOKEN id="token-63-22" pos="punct" morph="none" start_char="7203" end_char="7203">,</TOKEN>
+<TOKEN id="token-63-23" pos="word" morph="none" start_char="7205" end_char="7209">Reino</TOKEN>
+<TOKEN id="token-63-24" pos="word" morph="none" start_char="7211" end_char="7215">Unido</TOKEN>
+<TOKEN id="token-63-25" pos="punct" morph="none" start_char="7216" end_char="7216">,</TOKEN>
+<TOKEN id="token-63-26" pos="word" morph="none" start_char="7218" end_char="7223">pueden</TOKEN>
+<TOKEN id="token-63-27" pos="word" morph="none" start_char="7225" end_char="7228">usar</TOKEN>
+<TOKEN id="token-63-28" pos="punct" morph="none" start_char="7229" end_char="7229">.</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="7232" end_char="7451">
+<ORIGINAL_TEXT>La razón no es otra que el Gobierno de Boris Johnson no ha podido poner en marcha la fase operativa de su app de rastreo de contactos, a pesar de que fue uno de los primeros países europeos en realizar una prueba piloto.</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="7232" end_char="7233">La</TOKEN>
+<TOKEN id="token-64-1" pos="word" morph="none" start_char="7235" end_char="7239">razón</TOKEN>
+<TOKEN id="token-64-2" pos="word" morph="none" start_char="7241" end_char="7242">no</TOKEN>
+<TOKEN id="token-64-3" pos="word" morph="none" start_char="7244" end_char="7245">es</TOKEN>
+<TOKEN id="token-64-4" pos="word" morph="none" start_char="7247" end_char="7250">otra</TOKEN>
+<TOKEN id="token-64-5" pos="word" morph="none" start_char="7252" end_char="7254">que</TOKEN>
+<TOKEN id="token-64-6" pos="word" morph="none" start_char="7256" end_char="7257">el</TOKEN>
+<TOKEN id="token-64-7" pos="word" morph="none" start_char="7259" end_char="7266">Gobierno</TOKEN>
+<TOKEN id="token-64-8" pos="word" morph="none" start_char="7268" end_char="7269">de</TOKEN>
+<TOKEN id="token-64-9" pos="word" morph="none" start_char="7271" end_char="7275">Boris</TOKEN>
+<TOKEN id="token-64-10" pos="word" morph="none" start_char="7277" end_char="7283">Johnson</TOKEN>
+<TOKEN id="token-64-11" pos="word" morph="none" start_char="7285" end_char="7286">no</TOKEN>
+<TOKEN id="token-64-12" pos="word" morph="none" start_char="7288" end_char="7289">ha</TOKEN>
+<TOKEN id="token-64-13" pos="word" morph="none" start_char="7291" end_char="7296">podido</TOKEN>
+<TOKEN id="token-64-14" pos="word" morph="none" start_char="7298" end_char="7302">poner</TOKEN>
+<TOKEN id="token-64-15" pos="word" morph="none" start_char="7304" end_char="7305">en</TOKEN>
+<TOKEN id="token-64-16" pos="word" morph="none" start_char="7307" end_char="7312">marcha</TOKEN>
+<TOKEN id="token-64-17" pos="word" morph="none" start_char="7314" end_char="7315">la</TOKEN>
+<TOKEN id="token-64-18" pos="word" morph="none" start_char="7317" end_char="7320">fase</TOKEN>
+<TOKEN id="token-64-19" pos="word" morph="none" start_char="7322" end_char="7330">operativa</TOKEN>
+<TOKEN id="token-64-20" pos="word" morph="none" start_char="7332" end_char="7333">de</TOKEN>
+<TOKEN id="token-64-21" pos="word" morph="none" start_char="7335" end_char="7336">su</TOKEN>
+<TOKEN id="token-64-22" pos="word" morph="none" start_char="7338" end_char="7340">app</TOKEN>
+<TOKEN id="token-64-23" pos="word" morph="none" start_char="7342" end_char="7343">de</TOKEN>
+<TOKEN id="token-64-24" pos="word" morph="none" start_char="7345" end_char="7351">rastreo</TOKEN>
+<TOKEN id="token-64-25" pos="word" morph="none" start_char="7353" end_char="7354">de</TOKEN>
+<TOKEN id="token-64-26" pos="word" morph="none" start_char="7356" end_char="7364">contactos</TOKEN>
+<TOKEN id="token-64-27" pos="punct" morph="none" start_char="7365" end_char="7365">,</TOKEN>
+<TOKEN id="token-64-28" pos="word" morph="none" start_char="7367" end_char="7367">a</TOKEN>
+<TOKEN id="token-64-29" pos="word" morph="none" start_char="7369" end_char="7373">pesar</TOKEN>
+<TOKEN id="token-64-30" pos="word" morph="none" start_char="7375" end_char="7376">de</TOKEN>
+<TOKEN id="token-64-31" pos="word" morph="none" start_char="7378" end_char="7380">que</TOKEN>
+<TOKEN id="token-64-32" pos="word" morph="none" start_char="7382" end_char="7384">fue</TOKEN>
+<TOKEN id="token-64-33" pos="word" morph="none" start_char="7386" end_char="7388">uno</TOKEN>
+<TOKEN id="token-64-34" pos="word" morph="none" start_char="7390" end_char="7391">de</TOKEN>
+<TOKEN id="token-64-35" pos="word" morph="none" start_char="7393" end_char="7395">los</TOKEN>
+<TOKEN id="token-64-36" pos="word" morph="none" start_char="7397" end_char="7404">primeros</TOKEN>
+<TOKEN id="token-64-37" pos="word" morph="none" start_char="7406" end_char="7411">países</TOKEN>
+<TOKEN id="token-64-38" pos="word" morph="none" start_char="7413" end_char="7420">europeos</TOKEN>
+<TOKEN id="token-64-39" pos="word" morph="none" start_char="7422" end_char="7423">en</TOKEN>
+<TOKEN id="token-64-40" pos="word" morph="none" start_char="7425" end_char="7432">realizar</TOKEN>
+<TOKEN id="token-64-41" pos="word" morph="none" start_char="7434" end_char="7436">una</TOKEN>
+<TOKEN id="token-64-42" pos="word" morph="none" start_char="7438" end_char="7443">prueba</TOKEN>
+<TOKEN id="token-64-43" pos="word" morph="none" start_char="7445" end_char="7450">piloto</TOKEN>
+<TOKEN id="token-64-44" pos="punct" morph="none" start_char="7451" end_char="7451">.</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="7454" end_char="7559">
+<ORIGINAL_TEXT>Esta prueba piloto tuvo lugar en Isle of Wight, un municipio aislado y cercano de la costa de Southampton.</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="7454" end_char="7457">Esta</TOKEN>
+<TOKEN id="token-65-1" pos="word" morph="none" start_char="7459" end_char="7464">prueba</TOKEN>
+<TOKEN id="token-65-2" pos="word" morph="none" start_char="7466" end_char="7471">piloto</TOKEN>
+<TOKEN id="token-65-3" pos="word" morph="none" start_char="7473" end_char="7476">tuvo</TOKEN>
+<TOKEN id="token-65-4" pos="word" morph="none" start_char="7478" end_char="7482">lugar</TOKEN>
+<TOKEN id="token-65-5" pos="word" morph="none" start_char="7484" end_char="7485">en</TOKEN>
+<TOKEN id="token-65-6" pos="word" morph="none" start_char="7487" end_char="7490">Isle</TOKEN>
+<TOKEN id="token-65-7" pos="word" morph="none" start_char="7492" end_char="7493">of</TOKEN>
+<TOKEN id="token-65-8" pos="word" morph="none" start_char="7495" end_char="7499">Wight</TOKEN>
+<TOKEN id="token-65-9" pos="punct" morph="none" start_char="7500" end_char="7500">,</TOKEN>
+<TOKEN id="token-65-10" pos="word" morph="none" start_char="7502" end_char="7503">un</TOKEN>
+<TOKEN id="token-65-11" pos="word" morph="none" start_char="7505" end_char="7513">municipio</TOKEN>
+<TOKEN id="token-65-12" pos="word" morph="none" start_char="7515" end_char="7521">aislado</TOKEN>
+<TOKEN id="token-65-13" pos="word" morph="none" start_char="7523" end_char="7523">y</TOKEN>
+<TOKEN id="token-65-14" pos="word" morph="none" start_char="7525" end_char="7531">cercano</TOKEN>
+<TOKEN id="token-65-15" pos="word" morph="none" start_char="7533" end_char="7534">de</TOKEN>
+<TOKEN id="token-65-16" pos="word" morph="none" start_char="7536" end_char="7537">la</TOKEN>
+<TOKEN id="token-65-17" pos="word" morph="none" start_char="7539" end_char="7543">costa</TOKEN>
+<TOKEN id="token-65-18" pos="word" morph="none" start_char="7545" end_char="7546">de</TOKEN>
+<TOKEN id="token-65-19" pos="word" morph="none" start_char="7548" end_char="7558">Southampton</TOKEN>
+<TOKEN id="token-65-20" pos="punct" morph="none" start_char="7559" end_char="7559">.</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="7561" end_char="7648">
+<ORIGINAL_TEXT>Pero finalmente en junio el Gobierno británico tuvo que abandonar el proyecto de su app.</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="7561" end_char="7564">Pero</TOKEN>
+<TOKEN id="token-66-1" pos="word" morph="none" start_char="7566" end_char="7575">finalmente</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="7577" end_char="7578">en</TOKEN>
+<TOKEN id="token-66-3" pos="word" morph="none" start_char="7580" end_char="7584">junio</TOKEN>
+<TOKEN id="token-66-4" pos="word" morph="none" start_char="7586" end_char="7587">el</TOKEN>
+<TOKEN id="token-66-5" pos="word" morph="none" start_char="7589" end_char="7596">Gobierno</TOKEN>
+<TOKEN id="token-66-6" pos="word" morph="none" start_char="7598" end_char="7606">británico</TOKEN>
+<TOKEN id="token-66-7" pos="word" morph="none" start_char="7608" end_char="7611">tuvo</TOKEN>
+<TOKEN id="token-66-8" pos="word" morph="none" start_char="7613" end_char="7615">que</TOKEN>
+<TOKEN id="token-66-9" pos="word" morph="none" start_char="7617" end_char="7625">abandonar</TOKEN>
+<TOKEN id="token-66-10" pos="word" morph="none" start_char="7627" end_char="7628">el</TOKEN>
+<TOKEN id="token-66-11" pos="word" morph="none" start_char="7630" end_char="7637">proyecto</TOKEN>
+<TOKEN id="token-66-12" pos="word" morph="none" start_char="7639" end_char="7640">de</TOKEN>
+<TOKEN id="token-66-13" pos="word" morph="none" start_char="7642" end_char="7643">su</TOKEN>
+<TOKEN id="token-66-14" pos="word" morph="none" start_char="7645" end_char="7647">app</TOKEN>
+<TOKEN id="token-66-15" pos="punct" morph="none" start_char="7648" end_char="7648">.</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="7651" end_char="7847">
+<ORIGINAL_TEXT>En un principio la app iba a ser centralizada, pero el desarrollo se complicó y ya en verano decidió optar por iniciar el desarrollo de una app descentralizada emulando el modelo de Apple y Google.</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="7651" end_char="7652">En</TOKEN>
+<TOKEN id="token-67-1" pos="word" morph="none" start_char="7654" end_char="7655">un</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="7657" end_char="7665">principio</TOKEN>
+<TOKEN id="token-67-3" pos="word" morph="none" start_char="7667" end_char="7668">la</TOKEN>
+<TOKEN id="token-67-4" pos="word" morph="none" start_char="7670" end_char="7672">app</TOKEN>
+<TOKEN id="token-67-5" pos="word" morph="none" start_char="7674" end_char="7676">iba</TOKEN>
+<TOKEN id="token-67-6" pos="word" morph="none" start_char="7678" end_char="7678">a</TOKEN>
+<TOKEN id="token-67-7" pos="word" morph="none" start_char="7680" end_char="7682">ser</TOKEN>
+<TOKEN id="token-67-8" pos="word" morph="none" start_char="7684" end_char="7695">centralizada</TOKEN>
+<TOKEN id="token-67-9" pos="punct" morph="none" start_char="7696" end_char="7696">,</TOKEN>
+<TOKEN id="token-67-10" pos="word" morph="none" start_char="7698" end_char="7701">pero</TOKEN>
+<TOKEN id="token-67-11" pos="word" morph="none" start_char="7703" end_char="7704">el</TOKEN>
+<TOKEN id="token-67-12" pos="word" morph="none" start_char="7706" end_char="7715">desarrollo</TOKEN>
+<TOKEN id="token-67-13" pos="word" morph="none" start_char="7717" end_char="7718">se</TOKEN>
+<TOKEN id="token-67-14" pos="word" morph="none" start_char="7720" end_char="7727">complicó</TOKEN>
+<TOKEN id="token-67-15" pos="word" morph="none" start_char="7729" end_char="7729">y</TOKEN>
+<TOKEN id="token-67-16" pos="word" morph="none" start_char="7731" end_char="7732">ya</TOKEN>
+<TOKEN id="token-67-17" pos="word" morph="none" start_char="7734" end_char="7735">en</TOKEN>
+<TOKEN id="token-67-18" pos="word" morph="none" start_char="7737" end_char="7742">verano</TOKEN>
+<TOKEN id="token-67-19" pos="word" morph="none" start_char="7744" end_char="7750">decidió</TOKEN>
+<TOKEN id="token-67-20" pos="word" morph="none" start_char="7752" end_char="7756">optar</TOKEN>
+<TOKEN id="token-67-21" pos="word" morph="none" start_char="7758" end_char="7760">por</TOKEN>
+<TOKEN id="token-67-22" pos="word" morph="none" start_char="7762" end_char="7768">iniciar</TOKEN>
+<TOKEN id="token-67-23" pos="word" morph="none" start_char="7770" end_char="7771">el</TOKEN>
+<TOKEN id="token-67-24" pos="word" morph="none" start_char="7773" end_char="7782">desarrollo</TOKEN>
+<TOKEN id="token-67-25" pos="word" morph="none" start_char="7784" end_char="7785">de</TOKEN>
+<TOKEN id="token-67-26" pos="word" morph="none" start_char="7787" end_char="7789">una</TOKEN>
+<TOKEN id="token-67-27" pos="word" morph="none" start_char="7791" end_char="7793">app</TOKEN>
+<TOKEN id="token-67-28" pos="word" morph="none" start_char="7795" end_char="7809">descentralizada</TOKEN>
+<TOKEN id="token-67-29" pos="word" morph="none" start_char="7811" end_char="7818">emulando</TOKEN>
+<TOKEN id="token-67-30" pos="word" morph="none" start_char="7820" end_char="7821">el</TOKEN>
+<TOKEN id="token-67-31" pos="word" morph="none" start_char="7823" end_char="7828">modelo</TOKEN>
+<TOKEN id="token-67-32" pos="word" morph="none" start_char="7830" end_char="7831">de</TOKEN>
+<TOKEN id="token-67-33" pos="word" morph="none" start_char="7833" end_char="7837">Apple</TOKEN>
+<TOKEN id="token-67-34" pos="word" morph="none" start_char="7839" end_char="7839">y</TOKEN>
+<TOKEN id="token-67-35" pos="word" morph="none" start_char="7841" end_char="7846">Google</TOKEN>
+<TOKEN id="token-67-36" pos="punct" morph="none" start_char="7847" end_char="7847">.</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="7850" end_char="7975">
+<ORIGINAL_TEXT>Ahora, la nueva versión de la app, ya descentralizada, se está probando de nuevo en Isle of Wight y en un distrito de Londres.</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="7850" end_char="7854">Ahora</TOKEN>
+<TOKEN id="token-68-1" pos="punct" morph="none" start_char="7855" end_char="7855">,</TOKEN>
+<TOKEN id="token-68-2" pos="word" morph="none" start_char="7857" end_char="7858">la</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="7860" end_char="7864">nueva</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="7866" end_char="7872">versión</TOKEN>
+<TOKEN id="token-68-5" pos="word" morph="none" start_char="7874" end_char="7875">de</TOKEN>
+<TOKEN id="token-68-6" pos="word" morph="none" start_char="7877" end_char="7878">la</TOKEN>
+<TOKEN id="token-68-7" pos="word" morph="none" start_char="7880" end_char="7882">app</TOKEN>
+<TOKEN id="token-68-8" pos="punct" morph="none" start_char="7883" end_char="7883">,</TOKEN>
+<TOKEN id="token-68-9" pos="word" morph="none" start_char="7885" end_char="7886">ya</TOKEN>
+<TOKEN id="token-68-10" pos="word" morph="none" start_char="7888" end_char="7902">descentralizada</TOKEN>
+<TOKEN id="token-68-11" pos="punct" morph="none" start_char="7903" end_char="7903">,</TOKEN>
+<TOKEN id="token-68-12" pos="word" morph="none" start_char="7905" end_char="7906">se</TOKEN>
+<TOKEN id="token-68-13" pos="word" morph="none" start_char="7908" end_char="7911">está</TOKEN>
+<TOKEN id="token-68-14" pos="word" morph="none" start_char="7913" end_char="7920">probando</TOKEN>
+<TOKEN id="token-68-15" pos="word" morph="none" start_char="7922" end_char="7923">de</TOKEN>
+<TOKEN id="token-68-16" pos="word" morph="none" start_char="7925" end_char="7929">nuevo</TOKEN>
+<TOKEN id="token-68-17" pos="word" morph="none" start_char="7931" end_char="7932">en</TOKEN>
+<TOKEN id="token-68-18" pos="word" morph="none" start_char="7934" end_char="7937">Isle</TOKEN>
+<TOKEN id="token-68-19" pos="word" morph="none" start_char="7939" end_char="7940">of</TOKEN>
+<TOKEN id="token-68-20" pos="word" morph="none" start_char="7942" end_char="7946">Wight</TOKEN>
+<TOKEN id="token-68-21" pos="word" morph="none" start_char="7948" end_char="7948">y</TOKEN>
+<TOKEN id="token-68-22" pos="word" morph="none" start_char="7950" end_char="7951">en</TOKEN>
+<TOKEN id="token-68-23" pos="word" morph="none" start_char="7953" end_char="7954">un</TOKEN>
+<TOKEN id="token-68-24" pos="word" morph="none" start_char="7956" end_char="7963">distrito</TOKEN>
+<TOKEN id="token-68-25" pos="word" morph="none" start_char="7965" end_char="7966">de</TOKEN>
+<TOKEN id="token-68-26" pos="word" morph="none" start_char="7968" end_char="7974">Londres</TOKEN>
+<TOKEN id="token-68-27" pos="punct" morph="none" start_char="7975" end_char="7975">.</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="7978" end_char="8175">
+<ORIGINAL_TEXT>Leer más: Los 'jefes' de los rastreadores del coronavirus revelan las técnicas que usan para que contagiados, sospechosos y escépticos colaboren: "Tenemos muy poco tiempo para ganarnos su confianza"</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="7978" end_char="7981">Leer</TOKEN>
+<TOKEN id="token-69-1" pos="word" morph="none" start_char="7983" end_char="7985">más</TOKEN>
+<TOKEN id="token-69-2" pos="punct" morph="none" start_char="7986" end_char="7986">:</TOKEN>
+<TOKEN id="token-69-3" pos="word" morph="none" start_char="7988" end_char="7990">Los</TOKEN>
+<TOKEN id="token-69-4" pos="punct" morph="none" start_char="7992" end_char="7992">'</TOKEN>
+<TOKEN id="token-69-5" pos="word" morph="none" start_char="7993" end_char="7997">jefes</TOKEN>
+<TOKEN id="token-69-6" pos="punct" morph="none" start_char="7998" end_char="7998">'</TOKEN>
+<TOKEN id="token-69-7" pos="word" morph="none" start_char="8000" end_char="8001">de</TOKEN>
+<TOKEN id="token-69-8" pos="word" morph="none" start_char="8003" end_char="8005">los</TOKEN>
+<TOKEN id="token-69-9" pos="word" morph="none" start_char="8007" end_char="8018">rastreadores</TOKEN>
+<TOKEN id="token-69-10" pos="word" morph="none" start_char="8020" end_char="8022">del</TOKEN>
+<TOKEN id="token-69-11" pos="word" morph="none" start_char="8024" end_char="8034">coronavirus</TOKEN>
+<TOKEN id="token-69-12" pos="word" morph="none" start_char="8036" end_char="8042">revelan</TOKEN>
+<TOKEN id="token-69-13" pos="word" morph="none" start_char="8044" end_char="8046">las</TOKEN>
+<TOKEN id="token-69-14" pos="word" morph="none" start_char="8048" end_char="8055">técnicas</TOKEN>
+<TOKEN id="token-69-15" pos="word" morph="none" start_char="8057" end_char="8059">que</TOKEN>
+<TOKEN id="token-69-16" pos="word" morph="none" start_char="8061" end_char="8064">usan</TOKEN>
+<TOKEN id="token-69-17" pos="word" morph="none" start_char="8066" end_char="8069">para</TOKEN>
+<TOKEN id="token-69-18" pos="word" morph="none" start_char="8071" end_char="8073">que</TOKEN>
+<TOKEN id="token-69-19" pos="word" morph="none" start_char="8075" end_char="8085">contagiados</TOKEN>
+<TOKEN id="token-69-20" pos="punct" morph="none" start_char="8086" end_char="8086">,</TOKEN>
+<TOKEN id="token-69-21" pos="word" morph="none" start_char="8088" end_char="8098">sospechosos</TOKEN>
+<TOKEN id="token-69-22" pos="word" morph="none" start_char="8100" end_char="8100">y</TOKEN>
+<TOKEN id="token-69-23" pos="word" morph="none" start_char="8102" end_char="8111">escépticos</TOKEN>
+<TOKEN id="token-69-24" pos="word" morph="none" start_char="8113" end_char="8121">colaboren</TOKEN>
+<TOKEN id="token-69-25" pos="punct" morph="none" start_char="8122" end_char="8122">:</TOKEN>
+<TOKEN id="token-69-26" pos="punct" morph="none" start_char="8124" end_char="8124">"</TOKEN>
+<TOKEN id="token-69-27" pos="word" morph="none" start_char="8125" end_char="8131">Tenemos</TOKEN>
+<TOKEN id="token-69-28" pos="word" morph="none" start_char="8133" end_char="8135">muy</TOKEN>
+<TOKEN id="token-69-29" pos="word" morph="none" start_char="8137" end_char="8140">poco</TOKEN>
+<TOKEN id="token-69-30" pos="word" morph="none" start_char="8142" end_char="8147">tiempo</TOKEN>
+<TOKEN id="token-69-31" pos="word" morph="none" start_char="8149" end_char="8152">para</TOKEN>
+<TOKEN id="token-69-32" pos="word" morph="none" start_char="8154" end_char="8161">ganarnos</TOKEN>
+<TOKEN id="token-69-33" pos="word" morph="none" start_char="8163" end_char="8164">su</TOKEN>
+<TOKEN id="token-69-34" pos="word" morph="none" start_char="8166" end_char="8174">confianza</TOKEN>
+<TOKEN id="token-69-35" pos="punct" morph="none" start_char="8175" end_char="8175">"</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="8179" end_char="8238">
+<ORIGINAL_TEXT>Una app no exenta de polémica en sus cuentas, después de que</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="word" morph="none" start_char="8179" end_char="8181">Una</TOKEN>
+<TOKEN id="token-70-1" pos="word" morph="none" start_char="8183" end_char="8185">app</TOKEN>
+<TOKEN id="token-70-2" pos="word" morph="none" start_char="8187" end_char="8188">no</TOKEN>
+<TOKEN id="token-70-3" pos="word" morph="none" start_char="8190" end_char="8195">exenta</TOKEN>
+<TOKEN id="token-70-4" pos="word" morph="none" start_char="8197" end_char="8198">de</TOKEN>
+<TOKEN id="token-70-5" pos="word" morph="none" start_char="8200" end_char="8207">polémica</TOKEN>
+<TOKEN id="token-70-6" pos="word" morph="none" start_char="8209" end_char="8210">en</TOKEN>
+<TOKEN id="token-70-7" pos="word" morph="none" start_char="8212" end_char="8214">sus</TOKEN>
+<TOKEN id="token-70-8" pos="word" morph="none" start_char="8216" end_char="8222">cuentas</TOKEN>
+<TOKEN id="token-70-9" pos="punct" morph="none" start_char="8223" end_char="8223">,</TOKEN>
+<TOKEN id="token-70-10" pos="word" morph="none" start_char="8225" end_char="8231">después</TOKEN>
+<TOKEN id="token-70-11" pos="word" morph="none" start_char="8233" end_char="8234">de</TOKEN>
+<TOKEN id="token-70-12" pos="word" morph="none" start_char="8236" end_char="8238">que</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="8241" end_char="8248">
+<ORIGINAL_TEXT>Sky News</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="word" morph="none" start_char="8241" end_char="8243">Sky</TOKEN>
+<TOKEN id="token-71-1" pos="word" morph="none" start_char="8245" end_char="8248">News</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="8251" end_char="8401">
+<ORIGINAL_TEXT>destapara que el Ejecutivo de Johnson habría pagado cerca de 945.000 euros al equipo de Accenture que asesoró al Gobierno por un trabajo de 10 semanas.</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="word" morph="none" start_char="8251" end_char="8259">destapara</TOKEN>
+<TOKEN id="token-72-1" pos="word" morph="none" start_char="8261" end_char="8263">que</TOKEN>
+<TOKEN id="token-72-2" pos="word" morph="none" start_char="8265" end_char="8266">el</TOKEN>
+<TOKEN id="token-72-3" pos="word" morph="none" start_char="8268" end_char="8276">Ejecutivo</TOKEN>
+<TOKEN id="token-72-4" pos="word" morph="none" start_char="8278" end_char="8279">de</TOKEN>
+<TOKEN id="token-72-5" pos="word" morph="none" start_char="8281" end_char="8287">Johnson</TOKEN>
+<TOKEN id="token-72-6" pos="word" morph="none" start_char="8289" end_char="8294">habría</TOKEN>
+<TOKEN id="token-72-7" pos="word" morph="none" start_char="8296" end_char="8301">pagado</TOKEN>
+<TOKEN id="token-72-8" pos="word" morph="none" start_char="8303" end_char="8307">cerca</TOKEN>
+<TOKEN id="token-72-9" pos="word" morph="none" start_char="8309" end_char="8310">de</TOKEN>
+<TOKEN id="token-72-10" pos="word" morph="none" start_char="8312" end_char="8318">945.000</TOKEN>
+<TOKEN id="token-72-11" pos="word" morph="none" start_char="8320" end_char="8324">euros</TOKEN>
+<TOKEN id="token-72-12" pos="word" morph="none" start_char="8326" end_char="8327">al</TOKEN>
+<TOKEN id="token-72-13" pos="word" morph="none" start_char="8329" end_char="8334">equipo</TOKEN>
+<TOKEN id="token-72-14" pos="word" morph="none" start_char="8336" end_char="8337">de</TOKEN>
+<TOKEN id="token-72-15" pos="word" morph="none" start_char="8339" end_char="8347">Accenture</TOKEN>
+<TOKEN id="token-72-16" pos="word" morph="none" start_char="8349" end_char="8351">que</TOKEN>
+<TOKEN id="token-72-17" pos="word" morph="none" start_char="8353" end_char="8359">asesoró</TOKEN>
+<TOKEN id="token-72-18" pos="word" morph="none" start_char="8361" end_char="8362">al</TOKEN>
+<TOKEN id="token-72-19" pos="word" morph="none" start_char="8364" end_char="8371">Gobierno</TOKEN>
+<TOKEN id="token-72-20" pos="word" morph="none" start_char="8373" end_char="8375">por</TOKEN>
+<TOKEN id="token-72-21" pos="word" morph="none" start_char="8377" end_char="8378">un</TOKEN>
+<TOKEN id="token-72-22" pos="word" morph="none" start_char="8380" end_char="8386">trabajo</TOKEN>
+<TOKEN id="token-72-23" pos="word" morph="none" start_char="8388" end_char="8389">de</TOKEN>
+<TOKEN id="token-72-24" pos="word" morph="none" start_char="8391" end_char="8392">10</TOKEN>
+<TOKEN id="token-72-25" pos="word" morph="none" start_char="8394" end_char="8400">semanas</TOKEN>
+<TOKEN id="token-72-26" pos="punct" morph="none" start_char="8401" end_char="8401">.</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="8404" end_char="8453">
+<ORIGINAL_TEXT>Suiza, cuna en Europa de este tipo de aplicaciones</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="word" morph="none" start_char="8404" end_char="8408">Suiza</TOKEN>
+<TOKEN id="token-73-1" pos="punct" morph="none" start_char="8409" end_char="8409">,</TOKEN>
+<TOKEN id="token-73-2" pos="word" morph="none" start_char="8411" end_char="8414">cuna</TOKEN>
+<TOKEN id="token-73-3" pos="word" morph="none" start_char="8416" end_char="8417">en</TOKEN>
+<TOKEN id="token-73-4" pos="word" morph="none" start_char="8419" end_char="8424">Europa</TOKEN>
+<TOKEN id="token-73-5" pos="word" morph="none" start_char="8426" end_char="8427">de</TOKEN>
+<TOKEN id="token-73-6" pos="word" morph="none" start_char="8429" end_char="8432">este</TOKEN>
+<TOKEN id="token-73-7" pos="word" morph="none" start_char="8434" end_char="8437">tipo</TOKEN>
+<TOKEN id="token-73-8" pos="word" morph="none" start_char="8439" end_char="8440">de</TOKEN>
+<TOKEN id="token-73-9" pos="word" morph="none" start_char="8442" end_char="8453">aplicaciones</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="8458" end_char="8602">
+<ORIGINAL_TEXT>En Suiza comenzó el desarrollo de la app de rastreo garantista con la privacidad de los usuarios antes de que en Europa se plantease su adopción.</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="word" morph="none" start_char="8458" end_char="8459">En</TOKEN>
+<TOKEN id="token-74-1" pos="word" morph="none" start_char="8461" end_char="8465">Suiza</TOKEN>
+<TOKEN id="token-74-2" pos="word" morph="none" start_char="8467" end_char="8473">comenzó</TOKEN>
+<TOKEN id="token-74-3" pos="word" morph="none" start_char="8475" end_char="8476">el</TOKEN>
+<TOKEN id="token-74-4" pos="word" morph="none" start_char="8478" end_char="8487">desarrollo</TOKEN>
+<TOKEN id="token-74-5" pos="word" morph="none" start_char="8489" end_char="8490">de</TOKEN>
+<TOKEN id="token-74-6" pos="word" morph="none" start_char="8492" end_char="8493">la</TOKEN>
+<TOKEN id="token-74-7" pos="word" morph="none" start_char="8495" end_char="8497">app</TOKEN>
+<TOKEN id="token-74-8" pos="word" morph="none" start_char="8499" end_char="8500">de</TOKEN>
+<TOKEN id="token-74-9" pos="word" morph="none" start_char="8502" end_char="8508">rastreo</TOKEN>
+<TOKEN id="token-74-10" pos="word" morph="none" start_char="8510" end_char="8519">garantista</TOKEN>
+<TOKEN id="token-74-11" pos="word" morph="none" start_char="8521" end_char="8523">con</TOKEN>
+<TOKEN id="token-74-12" pos="word" morph="none" start_char="8525" end_char="8526">la</TOKEN>
+<TOKEN id="token-74-13" pos="word" morph="none" start_char="8528" end_char="8537">privacidad</TOKEN>
+<TOKEN id="token-74-14" pos="word" morph="none" start_char="8539" end_char="8540">de</TOKEN>
+<TOKEN id="token-74-15" pos="word" morph="none" start_char="8542" end_char="8544">los</TOKEN>
+<TOKEN id="token-74-16" pos="word" morph="none" start_char="8546" end_char="8553">usuarios</TOKEN>
+<TOKEN id="token-74-17" pos="word" morph="none" start_char="8555" end_char="8559">antes</TOKEN>
+<TOKEN id="token-74-18" pos="word" morph="none" start_char="8561" end_char="8562">de</TOKEN>
+<TOKEN id="token-74-19" pos="word" morph="none" start_char="8564" end_char="8566">que</TOKEN>
+<TOKEN id="token-74-20" pos="word" morph="none" start_char="8568" end_char="8569">en</TOKEN>
+<TOKEN id="token-74-21" pos="word" morph="none" start_char="8571" end_char="8576">Europa</TOKEN>
+<TOKEN id="token-74-22" pos="word" morph="none" start_char="8578" end_char="8579">se</TOKEN>
+<TOKEN id="token-74-23" pos="word" morph="none" start_char="8581" end_char="8589">plantease</TOKEN>
+<TOKEN id="token-74-24" pos="word" morph="none" start_char="8591" end_char="8592">su</TOKEN>
+<TOKEN id="token-74-25" pos="word" morph="none" start_char="8594" end_char="8601">adopción</TOKEN>
+<TOKEN id="token-74-26" pos="punct" morph="none" start_char="8602" end_char="8602">.</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="8604" end_char="8762">
+<ORIGINAL_TEXT>Una española, la ingeniera Carmela Troncoso, lideró un equipo de investigaciones que desarrolló el protocolo DP-3T sobre el que después se basó Apple y Google.</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="8604" end_char="8606">Una</TOKEN>
+<TOKEN id="token-75-1" pos="word" morph="none" start_char="8608" end_char="8615">española</TOKEN>
+<TOKEN id="token-75-2" pos="punct" morph="none" start_char="8616" end_char="8616">,</TOKEN>
+<TOKEN id="token-75-3" pos="word" morph="none" start_char="8618" end_char="8619">la</TOKEN>
+<TOKEN id="token-75-4" pos="word" morph="none" start_char="8621" end_char="8629">ingeniera</TOKEN>
+<TOKEN id="token-75-5" pos="word" morph="none" start_char="8631" end_char="8637">Carmela</TOKEN>
+<TOKEN id="token-75-6" pos="word" morph="none" start_char="8639" end_char="8646">Troncoso</TOKEN>
+<TOKEN id="token-75-7" pos="punct" morph="none" start_char="8647" end_char="8647">,</TOKEN>
+<TOKEN id="token-75-8" pos="word" morph="none" start_char="8649" end_char="8654">lideró</TOKEN>
+<TOKEN id="token-75-9" pos="word" morph="none" start_char="8656" end_char="8657">un</TOKEN>
+<TOKEN id="token-75-10" pos="word" morph="none" start_char="8659" end_char="8664">equipo</TOKEN>
+<TOKEN id="token-75-11" pos="word" morph="none" start_char="8666" end_char="8667">de</TOKEN>
+<TOKEN id="token-75-12" pos="word" morph="none" start_char="8669" end_char="8683">investigaciones</TOKEN>
+<TOKEN id="token-75-13" pos="word" morph="none" start_char="8685" end_char="8687">que</TOKEN>
+<TOKEN id="token-75-14" pos="word" morph="none" start_char="8689" end_char="8698">desarrolló</TOKEN>
+<TOKEN id="token-75-15" pos="word" morph="none" start_char="8700" end_char="8701">el</TOKEN>
+<TOKEN id="token-75-16" pos="word" morph="none" start_char="8703" end_char="8711">protocolo</TOKEN>
+<TOKEN id="token-75-17" pos="unknown" morph="none" start_char="8713" end_char="8717">DP-3T</TOKEN>
+<TOKEN id="token-75-18" pos="word" morph="none" start_char="8719" end_char="8723">sobre</TOKEN>
+<TOKEN id="token-75-19" pos="word" morph="none" start_char="8725" end_char="8726">el</TOKEN>
+<TOKEN id="token-75-20" pos="word" morph="none" start_char="8728" end_char="8730">que</TOKEN>
+<TOKEN id="token-75-21" pos="word" morph="none" start_char="8732" end_char="8738">después</TOKEN>
+<TOKEN id="token-75-22" pos="word" morph="none" start_char="8740" end_char="8741">se</TOKEN>
+<TOKEN id="token-75-23" pos="word" morph="none" start_char="8743" end_char="8746">basó</TOKEN>
+<TOKEN id="token-75-24" pos="word" morph="none" start_char="8748" end_char="8752">Apple</TOKEN>
+<TOKEN id="token-75-25" pos="word" morph="none" start_char="8754" end_char="8754">y</TOKEN>
+<TOKEN id="token-75-26" pos="word" morph="none" start_char="8756" end_char="8761">Google</TOKEN>
+<TOKEN id="token-75-27" pos="punct" morph="none" start_char="8762" end_char="8762">.</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="8765" end_char="8867">
+<ORIGINAL_TEXT>SwissCovid, la aplicación suiza, pivotó del protocolo DP-3T al de Apple y Google al ser el mayoritario.</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="word" morph="none" start_char="8765" end_char="8774">SwissCovid</TOKEN>
+<TOKEN id="token-76-1" pos="punct" morph="none" start_char="8775" end_char="8775">,</TOKEN>
+<TOKEN id="token-76-2" pos="word" morph="none" start_char="8777" end_char="8778">la</TOKEN>
+<TOKEN id="token-76-3" pos="word" morph="none" start_char="8780" end_char="8789">aplicación</TOKEN>
+<TOKEN id="token-76-4" pos="word" morph="none" start_char="8791" end_char="8795">suiza</TOKEN>
+<TOKEN id="token-76-5" pos="punct" morph="none" start_char="8796" end_char="8796">,</TOKEN>
+<TOKEN id="token-76-6" pos="word" morph="none" start_char="8798" end_char="8803">pivotó</TOKEN>
+<TOKEN id="token-76-7" pos="word" morph="none" start_char="8805" end_char="8807">del</TOKEN>
+<TOKEN id="token-76-8" pos="word" morph="none" start_char="8809" end_char="8817">protocolo</TOKEN>
+<TOKEN id="token-76-9" pos="unknown" morph="none" start_char="8819" end_char="8823">DP-3T</TOKEN>
+<TOKEN id="token-76-10" pos="word" morph="none" start_char="8825" end_char="8826">al</TOKEN>
+<TOKEN id="token-76-11" pos="word" morph="none" start_char="8828" end_char="8829">de</TOKEN>
+<TOKEN id="token-76-12" pos="word" morph="none" start_char="8831" end_char="8835">Apple</TOKEN>
+<TOKEN id="token-76-13" pos="word" morph="none" start_char="8837" end_char="8837">y</TOKEN>
+<TOKEN id="token-76-14" pos="word" morph="none" start_char="8839" end_char="8844">Google</TOKEN>
+<TOKEN id="token-76-15" pos="word" morph="none" start_char="8846" end_char="8847">al</TOKEN>
+<TOKEN id="token-76-16" pos="word" morph="none" start_char="8849" end_char="8851">ser</TOKEN>
+<TOKEN id="token-76-17" pos="word" morph="none" start_char="8853" end_char="8854">el</TOKEN>
+<TOKEN id="token-76-18" pos="word" morph="none" start_char="8856" end_char="8866">mayoritario</TOKEN>
+<TOKEN id="token-76-19" pos="punct" morph="none" start_char="8867" end_char="8867">.</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="8869" end_char="9035">
+<ORIGINAL_TEXT>Desde su lanzamiento a finales de junio, se ha descargado más de 2,2 millones de veces, pero la app permanece activada en solo cerca de millón y medio de dispositivos.</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="word" morph="none" start_char="8869" end_char="8873">Desde</TOKEN>
+<TOKEN id="token-77-1" pos="word" morph="none" start_char="8875" end_char="8876">su</TOKEN>
+<TOKEN id="token-77-2" pos="word" morph="none" start_char="8878" end_char="8888">lanzamiento</TOKEN>
+<TOKEN id="token-77-3" pos="word" morph="none" start_char="8890" end_char="8890">a</TOKEN>
+<TOKEN id="token-77-4" pos="word" morph="none" start_char="8892" end_char="8898">finales</TOKEN>
+<TOKEN id="token-77-5" pos="word" morph="none" start_char="8900" end_char="8901">de</TOKEN>
+<TOKEN id="token-77-6" pos="word" morph="none" start_char="8903" end_char="8907">junio</TOKEN>
+<TOKEN id="token-77-7" pos="punct" morph="none" start_char="8908" end_char="8908">,</TOKEN>
+<TOKEN id="token-77-8" pos="word" morph="none" start_char="8910" end_char="8911">se</TOKEN>
+<TOKEN id="token-77-9" pos="word" morph="none" start_char="8913" end_char="8914">ha</TOKEN>
+<TOKEN id="token-77-10" pos="word" morph="none" start_char="8916" end_char="8925">descargado</TOKEN>
+<TOKEN id="token-77-11" pos="word" morph="none" start_char="8927" end_char="8929">más</TOKEN>
+<TOKEN id="token-77-12" pos="word" morph="none" start_char="8931" end_char="8932">de</TOKEN>
+<TOKEN id="token-77-13" pos="unknown" morph="none" start_char="8934" end_char="8936">2,2</TOKEN>
+<TOKEN id="token-77-14" pos="word" morph="none" start_char="8938" end_char="8945">millones</TOKEN>
+<TOKEN id="token-77-15" pos="word" morph="none" start_char="8947" end_char="8948">de</TOKEN>
+<TOKEN id="token-77-16" pos="word" morph="none" start_char="8950" end_char="8954">veces</TOKEN>
+<TOKEN id="token-77-17" pos="punct" morph="none" start_char="8955" end_char="8955">,</TOKEN>
+<TOKEN id="token-77-18" pos="word" morph="none" start_char="8957" end_char="8960">pero</TOKEN>
+<TOKEN id="token-77-19" pos="word" morph="none" start_char="8962" end_char="8963">la</TOKEN>
+<TOKEN id="token-77-20" pos="word" morph="none" start_char="8965" end_char="8967">app</TOKEN>
+<TOKEN id="token-77-21" pos="word" morph="none" start_char="8969" end_char="8977">permanece</TOKEN>
+<TOKEN id="token-77-22" pos="word" morph="none" start_char="8979" end_char="8986">activada</TOKEN>
+<TOKEN id="token-77-23" pos="word" morph="none" start_char="8988" end_char="8989">en</TOKEN>
+<TOKEN id="token-77-24" pos="word" morph="none" start_char="8991" end_char="8994">solo</TOKEN>
+<TOKEN id="token-77-25" pos="word" morph="none" start_char="8996" end_char="9000">cerca</TOKEN>
+<TOKEN id="token-77-26" pos="word" morph="none" start_char="9002" end_char="9003">de</TOKEN>
+<TOKEN id="token-77-27" pos="word" morph="none" start_char="9005" end_char="9010">millón</TOKEN>
+<TOKEN id="token-77-28" pos="word" morph="none" start_char="9012" end_char="9012">y</TOKEN>
+<TOKEN id="token-77-29" pos="word" morph="none" start_char="9014" end_char="9018">medio</TOKEN>
+<TOKEN id="token-77-30" pos="word" morph="none" start_char="9020" end_char="9021">de</TOKEN>
+<TOKEN id="token-77-31" pos="word" morph="none" start_char="9023" end_char="9034">dispositivos</TOKEN>
+<TOKEN id="token-77-32" pos="punct" morph="none" start_char="9035" end_char="9035">.</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="9038" end_char="9239">
+<ORIGINAL_TEXT>Fruto de la transparencia con la que Suiza ha desarrollado su app, en esta web de un equipo de investigación se puede incluso consultar cuántos códigos COVID se introducen en la plataforma semanalmente.</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="word" morph="none" start_char="9038" end_char="9042">Fruto</TOKEN>
+<TOKEN id="token-78-1" pos="word" morph="none" start_char="9044" end_char="9045">de</TOKEN>
+<TOKEN id="token-78-2" pos="word" morph="none" start_char="9047" end_char="9048">la</TOKEN>
+<TOKEN id="token-78-3" pos="word" morph="none" start_char="9050" end_char="9062">transparencia</TOKEN>
+<TOKEN id="token-78-4" pos="word" morph="none" start_char="9064" end_char="9066">con</TOKEN>
+<TOKEN id="token-78-5" pos="word" morph="none" start_char="9068" end_char="9069">la</TOKEN>
+<TOKEN id="token-78-6" pos="word" morph="none" start_char="9071" end_char="9073">que</TOKEN>
+<TOKEN id="token-78-7" pos="word" morph="none" start_char="9075" end_char="9079">Suiza</TOKEN>
+<TOKEN id="token-78-8" pos="word" morph="none" start_char="9081" end_char="9082">ha</TOKEN>
+<TOKEN id="token-78-9" pos="word" morph="none" start_char="9084" end_char="9095">desarrollado</TOKEN>
+<TOKEN id="token-78-10" pos="word" morph="none" start_char="9097" end_char="9098">su</TOKEN>
+<TOKEN id="token-78-11" pos="word" morph="none" start_char="9100" end_char="9102">app</TOKEN>
+<TOKEN id="token-78-12" pos="punct" morph="none" start_char="9103" end_char="9103">,</TOKEN>
+<TOKEN id="token-78-13" pos="word" morph="none" start_char="9105" end_char="9106">en</TOKEN>
+<TOKEN id="token-78-14" pos="word" morph="none" start_char="9108" end_char="9111">esta</TOKEN>
+<TOKEN id="token-78-15" pos="word" morph="none" start_char="9113" end_char="9115">web</TOKEN>
+<TOKEN id="token-78-16" pos="word" morph="none" start_char="9117" end_char="9118">de</TOKEN>
+<TOKEN id="token-78-17" pos="word" morph="none" start_char="9120" end_char="9121">un</TOKEN>
+<TOKEN id="token-78-18" pos="word" morph="none" start_char="9123" end_char="9128">equipo</TOKEN>
+<TOKEN id="token-78-19" pos="word" morph="none" start_char="9130" end_char="9131">de</TOKEN>
+<TOKEN id="token-78-20" pos="word" morph="none" start_char="9133" end_char="9145">investigación</TOKEN>
+<TOKEN id="token-78-21" pos="word" morph="none" start_char="9147" end_char="9148">se</TOKEN>
+<TOKEN id="token-78-22" pos="word" morph="none" start_char="9150" end_char="9154">puede</TOKEN>
+<TOKEN id="token-78-23" pos="word" morph="none" start_char="9156" end_char="9162">incluso</TOKEN>
+<TOKEN id="token-78-24" pos="word" morph="none" start_char="9164" end_char="9172">consultar</TOKEN>
+<TOKEN id="token-78-25" pos="word" morph="none" start_char="9174" end_char="9180">cuántos</TOKEN>
+<TOKEN id="token-78-26" pos="word" morph="none" start_char="9182" end_char="9188">códigos</TOKEN>
+<TOKEN id="token-78-27" pos="word" morph="none" start_char="9190" end_char="9194">COVID</TOKEN>
+<TOKEN id="token-78-28" pos="word" morph="none" start_char="9196" end_char="9197">se</TOKEN>
+<TOKEN id="token-78-29" pos="word" morph="none" start_char="9199" end_char="9208">introducen</TOKEN>
+<TOKEN id="token-78-30" pos="word" morph="none" start_char="9210" end_char="9211">en</TOKEN>
+<TOKEN id="token-78-31" pos="word" morph="none" start_char="9213" end_char="9214">la</TOKEN>
+<TOKEN id="token-78-32" pos="word" morph="none" start_char="9216" end_char="9225">plataforma</TOKEN>
+<TOKEN id="token-78-33" pos="word" morph="none" start_char="9227" end_char="9238">semanalmente</TOKEN>
+<TOKEN id="token-78-34" pos="punct" morph="none" start_char="9239" end_char="9239">.</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="9241" end_char="9262">
+<ORIGINAL_TEXT>Una media de unos 200.</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="word" morph="none" start_char="9241" end_char="9243">Una</TOKEN>
+<TOKEN id="token-79-1" pos="word" morph="none" start_char="9245" end_char="9249">media</TOKEN>
+<TOKEN id="token-79-2" pos="word" morph="none" start_char="9251" end_char="9252">de</TOKEN>
+<TOKEN id="token-79-3" pos="word" morph="none" start_char="9254" end_char="9257">unos</TOKEN>
+<TOKEN id="token-79-4" pos="word" morph="none" start_char="9259" end_char="9261">200</TOKEN>
+<TOKEN id="token-79-5" pos="punct" morph="none" start_char="9262" end_char="9262">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

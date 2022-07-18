@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C049DVF" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2530" raw_text_md5="60f8015849e505e068fc4fb42e655b47">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="80">
+<ORIGINAL_TEXT>Трамп предложил использовать солнечный свет и отбеливатель для лечения COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">Трамп</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="15">предложил</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="17" end_char="28">использовать</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="30" end_char="38">солнечный</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="40" end_char="43">свет</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="45" end_char="45">и</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="47" end_char="58">отбеливатель</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="60" end_char="62">для</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="64" end_char="70">лечения</TOKEN>
+<TOKEN id="token-0-9" pos="unknown" morph="none" start_char="72" end_char="79">COVID-19</TOKEN>
+<TOKEN id="token-0-10" pos="punct" morph="none" start_char="80" end_char="80">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="82" end_char="112">
+<ORIGINAL_TEXT>Врачи попросили этого не делать</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="82" end_char="86">Врачи</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="88" end_char="96">попросили</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="98" end_char="102">этого</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="104" end_char="105">не</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="107" end_char="112">делать</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="116" end_char="302">
+<ORIGINAL_TEXT>Президент США Дональд Трамп во время брифинга в Белом доме 23 апреля ошибочно предположил, что солнечный свет можно использовать для лечения людей с коронавирусом, сообщает телеканал CNN.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="116" end_char="124">Президент</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="126" end_char="128">США</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="130" end_char="136">Дональд</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="138" end_char="142">Трамп</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="144" end_char="145">во</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="147" end_char="151">время</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="153" end_char="160">брифинга</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="162" end_char="162">в</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="164" end_char="168">Белом</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="170" end_char="173">доме</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="175" end_char="176">23</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="178" end_char="183">апреля</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="185" end_char="192">ошибочно</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="194" end_char="204">предположил</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="205" end_char="205">,</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="207" end_char="209">что</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="211" end_char="219">солнечный</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="221" end_char="224">свет</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="226" end_char="230">можно</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="232" end_char="243">использовать</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="245" end_char="247">для</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="249" end_char="255">лечения</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="257" end_char="261">людей</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="263" end_char="263">с</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="265" end_char="277">коронавирусом</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="278" end_char="278">,</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="280" end_char="287">сообщает</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="289" end_char="297">телеканал</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="299" end_char="301">CNN</TOKEN>
+<TOKEN id="token-2-29" pos="punct" morph="none" start_char="302" end_char="302">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="305" end_char="496">
+<ORIGINAL_TEXT>На брифинге представитель министерства внутренней безопасности Билл Брайан представил результаты исследований, согласно которым коронавирус ослабевает при воздействии солнечного света и тепла.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="305" end_char="306">На</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="308" end_char="315">брифинге</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="317" end_char="329">представитель</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="331" end_char="342">министерства</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="344" end_char="353">внутренней</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="355" end_char="366">безопасности</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="368" end_char="371">Билл</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="373" end_char="378">Брайан</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="380" end_char="389">представил</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="391" end_char="400">результаты</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="402" end_char="413">исследований</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="414" end_char="414">,</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="416" end_char="423">согласно</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="425" end_char="431">которым</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="433" end_char="443">коронавирус</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="445" end_char="454">ослабевает</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="456" end_char="458">при</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="460" end_char="470">воздействии</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="472" end_char="481">солнечного</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="483" end_char="487">света</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="489" end_char="489">и</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="491" end_char="495">тепла</TOKEN>
+<TOKEN id="token-3-22" pos="punct" morph="none" start_char="496" end_char="496">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="498" end_char="620">
+<ORIGINAL_TEXT>После этого Дональд Трамп предположил, что американцы, заболевшие COVID-19, могут лечиться, выходя на солнце в жаркий день.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="498" end_char="502">После</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="504" end_char="508">этого</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="510" end_char="516">Дональд</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="518" end_char="522">Трамп</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="524" end_char="534">предположил</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="535" end_char="535">,</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="537" end_char="539">что</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="541" end_char="550">американцы</TOKEN>
+<TOKEN id="token-4-8" pos="punct" morph="none" start_char="551" end_char="551">,</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="553" end_char="562">заболевшие</TOKEN>
+<TOKEN id="token-4-10" pos="unknown" morph="none" start_char="564" end_char="571">COVID-19</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="572" end_char="572">,</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="574" end_char="578">могут</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="580" end_char="587">лечиться</TOKEN>
+<TOKEN id="token-4-14" pos="punct" morph="none" start_char="588" end_char="588">,</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="590" end_char="595">выходя</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="597" end_char="598">на</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="600" end_char="605">солнце</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="607" end_char="607">в</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="609" end_char="614">жаркий</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="616" end_char="619">день</TOKEN>
+<TOKEN id="token-4-21" pos="punct" morph="none" start_char="620" end_char="620">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="623" end_char="830">
+<ORIGINAL_TEXT>Президент попросил координатора Белого дома по борьбе с коронавирусом, доктора Дебору Биркс «поговорить с врачами и посмотреть, есть ли способ, с помощью которого свет и тепло можно использовать для лечения».</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="623" end_char="631">Президент</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="633" end_char="640">попросил</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="642" end_char="653">координатора</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="655" end_char="660">Белого</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="662" end_char="665">дома</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="667" end_char="668">по</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="670" end_char="675">борьбе</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="677" end_char="677">с</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="679" end_char="691">коронавирусом</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="692" end_char="692">,</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="694" end_char="700">доктора</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="702" end_char="707">Дебору</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="709" end_char="713">Биркс</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="715" end_char="715">«</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="716" end_char="725">поговорить</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="727" end_char="727">с</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="729" end_char="735">врачами</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="737" end_char="737">и</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="739" end_char="748">посмотреть</TOKEN>
+<TOKEN id="token-5-19" pos="punct" morph="none" start_char="749" end_char="749">,</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="751" end_char="754">есть</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="756" end_char="757">ли</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="759" end_char="764">способ</TOKEN>
+<TOKEN id="token-5-23" pos="punct" morph="none" start_char="765" end_char="765">,</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="767" end_char="767">с</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="769" end_char="775">помощью</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="777" end_char="784">которого</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="786" end_char="789">свет</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="791" end_char="791">и</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="793" end_char="797">тепло</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="799" end_char="803">можно</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="805" end_char="816">использовать</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="818" end_char="820">для</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="822" end_char="828">лечения</TOKEN>
+<TOKEN id="token-5-34" pos="punct" morph="none" start_char="829" end_char="830">».</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="832" end_char="899">
+<ORIGINAL_TEXT>При этом доктор заявила, что свет и тепло не используют для лечения.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="832" end_char="834">При</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="836" end_char="839">этом</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="841" end_char="846">доктор</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="848" end_char="854">заявила</TOKEN>
+<TOKEN id="token-6-4" pos="punct" morph="none" start_char="855" end_char="855">,</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="857" end_char="859">что</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="861" end_char="864">свет</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="866" end_char="866">и</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="868" end_char="872">тепло</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="874" end_char="875">не</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="877" end_char="886">используют</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="888" end_char="890">для</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="892" end_char="898">лечения</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="899" end_char="899">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="902" end_char="1038">
+<ORIGINAL_TEXT>Трамп также заявил, что Дебора Биркс должна проверить, можно ли доставить свет внутрь человека, например, через кожу или другим способом.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="902" end_char="906">Трамп</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="908" end_char="912">также</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="914" end_char="919">заявил</TOKEN>
+<TOKEN id="token-7-3" pos="punct" morph="none" start_char="920" end_char="920">,</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="922" end_char="924">что</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="926" end_char="931">Дебора</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="933" end_char="937">Биркс</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="939" end_char="944">должна</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="946" end_char="954">проверить</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="955" end_char="955">,</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="957" end_char="961">можно</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="963" end_char="964">ли</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="966" end_char="974">доставить</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="976" end_char="979">свет</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="981" end_char="986">внутрь</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="988" end_char="995">человека</TOKEN>
+<TOKEN id="token-7-16" pos="punct" morph="none" start_char="996" end_char="996">,</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="998" end_char="1005">например</TOKEN>
+<TOKEN id="token-7-18" pos="punct" morph="none" start_char="1006" end_char="1006">,</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1008" end_char="1012">через</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1014" end_char="1017">кожу</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1019" end_char="1021">или</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1023" end_char="1028">другим</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1030" end_char="1037">способом</TOKEN>
+<TOKEN id="token-7-24" pos="punct" morph="none" start_char="1038" end_char="1038">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1040" end_char="1078">
+<ORIGINAL_TEXT>«Звучит интересно», — сказал президент.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="1040" end_char="1040">«</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1041" end_char="1046">Звучит</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1048" end_char="1056">интересно</TOKEN>
+<TOKEN id="token-8-3" pos="punct" morph="none" start_char="1057" end_char="1058">»,</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="1060" end_char="1060">—</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1062" end_char="1067">сказал</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1069" end_char="1077">президент</TOKEN>
+<TOKEN id="token-8-7" pos="punct" morph="none" start_char="1078" end_char="1078">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1080" end_char="1176">
+<ORIGINAL_TEXT>По его предположению, для лечения можно использовать «ультрафиолет или просто очень мощный свет».</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1080" end_char="1081">По</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1083" end_char="1085">его</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1087" end_char="1099">предположению</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="1100" end_char="1100">,</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1102" end_char="1104">для</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1106" end_char="1112">лечения</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1114" end_char="1118">можно</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1120" end_char="1131">использовать</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="1133" end_char="1133">«</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1134" end_char="1145">ультрафиолет</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1147" end_char="1149">или</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1151" end_char="1156">просто</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1158" end_char="1162">очень</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1164" end_char="1169">мощный</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1171" end_char="1174">свет</TOKEN>
+<TOKEN id="token-9-15" pos="punct" morph="none" start_char="1175" end_char="1176">».</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1179" end_char="1349">
+<ORIGINAL_TEXT>На брифинге также представили результаты исследования, согласно которому дезинфицирующие средства, такие как отбеливатель или изопропиловый спирт, быстро уничтожают вирус.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1179" end_char="1180">На</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1182" end_char="1189">брифинге</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1191" end_char="1195">также</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1197" end_char="1207">представили</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1209" end_char="1218">результаты</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1220" end_char="1231">исследования</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="1232" end_char="1232">,</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1234" end_char="1241">согласно</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1243" end_char="1250">которому</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1252" end_char="1266">дезинфицирующие</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1268" end_char="1275">средства</TOKEN>
+<TOKEN id="token-10-11" pos="punct" morph="none" start_char="1276" end_char="1276">,</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1278" end_char="1282">такие</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1284" end_char="1286">как</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1288" end_char="1299">отбеливатель</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1301" end_char="1303">или</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1305" end_char="1317">изопропиловый</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1319" end_char="1323">спирт</TOKEN>
+<TOKEN id="token-10-18" pos="punct" morph="none" start_char="1324" end_char="1324">,</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1326" end_char="1331">быстро</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1333" end_char="1342">уничтожают</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1344" end_char="1348">вирус</TOKEN>
+<TOKEN id="token-10-22" pos="punct" morph="none" start_char="1349" end_char="1349">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1351" end_char="1479">
+<ORIGINAL_TEXT>В ответ на это Трамп предложил проверить, можно ли использовать эти средства для лечения коронавируса, например, в виде инъекций.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1351" end_char="1351">В</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1353" end_char="1357">ответ</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1359" end_char="1360">на</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1362" end_char="1364">это</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1366" end_char="1370">Трамп</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1372" end_char="1380">предложил</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1382" end_char="1390">проверить</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="1391" end_char="1391">,</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1393" end_char="1397">можно</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1399" end_char="1400">ли</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1402" end_char="1413">использовать</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1415" end_char="1417">эти</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1419" end_char="1426">средства</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1428" end_char="1430">для</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1432" end_char="1438">лечения</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1440" end_char="1451">коронавируса</TOKEN>
+<TOKEN id="token-11-16" pos="punct" morph="none" start_char="1452" end_char="1452">,</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1454" end_char="1461">например</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1462" end_char="1462">,</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1464" end_char="1464">в</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1466" end_char="1469">виде</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1471" end_char="1478">инъекций</TOKEN>
+<TOKEN id="token-11-22" pos="punct" morph="none" start_char="1479" end_char="1479">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1481" end_char="1554">
+<ORIGINAL_TEXT>По мнению Трампа, дезинфицирующие средства способны убить вирус за минуту.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1481" end_char="1482">По</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1484" end_char="1489">мнению</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1491" end_char="1496">Трампа</TOKEN>
+<TOKEN id="token-12-3" pos="punct" morph="none" start_char="1497" end_char="1497">,</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1499" end_char="1513">дезинфицирующие</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1515" end_char="1522">средства</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1524" end_char="1531">способны</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1533" end_char="1537">убить</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1539" end_char="1543">вирус</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1545" end_char="1546">за</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1548" end_char="1553">минуту</TOKEN>
+<TOKEN id="token-12-11" pos="punct" morph="none" start_char="1554" end_char="1554">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1557" end_char="1657">
+<ORIGINAL_TEXT>Солнечный свет не может быть потенциальным лекарством от коронавируса, заявили CNN несколько медиков.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1557" end_char="1565">Солнечный</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1567" end_char="1570">свет</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1572" end_char="1573">не</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1575" end_char="1579">может</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1581" end_char="1584">быть</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1586" end_char="1598">потенциальным</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1600" end_char="1609">лекарством</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1611" end_char="1612">от</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1614" end_char="1625">коронавируса</TOKEN>
+<TOKEN id="token-13-9" pos="punct" morph="none" start_char="1626" end_char="1626">,</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1628" end_char="1634">заявили</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1636" end_char="1638">CNN</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1640" end_char="1648">несколько</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1650" end_char="1656">медиков</TOKEN>
+<TOKEN id="token-13-14" pos="punct" morph="none" start_char="1657" end_char="1657">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1659" end_char="1770">
+<ORIGINAL_TEXT>Врачи предупредили, что предложения Трампа о лечении с помощью солнца и дезинфицирующих средств не имеют смысла.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1659" end_char="1663">Врачи</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1665" end_char="1676">предупредили</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="1677" end_char="1677">,</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1679" end_char="1681">что</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1683" end_char="1693">предложения</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1695" end_char="1700">Трампа</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1702" end_char="1702">о</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1704" end_char="1710">лечении</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1712" end_char="1712">с</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1714" end_char="1720">помощью</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1722" end_char="1727">солнца</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1729" end_char="1729">и</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1731" end_char="1745">дезинфицирующих</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1747" end_char="1753">средств</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1755" end_char="1756">не</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1758" end_char="1762">имеют</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1764" end_char="1769">смысла</TOKEN>
+<TOKEN id="token-14-17" pos="punct" morph="none" start_char="1770" end_char="1770">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1772" end_char="1881">
+<ORIGINAL_TEXT>Попытки лечиться с помощью солнечного света могут привести к ожогам, развитию рака кожи и другим последствиям.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1772" end_char="1778">Попытки</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1780" end_char="1787">лечиться</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1789" end_char="1789">с</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1791" end_char="1797">помощью</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1799" end_char="1808">солнечного</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1810" end_char="1814">света</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1816" end_char="1820">могут</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1822" end_char="1829">привести</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1831" end_char="1831">к</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1833" end_char="1838">ожогам</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="1839" end_char="1839">,</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1841" end_char="1848">развитию</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1850" end_char="1853">рака</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1855" end_char="1858">кожи</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1860" end_char="1860">и</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1862" end_char="1867">другим</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1869" end_char="1880">последствиям</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="1881" end_char="1881">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1884" end_char="1977">
+<ORIGINAL_TEXT>Всемирная организация здравоохранения ранее отнесла лечение COVID-19 с помощью солнца к мифам.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1884" end_char="1892">Всемирная</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1894" end_char="1904">организация</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1906" end_char="1920">здравоохранения</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1922" end_char="1926">ранее</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1928" end_char="1934">отнесла</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1936" end_char="1942">лечение</TOKEN>
+<TOKEN id="token-16-6" pos="unknown" morph="none" start_char="1944" end_char="1951">COVID-19</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1953" end_char="1953">с</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1955" end_char="1961">помощью</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1963" end_char="1968">солнца</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1970" end_char="1970">к</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1972" end_char="1976">мифам</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="1977" end_char="1977">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1979" end_char="2091">
+<ORIGINAL_TEXT>Воздействие солнца или температуры выше 25 градусов не препятствуют распространению коронавируса, говорили в ВОЗ.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1979" end_char="1989">Воздействие</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1991" end_char="1996">солнца</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1998" end_char="2000">или</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2002" end_char="2012">температуры</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2014" end_char="2017">выше</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2019" end_char="2020">25</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2022" end_char="2029">градусов</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2031" end_char="2032">не</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2034" end_char="2045">препятствуют</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2047" end_char="2061">распространению</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2063" end_char="2074">коронавируса</TOKEN>
+<TOKEN id="token-17-11" pos="punct" morph="none" start_char="2075" end_char="2075">,</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2077" end_char="2084">говорили</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2086" end_char="2086">в</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2088" end_char="2090">ВОЗ</TOKEN>
+<TOKEN id="token-17-15" pos="punct" morph="none" start_char="2091" end_char="2091">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2093" end_char="2214">
+<ORIGINAL_TEXT>Эксперты в свою очередь предупреждали, что ультрафиолетовые лампы могут навредить человеку при неправильном использовании.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2093" end_char="2100">Эксперты</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2102" end_char="2102">в</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2104" end_char="2107">свою</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2109" end_char="2115">очередь</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2117" end_char="2129">предупреждали</TOKEN>
+<TOKEN id="token-18-5" pos="punct" morph="none" start_char="2130" end_char="2130">,</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2132" end_char="2134">что</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2136" end_char="2151">ультрафиолетовые</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2153" end_char="2157">лампы</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2159" end_char="2163">могут</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2165" end_char="2173">навредить</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2175" end_char="2182">человеку</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2184" end_char="2186">при</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2188" end_char="2199">неправильном</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2201" end_char="2213">использовании</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="2214" end_char="2214">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2217" end_char="2411">
+<ORIGINAL_TEXT>Глава Управления по контролю за качеством продовольствия и медикаментов США, доктор Стивен Хан после выступления Трампа призвал граждан не использовать дезинфицирующие средства для приема внутрь.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2217" end_char="2221">Глава</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2223" end_char="2232">Управления</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2234" end_char="2235">по</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2237" end_char="2244">контролю</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2246" end_char="2247">за</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2249" end_char="2257">качеством</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2259" end_char="2272">продовольствия</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2274" end_char="2274">и</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2276" end_char="2287">медикаментов</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2289" end_char="2291">США</TOKEN>
+<TOKEN id="token-19-10" pos="punct" morph="none" start_char="2292" end_char="2292">,</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2294" end_char="2299">доктор</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2301" end_char="2306">Стивен</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2308" end_char="2310">Хан</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2312" end_char="2316">после</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2318" end_char="2328">выступления</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2330" end_char="2335">Трампа</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2337" end_char="2343">призвал</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2345" end_char="2351">граждан</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2353" end_char="2354">не</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2356" end_char="2367">использовать</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2369" end_char="2383">дезинфицирующие</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2385" end_char="2392">средства</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2394" end_char="2396">для</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2398" end_char="2403">приема</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2405" end_char="2410">внутрь</TOKEN>
+<TOKEN id="token-19-26" pos="punct" morph="none" start_char="2411" end_char="2411">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2413" end_char="2506">
+<ORIGINAL_TEXT>Власти Вашингтона также попросили людей не делать себе инъекции с дезинфицирующими средствами.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2413" end_char="2418">Власти</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2420" end_char="2429">Вашингтона</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2431" end_char="2435">также</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2437" end_char="2445">попросили</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2447" end_char="2451">людей</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2453" end_char="2454">не</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2456" end_char="2461">делать</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2463" end_char="2466">себе</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2468" end_char="2475">инъекции</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2477" end_char="2477">с</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2479" end_char="2494">дезинфицирующими</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2496" end_char="2505">средствами</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="2506" end_char="2506">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2509" end_char="2526">
+<ORIGINAL_TEXT>Александр Бакланов</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2509" end_char="2517">Александр</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2519" end_char="2526">Бакланов</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

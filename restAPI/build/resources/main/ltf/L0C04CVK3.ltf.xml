@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CVK3" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4485" raw_text_md5="80fcc9793c5f995e8db6a858806f2e81">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="65">
+<ORIGINAL_TEXT>Medicamento remdesivir, modesta efectividad contra el coronavirus</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="11">Medicamento</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="13" end_char="22">remdesivir</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="23" end_char="23">,</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="25" end_char="31">modesta</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="33" end_char="43">efectividad</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="45" end_char="50">contra</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="52" end_char="53">el</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="55" end_char="65">coronavirus</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="70" end_char="203">
+<ORIGINAL_TEXT>Se inspecciona visualmente un vial del fármaco en investigación remdesivir en un sitio de fabricación de Gilead en los Estados Unidos.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="70" end_char="71">Se</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="73" end_char="83">inspecciona</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="85" end_char="95">visualmente</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="97" end_char="98">un</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="100" end_char="103">vial</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="105" end_char="107">del</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="109" end_char="115">fármaco</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="117" end_char="118">en</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="120" end_char="132">investigación</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="134" end_char="143">remdesivir</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="145" end_char="146">en</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="148" end_char="149">un</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="151" end_char="155">sitio</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="157" end_char="158">de</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="160" end_char="170">fabricación</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="172" end_char="173">de</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="175" end_char="180">Gilead</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="182" end_char="183">en</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="185" end_char="187">los</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="189" end_char="195">Estados</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="197" end_char="202">Unidos</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="203" end_char="203">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="205" end_char="209">
+<ORIGINAL_TEXT>//AP.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="205" end_char="206">//</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="207" end_char="208">AP</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="209" end_char="209">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="213" end_char="324">
+<ORIGINAL_TEXT>Remdesivir reduce la tasa de mortalidad y la duración de la enfermedad, pero no es la sustancia mágica esperada.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="213" end_char="222">Remdesivir</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="224" end_char="229">reduce</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="231" end_char="232">la</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="234" end_char="237">tasa</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="239" end_char="240">de</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="242" end_char="251">mortalidad</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="253" end_char="253">y</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="255" end_char="256">la</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="258" end_char="265">duración</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="267" end_char="268">de</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="270" end_char="271">la</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="273" end_char="282">enfermedad</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="283" end_char="283">,</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="285" end_char="288">pero</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="290" end_char="291">no</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="293" end_char="294">es</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="296" end_char="297">la</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="299" end_char="307">sustancia</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="309" end_char="314">mágica</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="316" end_char="323">esperada</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="324" end_char="324">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="326" end_char="431">
+<ORIGINAL_TEXT>Sin embargo, Estados Unidos aprobó una licencia especial para el tratamiento de pacientes con coronavirus.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="326" end_char="328">Sin</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="330" end_char="336">embargo</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="337" end_char="337">,</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="339" end_char="345">Estados</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="347" end_char="352">Unidos</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="354" end_char="359">aprobó</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="361" end_char="363">una</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="365" end_char="372">licencia</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="374" end_char="381">especial</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="383" end_char="386">para</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="388" end_char="389">el</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="391" end_char="401">tratamiento</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="403" end_char="404">de</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="406" end_char="414">pacientes</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="416" end_char="418">con</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="420" end_char="430">coronavirus</TOKEN>
+<TOKEN id="token-4-16" pos="punct" morph="none" start_char="431" end_char="431">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="434" end_char="601">
+<ORIGINAL_TEXT>Inmediatamente después de que se conocieron las primeras infecciones por coronavirus en China, la atención de los investigadores se centró en el medicamento remdesivir.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="434" end_char="447">Inmediatamente</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="449" end_char="455">después</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="457" end_char="458">de</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="460" end_char="462">que</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="464" end_char="465">se</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="467" end_char="476">conocieron</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="478" end_char="480">las</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="482" end_char="489">primeras</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="491" end_char="501">infecciones</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="503" end_char="505">por</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="507" end_char="517">coronavirus</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="519" end_char="520">en</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="522" end_char="526">China</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="527" end_char="527">,</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="529" end_char="530">la</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="532" end_char="539">atención</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="541" end_char="542">de</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="544" end_char="546">los</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="548" end_char="561">investigadores</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="563" end_char="564">se</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="566" end_char="571">centró</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="573" end_char="574">en</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="576" end_char="577">el</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="579" end_char="589">medicamento</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="591" end_char="600">remdesivir</TOKEN>
+<TOKEN id="token-5-25" pos="punct" morph="none" start_char="601" end_char="601">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="603" end_char="702">
+<ORIGINAL_TEXT>Este fármaco se desarrolló originalmente contra el ébola y también mostró efecto contra SARS y MERS.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="603" end_char="606">Este</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="608" end_char="614">fármaco</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="616" end_char="617">se</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="619" end_char="628">desarrolló</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="630" end_char="642">originalmente</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="644" end_char="649">contra</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="651" end_char="652">el</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="654" end_char="658">ébola</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="660" end_char="660">y</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="662" end_char="668">también</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="670" end_char="675">mostró</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="677" end_char="682">efecto</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="684" end_char="689">contra</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="691" end_char="694">SARS</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="696" end_char="696">y</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="698" end_char="701">MERS</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="702" end_char="702">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="704" end_char="769">
+<ORIGINAL_TEXT>El SARS-CoV-2 se considera una variante del patógeno SARS de 2002.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="704" end_char="705">El</TOKEN>
+<TOKEN id="token-7-1" pos="unknown" morph="none" start_char="707" end_char="716">SARS-CoV-2</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="718" end_char="719">se</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="721" end_char="729">considera</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="731" end_char="733">una</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="735" end_char="742">variante</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="744" end_char="746">del</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="748" end_char="755">patógeno</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="757" end_char="760">SARS</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="762" end_char="763">de</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="765" end_char="768">2002</TOKEN>
+<TOKEN id="token-7-11" pos="punct" morph="none" start_char="769" end_char="769">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="771" end_char="930">
+<ORIGINAL_TEXT>Sin embargo, remdesivir, desarrollado por la compañía farmacéutica estadounidense Gilead Sciences (GS-5734), no se había autorizado oficialmente en ningún país.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="771" end_char="773">Sin</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="775" end_char="781">embargo</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="782" end_char="782">,</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="784" end_char="793">remdesivir</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="794" end_char="794">,</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="796" end_char="807">desarrollado</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="809" end_char="811">por</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="813" end_char="814">la</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="816" end_char="823">compañía</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="825" end_char="836">farmacéutica</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="838" end_char="851">estadounidense</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="853" end_char="858">Gilead</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="860" end_char="867">Sciences</TOKEN>
+<TOKEN id="token-8-13" pos="punct" morph="none" start_char="869" end_char="869">(</TOKEN>
+<TOKEN id="token-8-14" pos="unknown" morph="none" start_char="870" end_char="876">GS-5734</TOKEN>
+<TOKEN id="token-8-15" pos="punct" morph="none" start_char="877" end_char="878">),</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="880" end_char="881">no</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="883" end_char="884">se</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="886" end_char="890">había</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="892" end_char="901">autorizado</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="903" end_char="914">oficialmente</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="916" end_char="917">en</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="919" end_char="924">ningún</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="926" end_char="929">país</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="930" end_char="930">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="932" end_char="944">
+<ORIGINAL_TEXT>Hasta que EE.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="932" end_char="936">Hasta</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="938" end_char="940">que</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="942" end_char="943">EE</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="944" end_char="944">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="946" end_char="948">
+<ORIGINAL_TEXT>UU.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="946" end_char="947">UU</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="948" end_char="948">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="950" end_char="993">
+<ORIGINAL_TEXT>aprobó su uso tras un primer ensayo clínico.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="950" end_char="955">aprobó</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="957" end_char="958">su</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="960" end_char="962">uso</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="964" end_char="967">tras</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="969" end_char="970">un</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="972" end_char="977">primer</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="979" end_char="984">ensayo</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="986" end_char="992">clínico</TOKEN>
+<TOKEN id="token-11-8" pos="punct" morph="none" start_char="993" end_char="993">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="995" end_char="1085">
+<ORIGINAL_TEXT>Ahora se puede inyectar en los hospitales a pacientes con insuficiencias pulmonares graves.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="995" end_char="999">Ahora</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1001" end_char="1002">se</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1004" end_char="1008">puede</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1010" end_char="1017">inyectar</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1019" end_char="1020">en</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1022" end_char="1024">los</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1026" end_char="1035">hospitales</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1037" end_char="1037">a</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1039" end_char="1047">pacientes</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1049" end_char="1051">con</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1053" end_char="1066">insuficiencias</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1068" end_char="1077">pulmonares</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1079" end_char="1084">graves</TOKEN>
+<TOKEN id="token-12-13" pos="punct" morph="none" start_char="1085" end_char="1085">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1087" end_char="1158">
+<ORIGINAL_TEXT>El fabricante Gilead Sciences anunció que donaría 1,5 millones de dosis.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1087" end_char="1088">El</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1090" end_char="1099">fabricante</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1101" end_char="1106">Gilead</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1108" end_char="1115">Sciences</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1117" end_char="1123">anunció</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1125" end_char="1127">que</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1129" end_char="1135">donaría</TOKEN>
+<TOKEN id="token-13-7" pos="unknown" morph="none" start_char="1137" end_char="1139">1,5</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1141" end_char="1148">millones</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1150" end_char="1151">de</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1153" end_char="1157">dosis</TOKEN>
+<TOKEN id="token-13-11" pos="punct" morph="none" start_char="1158" end_char="1158">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1161" end_char="1197">
+<ORIGINAL_TEXT>Casa Blanca celebra efectos positivos</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1161" end_char="1164">Casa</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1166" end_char="1171">Blanca</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1173" end_char="1179">celebra</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1181" end_char="1187">efectos</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1189" end_char="1197">positivos</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1200" end_char="1268">
+<ORIGINAL_TEXT>Los primeros resultados positivos del ensayo clínico aleatorio en EE.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1200" end_char="1202">Los</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1204" end_char="1211">primeros</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1213" end_char="1222">resultados</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1224" end_char="1232">positivos</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1234" end_char="1236">del</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1238" end_char="1243">ensayo</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1245" end_char="1251">clínico</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1253" end_char="1261">aleatorio</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1263" end_char="1264">en</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1266" end_char="1267">EE</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="1268" end_char="1268">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1270" end_char="1272">
+<ORIGINAL_TEXT>UU.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1270" end_char="1271">UU</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1272" end_char="1272">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1274" end_char="1335">
+<ORIGINAL_TEXT>se anunciaron el miércoles (29 de abril) desde la Casa Blanca.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1274" end_char="1275">se</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1277" end_char="1286">anunciaron</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1288" end_char="1289">el</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1291" end_char="1299">miércoles</TOKEN>
+<TOKEN id="token-17-4" pos="punct" morph="none" start_char="1301" end_char="1301">(</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1302" end_char="1303">29</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1305" end_char="1306">de</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1308" end_char="1312">abril</TOKEN>
+<TOKEN id="token-17-8" pos="punct" morph="none" start_char="1313" end_char="1313">)</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1315" end_char="1319">desde</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1321" end_char="1322">la</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1324" end_char="1327">Casa</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1329" end_char="1334">Blanca</TOKEN>
+<TOKEN id="token-17-13" pos="punct" morph="none" start_char="1335" end_char="1335">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1337" end_char="1559">
+<ORIGINAL_TEXT>El director del Instituto Nacional de Alergias y Enfermedades Infecciosas (NIAID), Anthony Fauci, dijo en una conferencia de prensa con Donald Trump sobre remdesivir que "este se convertirá en estándar para el tratamiento".</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1337" end_char="1338">El</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1340" end_char="1347">director</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1349" end_char="1351">del</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1353" end_char="1361">Instituto</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1363" end_char="1370">Nacional</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1372" end_char="1373">de</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1375" end_char="1382">Alergias</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1384" end_char="1384">y</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1386" end_char="1397">Enfermedades</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1399" end_char="1409">Infecciosas</TOKEN>
+<TOKEN id="token-18-10" pos="punct" morph="none" start_char="1411" end_char="1411">(</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1412" end_char="1416">NIAID</TOKEN>
+<TOKEN id="token-18-12" pos="punct" morph="none" start_char="1417" end_char="1418">),</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1420" end_char="1426">Anthony</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1428" end_char="1432">Fauci</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="1433" end_char="1433">,</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="1435" end_char="1438">dijo</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="1440" end_char="1441">en</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="1443" end_char="1445">una</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="1447" end_char="1457">conferencia</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="1459" end_char="1460">de</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="1462" end_char="1467">prensa</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="1469" end_char="1471">con</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="1473" end_char="1478">Donald</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="1480" end_char="1484">Trump</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="1486" end_char="1490">sobre</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="1492" end_char="1501">remdesivir</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="1503" end_char="1505">que</TOKEN>
+<TOKEN id="token-18-28" pos="punct" morph="none" start_char="1507" end_char="1507">"</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="1508" end_char="1511">este</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="1513" end_char="1514">se</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="1516" end_char="1525">convertirá</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="1527" end_char="1528">en</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="1530" end_char="1537">estándar</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="1539" end_char="1542">para</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="1544" end_char="1545">el</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="1547" end_char="1557">tratamiento</TOKEN>
+<TOKEN id="token-18-37" pos="punct" morph="none" start_char="1558" end_char="1559">".</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1562" end_char="1692">
+<ORIGINAL_TEXT>Un total de 1.063 pacientes con diversos grados de gravedad participaron en el estudio "Ensayo de tratamiento adaptativo COVID-19".</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1562" end_char="1563">Un</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1565" end_char="1569">total</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1571" end_char="1572">de</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1574" end_char="1578">1.063</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1580" end_char="1588">pacientes</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1590" end_char="1592">con</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1594" end_char="1601">diversos</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1603" end_char="1608">grados</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1610" end_char="1611">de</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1613" end_char="1620">gravedad</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1622" end_char="1633">participaron</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1635" end_char="1636">en</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1638" end_char="1639">el</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1641" end_char="1647">estudio</TOKEN>
+<TOKEN id="token-19-14" pos="punct" morph="none" start_char="1649" end_char="1649">"</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1650" end_char="1655">Ensayo</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1657" end_char="1658">de</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="1660" end_char="1670">tratamiento</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="1672" end_char="1681">adaptativo</TOKEN>
+<TOKEN id="token-19-19" pos="unknown" morph="none" start_char="1683" end_char="1690">COVID-19</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="1691" end_char="1692">".</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1694" end_char="1743">
+<ORIGINAL_TEXT>Recibieron remdesivir o placebo durante diez días.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1694" end_char="1703">Recibieron</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1705" end_char="1714">remdesivir</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1716" end_char="1716">o</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1718" end_char="1724">placebo</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1726" end_char="1732">durante</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1734" end_char="1737">diez</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1739" end_char="1742">días</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="1743" end_char="1743">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1745" end_char="1898">
+<ORIGINAL_TEXT>En un estudio aleatorio de estas características ni los médicos ni los pacientes supieron quién tomaba el principio activo y quién un placebo diariamente.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1745" end_char="1746">En</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1748" end_char="1749">un</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1751" end_char="1757">estudio</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1759" end_char="1767">aleatorio</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1769" end_char="1770">de</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1772" end_char="1776">estas</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1778" end_char="1792">características</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1794" end_char="1795">ni</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1797" end_char="1799">los</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1801" end_char="1807">médicos</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1809" end_char="1810">ni</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="1812" end_char="1814">los</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="1816" end_char="1824">pacientes</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="1826" end_char="1833">supieron</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="1835" end_char="1839">quién</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="1841" end_char="1846">tomaba</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="1848" end_char="1849">el</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="1851" end_char="1859">principio</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="1861" end_char="1866">activo</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="1868" end_char="1868">y</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="1870" end_char="1874">quién</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="1876" end_char="1877">un</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="1879" end_char="1885">placebo</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="1887" end_char="1897">diariamente</TOKEN>
+<TOKEN id="token-21-24" pos="punct" morph="none" start_char="1898" end_char="1898">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1901" end_char="1972">
+<ORIGINAL_TEXT>Suscríbete a nuestro boletín especial sobre el coronavirus y pulsa aquí.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1901" end_char="1910">Suscríbete</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1912" end_char="1912">a</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1914" end_char="1920">nuestro</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1922" end_char="1928">boletín</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1930" end_char="1937">especial</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1939" end_char="1943">sobre</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1945" end_char="1946">el</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1948" end_char="1958">coronavirus</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1960" end_char="1960">y</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1962" end_char="1966">pulsa</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1968" end_char="1971">aquí</TOKEN>
+<TOKEN id="token-22-11" pos="punct" morph="none" start_char="1972" end_char="1972">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1975" end_char="2176">
+<ORIGINAL_TEXT>Según el NIAID, los resultados preliminares indicaron que los pacientes con COVID-19, que recibieron remdesivir, se recuperaron en un promedio del 31 por ciento más rápido que los pacientes con placebo.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1975" end_char="1979">Según</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1981" end_char="1982">el</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1984" end_char="1988">NIAID</TOKEN>
+<TOKEN id="token-23-3" pos="punct" morph="none" start_char="1989" end_char="1989">,</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1991" end_char="1993">los</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1995" end_char="2004">resultados</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2006" end_char="2017">preliminares</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2019" end_char="2027">indicaron</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2029" end_char="2031">que</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2033" end_char="2035">los</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2037" end_char="2045">pacientes</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2047" end_char="2049">con</TOKEN>
+<TOKEN id="token-23-12" pos="unknown" morph="none" start_char="2051" end_char="2058">COVID-19</TOKEN>
+<TOKEN id="token-23-13" pos="punct" morph="none" start_char="2059" end_char="2059">,</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2061" end_char="2063">que</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2065" end_char="2074">recibieron</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2076" end_char="2085">remdesivir</TOKEN>
+<TOKEN id="token-23-17" pos="punct" morph="none" start_char="2086" end_char="2086">,</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="2088" end_char="2089">se</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="2091" end_char="2101">recuperaron</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="2103" end_char="2104">en</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="2106" end_char="2107">un</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="2109" end_char="2116">promedio</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="2118" end_char="2120">del</TOKEN>
+<TOKEN id="token-23-24" pos="word" morph="none" start_char="2122" end_char="2123">31</TOKEN>
+<TOKEN id="token-23-25" pos="word" morph="none" start_char="2125" end_char="2127">por</TOKEN>
+<TOKEN id="token-23-26" pos="word" morph="none" start_char="2129" end_char="2134">ciento</TOKEN>
+<TOKEN id="token-23-27" pos="word" morph="none" start_char="2136" end_char="2138">más</TOKEN>
+<TOKEN id="token-23-28" pos="word" morph="none" start_char="2140" end_char="2145">rápido</TOKEN>
+<TOKEN id="token-23-29" pos="word" morph="none" start_char="2147" end_char="2149">que</TOKEN>
+<TOKEN id="token-23-30" pos="word" morph="none" start_char="2151" end_char="2153">los</TOKEN>
+<TOKEN id="token-23-31" pos="word" morph="none" start_char="2155" end_char="2163">pacientes</TOKEN>
+<TOKEN id="token-23-32" pos="word" morph="none" start_char="2165" end_char="2167">con</TOKEN>
+<TOKEN id="token-23-33" pos="word" morph="none" start_char="2169" end_char="2175">placebo</TOKEN>
+<TOKEN id="token-23-34" pos="punct" morph="none" start_char="2176" end_char="2176">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2178" end_char="2309">
+<ORIGINAL_TEXT>Los pacientes que fueron tratados con el medicamento se recuperaron después de un promedio de 11 días; el resto, después de 15 días.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2178" end_char="2180">Los</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2182" end_char="2190">pacientes</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2192" end_char="2194">que</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2196" end_char="2201">fueron</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2203" end_char="2210">tratados</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2212" end_char="2214">con</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2216" end_char="2217">el</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2219" end_char="2229">medicamento</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2231" end_char="2232">se</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2234" end_char="2244">recuperaron</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="2246" end_char="2252">después</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="2254" end_char="2255">de</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="2257" end_char="2258">un</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2260" end_char="2267">promedio</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="2269" end_char="2270">de</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2272" end_char="2273">11</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="2275" end_char="2278">días</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="2279" end_char="2279">;</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="2281" end_char="2282">el</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="2284" end_char="2288">resto</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="2289" end_char="2289">,</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="2291" end_char="2297">después</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="2299" end_char="2300">de</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="2302" end_char="2303">15</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="2305" end_char="2308">días</TOKEN>
+<TOKEN id="token-24-25" pos="punct" morph="none" start_char="2309" end_char="2309">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2312" end_char="2456">
+<ORIGINAL_TEXT>La tasa de mortalidad fue del 8 por ciento en el grupo tratado con el fármaco en comparación con el 11,6 por ciento en los pacientes con placebo.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2312" end_char="2313">La</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2315" end_char="2318">tasa</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2320" end_char="2321">de</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2323" end_char="2332">mortalidad</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2334" end_char="2336">fue</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2338" end_char="2340">del</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2342" end_char="2342">8</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2344" end_char="2346">por</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2348" end_char="2353">ciento</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2355" end_char="2356">en</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2358" end_char="2359">el</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2361" end_char="2365">grupo</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="2367" end_char="2373">tratado</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2375" end_char="2377">con</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="2379" end_char="2380">el</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="2382" end_char="2388">fármaco</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2390" end_char="2391">en</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="2393" end_char="2403">comparación</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="2405" end_char="2407">con</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="2409" end_char="2410">el</TOKEN>
+<TOKEN id="token-25-20" pos="unknown" morph="none" start_char="2412" end_char="2415">11,6</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="2417" end_char="2419">por</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="2421" end_char="2426">ciento</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="2428" end_char="2429">en</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="2431" end_char="2433">los</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="2435" end_char="2443">pacientes</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="2445" end_char="2447">con</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="2449" end_char="2455">placebo</TOKEN>
+<TOKEN id="token-25-28" pos="punct" morph="none" start_char="2456" end_char="2456">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2459" end_char="2498">
+<ORIGINAL_TEXT>Estudio cancelado por falta de pacientes</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2459" end_char="2465">Estudio</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2467" end_char="2475">cancelado</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2477" end_char="2479">por</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2481" end_char="2485">falta</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2487" end_char="2488">de</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2490" end_char="2498">pacientes</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2501" end_char="2555">
+<ORIGINAL_TEXT>Estos resultados son aparentemente suficientes para EE.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2501" end_char="2505">Estos</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2507" end_char="2516">resultados</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2518" end_char="2520">son</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2522" end_char="2534">aparentemente</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2536" end_char="2546">suficientes</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2548" end_char="2551">para</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2553" end_char="2554">EE</TOKEN>
+<TOKEN id="token-27-7" pos="punct" morph="none" start_char="2555" end_char="2555">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2557" end_char="2696">
+<ORIGINAL_TEXT>UU., aunque el asesor del presidente Trump también admitió que los resultados del estudio deben evaluarse ahora por expertos independientes.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2557" end_char="2558">UU</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="2559" end_char="2560">.,</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2562" end_char="2567">aunque</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2569" end_char="2570">el</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2572" end_char="2577">asesor</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2579" end_char="2581">del</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2583" end_char="2592">presidente</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2594" end_char="2598">Trump</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2600" end_char="2606">también</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2608" end_char="2614">admitió</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2616" end_char="2618">que</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2620" end_char="2622">los</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="2624" end_char="2633">resultados</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="2635" end_char="2637">del</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="2639" end_char="2645">estudio</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="2647" end_char="2651">deben</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="2653" end_char="2661">evaluarse</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="2663" end_char="2667">ahora</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="2669" end_char="2671">por</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="2673" end_char="2680">expertos</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="2682" end_char="2695">independientes</TOKEN>
+<TOKEN id="token-28-21" pos="punct" morph="none" start_char="2696" end_char="2696">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2698" end_char="2948">
+<ORIGINAL_TEXT>Paralelamente a las historias de éxito de Washington, llegaron informes decepcionantes de China, donde se probó remdesivir aleatoriamente, por primera vez, en pacientes con enfermedades graves con COVID-19 en unidades de cuidados intensivos, en Wuhan.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2698" end_char="2710">Paralelamente</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2712" end_char="2712">a</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2714" end_char="2716">las</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2718" end_char="2726">historias</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2728" end_char="2729">de</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2731" end_char="2735">éxito</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2737" end_char="2738">de</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2740" end_char="2749">Washington</TOKEN>
+<TOKEN id="token-29-8" pos="punct" morph="none" start_char="2750" end_char="2750">,</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="2752" end_char="2759">llegaron</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="2761" end_char="2768">informes</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="2770" end_char="2783">decepcionantes</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="2785" end_char="2786">de</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="2788" end_char="2792">China</TOKEN>
+<TOKEN id="token-29-14" pos="punct" morph="none" start_char="2793" end_char="2793">,</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="2795" end_char="2799">donde</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="2801" end_char="2802">se</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="2804" end_char="2808">probó</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="2810" end_char="2819">remdesivir</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="2821" end_char="2834">aleatoriamente</TOKEN>
+<TOKEN id="token-29-20" pos="punct" morph="none" start_char="2835" end_char="2835">,</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="2837" end_char="2839">por</TOKEN>
+<TOKEN id="token-29-22" pos="word" morph="none" start_char="2841" end_char="2847">primera</TOKEN>
+<TOKEN id="token-29-23" pos="word" morph="none" start_char="2849" end_char="2851">vez</TOKEN>
+<TOKEN id="token-29-24" pos="punct" morph="none" start_char="2852" end_char="2852">,</TOKEN>
+<TOKEN id="token-29-25" pos="word" morph="none" start_char="2854" end_char="2855">en</TOKEN>
+<TOKEN id="token-29-26" pos="word" morph="none" start_char="2857" end_char="2865">pacientes</TOKEN>
+<TOKEN id="token-29-27" pos="word" morph="none" start_char="2867" end_char="2869">con</TOKEN>
+<TOKEN id="token-29-28" pos="word" morph="none" start_char="2871" end_char="2882">enfermedades</TOKEN>
+<TOKEN id="token-29-29" pos="word" morph="none" start_char="2884" end_char="2889">graves</TOKEN>
+<TOKEN id="token-29-30" pos="word" morph="none" start_char="2891" end_char="2893">con</TOKEN>
+<TOKEN id="token-29-31" pos="unknown" morph="none" start_char="2895" end_char="2902">COVID-19</TOKEN>
+<TOKEN id="token-29-32" pos="word" morph="none" start_char="2904" end_char="2905">en</TOKEN>
+<TOKEN id="token-29-33" pos="word" morph="none" start_char="2907" end_char="2914">unidades</TOKEN>
+<TOKEN id="token-29-34" pos="word" morph="none" start_char="2916" end_char="2917">de</TOKEN>
+<TOKEN id="token-29-35" pos="word" morph="none" start_char="2919" end_char="2926">cuidados</TOKEN>
+<TOKEN id="token-29-36" pos="word" morph="none" start_char="2928" end_char="2937">intensivos</TOKEN>
+<TOKEN id="token-29-37" pos="punct" morph="none" start_char="2938" end_char="2938">,</TOKEN>
+<TOKEN id="token-29-38" pos="word" morph="none" start_char="2940" end_char="2941">en</TOKEN>
+<TOKEN id="token-29-39" pos="word" morph="none" start_char="2943" end_char="2947">Wuhan</TOKEN>
+<TOKEN id="token-29-40" pos="punct" morph="none" start_char="2948" end_char="2948">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2950" end_char="3036">
+<ORIGINAL_TEXT>Entre tanto, el estudio se canceló por falta de pacientes, según la revista The Lancet.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2950" end_char="2954">Entre</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2956" end_char="2960">tanto</TOKEN>
+<TOKEN id="token-30-2" pos="punct" morph="none" start_char="2961" end_char="2961">,</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2963" end_char="2964">el</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2966" end_char="2972">estudio</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="2974" end_char="2975">se</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="2977" end_char="2983">canceló</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="2985" end_char="2987">por</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="2989" end_char="2993">falta</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="2995" end_char="2996">de</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="2998" end_char="3006">pacientes</TOKEN>
+<TOKEN id="token-30-11" pos="punct" morph="none" start_char="3007" end_char="3007">,</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="3009" end_char="3013">según</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="3015" end_char="3016">la</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="3018" end_char="3024">revista</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="3026" end_char="3028">The</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="3030" end_char="3035">Lancet</TOKEN>
+<TOKEN id="token-30-17" pos="punct" morph="none" start_char="3036" end_char="3036">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3039" end_char="3069">
+<ORIGINAL_TEXT>¿Qué significan los resultados?</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="3039" end_char="3039">¿</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3040" end_char="3042">Qué</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3044" end_char="3053">significan</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3055" end_char="3057">los</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3059" end_char="3068">resultados</TOKEN>
+<TOKEN id="token-31-5" pos="punct" morph="none" start_char="3069" end_char="3069">?</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3072" end_char="3143">
+<ORIGINAL_TEXT>En ambos estudios, el principio activo mostró ser modestamente efectivo.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3072" end_char="3073">En</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="3075" end_char="3079">ambos</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="3081" end_char="3088">estudios</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="3089" end_char="3089">,</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="3091" end_char="3092">el</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="3094" end_char="3102">principio</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="3104" end_char="3109">activo</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="3111" end_char="3116">mostró</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="3118" end_char="3120">ser</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="3122" end_char="3133">modestamente</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="3135" end_char="3142">efectivo</TOKEN>
+<TOKEN id="token-32-11" pos="punct" morph="none" start_char="3143" end_char="3143">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3145" end_char="3218">
+<ORIGINAL_TEXT>Reduce ligeramente la tasa de mortalidad, pero no de manera significativa.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="3145" end_char="3150">Reduce</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="3152" end_char="3162">ligeramente</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="3164" end_char="3165">la</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="3167" end_char="3170">tasa</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="3172" end_char="3173">de</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="3175" end_char="3184">mortalidad</TOKEN>
+<TOKEN id="token-33-6" pos="punct" morph="none" start_char="3185" end_char="3185">,</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="3187" end_char="3190">pero</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="3192" end_char="3193">no</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="3195" end_char="3196">de</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="3198" end_char="3203">manera</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="3205" end_char="3217">significativa</TOKEN>
+<TOKEN id="token-33-12" pos="punct" morph="none" start_char="3218" end_char="3218">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3220" end_char="3271">
+<ORIGINAL_TEXT>Además, también acorta la duración de la enfermedad.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3220" end_char="3225">Además</TOKEN>
+<TOKEN id="token-34-1" pos="punct" morph="none" start_char="3226" end_char="3226">,</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="3228" end_char="3234">también</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="3236" end_char="3241">acorta</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="3243" end_char="3244">la</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="3246" end_char="3253">duración</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="3255" end_char="3256">de</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="3258" end_char="3259">la</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="3261" end_char="3270">enfermedad</TOKEN>
+<TOKEN id="token-34-9" pos="punct" morph="none" start_char="3271" end_char="3271">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3273" end_char="3357">
+<ORIGINAL_TEXT>Si bien todo esto es gratificante, está lejos del éxito rotundo que esperaban muchos.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3273" end_char="3274">Si</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="3276" end_char="3279">bien</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3281" end_char="3284">todo</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="3286" end_char="3289">esto</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="3291" end_char="3292">es</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="3294" end_char="3305">gratificante</TOKEN>
+<TOKEN id="token-35-6" pos="punct" morph="none" start_char="3306" end_char="3306">,</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="3308" end_char="3311">está</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="3313" end_char="3317">lejos</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="3319" end_char="3321">del</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="3323" end_char="3327">éxito</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="3329" end_char="3335">rotundo</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="3337" end_char="3339">que</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="3341" end_char="3349">esperaban</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="3351" end_char="3356">muchos</TOKEN>
+<TOKEN id="token-35-15" pos="punct" morph="none" start_char="3357" end_char="3357">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3360" end_char="3662">
+<ORIGINAL_TEXT>Los principales expertos alemanes en enfermedades infecciosas, como el catedrático Gerd Fätkenheuer, del Hospital Universitario de Colonia, que lidera un ensayo clínico con remdesivir (GS-5734), esperaba la aprobación rápida de remdesivir para tratar la COVID-19, después de que se conociera el estudio.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3360" end_char="3362">Los</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3364" end_char="3374">principales</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3376" end_char="3383">expertos</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3385" end_char="3392">alemanes</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3394" end_char="3395">en</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3397" end_char="3408">enfermedades</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3410" end_char="3420">infecciosas</TOKEN>
+<TOKEN id="token-36-7" pos="punct" morph="none" start_char="3421" end_char="3421">,</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="3423" end_char="3426">como</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="3428" end_char="3429">el</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="3431" end_char="3441">catedrático</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="3443" end_char="3446">Gerd</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="3448" end_char="3458">Fätkenheuer</TOKEN>
+<TOKEN id="token-36-13" pos="punct" morph="none" start_char="3459" end_char="3459">,</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="3461" end_char="3463">del</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="3465" end_char="3472">Hospital</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="3474" end_char="3486">Universitario</TOKEN>
+<TOKEN id="token-36-17" pos="word" morph="none" start_char="3488" end_char="3489">de</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="3491" end_char="3497">Colonia</TOKEN>
+<TOKEN id="token-36-19" pos="punct" morph="none" start_char="3498" end_char="3498">,</TOKEN>
+<TOKEN id="token-36-20" pos="word" morph="none" start_char="3500" end_char="3502">que</TOKEN>
+<TOKEN id="token-36-21" pos="word" morph="none" start_char="3504" end_char="3509">lidera</TOKEN>
+<TOKEN id="token-36-22" pos="word" morph="none" start_char="3511" end_char="3512">un</TOKEN>
+<TOKEN id="token-36-23" pos="word" morph="none" start_char="3514" end_char="3519">ensayo</TOKEN>
+<TOKEN id="token-36-24" pos="word" morph="none" start_char="3521" end_char="3527">clínico</TOKEN>
+<TOKEN id="token-36-25" pos="word" morph="none" start_char="3529" end_char="3531">con</TOKEN>
+<TOKEN id="token-36-26" pos="word" morph="none" start_char="3533" end_char="3542">remdesivir</TOKEN>
+<TOKEN id="token-36-27" pos="punct" morph="none" start_char="3544" end_char="3544">(</TOKEN>
+<TOKEN id="token-36-28" pos="unknown" morph="none" start_char="3545" end_char="3551">GS-5734</TOKEN>
+<TOKEN id="token-36-29" pos="punct" morph="none" start_char="3552" end_char="3553">),</TOKEN>
+<TOKEN id="token-36-30" pos="word" morph="none" start_char="3555" end_char="3562">esperaba</TOKEN>
+<TOKEN id="token-36-31" pos="word" morph="none" start_char="3564" end_char="3565">la</TOKEN>
+<TOKEN id="token-36-32" pos="word" morph="none" start_char="3567" end_char="3576">aprobación</TOKEN>
+<TOKEN id="token-36-33" pos="word" morph="none" start_char="3578" end_char="3583">rápida</TOKEN>
+<TOKEN id="token-36-34" pos="word" morph="none" start_char="3585" end_char="3586">de</TOKEN>
+<TOKEN id="token-36-35" pos="word" morph="none" start_char="3588" end_char="3597">remdesivir</TOKEN>
+<TOKEN id="token-36-36" pos="word" morph="none" start_char="3599" end_char="3602">para</TOKEN>
+<TOKEN id="token-36-37" pos="word" morph="none" start_char="3604" end_char="3609">tratar</TOKEN>
+<TOKEN id="token-36-38" pos="word" morph="none" start_char="3611" end_char="3612">la</TOKEN>
+<TOKEN id="token-36-39" pos="unknown" morph="none" start_char="3614" end_char="3621">COVID-19</TOKEN>
+<TOKEN id="token-36-40" pos="punct" morph="none" start_char="3622" end_char="3622">,</TOKEN>
+<TOKEN id="token-36-41" pos="word" morph="none" start_char="3624" end_char="3630">después</TOKEN>
+<TOKEN id="token-36-42" pos="word" morph="none" start_char="3632" end_char="3633">de</TOKEN>
+<TOKEN id="token-36-43" pos="word" morph="none" start_char="3635" end_char="3637">que</TOKEN>
+<TOKEN id="token-36-44" pos="word" morph="none" start_char="3639" end_char="3640">se</TOKEN>
+<TOKEN id="token-36-45" pos="word" morph="none" start_char="3642" end_char="3650">conociera</TOKEN>
+<TOKEN id="token-36-46" pos="word" morph="none" start_char="3652" end_char="3653">el</TOKEN>
+<TOKEN id="token-36-47" pos="word" morph="none" start_char="3655" end_char="3661">estudio</TOKEN>
+<TOKEN id="token-36-48" pos="punct" morph="none" start_char="3662" end_char="3662">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3664" end_char="3820">
+<ORIGINAL_TEXT>"Para los pacientes graves, este estudio crea la esperanza de poder recuperarse de la infección de manera más rápida y segura", dijo el profesor Fätkenheuer.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="punct" morph="none" start_char="3664" end_char="3664">"</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3665" end_char="3668">Para</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3670" end_char="3672">los</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3674" end_char="3682">pacientes</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="3684" end_char="3689">graves</TOKEN>
+<TOKEN id="token-37-5" pos="punct" morph="none" start_char="3690" end_char="3690">,</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="3692" end_char="3695">este</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="3697" end_char="3703">estudio</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="3705" end_char="3708">crea</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="3710" end_char="3711">la</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="3713" end_char="3721">esperanza</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="3723" end_char="3724">de</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="3726" end_char="3730">poder</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="3732" end_char="3742">recuperarse</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="3744" end_char="3745">de</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="3747" end_char="3748">la</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="3750" end_char="3758">infección</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="3760" end_char="3761">de</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="3763" end_char="3768">manera</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="3770" end_char="3772">más</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="3774" end_char="3779">rápida</TOKEN>
+<TOKEN id="token-37-21" pos="word" morph="none" start_char="3781" end_char="3781">y</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="3783" end_char="3788">segura</TOKEN>
+<TOKEN id="token-37-23" pos="punct" morph="none" start_char="3789" end_char="3790">",</TOKEN>
+<TOKEN id="token-37-24" pos="word" morph="none" start_char="3792" end_char="3795">dijo</TOKEN>
+<TOKEN id="token-37-25" pos="word" morph="none" start_char="3797" end_char="3798">el</TOKEN>
+<TOKEN id="token-37-26" pos="word" morph="none" start_char="3800" end_char="3807">profesor</TOKEN>
+<TOKEN id="token-37-27" pos="word" morph="none" start_char="3809" end_char="3819">Fätkenheuer</TOKEN>
+<TOKEN id="token-37-28" pos="punct" morph="none" start_char="3820" end_char="3820">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3823" end_char="3901">
+<ORIGINAL_TEXT>Sin embargo, "no habrá suficientes principios activos disponibles en el futuro.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3823" end_char="3825">Sin</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="3827" end_char="3833">embargo</TOKEN>
+<TOKEN id="token-38-2" pos="punct" morph="none" start_char="3834" end_char="3834">,</TOKEN>
+<TOKEN id="token-38-3" pos="punct" morph="none" start_char="3836" end_char="3836">"</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3837" end_char="3838">no</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3840" end_char="3844">habrá</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3846" end_char="3856">suficientes</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3858" end_char="3867">principios</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3869" end_char="3875">activos</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3877" end_char="3887">disponibles</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="3889" end_char="3890">en</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="3892" end_char="3893">el</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="3895" end_char="3900">futuro</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="3901" end_char="3901">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3903" end_char="3999">
+<ORIGINAL_TEXT>Por lo tanto, será urgentemente necesario investigar más principios activos en estudios clínicos.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="3903" end_char="3905">Por</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3907" end_char="3908">lo</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="3910" end_char="3914">tanto</TOKEN>
+<TOKEN id="token-39-3" pos="punct" morph="none" start_char="3915" end_char="3915">,</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3917" end_char="3920">será</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="3922" end_char="3933">urgentemente</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3935" end_char="3943">necesario</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3945" end_char="3954">investigar</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="3956" end_char="3958">más</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3960" end_char="3969">principios</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="3971" end_char="3977">activos</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="3979" end_char="3980">en</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="3982" end_char="3989">estudios</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="3991" end_char="3998">clínicos</TOKEN>
+<TOKEN id="token-39-14" pos="punct" morph="none" start_char="3999" end_char="3999">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="4001" end_char="4086">
+<ORIGINAL_TEXT>Sin embargo, el punto de referencia para su efectividad en el futuro será remdesivir".</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="4001" end_char="4003">Sin</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="4005" end_char="4011">embargo</TOKEN>
+<TOKEN id="token-40-2" pos="punct" morph="none" start_char="4012" end_char="4012">,</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="4014" end_char="4015">el</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="4017" end_char="4021">punto</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="4023" end_char="4024">de</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="4026" end_char="4035">referencia</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="4037" end_char="4040">para</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="4042" end_char="4043">su</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="4045" end_char="4055">efectividad</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="4057" end_char="4058">en</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="4060" end_char="4061">el</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="4063" end_char="4068">futuro</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="4070" end_char="4073">será</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="4075" end_char="4084">remdesivir</TOKEN>
+<TOKEN id="token-40-15" pos="punct" morph="none" start_char="4085" end_char="4086">".</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="4089" end_char="4481">
+<ORIGINAL_TEXT>El catedrático Clemens Wendtner, médico jefe de Infectología y Medicina Tropical y jefe de la unidad especial en Múnich, comparte la misma opinión: "Después de que lopinavir /ritonavir y también la hidroxicloroquina no cumplieron con sus expectativas, remdesivir tendrá ahora que servir como referencia para el futuro desarrollo de medicamentos para COVID-19, a pesar de algunas limitaciones".</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="4089" end_char="4090">El</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="4092" end_char="4102">catedrático</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="4104" end_char="4110">Clemens</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="4112" end_char="4119">Wendtner</TOKEN>
+<TOKEN id="token-41-4" pos="punct" morph="none" start_char="4120" end_char="4120">,</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="4122" end_char="4127">médico</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="4129" end_char="4132">jefe</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="4134" end_char="4135">de</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="4137" end_char="4148">Infectología</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="4150" end_char="4150">y</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="4152" end_char="4159">Medicina</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="4161" end_char="4168">Tropical</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="4170" end_char="4170">y</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="4172" end_char="4175">jefe</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="4177" end_char="4178">de</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="4180" end_char="4181">la</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="4183" end_char="4188">unidad</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="4190" end_char="4197">especial</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="4199" end_char="4200">en</TOKEN>
+<TOKEN id="token-41-19" pos="word" morph="none" start_char="4202" end_char="4207">Múnich</TOKEN>
+<TOKEN id="token-41-20" pos="punct" morph="none" start_char="4208" end_char="4208">,</TOKEN>
+<TOKEN id="token-41-21" pos="word" morph="none" start_char="4210" end_char="4217">comparte</TOKEN>
+<TOKEN id="token-41-22" pos="word" morph="none" start_char="4219" end_char="4220">la</TOKEN>
+<TOKEN id="token-41-23" pos="word" morph="none" start_char="4222" end_char="4226">misma</TOKEN>
+<TOKEN id="token-41-24" pos="word" morph="none" start_char="4228" end_char="4234">opinión</TOKEN>
+<TOKEN id="token-41-25" pos="punct" morph="none" start_char="4235" end_char="4235">:</TOKEN>
+<TOKEN id="token-41-26" pos="punct" morph="none" start_char="4237" end_char="4237">"</TOKEN>
+<TOKEN id="token-41-27" pos="word" morph="none" start_char="4238" end_char="4244">Después</TOKEN>
+<TOKEN id="token-41-28" pos="word" morph="none" start_char="4246" end_char="4247">de</TOKEN>
+<TOKEN id="token-41-29" pos="word" morph="none" start_char="4249" end_char="4251">que</TOKEN>
+<TOKEN id="token-41-30" pos="word" morph="none" start_char="4253" end_char="4261">lopinavir</TOKEN>
+<TOKEN id="token-41-31" pos="punct" morph="none" start_char="4263" end_char="4263">/</TOKEN>
+<TOKEN id="token-41-32" pos="word" morph="none" start_char="4264" end_char="4272">ritonavir</TOKEN>
+<TOKEN id="token-41-33" pos="word" morph="none" start_char="4274" end_char="4274">y</TOKEN>
+<TOKEN id="token-41-34" pos="word" morph="none" start_char="4276" end_char="4282">también</TOKEN>
+<TOKEN id="token-41-35" pos="word" morph="none" start_char="4284" end_char="4285">la</TOKEN>
+<TOKEN id="token-41-36" pos="word" morph="none" start_char="4287" end_char="4303">hidroxicloroquina</TOKEN>
+<TOKEN id="token-41-37" pos="word" morph="none" start_char="4305" end_char="4306">no</TOKEN>
+<TOKEN id="token-41-38" pos="word" morph="none" start_char="4308" end_char="4317">cumplieron</TOKEN>
+<TOKEN id="token-41-39" pos="word" morph="none" start_char="4319" end_char="4321">con</TOKEN>
+<TOKEN id="token-41-40" pos="word" morph="none" start_char="4323" end_char="4325">sus</TOKEN>
+<TOKEN id="token-41-41" pos="word" morph="none" start_char="4327" end_char="4338">expectativas</TOKEN>
+<TOKEN id="token-41-42" pos="punct" morph="none" start_char="4339" end_char="4339">,</TOKEN>
+<TOKEN id="token-41-43" pos="word" morph="none" start_char="4341" end_char="4350">remdesivir</TOKEN>
+<TOKEN id="token-41-44" pos="word" morph="none" start_char="4352" end_char="4357">tendrá</TOKEN>
+<TOKEN id="token-41-45" pos="word" morph="none" start_char="4359" end_char="4363">ahora</TOKEN>
+<TOKEN id="token-41-46" pos="word" morph="none" start_char="4365" end_char="4367">que</TOKEN>
+<TOKEN id="token-41-47" pos="word" morph="none" start_char="4369" end_char="4374">servir</TOKEN>
+<TOKEN id="token-41-48" pos="word" morph="none" start_char="4376" end_char="4379">como</TOKEN>
+<TOKEN id="token-41-49" pos="word" morph="none" start_char="4381" end_char="4390">referencia</TOKEN>
+<TOKEN id="token-41-50" pos="word" morph="none" start_char="4392" end_char="4395">para</TOKEN>
+<TOKEN id="token-41-51" pos="word" morph="none" start_char="4397" end_char="4398">el</TOKEN>
+<TOKEN id="token-41-52" pos="word" morph="none" start_char="4400" end_char="4405">futuro</TOKEN>
+<TOKEN id="token-41-53" pos="word" morph="none" start_char="4407" end_char="4416">desarrollo</TOKEN>
+<TOKEN id="token-41-54" pos="word" morph="none" start_char="4418" end_char="4419">de</TOKEN>
+<TOKEN id="token-41-55" pos="word" morph="none" start_char="4421" end_char="4432">medicamentos</TOKEN>
+<TOKEN id="token-41-56" pos="word" morph="none" start_char="4434" end_char="4437">para</TOKEN>
+<TOKEN id="token-41-57" pos="unknown" morph="none" start_char="4439" end_char="4446">COVID-19</TOKEN>
+<TOKEN id="token-41-58" pos="punct" morph="none" start_char="4447" end_char="4447">,</TOKEN>
+<TOKEN id="token-41-59" pos="word" morph="none" start_char="4449" end_char="4449">a</TOKEN>
+<TOKEN id="token-41-60" pos="word" morph="none" start_char="4451" end_char="4455">pesar</TOKEN>
+<TOKEN id="token-41-61" pos="word" morph="none" start_char="4457" end_char="4458">de</TOKEN>
+<TOKEN id="token-41-62" pos="word" morph="none" start_char="4460" end_char="4466">algunas</TOKEN>
+<TOKEN id="token-41-63" pos="word" morph="none" start_char="4468" end_char="4479">limitaciones</TOKEN>
+<TOKEN id="token-41-64" pos="punct" morph="none" start_char="4480" end_char="4481">".</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

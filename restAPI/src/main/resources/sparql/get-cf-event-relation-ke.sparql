@@ -1,0 +1,29 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?subject_cluster ?predicate ?object_cluster ?confidenceValue ?justifiedBySource ?justifiedBySourceDocument 
+	(GROUP_CONCAT(DISTINCT ?justifiedBystartOffset;SEPARATOR=",") as ?justifiedBystartOffsets)
+	(GROUP_CONCAT(DISTINCT ?justifiedByendOffsetInclusive;SEPARATOR=",") as ?justifiedByendOffsetInclusives)
+
+from <https://www.nextcentury.com/TA3/UTEXAS/UTEXAS/UTEXASclaim_L0C04ATBV_1>
+where {
+  
+    <http://www.isi.edu/gaia/clusters/uiuc/events/L0C04ATBV/ES_Event_001236> a aida:SameAsCluster .
+    ?subject_cluster aida:prototype ?subject_prototype .
+    ?subject_prototype a ?subject_metatype .
+    ?object_cluster a aida:SameAsCluster .
+    ?object_cluster aida:prototype ?object_prototype .
+    ?statement a ?statement_type .
+    ?statement rdf:object ?object_prototype .
+    ?statement rdf:predicate ?predicate .
+    ?statement rdf:subject ?subject_prototype .
+    ?statement aida:confidence / aida:confidenceValue ?confidenceValue ;
+               aida:justifiedBy / aida:containedJustification / aida:source ?justifiedBySource ;
+               aida:justifiedBy / aida:containedJustification / aida:sourceDocument ?justifiedBySourceDocument ;
+               aida:justifiedBy / aida:containedJustification / aida:startOffset ?justifiedBystartOffset ;
+               aida:justifiedBy / aida:containedJustification / aida:endOffsetInclusive ?justifiedByendOffsetInclusive ;
+
+    #FILTER(?statement_type = rdf:Statement || ?statement_type = aida:ArgumentStatement || ?statement_type = aida:TypeStatement)
+    #FILTER(?subject_metatype = aida:Event || ?subject_metatype = aida:Relation)  
+}
+group by ?subject_cluster ?predicate ?object_cluster ?confidenceValue ?justifiedBySource ?justifiedBySourceDocument

@@ -1,0 +1,95 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?claimURI ?claimId ?topic ?subtopic ?claimTemplate ?description ?importance ?locationName
+	?claimer ?startAfterDay ?startAfterMonth ?startAfterYear ?startBeforeDay ?startBeforeMonth ?startBeforeYear
+	?endAfterDay ?endAfterMonth ?endAfterYear ?endBeforeDay ?endBeforeMonth ?endBeforeYear ?sourceDoc ?queryClaimId ?ranking ?claimRelations
+
+  (REPLACE(str(?epistemics), "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Epistemic", "") as ?epistemic)
+
+	(GROUP_CONCAT(DISTINCT ?claimerAffiliationURI;SEPARATOR=",") as ?claimerAffiliation)
+	(GROUP_CONCAT(DISTINCT ?xVariableURI;SEPARATOR=",") as ?xVariable)
+	(GROUP_CONCAT(DISTINCT ?xVariableCompId;SEPARATOR=",") as ?xVariableCompIds)
+  (GROUP_CONCAT(DISTINCT ?claimSemanticsURI;SEPARATOR=",") as ?claimSemantics)
+  (GROUP_CONCAT(DISTINCT ?associatedKEURI;SEPARATOR=",") as ?associatedKEs)
+	(GROUP_CONCAT(DISTINCT ?identicalClaimURI;SEPARATOR=",") as ?identicalClaims)
+
+where {
+  	GRAPH ?graph    {
+
+      {$topicFilter}
+      {$subTopicFilter}
+      # {$baseGraphFilter}
+      {$queryClaimIdFilter}
+
+      # Other claim frame info
+      ?claimURI a aida:Claim ;
+        aida:claimId ?claimId ;
+        aida:topic ?topic ;
+        aida:subtopic ?subtopic ;
+        aida:claimTemplate ?claimTemplate ;
+        aida:naturalLanguageDescription ?description ;
+        aida:xVariable / aida:componentName ?xVariableURI ;
+        aida:xVariable / aida:componentIdentity ?xVariableCompId ;
+        #aida:associatedKEs ?associatedKEURI ;
+        #aida:claimSemantics ?claimSemanticsURI ;
+        aida:claimer / aida:componentName ?claimer ;
+        #aida:importance ?importance ;
+        aida:epistemic ?epistemics ;
+        aida:sourceDocument ?sourceDoc ;
+        aida:queryClaimId ?queryClaimId ;
+        aida:ranking ?ranking ;
+        aida:claimRelations ?claimRelations .
+
+      OPTIONAL {  ?claimURI aida:claimLocation / aida:componentName ?locationName ; } .
+      OPTIONAL {  ?claimURI  aida:claimerAffiliation / aida:componentName ?claimerAffiliationURI ; } .
+      #OPTIONAL {  ?claimURI aida:identicalClaims ?identicalClaimURI ; } .
+      #OPTIONAL {  ?claimURI aida:importance ?importance ; } .
+
+      OPTIONAL {
+        ?claimURI aida:claimDateTime ?tmp .
+        ?tmp aida:start ?startAfterTime .
+
+        ?startAfterTime aida:timeType "AFTER"
+        OPTIONAL { ?startAfterTime aida:day ?startAfterDay }.
+        OPTIONAL { ?startAfterTime aida:month ?startAfterMonth }.
+        OPTIONAL { ?startAfterTime aida:year ?startAfterYear }.
+
+        # Start Before
+        ?tmp aida:start ?startBeforeTime .
+
+        ?startBeforeTime aida:timeType "BEFORE"
+        OPTIONAL { ?startBeforeTime aida:day ?startBeforeDay }.
+        OPTIONAL { ?startBeforeTime aida:month ?startBeforeMonth }.
+        OPTIONAL { ?startBeforeTime aida:year ?startBeforeYear }.
+
+        #End After
+        ?tmp aida:end ?endAfterTime .
+
+        ?endAfterTime aida:timeType "AFTER"
+        OPTIONAL { ?endAfterTime aida:day ?endAfterDay } .
+        OPTIONAL { ?endAfterTime aida:month ?endAfterMonth } .
+        OPTIONAL { ?endAfterTime aida:year ?endAfterYear } .
+
+        # End Before
+        ?tmp aida:end ?endBeforeTime .
+
+        ?endBeforeTime aida:timeType "BEFORE"
+        OPTIONAL { ?endBeforeTime aida:day ?endBeforeDay } .
+        OPTIONAL { ?endBeforeTime aida:month ?endBeforeMonth } .
+        OPTIONAL { ?endBeforeTime aida:year ?endBeforeYear } .
+
+      }
+
+
+
+
+    } .
+}
+
+group by ?claimURI ?claimId ?topic ?subtopic ?claimTemplate ?queryId ?description ?importance
+	?locationName ?claimer ?startAfterDay ?startAfterMonth ?startAfterYear ?startBeforeDay
+	?startBeforeMonth ?startBeforeYear ?endAfterDay ?endAfterMonth ?endAfterYear
+	?endBeforeDay ?endBeforeMonth ?endBeforeYear ?epistemics ?sourceDoc ?queryClaimId ?ranking ?claimRelations
+
+order by ?claimTemplate ?xVariable ?xVariableCompIds

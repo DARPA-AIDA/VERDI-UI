@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="ukr">
+<DOC id="L0C049PEH" lang="ukr" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2156" raw_text_md5="efa34c48c7813cef2943b28fcc035bb0">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="54">
+<ORIGINAL_TEXT>CDC now recommends that even healthy people wear masks</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">CDC</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="7">now</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="9" end_char="18">recommends</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="23">that</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="25" end_char="28">even</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="36">healthy</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="38" end_char="43">people</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="45" end_char="48">wear</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="50" end_char="54">masks</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="58" end_char="233">
+<ORIGINAL_TEXT>CLAIM: Social media posts suggest the Centers for Disease Control and Prevention does not currently recommend that healthy people wear face masks amid the coronavirus pandemic.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="58" end_char="62">CLAIM</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="63" end_char="63">:</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="65" end_char="70">Social</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="72" end_char="76">media</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="78" end_char="82">posts</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="84" end_char="90">suggest</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="92" end_char="94">the</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="96" end_char="102">Centers</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="104" end_char="106">for</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="108" end_char="114">Disease</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="116" end_char="122">Control</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="124" end_char="126">and</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="128" end_char="137">Prevention</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="139" end_char="142">does</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="144" end_char="146">not</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="148" end_char="156">currently</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="158" end_char="166">recommend</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="168" end_char="171">that</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="173" end_char="179">healthy</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="181" end_char="186">people</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="188" end_char="191">wear</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="193" end_char="196">face</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="198" end_char="202">masks</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="204" end_char="207">amid</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="209" end_char="211">the</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="213" end_char="223">coronavirus</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="225" end_char="232">pandemic</TOKEN>
+<TOKEN id="token-1-27" pos="punct" morph="none" start_char="233" end_char="233">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="236" end_char="258">
+<ORIGINAL_TEXT>AP’S ASSESSMENT: False.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="236" end_char="239">AP’S</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="241" end_char="250">ASSESSMENT</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="251" end_char="251">:</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="253" end_char="257">False</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="258" end_char="258">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="260" end_char="366">
+<ORIGINAL_TEXT>The CDC did not recommend healthy people wear face masks at first, but that guidance has changed over time.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="260" end_char="262">The</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="264" end_char="266">CDC</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="268" end_char="270">did</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="272" end_char="274">not</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="276" end_char="284">recommend</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="286" end_char="292">healthy</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="294" end_char="299">people</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="301" end_char="304">wear</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="306" end_char="309">face</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="311" end_char="315">masks</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="317" end_char="318">at</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="320" end_char="324">first</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="325" end_char="325">,</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="327" end_char="329">but</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="331" end_char="334">that</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="336" end_char="343">guidance</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="345" end_char="347">has</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="349" end_char="355">changed</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="357" end_char="360">over</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="362" end_char="365">time</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="366" end_char="366">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="368" end_char="491">
+<ORIGINAL_TEXT>The CDC now advises people to wear cloth face coverings in public settings where social distancing is difficult to maintain.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="368" end_char="370">The</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="372" end_char="374">CDC</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="376" end_char="378">now</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="380" end_char="386">advises</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="388" end_char="393">people</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="395" end_char="396">to</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="398" end_char="401">wear</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="403" end_char="407">cloth</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="409" end_char="412">face</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="414" end_char="422">coverings</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="424" end_char="425">in</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="427" end_char="432">public</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="434" end_char="441">settings</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="443" end_char="447">where</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="449" end_char="454">social</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="456" end_char="465">distancing</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="467" end_char="468">is</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="470" end_char="478">difficult</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="480" end_char="481">to</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="483" end_char="490">maintain</TOKEN>
+<TOKEN id="token-4-20" pos="punct" morph="none" start_char="491" end_char="491">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="494" end_char="636">
+<ORIGINAL_TEXT>THE FACTS: A photo posted by a Facebook user on Monday with more than 22,000 views features text that advises healthy people not to wear masks.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="494" end_char="496">THE</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="498" end_char="502">FACTS</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="503" end_char="503">:</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="505" end_char="505">A</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="507" end_char="511">photo</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="513" end_char="518">posted</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="520" end_char="521">by</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="523" end_char="523">a</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="525" end_char="532">Facebook</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="534" end_char="537">user</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="539" end_char="540">on</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="542" end_char="547">Monday</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="549" end_char="552">with</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="554" end_char="557">more</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="559" end_char="562">than</TOKEN>
+<TOKEN id="token-5-15" pos="unknown" morph="none" start_char="564" end_char="569">22,000</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="571" end_char="575">views</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="577" end_char="584">features</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="586" end_char="589">text</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="591" end_char="594">that</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="596" end_char="602">advises</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="604" end_char="610">healthy</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="612" end_char="617">people</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="619" end_char="621">not</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="623" end_char="624">to</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="626" end_char="629">wear</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="631" end_char="635">masks</TOKEN>
+<TOKEN id="token-5-27" pos="punct" morph="none" start_char="636" end_char="636">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="638" end_char="715">
+<ORIGINAL_TEXT>The photo captures a screenshot of guidance that appears to come from the CDC.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="638" end_char="640">The</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="642" end_char="646">photo</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="648" end_char="655">captures</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="657" end_char="657">a</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="659" end_char="668">screenshot</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="670" end_char="671">of</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="673" end_char="680">guidance</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="682" end_char="685">that</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="687" end_char="693">appears</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="695" end_char="696">to</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="698" end_char="701">come</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="703" end_char="706">from</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="708" end_char="710">the</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="712" end_char="714">CDC</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="715" end_char="715">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="718" end_char="870">
+<ORIGINAL_TEXT>"CDC does not recommend that people who are healthy wear a facemask to protect themselves from respiratory diseases, including COVID-19," the post reads.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="718" end_char="718">"</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="719" end_char="721">CDC</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="723" end_char="726">does</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="728" end_char="730">not</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="732" end_char="740">recommend</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="742" end_char="745">that</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="747" end_char="752">people</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="754" end_char="756">who</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="758" end_char="760">are</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="762" end_char="768">healthy</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="770" end_char="773">wear</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="775" end_char="775">a</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="777" end_char="784">facemask</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="786" end_char="787">to</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="789" end_char="795">protect</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="797" end_char="806">themselves</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="808" end_char="811">from</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="813" end_char="823">respiratory</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="825" end_char="832">diseases</TOKEN>
+<TOKEN id="token-7-19" pos="punct" morph="none" start_char="833" end_char="833">,</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="835" end_char="843">including</TOKEN>
+<TOKEN id="token-7-21" pos="unknown" morph="none" start_char="845" end_char="852">COVID-19</TOKEN>
+<TOKEN id="token-7-22" pos="punct" morph="none" start_char="853" end_char="854">,"</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="856" end_char="858">the</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="860" end_char="863">post</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="865" end_char="869">reads</TOKEN>
+<TOKEN id="token-7-26" pos="punct" morph="none" start_char="870" end_char="870">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="872" end_char="990">
+<ORIGINAL_TEXT>"Facemasks should be worn by people who show symptoms of COVID-19 to help prevent the spread of the disease to others."</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="872" end_char="872">"</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="873" end_char="881">Facemasks</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="883" end_char="888">should</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="890" end_char="891">be</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="893" end_char="896">worn</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="898" end_char="899">by</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="901" end_char="906">people</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="908" end_char="910">who</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="912" end_char="915">show</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="917" end_char="924">symptoms</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="926" end_char="927">of</TOKEN>
+<TOKEN id="token-8-11" pos="unknown" morph="none" start_char="929" end_char="936">COVID-19</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="938" end_char="939">to</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="941" end_char="944">help</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="946" end_char="952">prevent</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="954" end_char="956">the</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="958" end_char="963">spread</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="965" end_char="966">of</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="968" end_char="970">the</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="972" end_char="978">disease</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="980" end_char="981">to</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="983" end_char="988">others</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="989" end_char="990">."</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="993" end_char="1149">
+<ORIGINAL_TEXT>The text in the post matches what the CDC recommended to the public in March, but the federal agency’s guidance has changed, which makes the post misleading.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="993" end_char="995">The</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="997" end_char="1000">text</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1002" end_char="1003">in</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1005" end_char="1007">the</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1009" end_char="1012">post</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1014" end_char="1020">matches</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1022" end_char="1025">what</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1027" end_char="1029">the</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1031" end_char="1033">CDC</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1035" end_char="1045">recommended</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1047" end_char="1048">to</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1050" end_char="1052">the</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1054" end_char="1059">public</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1061" end_char="1062">in</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1064" end_char="1068">March</TOKEN>
+<TOKEN id="token-9-15" pos="punct" morph="none" start_char="1069" end_char="1069">,</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1071" end_char="1073">but</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1075" end_char="1077">the</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1079" end_char="1085">federal</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1087" end_char="1094">agency’s</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1096" end_char="1103">guidance</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1105" end_char="1107">has</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1109" end_char="1115">changed</TOKEN>
+<TOKEN id="token-9-23" pos="punct" morph="none" start_char="1116" end_char="1116">,</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1118" end_char="1122">which</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1124" end_char="1128">makes</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1130" end_char="1132">the</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1134" end_char="1137">post</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="1139" end_char="1148">misleading</TOKEN>
+<TOKEN id="token-9-29" pos="punct" morph="none" start_char="1149" end_char="1149">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1152" end_char="1356">
+<ORIGINAL_TEXT>Starting on April 3, the CDC began recommending that everyone wear cloth face masks in public settings where social distancing is difficult to maintain, such as grocery stores, pharmacies and gas stations.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1152" end_char="1159">Starting</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1161" end_char="1162">on</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1164" end_char="1168">April</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1170" end_char="1170">3</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="1171" end_char="1171">,</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1173" end_char="1175">the</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1177" end_char="1179">CDC</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1181" end_char="1185">began</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1187" end_char="1198">recommending</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1200" end_char="1203">that</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1205" end_char="1212">everyone</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1214" end_char="1217">wear</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1219" end_char="1223">cloth</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1225" end_char="1228">face</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1230" end_char="1234">masks</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1236" end_char="1237">in</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1239" end_char="1244">public</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1246" end_char="1253">settings</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1255" end_char="1259">where</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1261" end_char="1266">social</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1268" end_char="1277">distancing</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1279" end_char="1280">is</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1282" end_char="1290">difficult</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1292" end_char="1293">to</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1295" end_char="1302">maintain</TOKEN>
+<TOKEN id="token-10-25" pos="punct" morph="none" start_char="1303" end_char="1303">,</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1305" end_char="1308">such</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1310" end_char="1311">as</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1313" end_char="1319">grocery</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1321" end_char="1326">stores</TOKEN>
+<TOKEN id="token-10-30" pos="punct" morph="none" start_char="1327" end_char="1327">,</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="1329" end_char="1338">pharmacies</TOKEN>
+<TOKEN id="token-10-32" pos="word" morph="none" start_char="1340" end_char="1342">and</TOKEN>
+<TOKEN id="token-10-33" pos="word" morph="none" start_char="1344" end_char="1346">gas</TOKEN>
+<TOKEN id="token-10-34" pos="word" morph="none" start_char="1348" end_char="1355">stations</TOKEN>
+<TOKEN id="token-10-35" pos="punct" morph="none" start_char="1356" end_char="1356">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1358" end_char="1396">
+<ORIGINAL_TEXT>This guidance is still in effect today.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1358" end_char="1361">This</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1363" end_char="1370">guidance</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1372" end_char="1373">is</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1375" end_char="1379">still</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1381" end_char="1382">in</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1384" end_char="1389">effect</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1391" end_char="1395">today</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="1396" end_char="1396">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1399" end_char="1514">
+<ORIGINAL_TEXT>The CDC changed its guidance on face coverings as new information emerged about the spread of the novel coronavirus.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1399" end_char="1401">The</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1403" end_char="1405">CDC</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1407" end_char="1413">changed</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1415" end_char="1417">its</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1419" end_char="1426">guidance</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1428" end_char="1429">on</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1431" end_char="1434">face</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1436" end_char="1444">coverings</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1446" end_char="1447">as</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1449" end_char="1451">new</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1453" end_char="1463">information</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1465" end_char="1471">emerged</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1473" end_char="1477">about</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1479" end_char="1481">the</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1483" end_char="1488">spread</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1490" end_char="1491">of</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1493" end_char="1495">the</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1497" end_char="1501">novel</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1503" end_char="1513">coronavirus</TOKEN>
+<TOKEN id="token-12-19" pos="punct" morph="none" start_char="1514" end_char="1514">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1516" end_char="1677">
+<ORIGINAL_TEXT>Since the virus is highly contagious, even among people who may not be showing symptoms, the CDC now recommends face masks as a way to prevent the virus’s spread.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1516" end_char="1520">Since</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1522" end_char="1524">the</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1526" end_char="1530">virus</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1532" end_char="1533">is</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1535" end_char="1540">highly</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1542" end_char="1551">contagious</TOKEN>
+<TOKEN id="token-13-6" pos="punct" morph="none" start_char="1552" end_char="1552">,</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1554" end_char="1557">even</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1559" end_char="1563">among</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1565" end_char="1570">people</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1572" end_char="1574">who</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1576" end_char="1578">may</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1580" end_char="1582">not</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1584" end_char="1585">be</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1587" end_char="1593">showing</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1595" end_char="1602">symptoms</TOKEN>
+<TOKEN id="token-13-16" pos="punct" morph="none" start_char="1603" end_char="1603">,</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1605" end_char="1607">the</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1609" end_char="1611">CDC</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1613" end_char="1615">now</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1617" end_char="1626">recommends</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1628" end_char="1631">face</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1633" end_char="1637">masks</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1639" end_char="1640">as</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1642" end_char="1642">a</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1644" end_char="1646">way</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1648" end_char="1649">to</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="1651" end_char="1657">prevent</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="1659" end_char="1661">the</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="1663" end_char="1669">virus’s</TOKEN>
+<TOKEN id="token-13-30" pos="word" morph="none" start_char="1671" end_char="1676">spread</TOKEN>
+<TOKEN id="token-13-31" pos="punct" morph="none" start_char="1677" end_char="1677">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1680" end_char="1823">
+<ORIGINAL_TEXT>"A cloth face covering may not protect the wearer, but it may keep the wearer from spreading the virus to others," according to the CDC website.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="1680" end_char="1680">"</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1681" end_char="1681">A</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1683" end_char="1687">cloth</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1689" end_char="1692">face</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1694" end_char="1701">covering</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1703" end_char="1705">may</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1707" end_char="1709">not</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1711" end_char="1717">protect</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1719" end_char="1721">the</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1723" end_char="1728">wearer</TOKEN>
+<TOKEN id="token-14-10" pos="punct" morph="none" start_char="1729" end_char="1729">,</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1731" end_char="1733">but</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1735" end_char="1736">it</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1738" end_char="1740">may</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1742" end_char="1745">keep</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1747" end_char="1749">the</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1751" end_char="1756">wearer</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1758" end_char="1761">from</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1763" end_char="1771">spreading</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1773" end_char="1775">the</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1777" end_char="1781">virus</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1783" end_char="1784">to</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1786" end_char="1791">others</TOKEN>
+<TOKEN id="token-14-23" pos="punct" morph="none" start_char="1792" end_char="1793">,"</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1795" end_char="1803">according</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1805" end_char="1806">to</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1808" end_char="1810">the</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="1812" end_char="1814">CDC</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="1816" end_char="1822">website</TOKEN>
+<TOKEN id="token-14-29" pos="punct" morph="none" start_char="1823" end_char="1823">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1826" end_char="1828">
+<ORIGINAL_TEXT>___</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1826" end_char="1828">___</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1831" end_char="2043">
+<ORIGINAL_TEXT>This is part of The Associated Press’ ongoing effort to fact-check misinformation that is shared widely online, including work with Facebook to identify and reduce the circulation of false stories on the platform.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1831" end_char="1834">This</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1836" end_char="1837">is</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1839" end_char="1842">part</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1844" end_char="1845">of</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1847" end_char="1849">The</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1851" end_char="1860">Associated</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1862" end_char="1866">Press</TOKEN>
+<TOKEN id="token-16-7" pos="punct" morph="none" start_char="1867" end_char="1867">’</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1869" end_char="1875">ongoing</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1877" end_char="1882">effort</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1884" end_char="1885">to</TOKEN>
+<TOKEN id="token-16-11" pos="unknown" morph="none" start_char="1887" end_char="1896">fact-check</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1898" end_char="1911">misinformation</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1913" end_char="1916">that</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1918" end_char="1919">is</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1921" end_char="1926">shared</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1928" end_char="1933">widely</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1935" end_char="1940">online</TOKEN>
+<TOKEN id="token-16-18" pos="punct" morph="none" start_char="1941" end_char="1941">,</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1943" end_char="1951">including</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="1953" end_char="1956">work</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="1958" end_char="1961">with</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1963" end_char="1970">Facebook</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1972" end_char="1973">to</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="1975" end_char="1982">identify</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="1984" end_char="1986">and</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="1988" end_char="1993">reduce</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="1995" end_char="1997">the</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="1999" end_char="2009">circulation</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2011" end_char="2012">of</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2014" end_char="2018">false</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="2020" end_char="2026">stories</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="2028" end_char="2029">on</TOKEN>
+<TOKEN id="token-16-33" pos="word" morph="none" start_char="2031" end_char="2033">the</TOKEN>
+<TOKEN id="token-16-34" pos="word" morph="none" start_char="2035" end_char="2042">platform</TOKEN>
+<TOKEN id="token-16-35" pos="punct" morph="none" start_char="2043" end_char="2043">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2046" end_char="2152">
+<ORIGINAL_TEXT>Here’s more information on Facebook’s fact-checking program: https://www.facebook.com/help/1952307158131536</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2046" end_char="2051">Here’s</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2053" end_char="2056">more</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2058" end_char="2068">information</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2070" end_char="2071">on</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2073" end_char="2082">Facebook’s</TOKEN>
+<TOKEN id="token-17-5" pos="unknown" morph="none" start_char="2084" end_char="2096">fact-checking</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2098" end_char="2104">program</TOKEN>
+<TOKEN id="token-17-7" pos="punct" morph="none" start_char="2105" end_char="2105">:</TOKEN>
+<TOKEN id="token-17-8" pos="url" morph="none" start_char="2107" end_char="2152">https://www.facebook.com/help/1952307158131536</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

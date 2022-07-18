@@ -1,0 +1,12 @@
+# path/to/project/root/.eslintignore
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+# Ignore built files except build/index.js
+dist/*
+target/*
+
+#Ignore config files
+package-lock.json
+babel.config.js
+vue.config.js
+jest.config.js

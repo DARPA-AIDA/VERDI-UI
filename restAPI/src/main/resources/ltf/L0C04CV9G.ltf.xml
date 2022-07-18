@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CV9G" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3780" raw_text_md5="0c6d351cd7ce48c7ac692e78847c9adc">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="119">
+<ORIGINAL_TEXT>¿Alguien sabe cuál era el hilo del médico gallego que cura el covid con (creo recordar) azitromicina y antihistamínico?</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="punct" morph="none" start_char="1" end_char="1">¿</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="2" end_char="8">Alguien</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="10" end_char="13">sabe</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="15" end_char="18">cuál</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="20" end_char="22">era</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="24" end_char="25">el</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="27" end_char="30">hilo</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="32" end_char="34">del</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="36" end_char="41">médico</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="43" end_char="49">gallego</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="51" end_char="53">que</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="55" end_char="58">cura</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="60" end_char="61">el</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="63" end_char="67">covid</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="69" end_char="71">con</TOKEN>
+<TOKEN id="token-0-15" pos="punct" morph="none" start_char="73" end_char="73">(</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="74" end_char="77">creo</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="79" end_char="86">recordar</TOKEN>
+<TOKEN id="token-0-18" pos="punct" morph="none" start_char="87" end_char="87">)</TOKEN>
+<TOKEN id="token-0-19" pos="word" morph="none" start_char="89" end_char="100">azitromicina</TOKEN>
+<TOKEN id="token-0-20" pos="word" morph="none" start_char="102" end_char="102">y</TOKEN>
+<TOKEN id="token-0-21" pos="word" morph="none" start_char="104" end_char="118">antihistamínico</TOKEN>
+<TOKEN id="token-0-22" pos="punct" morph="none" start_char="119" end_char="119">?</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="123" end_char="132">
+<ORIGINAL_TEXT>¿Os suena?</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="punct" morph="none" start_char="123" end_char="123">¿</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="124" end_char="125">Os</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="127" end_char="131">suena</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="132" end_char="132">?</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="134" end_char="157">
+<ORIGINAL_TEXT>¿Cómo puedo encontrarlo?</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="134" end_char="134">¿</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="135" end_char="138">Cómo</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="140" end_char="144">puedo</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="146" end_char="156">encontrarlo</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="157" end_char="157">?</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="161" end_char="178">
+<ORIGINAL_TEXT>¿No será en Yepes?</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="punct" morph="none" start_char="161" end_char="161">¿</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="162" end_char="163">No</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="165" end_char="168">será</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="170" end_char="171">en</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="173" end_char="177">Yepes</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="178" end_char="178">?</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="180" end_char="294">
+<ORIGINAL_TEXT>Un médico de Yepes explica que han encontrado una tratamiento eficaz contra el covid: "Mis pacientes se han curado"</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="180" end_char="181">Un</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="183" end_char="188">médico</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="190" end_char="191">de</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="193" end_char="197">Yepes</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="199" end_char="205">explica</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="207" end_char="209">que</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="211" end_char="213">han</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="215" end_char="224">encontrado</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="226" end_char="228">una</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="230" end_char="240">tratamiento</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="242" end_char="247">eficaz</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="249" end_char="254">contra</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="256" end_char="257">el</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="259" end_char="263">covid</TOKEN>
+<TOKEN id="token-4-14" pos="punct" morph="none" start_char="264" end_char="264">:</TOKEN>
+<TOKEN id="token-4-15" pos="punct" morph="none" start_char="266" end_char="266">"</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="267" end_char="269">Mis</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="271" end_char="279">pacientes</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="281" end_char="282">se</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="284" end_char="286">han</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="288" end_char="293">curado</TOKEN>
+<TOKEN id="token-4-21" pos="punct" morph="none" start_char="294" end_char="294">"</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="299" end_char="346">
+<ORIGINAL_TEXT>República Independiente dijo: ¿No será en Yepes?</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="299" end_char="307">República</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="309" end_char="321">Independiente</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="323" end_char="326">dijo</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="327" end_char="327">:</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="329" end_char="329">¿</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="330" end_char="331">No</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="333" end_char="336">será</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="338" end_char="339">en</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="341" end_char="345">Yepes</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="346" end_char="346">?</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="348" end_char="462">
+<ORIGINAL_TEXT>Un médico de Yepes explica que han encontrado una tratamiento eficaz contra el covid: "Mis pacientes se han curado"</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="348" end_char="349">Un</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="351" end_char="356">médico</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="358" end_char="359">de</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="361" end_char="365">Yepes</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="367" end_char="373">explica</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="375" end_char="377">que</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="379" end_char="381">han</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="383" end_char="392">encontrado</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="394" end_char="396">una</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="398" end_char="408">tratamiento</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="410" end_char="415">eficaz</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="417" end_char="422">contra</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="424" end_char="425">el</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="427" end_char="431">covid</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="432" end_char="432">:</TOKEN>
+<TOKEN id="token-6-15" pos="punct" morph="none" start_char="434" end_char="434">"</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="435" end_char="437">Mis</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="439" end_char="447">pacientes</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="449" end_char="450">se</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="452" end_char="454">han</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="456" end_char="461">curado</TOKEN>
+<TOKEN id="token-6-21" pos="punct" morph="none" start_char="462" end_char="462">"</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="465" end_char="472">
+<ORIGINAL_TEXT>Ese era.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="465" end_char="467">Ese</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="469" end_char="471">era</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="472" end_char="472">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="474" end_char="488">
+<ORIGINAL_TEXT>Muchas gracias.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="474" end_char="479">Muchas</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="481" end_char="487">gracias</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="488" end_char="488">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="493" end_char="517">
+<ORIGINAL_TEXT>retarded dijo: ¿Os suena?</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="493" end_char="500">retarded</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="502" end_char="505">dijo</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="506" end_char="506">:</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="508" end_char="508">¿</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="509" end_char="510">Os</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="512" end_char="516">suena</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="517" end_char="517">?</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="519" end_char="542">
+<ORIGINAL_TEXT>¿Cómo puedo encontrarlo?</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="punct" morph="none" start_char="519" end_char="519">¿</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="520" end_char="523">Cómo</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="525" end_char="529">puedo</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="531" end_char="541">encontrarlo</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="542" end_char="542">?</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="546" end_char="572">
+<ORIGINAL_TEXT>Era de un pueblo de Toledo.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="546" end_char="548">Era</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="550" end_char="551">de</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="553" end_char="554">un</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="556" end_char="561">pueblo</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="563" end_char="564">de</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="566" end_char="571">Toledo</TOKEN>
+<TOKEN id="token-11-6" pos="punct" morph="none" start_char="572" end_char="572">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="576" end_char="609">
+<ORIGINAL_TEXT>Lo de la azitromicina ya es viejo.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="576" end_char="577">Lo</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="579" end_char="580">de</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="582" end_char="583">la</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="585" end_char="596">azitromicina</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="598" end_char="599">ya</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="601" end_char="602">es</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="604" end_char="608">viejo</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="609" end_char="609">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="611" end_char="627">
+<ORIGINAL_TEXT>Iba incluido en e</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="611" end_char="613">Iba</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="615" end_char="622">incluido</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="624" end_char="625">en</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="627" end_char="627">e</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="630" end_char="634">
+<ORIGINAL_TEXT>l kit</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="630" end_char="630">l</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="632" end_char="634">kit</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="637" end_char="720">
+<ORIGINAL_TEXT>vendido en países panchitos, a un precio muy poco bueno, poco bonito y de barato ná.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="637" end_char="643">vendido</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="645" end_char="646">en</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="648" end_char="653">países</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="655" end_char="663">panchitos</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="664" end_char="664">,</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="666" end_char="666">a</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="668" end_char="669">un</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="671" end_char="676">precio</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="678" end_char="680">muy</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="682" end_char="685">poco</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="687" end_char="691">bueno</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="692" end_char="692">,</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="694" end_char="697">poco</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="699" end_char="704">bonito</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="706" end_char="706">y</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="708" end_char="709">de</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="711" end_char="716">barato</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="718" end_char="719">ná</TOKEN>
+<TOKEN id="token-15-18" pos="punct" morph="none" start_char="720" end_char="720">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="723" end_char="843">
+<ORIGINAL_TEXT>La desesperación frente al coronavirus impulsa a los bolivianos a la compra de dudosas curas milagrosas Los denominados "</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="723" end_char="724">La</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="726" end_char="738">desesperación</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="740" end_char="745">frente</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="747" end_char="748">al</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="750" end_char="760">coronavirus</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="762" end_char="768">impulsa</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="770" end_char="770">a</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="772" end_char="774">los</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="776" end_char="785">bolivianos</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="787" end_char="787">a</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="789" end_char="790">la</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="792" end_char="797">compra</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="799" end_char="800">de</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="802" end_char="808">dudosas</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="810" end_char="814">curas</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="816" end_char="825">milagrosas</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="827" end_char="829">Los</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="831" end_char="841">denominados</TOKEN>
+<TOKEN id="token-16-18" pos="punct" morph="none" start_char="843" end_char="843">"</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="846" end_char="849">
+<ORIGINAL_TEXT>kits</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="846" end_char="849">kits</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="852" end_char="1013">
+<ORIGINAL_TEXT>medicinales contra la covid-19" incluyen fármacos como azitromicina (antibiótico), ivermectina (antiparasitario), ibuprofeno (aspirina) y antifludes (antigripal).</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="852" end_char="862">medicinales</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="864" end_char="869">contra</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="871" end_char="872">la</TOKEN>
+<TOKEN id="token-18-3" pos="unknown" morph="none" start_char="874" end_char="881">covid-19</TOKEN>
+<TOKEN id="token-18-4" pos="punct" morph="none" start_char="882" end_char="882">"</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="884" end_char="891">incluyen</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="893" end_char="900">fármacos</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="902" end_char="905">como</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="907" end_char="918">azitromicina</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="920" end_char="920">(</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="921" end_char="931">antibiótico</TOKEN>
+<TOKEN id="token-18-11" pos="punct" morph="none" start_char="932" end_char="933">),</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="935" end_char="945">ivermectina</TOKEN>
+<TOKEN id="token-18-13" pos="punct" morph="none" start_char="947" end_char="947">(</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="948" end_char="962">antiparasitario</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="963" end_char="964">),</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="966" end_char="975">ibuprofeno</TOKEN>
+<TOKEN id="token-18-17" pos="punct" morph="none" start_char="977" end_char="977">(</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="978" end_char="985">aspirina</TOKEN>
+<TOKEN id="token-18-19" pos="punct" morph="none" start_char="986" end_char="986">)</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="988" end_char="988">y</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="990" end_char="999">antifludes</TOKEN>
+<TOKEN id="token-18-22" pos="punct" morph="none" start_char="1001" end_char="1001">(</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="1002" end_char="1011">antigripal</TOKEN>
+<TOKEN id="token-18-24" pos="punct" morph="none" start_char="1012" end_char="1013">).</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1015" end_char="1119">
+<ORIGINAL_TEXT>Debido al agioataje, cada día surgen en las redes sociales denuncias de sobreprecios de los medicamentos.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1015" end_char="1020">Debido</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1022" end_char="1023">al</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1025" end_char="1033">agioataje</TOKEN>
+<TOKEN id="token-19-3" pos="punct" morph="none" start_char="1034" end_char="1034">,</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1036" end_char="1039">cada</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1041" end_char="1043">día</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1045" end_char="1050">surgen</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1052" end_char="1053">en</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1055" end_char="1057">las</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1059" end_char="1063">redes</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1065" end_char="1072">sociales</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1074" end_char="1082">denuncias</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1084" end_char="1085">de</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1087" end_char="1098">sobreprecios</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1100" end_char="1101">de</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1103" end_char="1105">los</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1107" end_char="1118">medicamentos</TOKEN>
+<TOKEN id="token-19-17" pos="punct" morph="none" start_char="1119" end_char="1119">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1121" end_char="1230">
+<ORIGINAL_TEXT>Una pastilla de azitromicina puede costar entre 23 y 51 bolivianos (de tres y siete dólares, aproximadamente).</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1121" end_char="1123">Una</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1125" end_char="1132">pastilla</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1134" end_char="1135">de</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1137" end_char="1148">azitromicina</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1150" end_char="1154">puede</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1156" end_char="1161">costar</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1163" end_char="1167">entre</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1169" end_char="1170">23</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1172" end_char="1172">y</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1174" end_char="1175">51</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1177" end_char="1186">bolivianos</TOKEN>
+<TOKEN id="token-20-11" pos="punct" morph="none" start_char="1188" end_char="1188">(</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1189" end_char="1190">de</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1192" end_char="1195">tres</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="1197" end_char="1197">y</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="1199" end_char="1203">siete</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="1205" end_char="1211">dólares</TOKEN>
+<TOKEN id="token-20-17" pos="punct" morph="none" start_char="1212" end_char="1212">,</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="1214" end_char="1228">aproximadamente</TOKEN>
+<TOKEN id="token-20-19" pos="punct" morph="none" start_char="1229" end_char="1230">).</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1232" end_char="1489">
+<ORIGINAL_TEXT>Incluso se ha hecho público que existen farmacias que comercializan 10 comprimidos de aspirina a 30 bolivianos (un poco más de cuatro dólares), mientras que en Estados Unidos un paquete de 100 cuesta alrededor de 65 bolivianos (un poco más de nueve dólares).</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1232" end_char="1238">Incluso</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1240" end_char="1241">se</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1243" end_char="1244">ha</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1246" end_char="1250">hecho</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1252" end_char="1258">público</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1260" end_char="1262">que</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1264" end_char="1270">existen</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1272" end_char="1280">farmacias</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1282" end_char="1284">que</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1286" end_char="1298">comercializan</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1300" end_char="1301">10</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="1303" end_char="1313">comprimidos</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="1315" end_char="1316">de</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="1318" end_char="1325">aspirina</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="1327" end_char="1327">a</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="1329" end_char="1330">30</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="1332" end_char="1341">bolivianos</TOKEN>
+<TOKEN id="token-21-17" pos="punct" morph="none" start_char="1343" end_char="1343">(</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="1344" end_char="1345">un</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="1347" end_char="1350">poco</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="1352" end_char="1354">más</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="1356" end_char="1357">de</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="1359" end_char="1364">cuatro</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="1366" end_char="1372">dólares</TOKEN>
+<TOKEN id="token-21-24" pos="punct" morph="none" start_char="1373" end_char="1374">),</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="1376" end_char="1383">mientras</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="1385" end_char="1387">que</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="1389" end_char="1390">en</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="1392" end_char="1398">Estados</TOKEN>
+<TOKEN id="token-21-29" pos="word" morph="none" start_char="1400" end_char="1405">Unidos</TOKEN>
+<TOKEN id="token-21-30" pos="word" morph="none" start_char="1407" end_char="1408">un</TOKEN>
+<TOKEN id="token-21-31" pos="word" morph="none" start_char="1410" end_char="1416">paquete</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="1418" end_char="1419">de</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="1421" end_char="1423">100</TOKEN>
+<TOKEN id="token-21-34" pos="word" morph="none" start_char="1425" end_char="1430">cuesta</TOKEN>
+<TOKEN id="token-21-35" pos="word" morph="none" start_char="1432" end_char="1440">alrededor</TOKEN>
+<TOKEN id="token-21-36" pos="word" morph="none" start_char="1442" end_char="1443">de</TOKEN>
+<TOKEN id="token-21-37" pos="word" morph="none" start_char="1445" end_char="1446">65</TOKEN>
+<TOKEN id="token-21-38" pos="word" morph="none" start_char="1448" end_char="1457">bolivianos</TOKEN>
+<TOKEN id="token-21-39" pos="punct" morph="none" start_char="1459" end_char="1459">(</TOKEN>
+<TOKEN id="token-21-40" pos="word" morph="none" start_char="1460" end_char="1461">un</TOKEN>
+<TOKEN id="token-21-41" pos="word" morph="none" start_char="1463" end_char="1466">poco</TOKEN>
+<TOKEN id="token-21-42" pos="word" morph="none" start_char="1468" end_char="1470">más</TOKEN>
+<TOKEN id="token-21-43" pos="word" morph="none" start_char="1472" end_char="1473">de</TOKEN>
+<TOKEN id="token-21-44" pos="word" morph="none" start_char="1475" end_char="1479">nueve</TOKEN>
+<TOKEN id="token-21-45" pos="word" morph="none" start_char="1481" end_char="1487">dólares</TOKEN>
+<TOKEN id="token-21-46" pos="punct" morph="none" start_char="1488" end_char="1489">).</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1493" end_char="1642">
+<ORIGINAL_TEXT>A mi me han sometido a ese tratamiento llegado el séptimo día desde inicio de síntomas, y he terminado ingresado con neumonía bilateral el décimo día.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1493" end_char="1493">A</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1495" end_char="1496">mi</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1498" end_char="1499">me</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1501" end_char="1503">han</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1505" end_char="1512">sometido</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1514" end_char="1514">a</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1516" end_char="1518">ese</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1520" end_char="1530">tratamiento</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1532" end_char="1538">llegado</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1540" end_char="1541">el</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1543" end_char="1549">séptimo</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1551" end_char="1553">día</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="1555" end_char="1559">desde</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="1561" end_char="1566">inicio</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1568" end_char="1569">de</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="1571" end_char="1578">síntomas</TOKEN>
+<TOKEN id="token-22-16" pos="punct" morph="none" start_char="1579" end_char="1579">,</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="1581" end_char="1581">y</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="1583" end_char="1584">he</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="1586" end_char="1594">terminado</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="1596" end_char="1604">ingresado</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="1606" end_char="1608">con</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="1610" end_char="1617">neumonía</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="1619" end_char="1627">bilateral</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="1629" end_char="1630">el</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="1632" end_char="1637">décimo</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="1639" end_char="1641">día</TOKEN>
+<TOKEN id="token-22-27" pos="punct" morph="none" start_char="1642" end_char="1642">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1644" end_char="1773">
+<ORIGINAL_TEXT>En el hospital me han cambiado el antibiótico por Levofloxacino, que es más especifico para bacterias que puedan entrar al pulmón.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1644" end_char="1645">En</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1647" end_char="1648">el</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1650" end_char="1657">hospital</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1659" end_char="1660">me</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1662" end_char="1664">han</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1666" end_char="1673">cambiado</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1675" end_char="1676">el</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1678" end_char="1688">antibiótico</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1690" end_char="1692">por</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1694" end_char="1706">Levofloxacino</TOKEN>
+<TOKEN id="token-23-10" pos="punct" morph="none" start_char="1707" end_char="1707">,</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="1709" end_char="1711">que</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="1713" end_char="1714">es</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="1716" end_char="1718">más</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="1720" end_char="1729">especifico</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="1731" end_char="1734">para</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="1736" end_char="1744">bacterias</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="1746" end_char="1748">que</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="1750" end_char="1755">puedan</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="1757" end_char="1762">entrar</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="1764" end_char="1765">al</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="1767" end_char="1772">pulmón</TOKEN>
+<TOKEN id="token-23-22" pos="punct" morph="none" start_char="1773" end_char="1773">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1775" end_char="1817">
+<ORIGINAL_TEXT>También me suspendieron el antihistamínico.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1775" end_char="1781">También</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1783" end_char="1784">me</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1786" end_char="1797">suspendieron</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1799" end_char="1800">el</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1802" end_char="1816">antihistamínico</TOKEN>
+<TOKEN id="token-24-5" pos="punct" morph="none" start_char="1817" end_char="1817">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1819" end_char="1897">
+<ORIGINAL_TEXT>La neumonía se ha resuelto en prácticamente 4 semanas desde inicio de síntomas.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1819" end_char="1820">La</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1822" end_char="1829">neumonía</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1831" end_char="1832">se</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1834" end_char="1835">ha</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1837" end_char="1844">resuelto</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1846" end_char="1847">en</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1849" end_char="1861">prácticamente</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1863" end_char="1863">4</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1865" end_char="1871">semanas</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1873" end_char="1877">desde</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="1879" end_char="1884">inicio</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="1886" end_char="1887">de</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="1889" end_char="1896">síntomas</TOKEN>
+<TOKEN id="token-25-13" pos="punct" morph="none" start_char="1897" end_char="1897">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1899" end_char="2042">
+<ORIGINAL_TEXT>De todas formas, lo que dice el informe, es que, esa combinación aplicada al inicio de síntomas, evita casos graves e ingresos hospitalarios....</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1899" end_char="1900">De</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1902" end_char="1906">todas</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1908" end_char="1913">formas</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="1914" end_char="1914">,</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1916" end_char="1917">lo</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1919" end_char="1921">que</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1923" end_char="1926">dice</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1928" end_char="1929">el</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1931" end_char="1937">informe</TOKEN>
+<TOKEN id="token-26-9" pos="punct" morph="none" start_char="1938" end_char="1938">,</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="1940" end_char="1941">es</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1943" end_char="1945">que</TOKEN>
+<TOKEN id="token-26-12" pos="punct" morph="none" start_char="1946" end_char="1946">,</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1948" end_char="1950">esa</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="1952" end_char="1962">combinación</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="1964" end_char="1971">aplicada</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="1973" end_char="1974">al</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="1976" end_char="1981">inicio</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="1983" end_char="1984">de</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="1986" end_char="1993">síntomas</TOKEN>
+<TOKEN id="token-26-20" pos="punct" morph="none" start_char="1994" end_char="1994">,</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="1996" end_char="2000">evita</TOKEN>
+<TOKEN id="token-26-22" pos="word" morph="none" start_char="2002" end_char="2006">casos</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="2008" end_char="2013">graves</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="2015" end_char="2015">e</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="2017" end_char="2024">ingresos</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="2026" end_char="2038">hospitalarios</TOKEN>
+<TOKEN id="token-26-27" pos="punct" morph="none" start_char="2039" end_char="2042">....</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2044" end_char="2192">
+<ORIGINAL_TEXT>El problema de dar antibiótico a todo dios como profiláctico es que aparezcan cepas de bacterias resistentes a ellos y ahí si se puede liar parda....</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2044" end_char="2045">El</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2047" end_char="2054">problema</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2056" end_char="2057">de</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2059" end_char="2061">dar</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2063" end_char="2073">antibiótico</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2075" end_char="2075">a</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2077" end_char="2080">todo</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2082" end_char="2085">dios</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2087" end_char="2090">como</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2092" end_char="2103">profiláctico</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2105" end_char="2106">es</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2108" end_char="2110">que</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2112" end_char="2120">aparezcan</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="2122" end_char="2126">cepas</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2128" end_char="2129">de</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="2131" end_char="2139">bacterias</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="2141" end_char="2151">resistentes</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="2153" end_char="2153">a</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="2155" end_char="2159">ellos</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="2161" end_char="2161">y</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="2163" end_char="2165">ahí</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="2167" end_char="2168">si</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="2170" end_char="2171">se</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="2173" end_char="2177">puede</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="2179" end_char="2182">liar</TOKEN>
+<TOKEN id="token-27-25" pos="word" morph="none" start_char="2184" end_char="2188">parda</TOKEN>
+<TOKEN id="token-27-26" pos="punct" morph="none" start_char="2189" end_char="2192">....</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2197" end_char="2359">
+<ORIGINAL_TEXT>kalvin dijo: A mi me han sometido a ese tratamiento llegado el séptimo día desde inicio de síntomas, y he terminado ingresado con neumonía bilateral el décimo día.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2197" end_char="2202">kalvin</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2204" end_char="2207">dijo</TOKEN>
+<TOKEN id="token-28-2" pos="punct" morph="none" start_char="2208" end_char="2208">:</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2210" end_char="2210">A</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2212" end_char="2213">mi</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2215" end_char="2216">me</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2218" end_char="2220">han</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2222" end_char="2229">sometido</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2231" end_char="2231">a</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2233" end_char="2235">ese</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2237" end_char="2247">tratamiento</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2249" end_char="2255">llegado</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="2257" end_char="2258">el</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="2260" end_char="2266">séptimo</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="2268" end_char="2270">día</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="2272" end_char="2276">desde</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="2278" end_char="2283">inicio</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="2285" end_char="2286">de</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="2288" end_char="2295">síntomas</TOKEN>
+<TOKEN id="token-28-19" pos="punct" morph="none" start_char="2296" end_char="2296">,</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="2298" end_char="2298">y</TOKEN>
+<TOKEN id="token-28-21" pos="word" morph="none" start_char="2300" end_char="2301">he</TOKEN>
+<TOKEN id="token-28-22" pos="word" morph="none" start_char="2303" end_char="2311">terminado</TOKEN>
+<TOKEN id="token-28-23" pos="word" morph="none" start_char="2313" end_char="2321">ingresado</TOKEN>
+<TOKEN id="token-28-24" pos="word" morph="none" start_char="2323" end_char="2325">con</TOKEN>
+<TOKEN id="token-28-25" pos="word" morph="none" start_char="2327" end_char="2334">neumonía</TOKEN>
+<TOKEN id="token-28-26" pos="word" morph="none" start_char="2336" end_char="2344">bilateral</TOKEN>
+<TOKEN id="token-28-27" pos="word" morph="none" start_char="2346" end_char="2347">el</TOKEN>
+<TOKEN id="token-28-28" pos="word" morph="none" start_char="2349" end_char="2354">décimo</TOKEN>
+<TOKEN id="token-28-29" pos="word" morph="none" start_char="2356" end_char="2358">día</TOKEN>
+<TOKEN id="token-28-30" pos="punct" morph="none" start_char="2359" end_char="2359">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2361" end_char="2490">
+<ORIGINAL_TEXT>En el hospital me han cambiado el antibiótico por Levofloxacino, que es más especifico para bacterias que puedan entrar al pulmón.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2361" end_char="2362">En</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2364" end_char="2365">el</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2367" end_char="2374">hospital</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2376" end_char="2377">me</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2379" end_char="2381">han</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2383" end_char="2390">cambiado</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2392" end_char="2393">el</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2395" end_char="2405">antibiótico</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="2407" end_char="2409">por</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="2411" end_char="2423">Levofloxacino</TOKEN>
+<TOKEN id="token-29-10" pos="punct" morph="none" start_char="2424" end_char="2424">,</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="2426" end_char="2428">que</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="2430" end_char="2431">es</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="2433" end_char="2435">más</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="2437" end_char="2446">especifico</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="2448" end_char="2451">para</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="2453" end_char="2461">bacterias</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="2463" end_char="2465">que</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="2467" end_char="2472">puedan</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="2474" end_char="2479">entrar</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="2481" end_char="2482">al</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="2484" end_char="2489">pulmón</TOKEN>
+<TOKEN id="token-29-22" pos="punct" morph="none" start_char="2490" end_char="2490">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2492" end_char="2534">
+<ORIGINAL_TEXT>También me suspendieron el antihistamínico.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2492" end_char="2498">También</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2500" end_char="2501">me</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="2503" end_char="2514">suspendieron</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2516" end_char="2517">el</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2519" end_char="2533">antihistamínico</TOKEN>
+<TOKEN id="token-30-5" pos="punct" morph="none" start_char="2534" end_char="2534">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2536" end_char="2614">
+<ORIGINAL_TEXT>La neumonía se ha resuelto en prácticamente 4 semanas desde inicio de síntomas.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2536" end_char="2537">La</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2539" end_char="2546">neumonía</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2548" end_char="2549">se</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2551" end_char="2552">ha</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2554" end_char="2561">resuelto</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2563" end_char="2564">en</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2566" end_char="2578">prácticamente</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="2580" end_char="2580">4</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="2582" end_char="2588">semanas</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="2590" end_char="2594">desde</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="2596" end_char="2601">inicio</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="2603" end_char="2604">de</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="2606" end_char="2613">síntomas</TOKEN>
+<TOKEN id="token-31-13" pos="punct" morph="none" start_char="2614" end_char="2614">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="2616" end_char="2759">
+<ORIGINAL_TEXT>De todas formas, lo que dice el informe, es que, esa combinación aplicada al inicio de síntomas, evita casos graves e ingresos hospitalarios....</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="2616" end_char="2617">De</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="2619" end_char="2623">todas</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="2625" end_char="2630">formas</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="2631" end_char="2631">,</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="2633" end_char="2634">lo</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="2636" end_char="2638">que</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="2640" end_char="2643">dice</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="2645" end_char="2646">el</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="2648" end_char="2654">informe</TOKEN>
+<TOKEN id="token-32-9" pos="punct" morph="none" start_char="2655" end_char="2655">,</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="2657" end_char="2658">es</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="2660" end_char="2662">que</TOKEN>
+<TOKEN id="token-32-12" pos="punct" morph="none" start_char="2663" end_char="2663">,</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="2665" end_char="2667">esa</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="2669" end_char="2679">combinación</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="2681" end_char="2688">aplicada</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="2690" end_char="2691">al</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="2693" end_char="2698">inicio</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="2700" end_char="2701">de</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="2703" end_char="2710">síntomas</TOKEN>
+<TOKEN id="token-32-20" pos="punct" morph="none" start_char="2711" end_char="2711">,</TOKEN>
+<TOKEN id="token-32-21" pos="word" morph="none" start_char="2713" end_char="2717">evita</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="2719" end_char="2723">casos</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="2725" end_char="2730">graves</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="2732" end_char="2732">e</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="2734" end_char="2741">ingresos</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="2743" end_char="2755">hospitalarios</TOKEN>
+<TOKEN id="token-32-27" pos="punct" morph="none" start_char="2756" end_char="2759">....</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="2761" end_char="2909">
+<ORIGINAL_TEXT>El problema de dar antibiótico a todo dios como profiláctico es que aparezcan cepas de bacterias resistentes a ellos y ahí si se puede liar parda....</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="2761" end_char="2762">El</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="2764" end_char="2771">problema</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="2773" end_char="2774">de</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="2776" end_char="2778">dar</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="2780" end_char="2790">antibiótico</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="2792" end_char="2792">a</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="2794" end_char="2797">todo</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="2799" end_char="2802">dios</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="2804" end_char="2807">como</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="2809" end_char="2820">profiláctico</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="2822" end_char="2823">es</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="2825" end_char="2827">que</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="2829" end_char="2837">aparezcan</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="2839" end_char="2843">cepas</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="2845" end_char="2846">de</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="2848" end_char="2856">bacterias</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="2858" end_char="2868">resistentes</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="2870" end_char="2870">a</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="2872" end_char="2876">ellos</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="2878" end_char="2878">y</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="2880" end_char="2882">ahí</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="2884" end_char="2885">si</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="2887" end_char="2888">se</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="2890" end_char="2894">puede</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="2896" end_char="2899">liar</TOKEN>
+<TOKEN id="token-33-25" pos="word" morph="none" start_char="2901" end_char="2905">parda</TOKEN>
+<TOKEN id="token-33-26" pos="punct" morph="none" start_char="2906" end_char="2909">....</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="2912" end_char="2949">
+<ORIGINAL_TEXT>¿Diagnóstico covid o neumonía sin más?</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="punct" morph="none" start_char="2912" end_char="2912">¿</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="2913" end_char="2923">Diagnóstico</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="2925" end_char="2929">covid</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="2931" end_char="2931">o</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="2933" end_char="2940">neumonía</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="2942" end_char="2944">sin</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="2946" end_char="2948">más</TOKEN>
+<TOKEN id="token-34-7" pos="punct" morph="none" start_char="2949" end_char="2949">?</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="2951" end_char="2968">
+<ORIGINAL_TEXT>¿Has pasado miedo?</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="punct" morph="none" start_char="2951" end_char="2951">¿</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="2952" end_char="2954">Has</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="2956" end_char="2961">pasado</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="2963" end_char="2967">miedo</TOKEN>
+<TOKEN id="token-35-4" pos="punct" morph="none" start_char="2968" end_char="2968">?</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="2973" end_char="3025">
+<ORIGINAL_TEXT>retarded dijo: ¿Diagnóstico covid o neumonía sin más?</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="2973" end_char="2980">retarded</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="2982" end_char="2985">dijo</TOKEN>
+<TOKEN id="token-36-2" pos="punct" morph="none" start_char="2986" end_char="2986">:</TOKEN>
+<TOKEN id="token-36-3" pos="punct" morph="none" start_char="2988" end_char="2988">¿</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="2989" end_char="2999">Diagnóstico</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3001" end_char="3005">covid</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3007" end_char="3007">o</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="3009" end_char="3016">neumonía</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="3018" end_char="3020">sin</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="3022" end_char="3024">más</TOKEN>
+<TOKEN id="token-36-10" pos="punct" morph="none" start_char="3025" end_char="3025">?</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3027" end_char="3044">
+<ORIGINAL_TEXT>¿Has pasado miedo?</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="punct" morph="none" start_char="3027" end_char="3027">¿</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3028" end_char="3030">Has</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3032" end_char="3037">pasado</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3039" end_char="3043">miedo</TOKEN>
+<TOKEN id="token-37-4" pos="punct" morph="none" start_char="3044" end_char="3044">?</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3048" end_char="3208">
+<ORIGINAL_TEXT>Covid, y la verdad, es que cuándo entras en hospital, con toda la información que tenemos, echas cuentas.... entran 10.... salen 9.... algo de canguele pasas....</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3048" end_char="3052">Covid</TOKEN>
+<TOKEN id="token-38-1" pos="punct" morph="none" start_char="3053" end_char="3053">,</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3055" end_char="3055">y</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3057" end_char="3058">la</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3060" end_char="3065">verdad</TOKEN>
+<TOKEN id="token-38-5" pos="punct" morph="none" start_char="3066" end_char="3066">,</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3068" end_char="3069">es</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3071" end_char="3073">que</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3075" end_char="3080">cuándo</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3082" end_char="3087">entras</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="3089" end_char="3090">en</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="3092" end_char="3099">hospital</TOKEN>
+<TOKEN id="token-38-12" pos="punct" morph="none" start_char="3100" end_char="3100">,</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="3102" end_char="3104">con</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="3106" end_char="3109">toda</TOKEN>
+<TOKEN id="token-38-15" pos="word" morph="none" start_char="3111" end_char="3112">la</TOKEN>
+<TOKEN id="token-38-16" pos="word" morph="none" start_char="3114" end_char="3124">información</TOKEN>
+<TOKEN id="token-38-17" pos="word" morph="none" start_char="3126" end_char="3128">que</TOKEN>
+<TOKEN id="token-38-18" pos="word" morph="none" start_char="3130" end_char="3136">tenemos</TOKEN>
+<TOKEN id="token-38-19" pos="punct" morph="none" start_char="3137" end_char="3137">,</TOKEN>
+<TOKEN id="token-38-20" pos="word" morph="none" start_char="3139" end_char="3143">echas</TOKEN>
+<TOKEN id="token-38-21" pos="word" morph="none" start_char="3145" end_char="3151">cuentas</TOKEN>
+<TOKEN id="token-38-22" pos="punct" morph="none" start_char="3152" end_char="3155">....</TOKEN>
+<TOKEN id="token-38-23" pos="word" morph="none" start_char="3157" end_char="3162">entran</TOKEN>
+<TOKEN id="token-38-24" pos="word" morph="none" start_char="3164" end_char="3165">10</TOKEN>
+<TOKEN id="token-38-25" pos="punct" morph="none" start_char="3166" end_char="3169">....</TOKEN>
+<TOKEN id="token-38-26" pos="word" morph="none" start_char="3171" end_char="3175">salen</TOKEN>
+<TOKEN id="token-38-27" pos="word" morph="none" start_char="3177" end_char="3177">9</TOKEN>
+<TOKEN id="token-38-28" pos="punct" morph="none" start_char="3178" end_char="3181">....</TOKEN>
+<TOKEN id="token-38-29" pos="word" morph="none" start_char="3183" end_char="3186">algo</TOKEN>
+<TOKEN id="token-38-30" pos="word" morph="none" start_char="3188" end_char="3189">de</TOKEN>
+<TOKEN id="token-38-31" pos="word" morph="none" start_char="3191" end_char="3198">canguele</TOKEN>
+<TOKEN id="token-38-32" pos="word" morph="none" start_char="3200" end_char="3204">pasas</TOKEN>
+<TOKEN id="token-38-33" pos="punct" morph="none" start_char="3205" end_char="3208">....</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3210" end_char="3376">
+<ORIGINAL_TEXT>He pasado una neumonía en hace unos años, que no se sabe muy bien si ha sido por hongo o bacteria, no profundizaron más... y los síntomas no han tenido nada que ver...</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="3210" end_char="3211">He</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3213" end_char="3218">pasado</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="3220" end_char="3222">una</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="3224" end_char="3231">neumonía</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3233" end_char="3234">en</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="3236" end_char="3239">hace</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3241" end_char="3244">unos</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3246" end_char="3249">años</TOKEN>
+<TOKEN id="token-39-8" pos="punct" morph="none" start_char="3250" end_char="3250">,</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3252" end_char="3254">que</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="3256" end_char="3257">no</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="3259" end_char="3260">se</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="3262" end_char="3265">sabe</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="3267" end_char="3269">muy</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="3271" end_char="3274">bien</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="3276" end_char="3277">si</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="3279" end_char="3280">ha</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="3282" end_char="3285">sido</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="3287" end_char="3289">por</TOKEN>
+<TOKEN id="token-39-19" pos="word" morph="none" start_char="3291" end_char="3295">hongo</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="3297" end_char="3297">o</TOKEN>
+<TOKEN id="token-39-21" pos="word" morph="none" start_char="3299" end_char="3306">bacteria</TOKEN>
+<TOKEN id="token-39-22" pos="punct" morph="none" start_char="3307" end_char="3307">,</TOKEN>
+<TOKEN id="token-39-23" pos="word" morph="none" start_char="3309" end_char="3310">no</TOKEN>
+<TOKEN id="token-39-24" pos="word" morph="none" start_char="3312" end_char="3324">profundizaron</TOKEN>
+<TOKEN id="token-39-25" pos="word" morph="none" start_char="3326" end_char="3328">más</TOKEN>
+<TOKEN id="token-39-26" pos="punct" morph="none" start_char="3329" end_char="3331">...</TOKEN>
+<TOKEN id="token-39-27" pos="word" morph="none" start_char="3333" end_char="3333">y</TOKEN>
+<TOKEN id="token-39-28" pos="word" morph="none" start_char="3335" end_char="3337">los</TOKEN>
+<TOKEN id="token-39-29" pos="word" morph="none" start_char="3339" end_char="3346">síntomas</TOKEN>
+<TOKEN id="token-39-30" pos="word" morph="none" start_char="3348" end_char="3349">no</TOKEN>
+<TOKEN id="token-39-31" pos="word" morph="none" start_char="3351" end_char="3353">han</TOKEN>
+<TOKEN id="token-39-32" pos="word" morph="none" start_char="3355" end_char="3360">tenido</TOKEN>
+<TOKEN id="token-39-33" pos="word" morph="none" start_char="3362" end_char="3365">nada</TOKEN>
+<TOKEN id="token-39-34" pos="word" morph="none" start_char="3367" end_char="3369">que</TOKEN>
+<TOKEN id="token-39-35" pos="word" morph="none" start_char="3371" end_char="3373">ver</TOKEN>
+<TOKEN id="token-39-36" pos="punct" morph="none" start_char="3374" end_char="3376">...</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3378" end_char="3469">
+<ORIGINAL_TEXT>Esto te pasa por todo el cuerpo, lo otro fué un catarro potente que terminó en los pulmones.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3378" end_char="3381">Esto</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="3383" end_char="3384">te</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="3386" end_char="3389">pasa</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="3391" end_char="3393">por</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="3395" end_char="3398">todo</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="3400" end_char="3401">el</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="3403" end_char="3408">cuerpo</TOKEN>
+<TOKEN id="token-40-7" pos="punct" morph="none" start_char="3409" end_char="3409">,</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="3411" end_char="3412">lo</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="3414" end_char="3417">otro</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="3419" end_char="3421">fué</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="3423" end_char="3424">un</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="3426" end_char="3432">catarro</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="3434" end_char="3440">potente</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="3442" end_char="3444">que</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="3446" end_char="3452">terminó</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="3454" end_char="3455">en</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="3457" end_char="3459">los</TOKEN>
+<TOKEN id="token-40-18" pos="word" morph="none" start_char="3461" end_char="3468">pulmones</TOKEN>
+<TOKEN id="token-40-19" pos="punct" morph="none" start_char="3469" end_char="3469">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3471" end_char="3577">
+<ORIGINAL_TEXT>Nada de dolores de cabeza, fiebre, piernas, diarreas, nauseas, falta de olfato y gusto, desorientación.....</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3471" end_char="3474">Nada</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3476" end_char="3477">de</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3479" end_char="3485">dolores</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3487" end_char="3488">de</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3490" end_char="3495">cabeza</TOKEN>
+<TOKEN id="token-41-5" pos="punct" morph="none" start_char="3496" end_char="3496">,</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="3498" end_char="3503">fiebre</TOKEN>
+<TOKEN id="token-41-7" pos="punct" morph="none" start_char="3504" end_char="3504">,</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="3506" end_char="3512">piernas</TOKEN>
+<TOKEN id="token-41-9" pos="punct" morph="none" start_char="3513" end_char="3513">,</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="3515" end_char="3522">diarreas</TOKEN>
+<TOKEN id="token-41-11" pos="punct" morph="none" start_char="3523" end_char="3523">,</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="3525" end_char="3531">nauseas</TOKEN>
+<TOKEN id="token-41-13" pos="punct" morph="none" start_char="3532" end_char="3532">,</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="3534" end_char="3538">falta</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="3540" end_char="3541">de</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="3543" end_char="3548">olfato</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="3550" end_char="3550">y</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="3552" end_char="3556">gusto</TOKEN>
+<TOKEN id="token-41-19" pos="punct" morph="none" start_char="3557" end_char="3557">,</TOKEN>
+<TOKEN id="token-41-20" pos="word" morph="none" start_char="3559" end_char="3572">desorientación</TOKEN>
+<TOKEN id="token-41-21" pos="punct" morph="none" start_char="3573" end_char="3577">.....</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="3579" end_char="3776">
+<ORIGINAL_TEXT>Eso sí, lo hemos pasado 6 convivientes, y el peor yo, el resto fiebre y algún que otro síntoma aislado, pero sin ingreso ni neumonía... Ganas de volver a pasarlo, sincéramente, no me han quedado....</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="3579" end_char="3581">Eso</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="3583" end_char="3584">sí</TOKEN>
+<TOKEN id="token-42-2" pos="punct" morph="none" start_char="3585" end_char="3585">,</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="3587" end_char="3588">lo</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="3590" end_char="3594">hemos</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="3596" end_char="3601">pasado</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="3603" end_char="3603">6</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="3605" end_char="3616">convivientes</TOKEN>
+<TOKEN id="token-42-8" pos="punct" morph="none" start_char="3617" end_char="3617">,</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="3619" end_char="3619">y</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="3621" end_char="3622">el</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="3624" end_char="3627">peor</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="3629" end_char="3630">yo</TOKEN>
+<TOKEN id="token-42-13" pos="punct" morph="none" start_char="3631" end_char="3631">,</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="3633" end_char="3634">el</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="3636" end_char="3640">resto</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="3642" end_char="3647">fiebre</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="3649" end_char="3649">y</TOKEN>
+<TOKEN id="token-42-18" pos="word" morph="none" start_char="3651" end_char="3655">algún</TOKEN>
+<TOKEN id="token-42-19" pos="word" morph="none" start_char="3657" end_char="3659">que</TOKEN>
+<TOKEN id="token-42-20" pos="word" morph="none" start_char="3661" end_char="3664">otro</TOKEN>
+<TOKEN id="token-42-21" pos="word" morph="none" start_char="3666" end_char="3672">síntoma</TOKEN>
+<TOKEN id="token-42-22" pos="word" morph="none" start_char="3674" end_char="3680">aislado</TOKEN>
+<TOKEN id="token-42-23" pos="punct" morph="none" start_char="3681" end_char="3681">,</TOKEN>
+<TOKEN id="token-42-24" pos="word" morph="none" start_char="3683" end_char="3686">pero</TOKEN>
+<TOKEN id="token-42-25" pos="word" morph="none" start_char="3688" end_char="3690">sin</TOKEN>
+<TOKEN id="token-42-26" pos="word" morph="none" start_char="3692" end_char="3698">ingreso</TOKEN>
+<TOKEN id="token-42-27" pos="word" morph="none" start_char="3700" end_char="3701">ni</TOKEN>
+<TOKEN id="token-42-28" pos="word" morph="none" start_char="3703" end_char="3710">neumonía</TOKEN>
+<TOKEN id="token-42-29" pos="punct" morph="none" start_char="3711" end_char="3713">...</TOKEN>
+<TOKEN id="token-42-30" pos="word" morph="none" start_char="3715" end_char="3719">Ganas</TOKEN>
+<TOKEN id="token-42-31" pos="word" morph="none" start_char="3721" end_char="3722">de</TOKEN>
+<TOKEN id="token-42-32" pos="word" morph="none" start_char="3724" end_char="3729">volver</TOKEN>
+<TOKEN id="token-42-33" pos="word" morph="none" start_char="3731" end_char="3731">a</TOKEN>
+<TOKEN id="token-42-34" pos="word" morph="none" start_char="3733" end_char="3739">pasarlo</TOKEN>
+<TOKEN id="token-42-35" pos="punct" morph="none" start_char="3740" end_char="3740">,</TOKEN>
+<TOKEN id="token-42-36" pos="word" morph="none" start_char="3742" end_char="3753">sincéramente</TOKEN>
+<TOKEN id="token-42-37" pos="punct" morph="none" start_char="3754" end_char="3754">,</TOKEN>
+<TOKEN id="token-42-38" pos="word" morph="none" start_char="3756" end_char="3757">no</TOKEN>
+<TOKEN id="token-42-39" pos="word" morph="none" start_char="3759" end_char="3760">me</TOKEN>
+<TOKEN id="token-42-40" pos="word" morph="none" start_char="3762" end_char="3764">han</TOKEN>
+<TOKEN id="token-42-41" pos="word" morph="none" start_char="3766" end_char="3772">quedado</TOKEN>
+<TOKEN id="token-42-42" pos="punct" morph="none" start_char="3773" end_char="3776">....</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

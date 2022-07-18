@@ -1,0 +1,1255 @@
+{
+  "hypothesis": "http://www.utexas.edu/aida/AIDA_M36_TA3_E202C_F1_hypothesis_011",
+  "percentage": null,
+  "types": [
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Movement.TransportPerson.SelfMotion",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GeneralAffiliation.Sponsorship.HelpSupport",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.Resident.Resident",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack.Bombing",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PartWhole.Subsidiary",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate",
+    "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Deliberateness.Deliberate"
+  ],
+  "members": [
+    {
+      "node": "http://www.isi.edu/clusters/identicalRelations/15e52557-ce49-4ee4-9f28-a266171b912f",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002946",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility_EntityResponsible",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0001248-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0001248",
+              "names": [
+                "Alarcón",
+                "Benigno Alarcón",
+                "Rodolfo ALARCON Ortiz"
+              ],
+              "handle": "Alarcón",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Minister"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility_Event",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/clusters/identicalRelations/76cf3e1c-8707-4498-bd72-38cfdfd63181",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002897",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/clusters/identicalRelations/a6aed310-2d4b-4206-9bc9-1467799a0ae8",
+      "prototype": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004712",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_Place",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0023759-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0023759",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#LOC"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_EntityOrFiller",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/clusters/identicalRelations/c5daabc8-1d75-41a8-a60a-45b9b61d1dd7",
+      "prototype": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004707",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_Place",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/clusters/identicalRelations/e144ed28-a8f8-4535-a7f9-d2a47ede3383",
+      "prototype": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004710",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.Resident.Resident",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.Resident.Resident_Resident",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering_Demonstrator",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0005981-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0005981",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0025285",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006988-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006988",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering_Place",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BB7S-r202010162250-592",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BB7S-r202010162250-592",
+              "names": [
+                " Caraca",
+                " Vatican",
+                " venezolan",
+                " Venezuel",
+                " Venezuela",
+                "#Venezuela",
+                "#Венесуэла",
+                "Aa Aa",
+                "algunas ciudades",
+                "Bolivarian",
+                "Bolivarian Republic of Venezuela",
+                "Bolivariano",
+                "caracas",
+                "Caracas",
+                "CARACAS",
+                "caraqueño",
+                "Castilla-La Mancha",
+                "china",
+                "China",
+                "el país",
+                "El Vaticano",
+                "esa ciudad",
+                "ese país",
+                "esta ciudad",
+                "este país",
+                "Holy See",
+                "la",
+                "La Boyera",
+                "La California",
+                "La Candelaria",
+                "la capital",
+                "la ciudad",
+                "la Corte Penal",
+                "la entidad",
+                "La Haya",
+                "La India",
+                "la nación",
+                "la Nación",
+                "La Nación",
+                "La Paz",
+                "la República",
+                "La Tahona",
+                "La Urbina",
+                "La Vega",
+                "las ciudades",
+                "las principales ciudades",
+                "los ciudadanos",
+                "los pacientes",
+                "Los Teques",
+                "María",
+                "Miranda",
+                "municipio",
+                "papal",
+                "país",
+                "People’s Republic of China",
+                "Santa Sede",
+                "se",
+                "so venezol",
+                "State",
+                "State of the Vatican City",
+                "su",
+                "Sucre",
+                "todo el país",
+                "un país convulsionado",
+                "Vatican",
+                "Vaticano",
+                "venezolana",
+                "Venezolana",
+                "venezolanas",
+                "venezolano",
+                "Venezolano",
+                "Venezolanos",
+                "venezolanos",
+                "Venezuela",
+                "VENEZUELA",
+                "Venezuela National Guard",
+                "Venezuelan",
+                "Venezuelan National Guard",
+                "Venezuelans",
+                "Venezuela’s",
+                "Vente Venezuela",
+                "VICTORIA",
+                "Ватикан",
+                "Венесуэла",
+                "Венесуэле",
+                "Венесуэлы",
+                "венесуэльский",
+                "Каракас",
+                "Каракасе",
+                "Китай"
+              ],
+              "handle": "se",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.Country.Country",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.OrganizationOfCountries.OrganizationOfCountries",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.ProvinceState.ProvinceState",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BDUB-r202010162246-106",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BDUB-r202010162246-106",
+              "names": [
+                "El Paraiso",
+                "El Paraíso"
+              ],
+              "handle": "El Paraiso",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BB0X-r202010162250-92",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BB0X-r202010162250-92",
+              "names": [
+                "Barrio Colinas Bolivarianas",
+                "Bolivarian Republic of Venezuela",
+                "bolivariana",
+                "Bolivariana",
+                "bolivarianas",
+                "España",
+                "país",
+                "países",
+                "venezolana",
+                "venezolanas",
+                "venezolano",
+                "Venezolano",
+                "venezolanos",
+                "Venezuela",
+                "Боливарианской Республики Венесуэла",
+                "Венесуэла",
+                "Венесуэле",
+                "Венесуэлы"
+              ],
+              "handle": "país",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.Country.Country"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0023759-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0023759",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#LOC"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BBC1/EN_Entity_EDL_0002065-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BBC1/EN_Entity_EDL_0002065",
+              "names": [
+                "Barrio Sucre",
+                "Caracas",
+                "CARACAS",
+                "Estado Sucre",
+                "Sucre",
+                "Sucre municipality"
+              ],
+              "handle": "Sucre",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004700-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004700",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate_Place",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate_Demonstrator",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB0K/ES_Relation_CU_0002720-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB0K/ES_Relation_CU_0002720",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573",
+              "names": [
+                " Nicolas Madur",
+                " Nicolas Maduro",
+                " Nicolás Madur",
+                "18 personas",
+                "33 muertos",
+                "38 fallecidos",
+                "54 niños",
+                "a Madu",
+                "AN Jong Su",
+                "Barack",
+                "BORIS VERGARA",
+                "Castro",
+                "cinco personas",
+                "cuatro personas",
+                "cuyo",
+                "ellas",
+                "estos 33 asesinados",
+                "Fidel Castro",
+                "Guarimbas",
+                "Henrique Capriles",
+                "Las",
+                "le",
+                "les",
+                "los",
+                "los asesinados",
+                "Los inconformes",
+                "los niños",
+                "Maduro",
+                "Maduro dictator",
+                "Maduro presidente",
+                "Maduro —",
+                "Maduro’s",
+                "Melville NICHOLAS",
+                "Nicholas",
+                "Nicholas Maduro",
+                "Nicolas",
+                "Nicolas EYZAGUIRRE",
+                "Nicolas Maduro",
+                "Nicolas OBAMA Nchama",
+                "Nicolas] Maduro",
+                "Nicolás",
+                "Nicolás Maduro",
+                "Nicolás Maduro Guerra",
+                "Nicolás Maduro’",
+                "Nicolás’",
+                "Obama",
+                "opositores muertos",
+                "Paparoni",
+                "presidente",
+                "que",
+                "quien",
+                "r Nicolás Madu",
+                "se",
+                "Se",
+                "su",
+                "Su",
+                "sus",
+                "te",
+                "Un joven",
+                "YUN Byung-se",
+                "Zamora",
+                "¡Madur",
+                "«Madur"
+              ],
+              "handle": "se",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Combatant",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.MilitaryPersonnel",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Police",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.HeadOfGovernment",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.Mayor",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Journalist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Minister",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Scientist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Spokesperson",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002896-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002896",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Sentiment.Positive_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002899-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002899",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Deliberateness.Deliberate",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Deliberateness.Deliberate_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0019267-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0019267",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Deliberateness.Deliberate_Event",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002900-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002900",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0031840-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0031840",
+              "names": [
+                "Hernan ESTRADA Santamaria",
+                "Hernán Papaterra"
+              ],
+              "handle": "Hernán Papaterra",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Minister"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate_Event",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002926-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002926",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GeneralAffiliation.Sponsorship.HelpSupport",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GeneralAffiliation.Sponsorship.HelpSupport_ActorOrEvent",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GeneralAffiliation.Sponsorship.HelpSupport_Sponsor",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0005981-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0005981",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002937-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002937",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate_Holder",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573",
+              "names": [
+                " Nicolas Madur",
+                " Nicolas Maduro",
+                " Nicolás Madur",
+                "18 personas",
+                "33 muertos",
+                "38 fallecidos",
+                "54 niños",
+                "a Madu",
+                "AN Jong Su",
+                "Barack",
+                "BORIS VERGARA",
+                "Castro",
+                "cinco personas",
+                "cuatro personas",
+                "cuyo",
+                "ellas",
+                "estos 33 asesinados",
+                "Fidel Castro",
+                "Guarimbas",
+                "Henrique Capriles",
+                "Las",
+                "le",
+                "les",
+                "los",
+                "los asesinados",
+                "Los inconformes",
+                "los niños",
+                "Maduro",
+                "Maduro dictator",
+                "Maduro presidente",
+                "Maduro —",
+                "Maduro’s",
+                "Melville NICHOLAS",
+                "Nicholas",
+                "Nicholas Maduro",
+                "Nicolas",
+                "Nicolas EYZAGUIRRE",
+                "Nicolas Maduro",
+                "Nicolas OBAMA Nchama",
+                "Nicolas] Maduro",
+                "Nicolás",
+                "Nicolás Maduro",
+                "Nicolás Maduro Guerra",
+                "Nicolás Maduro’",
+                "Nicolás’",
+                "Obama",
+                "opositores muertos",
+                "Paparoni",
+                "presidente",
+                "que",
+                "quien",
+                "r Nicolás Madu",
+                "se",
+                "Se",
+                "su",
+                "Su",
+                "sus",
+                "te",
+                "Un joven",
+                "YUN Byung-se",
+                "Zamora",
+                "¡Madur",
+                "«Madur"
+              ],
+              "handle": "se",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Combatant",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.MilitaryPersonnel",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Police",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.HeadOfGovernment",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.Mayor",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Journalist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Minister",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Scientist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Spokesperson",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Evaluate.Legitimacy.Legitimate_Event",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002938-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/columbia/K0C03BB24/ES_Relation_CU_0002938",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility_EntityResponsible",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0001573",
+              "names": [
+                " Nicolas Madur",
+                " Nicolas Maduro",
+                " Nicolás Madur",
+                "18 personas",
+                "33 muertos",
+                "38 fallecidos",
+                "54 niños",
+                "a Madu",
+                "AN Jong Su",
+                "Barack",
+                "BORIS VERGARA",
+                "Castro",
+                "cinco personas",
+                "cuatro personas",
+                "cuyo",
+                "ellas",
+                "estos 33 asesinados",
+                "Fidel Castro",
+                "Guarimbas",
+                "Henrique Capriles",
+                "Las",
+                "le",
+                "les",
+                "los",
+                "los asesinados",
+                "Los inconformes",
+                "los niños",
+                "Maduro",
+                "Maduro dictator",
+                "Maduro presidente",
+                "Maduro —",
+                "Maduro’s",
+                "Melville NICHOLAS",
+                "Nicholas",
+                "Nicholas Maduro",
+                "Nicolas",
+                "Nicolas EYZAGUIRRE",
+                "Nicolas Maduro",
+                "Nicolas OBAMA Nchama",
+                "Nicolas] Maduro",
+                "Nicolás",
+                "Nicolás Maduro",
+                "Nicolás Maduro Guerra",
+                "Nicolás Maduro’",
+                "Nicolás’",
+                "Obama",
+                "opositores muertos",
+                "Paparoni",
+                "presidente",
+                "que",
+                "quien",
+                "r Nicolás Madu",
+                "se",
+                "Se",
+                "Su",
+                "su",
+                "sus",
+                "te",
+                "Un joven",
+                "YUN Byung-se",
+                "Zamora",
+                "¡Madur",
+                "«Madur"
+              ],
+              "handle": "se",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Combatant",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.MilitaryPersonnel",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Police",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.HeadOfGovernment",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Politician.Mayor",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Journalist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Minister",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Scientist",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.ProfessionalPosition.Spokesperson",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#ResponsibilityBlame.ClaimResponsibility.ClaimResponsibility_Event",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/events/uiuc/K0C03BB24/ES_Event_004620",
+              "names": [],
+              "handle": null,
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004714-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004714",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_Place",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BDUB-r202010162246-106",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BDUB-r202010162246-106",
+              "names": [
+                "El Paraiso",
+                "El Paraíso"
+              ],
+              "handle": "El Paraiso",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        },
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_EntityOrFiller",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            },
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004733-cluster-projectedFromSingleton",
+      "prototype": "http://www.isi.edu/gaia/relations/uiuc/K0C03BB24/ES_Relation_ESP_0004733",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Physical.LocatedNear_EntityOrFiller",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0014662",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PER.Protester"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-event-instance-K0C03BB24-r202010162251-10",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/event-instance-K0C03BB24-r202010162251-10",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Place",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-event-instance-K0C03BB24-r202010162251-115",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/event-instance-K0C03BB24-r202010162251-115",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack.Bombing",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack.Bombing_Place",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-event-instance-K0C03BB24-r202010162251-131",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/event-instance-K0C03BB24-r202010162251-131",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering_Place",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BB0X-r202010162250-92",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BB0X-r202010162250-92",
+              "names": [
+                "Barrio Colinas Bolivarianas",
+                "Bolivarian Republic of Venezuela",
+                "bolivariana",
+                "Bolivariana",
+                "bolivarianas",
+                "España",
+                "país",
+                "países",
+                "venezolana",
+                "venezolanas",
+                "venezolano",
+                "Venezolano",
+                "venezolanos",
+                "Venezuela",
+                "Боливарианской Республики Венесуэла",
+                "Венесуэла",
+                "Венесуэле",
+                "Венесуэлы"
+              ],
+              "handle": "país",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.Country.Country"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-event-instance-K0C03BB24-r202010162251-5",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/event-instance-K0C03BB24-r202010162251-5",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Movement.TransportPerson.SelfMotion",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Movement.TransportPerson.SelfMotion_Destination",
+          "arguments": [
+            {
+              "id": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649-cluster-projectedFromSingleton",
+              "prototype": "http://www.isi.edu/gaia/entities/uiuc/K0C03BB24/ES_Entity_EDL_0006649",
+              "names": [],
+              "handle": "",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#FAC.Way.Street"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-event-instance-K0C03BB39-r202010162251-69",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/event-instance-K0C03BB39-r202010162251-69",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Event",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Demonstrate.MarchProtestPoliticalGathering_Place",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BB0X-r202010162250-92",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BB0X-r202010162250-92",
+              "names": [
+                "Barrio Colinas Bolivarianas",
+                "Bolivarian Republic of Venezuela",
+                "bolivariana",
+                "Bolivariana",
+                "bolivarianas",
+                "España",
+                "país",
+                "países",
+                "venezolana",
+                "venezolanas",
+                "venezolano",
+                "Venezolano",
+                "venezolanos",
+                "Venezuela",
+                "Боливарианской Республики Венесуэла",
+                "Венесуэла",
+                "Венесуэле",
+                "Венесуэлы"
+              ],
+              "handle": "país",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.Country.Country"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-relation-instance-K0C03BDMC-r202010162237-81",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/relation-instance-K0C03BDMC-r202010162237-81",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PartWhole.Subsidiary",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PartWhole.Subsidiary_Parent",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BDUB-r202010162246-106",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BDUB-r202010162246-106",
+              "names": [
+                "El Paraiso",
+                "El Paraíso"
+              ],
+              "handle": "El Paraiso",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-relation-instance-K0C03BDUB-r202010162246-5",
+      "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/relation-instance-K0C03BDUB-r202010162246-5",
+      "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Relation",
+      "type": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PartWhole.Subsidiary",
+      "dates": null,
+      "roles": [
+        {
+          "role": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#PartWhole.Subsidiary_Subsidiary",
+          "arguments": [
+            {
+              "id": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-K0C03BDUB-r202010162246-106",
+              "prototype": "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BDUB-r202010162246-106",
+              "names": [
+                "El Paraiso",
+                "El Paraíso"
+              ],
+              "handle": "El Paraiso",
+              "types": [
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE",
+                "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#GPE.UrbanArea.City"
+              ],
+              "category": "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#Entity"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

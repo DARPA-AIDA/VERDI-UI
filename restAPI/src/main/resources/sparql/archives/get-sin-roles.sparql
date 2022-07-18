@@ -1,0 +1,18 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT DISTINCT ?role
+{$from}
+WHERE {
+    # Get all roles for arg statements. ?prototype is explicit as it's used in eventFilter
+    ?prototype a aida:Event .
+    ?arg_statement rdf:subject ?prototype ;
+        rdf:predicate ?role .
+    FILTER (NOT EXISTS { ?arg_statement rdf:predicate rdf:type } ) .
+
+    #Filters
+    {$prototypeFilter}
+    {$eventFilter}
+}
+
+

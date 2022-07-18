@@ -1,0 +1,19 @@
+branch-defaults:
+  default:
+    environment: VERDI-UI-DEV
+environment-defaults:
+  VERDI-UI-DEV:
+    branch: null
+    repository: null
+global:
+  application_name: VERDI-UI
+  default_ec2_keyname: eks-nodes-key-pair
+  default_platform: Multi-container Docker running on 64bit Amazon Linux
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  sc: null
+  workspace_type: Application

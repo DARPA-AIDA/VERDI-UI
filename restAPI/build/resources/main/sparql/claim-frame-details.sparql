@@ -1,0 +1,44 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?claimURI ?topic ?subtopic ?claimTemplate ?queryId ?description ?sourceDocument ?system ?epistemic ?sentiment ?importance ?claimLocation ?claimer ?claimMedium
+(GROUP_CONCAT(DISTINCT ?claimerAffiliationURI;SEPARATOR=",") as ?claimerAffiliation) 
+(GROUP_CONCAT(DISTINCT ?xVariableURI;SEPARATOR=",") as ?xVariable)
+(GROUP_CONCAT(DISTINCT ?identicalClaimURI;SEPARATOR=",") as ?identicalClaims)
+(GROUP_CONCAT(DISTINCT ?refutingClaimURI;SEPARATOR=",") as ?refutingClaims)
+(GROUP_CONCAT(DISTINCT ?relatedClaimURI;SEPARATOR=",") as ?relatedClaims)
+(GROUP_CONCAT(DISTINCT ?supportingClaimURI;SEPARATOR=",") as ?supportingClaims)
+(GROUP_CONCAT(DISTINCT ?associatedKEURI;SEPARATOR=",") as ?associatedKEs)
+(GROUP_CONCAT(DISTINCT ?claimSemanticsURI;SEPARATOR=",") as ?claimSemantics)
+
+{$from}
+
+where {
+  ?claimURI a aida:Claim ;
+    aida:claimId "{$claimId}" ;
+    aida:topic ?topic ;
+    aida:subtopic ?subtopic ;
+    aida:claimTemplate ?claimTemplate ;
+    aida:queryId ?queryId ;
+    aida:naturalLanguageDescription ?description ;
+    aida:sourceDocument ?sourceDocument ;
+    aida:system ?system ;
+    aida:epistemic ?epistemic ;
+    aida:sentiment ?sentiment ;
+    aida:importance ?importance ;
+    aida:claimLocation ?claimLocation ;
+    aida:claimer ?claimer ;
+    aida:claimerAffiliation ?claimerAffiliationURI ;
+    aida:xVariable ?xVariableURI ;
+    aida:identicalClaims ?identicalClaimURI ;
+	aida:refutingClaims ?refutingClaimURI ;
+    aida:relatedClaims ?relatedClaimURI ;
+    aida:supportingClaims ?supportingClaimURI ;
+    aida:associatedKEs ?associatedKEURI ;
+    aida:claimSemantics ?claimSemanticsURI .
+    OPTIONAL { ?claimId aida:claimMedium ?claimMedium } .
+}
+
+group by ?claimURI ?topic ?subtopic ?claimTemplate ?queryId ?description ?sourceDocument ?system ?epistemic ?sentiment ?importance ?claimLocation ?claimer ?claimMedium
+
+

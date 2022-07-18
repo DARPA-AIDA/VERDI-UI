@@ -1,0 +1,85 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?claimURI ?topic ?subtopic ?claimTemplate ?queryId ?description ?sourceDocument ?system ?epistemic ?sentiment ?importance ?claimer ?claimMedium ?startAfterDay ?startAfterMonth ?startAfterYear ?startBeforeDay ?startBeforeMonth ?startBeforeYear ?endAfterDay ?endAfterMonth ?endAfterYear ?endBeforeDay ?endBeforeMonth ?endBeforeYear
+(GROUP_CONCAT(DISTINCT ?claimerAffiliationURI;SEPARATOR=",") as ?claimerAffiliation)
+(GROUP_CONCAT(DISTINCT ?xVariableURI;SEPARATOR=",") as ?xVariable)
+(GROUP_CONCAT(DISTINCT ?claimMedium;SEPARATOR=",") as ?claimMediumList)
+(GROUP_CONCAT(DISTINCT ?claimLocation;SEPARATOR=",") as ?claimLocationList)
+(GROUP_CONCAT(DISTINCT ?identicalClaimURI;SEPARATOR=",") as ?identicalClaims)
+(GROUP_CONCAT(DISTINCT ?refutingClaimURI;SEPARATOR=",") as ?refutingClaims)
+(GROUP_CONCAT(DISTINCT ?relatedClaimURI;SEPARATOR=",") as ?relatedClaims)
+(GROUP_CONCAT(DISTINCT ?supportingClaimURI;SEPARATOR=",") as ?supportingClaims)
+(GROUP_CONCAT(DISTINCT ?associatedKEURI;SEPARATOR=",") as ?associatedKEs)
+(GROUP_CONCAT(DISTINCT ?claimSemanticsURI;SEPARATOR=",") as ?claimSemantics)
+
+{$from}
+
+where {
+
+  # Other claim frame info
+  ?claimURI a aida:Claim ;
+  #aida:claimId ?claimId ;
+  aida:topic ?topic ;
+  aida:subtopic ?subtopic ;
+  aida:claimTemplate ?claimTemplate ;
+  aida:naturalLanguageDescription ?description ;
+  aida:sourceDocument ?sourceDocument ;
+  aida:epistemic ?epistemic ;
+  aida:sentiment ?sentiment ;
+  aida:importance ?importance ;
+  aida:claimer ?claimer ;
+  aida:xVariable ?xVariableURI .
+  # REMOVED PER MITRE/DARPA
+  # aida:associatedKEs ?associatedKEURI ;
+  # aida:claimSemantics ?claimSemanticsURI .
+
+  OPTIONAL { ?claimURI aida:queryId ?queryId } .
+  OPTIONAL { ?claimURI aida:system ?system } .
+  OPTIONAL { ?claimURI aida:claimerAffiliation ?claimerAffiliationURI ; } .
+
+  # REMOVING TO OPTIMIZE CONDITION 5 UI TARGET (COND 5 doesn't have claim relations)
+  # OPTIONAL { ?claimURI aida:identicalClaims ?identicalClaimURI ; } .
+  # OPTIONAL { ?claimURI aida:refutingClaims ?refutingClaimURI ; } .
+  # OPTIONAL { ?claimURI aida:relatedClaims ?relatedClaimURI ; } .
+  # OPTIONAL { ?claimURI aida:supportingClaims ?supportingClaimURI ; } .
+
+  OPTIONAL {
+
+    ?claimURI aida:claimDateTime ?tmp .
+
+    # Start After
+    ?tmp aida:start ?startAfterTime .
+    ?startAfterTime aida:timeType "AFTER"
+    OPTIONAL { ?startAfterTime aida:day ?startAfterDay }.
+    OPTIONAL { ?startAfterTime aida:month ?startAfterMonth }.
+    OPTIONAL { ?startAfterTime aida:year ?startAfterYear }.
+
+    # Start Before
+    ?tmp aida:start ?startBeforeTime .
+    ?startBeforeTime aida:timeType "BEFORE"
+    OPTIONAL { ?startBeforeTime aida:day ?startBeforeDay }.
+    OPTIONAL { ?startBeforeTime aida:month ?startBeforeMonth }.
+    OPTIONAL { ?startBeforeTime aida:year ?startBeforeYear }.
+
+    #End After
+    ?tmp aida:end ?endAfterTime .
+    ?endAfterTime aida:timeType "AFTER"
+    OPTIONAL { ?endAfterTime aida:day ?endAfterDay } .
+    OPTIONAL { ?endAfterTime aida:month ?endAfterMonth } .
+    OPTIONAL { ?endAfterTime aida:year ?endAfterYear } .
+
+    # End Before
+    ?tmp aida:end ?endBeforeTime .
+    ?endBeforeTime aida:timeType "BEFORE"
+    OPTIONAL { ?endBeforeTime aida:day ?endBeforeDay } .
+    OPTIONAL { ?endBeforeTime aida:month ?endBeforeMonth } .
+    OPTIONAL { ?endBeforeTime aida:year ?endBeforeYear } .
+
+  }
+
+
+}
+group by ?claimURI ?topic ?subtopic ?claimTemplate ?queryId ?description ?sourceDocument ?system ?epistemic ?sentiment ?importance ?claimer ?claimMedium ?startAfterDay ?startAfterMonth ?startAfterYear ?startBeforeDay ?startBeforeMonth ?startBeforeYear ?endAfterDay ?endAfterMonth ?endAfterYear ?endBeforeDay ?endBeforeMonth ?endBeforeYear
+
+
+

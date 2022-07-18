@@ -1,0 +1,95 @@
+
+{
+  "AWSEBDockerrunVersion": 2,
+  "volumes": [],
+  "containerDefinitions": [
+    {
+      "name": "verdi-ui-es",
+      "image": "elasticsearch:7.9.1",
+      "essential": true,
+      "memoryReservation": 512,
+      "portMappings": [
+        {
+          "hostPort": 9200,
+          "containerPort": 9200
+        },
+        {
+          "hostPort": 9300,
+          "containerPort": 9300
+        }
+      ],
+      "links": [],
+      "environment": [
+        {
+          "name": "discovery.type",
+          "value": "single-node"
+        }
+      ],
+      "mountPoints": []
+    },
+    {
+      "name": "verdi-ui-restapi",
+      "image": "606941321404.dkr.ecr.us-east-1.amazonaws.com/verdi-ui-restapi:latest",
+      "essential": true,
+      "memoryReservation": 1024,
+      "portMappings": [
+        {
+          "hostPort": 8008,
+          "containerPort": 8008
+        }
+      ],
+      "links": ["verdi-ui-es"],
+      "environment": [
+        {
+          "name": "VERSION",
+          "value": "0.1.0"
+        },
+        {
+          "name": "NEPTUNE_URL",
+          "value": "prototype-ui.cbbg7lviorzp.us-east-1.neptune.amazonaws.com"
+        },
+        {
+          "name": "NEPTUNE_PORT",
+          "value": "8182"
+        },
+        {
+          "name": "NEPTUNE_PROXY",
+          "value": "3.80.194.207"
+        },
+        {
+          "name": "POPULATE_ES",
+          "value": "true"
+        },
+        {
+          "name": "VERDI_API_PORT",
+          "value": "8008"
+        }
+      ],
+      "mountPoints": []
+    },
+    {
+      "name": "verdi-ui-gui",
+      "image": "606941321404.dkr.ecr.us-east-1.amazonaws.com/verdi-ui-gui:latest",
+      "essential": true,
+      "memoryReservation": 512,
+      "portMappings": [
+        {
+          "hostPort": 8081,
+          "containerPort": 8081
+        }
+      ],
+      "links": ["verdi-ui-restapi"],
+      "environment": [
+        {
+          "name": "VERDI_GUI_PORT",
+          "value": "8081"
+        },
+        {
+          "name": "VERDI_GUI_HOST",
+          "value": "verdi-ui-dev.eba-bf2bujss.us-east-1.elasticbeanstalk.com"
+        }
+      ],
+      "mountPoints": []
+    }
+  ]
+}

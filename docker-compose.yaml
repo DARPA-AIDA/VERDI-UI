@@ -1,0 +1,20 @@
+version: "3"
+services:
+  verdi-ui-restapi:
+    hostname: verdi-ui-restapi
+    env_file:
+      - docker/local/docker.env
+    build:
+      context: ./
+      dockerfile: docker/local/verdi-ui-restapi/Dockerfile
+    ports:
+      - "8008:8008"
+  verdi-ui-gui:
+    hostname: verdi-ui-gui
+    env_file:
+      - docker/local/docker.env
+    build:
+      context: ./GUI
+      dockerfile: ../docker/local/verdi-ui-gui/Dockerfile
+    ports:
+      - "8081:8081"

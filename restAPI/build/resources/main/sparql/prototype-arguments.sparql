@@ -1,0 +1,18 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select distinct ?filler_cluster (GROUP_CONCAT(DISTINCT ?name;SEPARATOR=",") as ?names) (GROUP_CONCAT(DISTINCT ?handle;SEPARATOR=",") as ?handles) (GROUP_CONCAT(DISTINCT ?type;SEPARATOR=",") as ?types) {$from}
+where {
+    <{$cluster}> aida:prototype / ^rdf:subject ?arg_statement .
+    ?arg_statement rdf:object / ^aida:clusterMember / aida:cluster ?filler_cluster .
+    ?filler_cluster aida:prototype ?filler .
+
+    OPTIONAL { ?filler aida:hasName ?name } .
+    OPTIONAL { ?filler aida:handle ?handle } .
+
+    FILTER (NOT EXISTS { ?arg_statement rdf:predicate rdf:type } ) .
+
+    ?filler_type rdf:subject ?filler .
+    ?filler_type rdf:predicate rdf:type .
+    ?filler_type rdf:object ?type .
+}
+group by ?filler_cluster

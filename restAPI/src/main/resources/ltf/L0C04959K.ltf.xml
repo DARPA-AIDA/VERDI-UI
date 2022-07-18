@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C04959K" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3474" raw_text_md5="29f9a4c4ddd323b58914741b796c85b3">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="113">
+<ORIGINAL_TEXT>FDA warns consumers about the dangerous and potentially life threatening side effects of Miracle Mineral Solution</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">FDA</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="9">warns</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="19">consumers</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="21" end_char="25">about</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="27" end_char="29">the</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="31" end_char="39">dangerous</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="41" end_char="43">and</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="45" end_char="55">potentially</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="57" end_char="60">life</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="62" end_char="72">threatening</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="74" end_char="77">side</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="79" end_char="85">effects</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="87" end_char="88">of</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="90" end_char="96">Miracle</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="98" end_char="104">Mineral</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="106" end_char="113">Solution</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="117" end_char="292">
+<ORIGINAL_TEXT>The U.S. Food and Drug Administration is warning consumers not to purchase or drink a product sold online as a medical treatment due to a recent rise in reported health issues.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="117" end_char="119">The</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="121" end_char="123">U.S</TOKEN>
+<TOKEN id="token-1-2" pos="punct" morph="none" start_char="124" end_char="124">.</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="126" end_char="129">Food</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="131" end_char="133">and</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="135" end_char="138">Drug</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="140" end_char="153">Administration</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="155" end_char="156">is</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="158" end_char="164">warning</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="166" end_char="174">consumers</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="176" end_char="178">not</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="180" end_char="181">to</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="183" end_char="190">purchase</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="192" end_char="193">or</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="195" end_char="199">drink</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="201" end_char="201">a</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="203" end_char="209">product</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="211" end_char="214">sold</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="216" end_char="221">online</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="223" end_char="224">as</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="226" end_char="226">a</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="228" end_char="234">medical</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="236" end_char="244">treatment</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="246" end_char="248">due</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="250" end_char="251">to</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="253" end_char="253">a</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="255" end_char="260">recent</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="262" end_char="265">rise</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="267" end_char="268">in</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="270" end_char="277">reported</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="279" end_char="284">health</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="286" end_char="291">issues</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="292" end_char="292">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="294" end_char="517">
+<ORIGINAL_TEXT>Since 2010, the FDA has warned consumers about the dangers of Miracle or Master Mineral Solution, Miracle Mineral Supplement, MMS, Chlorine Dioxide (CD) Protocol, Water Purification Solution (WPS) and other similar products.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="294" end_char="298">Since</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="300" end_char="303">2010</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="304" end_char="304">,</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="306" end_char="308">the</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="310" end_char="312">FDA</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="314" end_char="316">has</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="318" end_char="323">warned</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="325" end_char="333">consumers</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="335" end_char="339">about</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="341" end_char="343">the</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="345" end_char="351">dangers</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="353" end_char="354">of</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="356" end_char="362">Miracle</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="364" end_char="365">or</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="367" end_char="372">Master</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="374" end_char="380">Mineral</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="382" end_char="389">Solution</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="390" end_char="390">,</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="392" end_char="398">Miracle</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="400" end_char="406">Mineral</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="408" end_char="417">Supplement</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="418" end_char="418">,</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="420" end_char="422">MMS</TOKEN>
+<TOKEN id="token-2-23" pos="punct" morph="none" start_char="423" end_char="423">,</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="425" end_char="432">Chlorine</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="434" end_char="440">Dioxide</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="442" end_char="442">(</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="443" end_char="444">CD</TOKEN>
+<TOKEN id="token-2-28" pos="punct" morph="none" start_char="445" end_char="445">)</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="447" end_char="454">Protocol</TOKEN>
+<TOKEN id="token-2-30" pos="punct" morph="none" start_char="455" end_char="455">,</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="457" end_char="461">Water</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="463" end_char="474">Purification</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="476" end_char="483">Solution</TOKEN>
+<TOKEN id="token-2-34" pos="punct" morph="none" start_char="485" end_char="485">(</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="486" end_char="488">WPS</TOKEN>
+<TOKEN id="token-2-36" pos="punct" morph="none" start_char="489" end_char="489">)</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="491" end_char="493">and</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="495" end_char="499">other</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="501" end_char="507">similar</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="509" end_char="516">products</TOKEN>
+<TOKEN id="token-2-41" pos="punct" morph="none" start_char="517" end_char="517">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="519" end_char="741">
+<ORIGINAL_TEXT>Miracle Mineral Solution has not been approved by the FDA for any use, but these products continue to be promoted on social media as a remedy for treating autism, cancer, HIV/AIDS, hepatitis and flu, among other conditions.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="519" end_char="525">Miracle</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="527" end_char="533">Mineral</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="535" end_char="542">Solution</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="544" end_char="546">has</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="548" end_char="550">not</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="552" end_char="555">been</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="557" end_char="564">approved</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="566" end_char="567">by</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="569" end_char="571">the</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="573" end_char="575">FDA</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="577" end_char="579">for</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="581" end_char="583">any</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="585" end_char="587">use</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="588" end_char="588">,</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="590" end_char="592">but</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="594" end_char="598">these</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="600" end_char="607">products</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="609" end_char="616">continue</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="618" end_char="619">to</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="621" end_char="622">be</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="624" end_char="631">promoted</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="633" end_char="634">on</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="636" end_char="641">social</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="643" end_char="647">media</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="649" end_char="650">as</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="652" end_char="652">a</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="654" end_char="659">remedy</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="661" end_char="663">for</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="665" end_char="672">treating</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="674" end_char="679">autism</TOKEN>
+<TOKEN id="token-3-30" pos="punct" morph="none" start_char="680" end_char="680">,</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="682" end_char="687">cancer</TOKEN>
+<TOKEN id="token-3-32" pos="punct" morph="none" start_char="688" end_char="688">,</TOKEN>
+<TOKEN id="token-3-33" pos="unknown" morph="none" start_char="690" end_char="697">HIV/AIDS</TOKEN>
+<TOKEN id="token-3-34" pos="punct" morph="none" start_char="698" end_char="698">,</TOKEN>
+<TOKEN id="token-3-35" pos="word" morph="none" start_char="700" end_char="708">hepatitis</TOKEN>
+<TOKEN id="token-3-36" pos="word" morph="none" start_char="710" end_char="712">and</TOKEN>
+<TOKEN id="token-3-37" pos="word" morph="none" start_char="714" end_char="716">flu</TOKEN>
+<TOKEN id="token-3-38" pos="punct" morph="none" start_char="717" end_char="717">,</TOKEN>
+<TOKEN id="token-3-39" pos="word" morph="none" start_char="719" end_char="723">among</TOKEN>
+<TOKEN id="token-3-40" pos="word" morph="none" start_char="725" end_char="729">other</TOKEN>
+<TOKEN id="token-3-41" pos="word" morph="none" start_char="731" end_char="740">conditions</TOKEN>
+<TOKEN id="token-3-42" pos="punct" morph="none" start_char="741" end_char="741">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="743" end_char="881">
+<ORIGINAL_TEXT>However, the solution, when mixed, develops into a dangerous bleach which has caused serious and potentially life-threatening side effects.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="743" end_char="749">However</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="750" end_char="750">,</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="752" end_char="754">the</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="756" end_char="763">solution</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="764" end_char="764">,</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="766" end_char="769">when</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="771" end_char="775">mixed</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="776" end_char="776">,</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="778" end_char="785">develops</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="787" end_char="790">into</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="792" end_char="792">a</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="794" end_char="802">dangerous</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="804" end_char="809">bleach</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="811" end_char="815">which</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="817" end_char="819">has</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="821" end_char="826">caused</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="828" end_char="834">serious</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="836" end_char="838">and</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="840" end_char="850">potentially</TOKEN>
+<TOKEN id="token-4-19" pos="unknown" morph="none" start_char="852" end_char="867">life-threatening</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="869" end_char="872">side</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="874" end_char="880">effects</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="881" end_char="881">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="884" end_char="979">
+<ORIGINAL_TEXT>"The FDA’s drug approval process ensures that patients receive safe and effective drug products.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="punct" morph="none" start_char="884" end_char="884">"</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="885" end_char="887">The</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="889" end_char="893">FDA’s</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="895" end_char="898">drug</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="900" end_char="907">approval</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="909" end_char="915">process</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="917" end_char="923">ensures</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="925" end_char="928">that</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="930" end_char="937">patients</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="939" end_char="945">receive</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="947" end_char="950">safe</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="952" end_char="954">and</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="956" end_char="964">effective</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="966" end_char="969">drug</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="971" end_char="978">products</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="979" end_char="979">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="981" end_char="1108">
+<ORIGINAL_TEXT>Miracle Mineral Solution and similar products are not FDA-approved, and ingesting these products is the same as drinking bleach.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="981" end_char="987">Miracle</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="989" end_char="995">Mineral</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="997" end_char="1004">Solution</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1006" end_char="1008">and</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1010" end_char="1016">similar</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1018" end_char="1025">products</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1027" end_char="1029">are</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1031" end_char="1033">not</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="1035" end_char="1046">FDA-approved</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="1047" end_char="1047">,</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1049" end_char="1051">and</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1053" end_char="1061">ingesting</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1063" end_char="1067">these</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1069" end_char="1076">products</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1078" end_char="1079">is</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1081" end_char="1083">the</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1085" end_char="1088">same</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1090" end_char="1091">as</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1093" end_char="1100">drinking</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1102" end_char="1107">bleach</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="1108" end_char="1108">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1110" end_char="1518">
+<ORIGINAL_TEXT>Consumers should not use these products, and parents should not give these products to their children for any reason," said FDA Acting Commissioner Ned Sharpless, M.D. "The FDA will continue to track those selling this dangerous product and take appropriate enforcement actions against those who attempt to evade FDA regulations and market unapproved and potentially dangerous products to the American public.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1110" end_char="1118">Consumers</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1120" end_char="1125">should</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1127" end_char="1129">not</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1131" end_char="1133">use</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1135" end_char="1139">these</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1141" end_char="1148">products</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="1149" end_char="1149">,</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1151" end_char="1153">and</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1155" end_char="1161">parents</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1163" end_char="1168">should</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1170" end_char="1172">not</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1174" end_char="1177">give</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1179" end_char="1183">these</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1185" end_char="1192">products</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1194" end_char="1195">to</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1197" end_char="1201">their</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1203" end_char="1210">children</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1212" end_char="1214">for</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1216" end_char="1218">any</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1220" end_char="1225">reason</TOKEN>
+<TOKEN id="token-7-20" pos="punct" morph="none" start_char="1226" end_char="1227">,"</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1229" end_char="1232">said</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1234" end_char="1236">FDA</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1238" end_char="1243">Acting</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1245" end_char="1256">Commissioner</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1258" end_char="1260">Ned</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1262" end_char="1270">Sharpless</TOKEN>
+<TOKEN id="token-7-27" pos="punct" morph="none" start_char="1271" end_char="1271">,</TOKEN>
+<TOKEN id="token-7-28" pos="unknown" morph="none" start_char="1273" end_char="1275">M.D</TOKEN>
+<TOKEN id="token-7-29" pos="punct" morph="none" start_char="1276" end_char="1276">.</TOKEN>
+<TOKEN id="token-7-30" pos="punct" morph="none" start_char="1278" end_char="1278">"</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="1279" end_char="1281">The</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="1283" end_char="1285">FDA</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="1287" end_char="1290">will</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="1292" end_char="1299">continue</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="1301" end_char="1302">to</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="1304" end_char="1308">track</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="1310" end_char="1314">those</TOKEN>
+<TOKEN id="token-7-38" pos="word" morph="none" start_char="1316" end_char="1322">selling</TOKEN>
+<TOKEN id="token-7-39" pos="word" morph="none" start_char="1324" end_char="1327">this</TOKEN>
+<TOKEN id="token-7-40" pos="word" morph="none" start_char="1329" end_char="1337">dangerous</TOKEN>
+<TOKEN id="token-7-41" pos="word" morph="none" start_char="1339" end_char="1345">product</TOKEN>
+<TOKEN id="token-7-42" pos="word" morph="none" start_char="1347" end_char="1349">and</TOKEN>
+<TOKEN id="token-7-43" pos="word" morph="none" start_char="1351" end_char="1354">take</TOKEN>
+<TOKEN id="token-7-44" pos="word" morph="none" start_char="1356" end_char="1366">appropriate</TOKEN>
+<TOKEN id="token-7-45" pos="word" morph="none" start_char="1368" end_char="1378">enforcement</TOKEN>
+<TOKEN id="token-7-46" pos="word" morph="none" start_char="1380" end_char="1386">actions</TOKEN>
+<TOKEN id="token-7-47" pos="word" morph="none" start_char="1388" end_char="1394">against</TOKEN>
+<TOKEN id="token-7-48" pos="word" morph="none" start_char="1396" end_char="1400">those</TOKEN>
+<TOKEN id="token-7-49" pos="word" morph="none" start_char="1402" end_char="1404">who</TOKEN>
+<TOKEN id="token-7-50" pos="word" morph="none" start_char="1406" end_char="1412">attempt</TOKEN>
+<TOKEN id="token-7-51" pos="word" morph="none" start_char="1414" end_char="1415">to</TOKEN>
+<TOKEN id="token-7-52" pos="word" morph="none" start_char="1417" end_char="1421">evade</TOKEN>
+<TOKEN id="token-7-53" pos="word" morph="none" start_char="1423" end_char="1425">FDA</TOKEN>
+<TOKEN id="token-7-54" pos="word" morph="none" start_char="1427" end_char="1437">regulations</TOKEN>
+<TOKEN id="token-7-55" pos="word" morph="none" start_char="1439" end_char="1441">and</TOKEN>
+<TOKEN id="token-7-56" pos="word" morph="none" start_char="1443" end_char="1448">market</TOKEN>
+<TOKEN id="token-7-57" pos="word" morph="none" start_char="1450" end_char="1459">unapproved</TOKEN>
+<TOKEN id="token-7-58" pos="word" morph="none" start_char="1461" end_char="1463">and</TOKEN>
+<TOKEN id="token-7-59" pos="word" morph="none" start_char="1465" end_char="1475">potentially</TOKEN>
+<TOKEN id="token-7-60" pos="word" morph="none" start_char="1477" end_char="1485">dangerous</TOKEN>
+<TOKEN id="token-7-61" pos="word" morph="none" start_char="1487" end_char="1494">products</TOKEN>
+<TOKEN id="token-7-62" pos="word" morph="none" start_char="1496" end_char="1497">to</TOKEN>
+<TOKEN id="token-7-63" pos="word" morph="none" start_char="1499" end_char="1501">the</TOKEN>
+<TOKEN id="token-7-64" pos="word" morph="none" start_char="1503" end_char="1510">American</TOKEN>
+<TOKEN id="token-7-65" pos="word" morph="none" start_char="1512" end_char="1517">public</TOKEN>
+<TOKEN id="token-7-66" pos="punct" morph="none" start_char="1518" end_char="1518">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1520" end_char="1714">
+<ORIGINAL_TEXT>Our top priority is to protect the public from products that place their health at risk, and we will send a strong and clear message that these products have the potential to cause serious harm."</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1520" end_char="1522">Our</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1524" end_char="1526">top</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1528" end_char="1535">priority</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1537" end_char="1538">is</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1540" end_char="1541">to</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1543" end_char="1549">protect</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1551" end_char="1553">the</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1555" end_char="1560">public</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1562" end_char="1565">from</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1567" end_char="1574">products</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1576" end_char="1579">that</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1581" end_char="1585">place</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1587" end_char="1591">their</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1593" end_char="1598">health</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1600" end_char="1601">at</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1603" end_char="1606">risk</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="1607" end_char="1607">,</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1609" end_char="1611">and</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1613" end_char="1614">we</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1616" end_char="1619">will</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1621" end_char="1624">send</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1626" end_char="1626">a</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1628" end_char="1633">strong</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1635" end_char="1637">and</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1639" end_char="1643">clear</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1645" end_char="1651">message</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1653" end_char="1656">that</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1658" end_char="1662">these</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1664" end_char="1671">products</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1673" end_char="1676">have</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1678" end_char="1680">the</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1682" end_char="1690">potential</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1692" end_char="1693">to</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1695" end_char="1699">cause</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1701" end_char="1707">serious</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="1709" end_char="1712">harm</TOKEN>
+<TOKEN id="token-8-36" pos="punct" morph="none" start_char="1713" end_char="1714">."</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1717" end_char="1817">
+<ORIGINAL_TEXT>Websites selling MMS describe the product as a liquid that is 28% sodium chlorite in distilled water.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1717" end_char="1724">Websites</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1726" end_char="1732">selling</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1734" end_char="1736">MMS</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1738" end_char="1745">describe</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1747" end_char="1749">the</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1751" end_char="1757">product</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1759" end_char="1760">as</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1762" end_char="1762">a</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1764" end_char="1769">liquid</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1771" end_char="1774">that</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1776" end_char="1777">is</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1779" end_char="1780">28</TOKEN>
+<TOKEN id="token-9-12" pos="punct" morph="none" start_char="1781" end_char="1781">%</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1783" end_char="1788">sodium</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1790" end_char="1797">chlorite</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1799" end_char="1800">in</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1802" end_char="1810">distilled</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1812" end_char="1816">water</TOKEN>
+<TOKEN id="token-9-18" pos="punct" morph="none" start_char="1817" end_char="1817">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1819" end_char="1973">
+<ORIGINAL_TEXT>Product directions instruct consumers to mix the sodium chlorite solution with citric acid – such as lemon or lime juice – or another acid before drinking.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1819" end_char="1825">Product</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1827" end_char="1836">directions</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1838" end_char="1845">instruct</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1847" end_char="1855">consumers</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1857" end_char="1858">to</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1860" end_char="1862">mix</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1864" end_char="1866">the</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1868" end_char="1873">sodium</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1875" end_char="1882">chlorite</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1884" end_char="1891">solution</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1893" end_char="1896">with</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1898" end_char="1903">citric</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1905" end_char="1908">acid</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="1910" end_char="1910">–</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1912" end_char="1915">such</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1917" end_char="1918">as</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1920" end_char="1924">lemon</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1926" end_char="1927">or</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1929" end_char="1932">lime</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1934" end_char="1938">juice</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1940" end_char="1940">–</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1942" end_char="1943">or</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1945" end_char="1951">another</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1953" end_char="1956">acid</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1958" end_char="1963">before</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1965" end_char="1972">drinking</TOKEN>
+<TOKEN id="token-10-26" pos="punct" morph="none" start_char="1973" end_char="1973">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1975" end_char="2052">
+<ORIGINAL_TEXT>In many instances, the sodium chlorite is sold with a citric acid "activator."</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1975" end_char="1976">In</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1978" end_char="1981">many</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1983" end_char="1991">instances</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="1992" end_char="1992">,</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1994" end_char="1996">the</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1998" end_char="2003">sodium</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="2005" end_char="2012">chlorite</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="2014" end_char="2015">is</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="2017" end_char="2020">sold</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="2022" end_char="2025">with</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="2027" end_char="2027">a</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="2029" end_char="2034">citric</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="2036" end_char="2039">acid</TOKEN>
+<TOKEN id="token-11-13" pos="punct" morph="none" start_char="2041" end_char="2041">"</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="2042" end_char="2050">activator</TOKEN>
+<TOKEN id="token-11-15" pos="punct" morph="none" start_char="2051" end_char="2052">."</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="2054" end_char="2142">
+<ORIGINAL_TEXT>When the acid is added, the mixture becomes chlorine dioxide, a powerful bleaching agent.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="2054" end_char="2057">When</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="2059" end_char="2061">the</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="2063" end_char="2066">acid</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="2068" end_char="2069">is</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="2071" end_char="2075">added</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="2076" end_char="2076">,</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="2078" end_char="2080">the</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="2082" end_char="2088">mixture</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="2090" end_char="2096">becomes</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="2098" end_char="2105">chlorine</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="2107" end_char="2113">dioxide</TOKEN>
+<TOKEN id="token-12-11" pos="punct" morph="none" start_char="2114" end_char="2114">,</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="2116" end_char="2116">a</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="2118" end_char="2125">powerful</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="2127" end_char="2135">bleaching</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="2137" end_char="2141">agent</TOKEN>
+<TOKEN id="token-12-16" pos="punct" morph="none" start_char="2142" end_char="2142">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2145" end_char="2351">
+<ORIGINAL_TEXT>The FDA recently received new reports of people experiencing severe vomiting, severe diarrhea, life-threatening low blood pressure caused by dehydration and acute liver failure after drinking these products.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2145" end_char="2147">The</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2149" end_char="2151">FDA</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2153" end_char="2160">recently</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2162" end_char="2169">received</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2171" end_char="2173">new</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2175" end_char="2181">reports</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2183" end_char="2184">of</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2186" end_char="2191">people</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2193" end_char="2204">experiencing</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2206" end_char="2211">severe</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2213" end_char="2220">vomiting</TOKEN>
+<TOKEN id="token-13-11" pos="punct" morph="none" start_char="2221" end_char="2221">,</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2223" end_char="2228">severe</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2230" end_char="2237">diarrhea</TOKEN>
+<TOKEN id="token-13-14" pos="punct" morph="none" start_char="2238" end_char="2238">,</TOKEN>
+<TOKEN id="token-13-15" pos="unknown" morph="none" start_char="2240" end_char="2255">life-threatening</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2257" end_char="2259">low</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2261" end_char="2265">blood</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2267" end_char="2274">pressure</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2276" end_char="2281">caused</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2283" end_char="2284">by</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="2286" end_char="2296">dehydration</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2298" end_char="2300">and</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2302" end_char="2306">acute</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2308" end_char="2312">liver</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="2314" end_char="2320">failure</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="2322" end_char="2326">after</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="2328" end_char="2335">drinking</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="2337" end_char="2341">these</TOKEN>
+<TOKEN id="token-13-29" pos="word" morph="none" start_char="2343" end_char="2350">products</TOKEN>
+<TOKEN id="token-13-30" pos="punct" morph="none" start_char="2351" end_char="2351">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2353" end_char="2538">
+<ORIGINAL_TEXT>The FDA is not aware of any scientific evidence supporting the safety or effectiveness of MMS products, despite claims that the solution is an antimicrobial, antiviral and antibacterial.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2353" end_char="2355">The</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2357" end_char="2359">FDA</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2361" end_char="2362">is</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2364" end_char="2366">not</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2368" end_char="2372">aware</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2374" end_char="2375">of</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2377" end_char="2379">any</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2381" end_char="2390">scientific</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2392" end_char="2399">evidence</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2401" end_char="2410">supporting</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2412" end_char="2414">the</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2416" end_char="2421">safety</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2423" end_char="2424">or</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2426" end_char="2438">effectiveness</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2440" end_char="2441">of</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2443" end_char="2445">MMS</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="2447" end_char="2454">products</TOKEN>
+<TOKEN id="token-14-17" pos="punct" morph="none" start_char="2455" end_char="2455">,</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="2457" end_char="2463">despite</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="2465" end_char="2470">claims</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="2472" end_char="2475">that</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="2477" end_char="2479">the</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="2481" end_char="2488">solution</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="2490" end_char="2491">is</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="2493" end_char="2494">an</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="2496" end_char="2508">antimicrobial</TOKEN>
+<TOKEN id="token-14-26" pos="punct" morph="none" start_char="2509" end_char="2509">,</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="2511" end_char="2519">antiviral</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="2521" end_char="2523">and</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="2525" end_char="2537">antibacterial</TOKEN>
+<TOKEN id="token-14-30" pos="punct" morph="none" start_char="2538" end_char="2538">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2540" end_char="2652">
+<ORIGINAL_TEXT>The FDA encourages consumers to talk to a health care professional about treating medical conditions or diseases.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2540" end_char="2542">The</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2544" end_char="2546">FDA</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2548" end_char="2557">encourages</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2559" end_char="2567">consumers</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2569" end_char="2570">to</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2572" end_char="2575">talk</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2577" end_char="2578">to</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2580" end_char="2580">a</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2582" end_char="2587">health</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2589" end_char="2592">care</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2594" end_char="2605">professional</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2607" end_char="2611">about</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2613" end_char="2620">treating</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2622" end_char="2628">medical</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2630" end_char="2639">conditions</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2641" end_char="2642">or</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2644" end_char="2651">diseases</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="2652" end_char="2652">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2655" end_char="2779">
+<ORIGINAL_TEXT>Consumers who have experienced an adverse health effect after ingesting this product should seek immediate medical attention.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2655" end_char="2663">Consumers</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2665" end_char="2667">who</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2669" end_char="2672">have</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2674" end_char="2684">experienced</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2686" end_char="2687">an</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2689" end_char="2695">adverse</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2697" end_char="2702">health</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2704" end_char="2709">effect</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2711" end_char="2715">after</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2717" end_char="2725">ingesting</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2727" end_char="2730">this</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2732" end_char="2738">product</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2740" end_char="2745">should</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2747" end_char="2750">seek</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2752" end_char="2760">immediate</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2762" end_char="2768">medical</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2770" end_char="2778">attention</TOKEN>
+<TOKEN id="token-16-17" pos="punct" morph="none" start_char="2779" end_char="2779">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2781" end_char="3001">
+<ORIGINAL_TEXT>Anyone who has experienced an adverse health effect that may be related to MMS should report it through the FDA’s MedWatch Safety Information program as soon as possible at 800-FDA-1088 or www.fda.gov/medwatch/report.htm.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2781" end_char="2786">Anyone</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2788" end_char="2790">who</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2792" end_char="2794">has</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2796" end_char="2806">experienced</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2808" end_char="2809">an</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2811" end_char="2817">adverse</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2819" end_char="2824">health</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2826" end_char="2831">effect</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2833" end_char="2836">that</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2838" end_char="2840">may</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2842" end_char="2843">be</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2845" end_char="2851">related</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2853" end_char="2854">to</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2856" end_char="2858">MMS</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2860" end_char="2865">should</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2867" end_char="2872">report</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2874" end_char="2875">it</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2877" end_char="2883">through</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2885" end_char="2887">the</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2889" end_char="2893">FDA’s</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2895" end_char="2902">MedWatch</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2904" end_char="2909">Safety</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2911" end_char="2921">Information</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2923" end_char="2929">program</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2931" end_char="2932">as</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2934" end_char="2937">soon</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2939" end_char="2940">as</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2942" end_char="2949">possible</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2951" end_char="2952">at</TOKEN>
+<TOKEN id="token-17-29" pos="unknown" morph="none" start_char="2954" end_char="2965">800-FDA-1088</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2967" end_char="2968">or</TOKEN>
+<TOKEN id="token-17-31" pos="url" morph="none" start_char="2970" end_char="3001">www.fda.gov/medwatch/report.htm.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3004" end_char="3263">
+<ORIGINAL_TEXT>The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="3004" end_char="3006">The</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="3008" end_char="3010">FDA</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="3011" end_char="3011">,</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="3013" end_char="3014">an</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="3016" end_char="3021">agency</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="3023" end_char="3028">within</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="3030" end_char="3032">the</TOKEN>
+<TOKEN id="token-18-7" pos="unknown" morph="none" start_char="3034" end_char="3036">U.S</TOKEN>
+<TOKEN id="token-18-8" pos="punct" morph="none" start_char="3037" end_char="3037">.</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="3039" end_char="3048">Department</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="3050" end_char="3051">of</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="3053" end_char="3058">Health</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="3060" end_char="3062">and</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="3064" end_char="3068">Human</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="3070" end_char="3077">Services</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="3078" end_char="3078">,</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="3080" end_char="3087">protects</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="3089" end_char="3091">the</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="3093" end_char="3098">public</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="3100" end_char="3105">health</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="3107" end_char="3108">by</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="3110" end_char="3117">assuring</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="3119" end_char="3121">the</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="3123" end_char="3128">safety</TOKEN>
+<TOKEN id="token-18-24" pos="punct" morph="none" start_char="3129" end_char="3129">,</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="3131" end_char="3143">effectiveness</TOKEN>
+<TOKEN id="token-18-26" pos="punct" morph="none" start_char="3144" end_char="3144">,</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="3146" end_char="3148">and</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="3150" end_char="3157">security</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="3159" end_char="3160">of</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="3162" end_char="3166">human</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="3168" end_char="3170">and</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="3172" end_char="3181">veterinary</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="3183" end_char="3187">drugs</TOKEN>
+<TOKEN id="token-18-34" pos="punct" morph="none" start_char="3188" end_char="3188">,</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="3190" end_char="3197">vaccines</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="3199" end_char="3201">and</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="3203" end_char="3207">other</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="3209" end_char="3218">biological</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="3220" end_char="3227">products</TOKEN>
+<TOKEN id="token-18-40" pos="word" morph="none" start_char="3229" end_char="3231">for</TOKEN>
+<TOKEN id="token-18-41" pos="word" morph="none" start_char="3233" end_char="3237">human</TOKEN>
+<TOKEN id="token-18-42" pos="word" morph="none" start_char="3239" end_char="3241">use</TOKEN>
+<TOKEN id="token-18-43" pos="punct" morph="none" start_char="3242" end_char="3242">,</TOKEN>
+<TOKEN id="token-18-44" pos="word" morph="none" start_char="3244" end_char="3246">and</TOKEN>
+<TOKEN id="token-18-45" pos="word" morph="none" start_char="3248" end_char="3254">medical</TOKEN>
+<TOKEN id="token-18-46" pos="word" morph="none" start_char="3256" end_char="3262">devices</TOKEN>
+<TOKEN id="token-18-47" pos="punct" morph="none" start_char="3263" end_char="3263">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3265" end_char="3465">
+<ORIGINAL_TEXT>The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, products that give off electronic radiation, and for regulating tobacco products.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3265" end_char="3267">The</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="3269" end_char="3274">agency</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3276" end_char="3279">also</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3281" end_char="3282">is</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3284" end_char="3294">responsible</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3296" end_char="3298">for</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3300" end_char="3302">the</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3304" end_char="3309">safety</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3311" end_char="3313">and</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3315" end_char="3322">security</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="3324" end_char="3325">of</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="3327" end_char="3329">our</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="3331" end_char="3338">nation’s</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3340" end_char="3343">food</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="3345" end_char="3350">supply</TOKEN>
+<TOKEN id="token-19-15" pos="punct" morph="none" start_char="3351" end_char="3351">,</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3353" end_char="3361">cosmetics</TOKEN>
+<TOKEN id="token-19-17" pos="punct" morph="none" start_char="3362" end_char="3362">,</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="3364" end_char="3370">dietary</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="3372" end_char="3382">supplements</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="3383" end_char="3383">,</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="3385" end_char="3392">products</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="3394" end_char="3397">that</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="3399" end_char="3402">give</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="3404" end_char="3406">off</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="3408" end_char="3417">electronic</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="3419" end_char="3427">radiation</TOKEN>
+<TOKEN id="token-19-27" pos="punct" morph="none" start_char="3428" end_char="3428">,</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="3430" end_char="3432">and</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="3434" end_char="3436">for</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="3438" end_char="3447">regulating</TOKEN>
+<TOKEN id="token-19-31" pos="word" morph="none" start_char="3449" end_char="3455">tobacco</TOKEN>
+<TOKEN id="token-19-32" pos="word" morph="none" start_char="3457" end_char="3464">products</TOKEN>
+<TOKEN id="token-19-33" pos="punct" morph="none" start_char="3465" end_char="3465">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3468" end_char="3470">
+<ORIGINAL_TEXT>###</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="tag" morph="none" start_char="3468" end_char="3470">###</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

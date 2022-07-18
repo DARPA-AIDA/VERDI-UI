@@ -1,0 +1,9 @@
+prefix auicql: <https://www.caci.com/aida-ui/claimquerylist#>
+
+INSERT DATA
+{
+  GRAPH <https://www.caci.com/aida-ui/claimquerylist> {
+      <https://www.caci.com/aida-ui/claimqueryList/{$queryListId}> auicql:queryListId "{$queryListId}" ;
+      auicql:queryListName "{$queryListName}" ;
+  }
+};

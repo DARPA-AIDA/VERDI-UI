@@ -1,0 +1,148 @@
+//gradle 5.2.1
+//./gradlew wrapper --gradle-version 6.8
+
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.1.6.RELEASE'
+    // id 'org.springframework.boot' version '2.6.2'
+    id 'io.spring.dependency-management' version '1.0.9.RELEASE'
+    id 'org.hidetake.swagger.generator' version '2.18.1'
+}
+
+
+
+defaultTasks 'clean', 'build'
+
+apply plugin: 'base'
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+apply plugin: 'jacoco'
+
+def versionPropsFile = file('./src/main/resources/application.properties')
+
+if (versionPropsFile.canRead()) {
+    def Properties versionProps = new Properties()
+    versionProps.load(new FileInputStream(versionPropsFile))
+    version = versionProps['BUILD_VERSION']
+} else {
+    throw new GradleException("Error: Could not read version.properties file")
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java',
+                       'src/generated/java']
+        }
+        resources {
+            srcDirs = ['src/main/resources',
+                       'src/generated/resources']
+        }
+    }
+}
+
+dependencies {
+    implementation 'org.apache.jena:jena-arq:3.11.0'
+    implementation 'org.apache.jena:jena-base:3.11.0'
+    implementation 'org.apache.jena:jena-core:3.11.0'
+    implementation 'org.apache.jena:jena-rdfconnection:3.11.0'
+    implementation 'commons-io:commons-io:2.11.0'
+    implementation 'commons-fileupload:commons-fileupload:1.4'
+    implementation 'org.elasticsearch:elasticsearch:7.6.2'
+    implementation 'org.elasticsearch.client:elasticsearch-rest-client:7.6.2'
+    implementation 'org.elasticsearch.client:elasticsearch-rest-high-level-client:7.6.2'
+
+    // spring
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-rest'
+    implementation('org.springframework.boot:spring-boot-starter-data-jpa') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework:spring-test:5.3.15'
+
+    // swagger
+    swaggerCodegen 'org.openapitools:openapi-generator-cli:4.3.1'
+    swaggerUI 'org.webjars:swagger-ui:3.35.1'
+    implementation "io.springfox:springfox-swagger2:2.9.2"
+    implementation("com.h2database:h2")
+    implementation "org.openapitools:jackson-databind-nullable:0.2.1"
+
+    // Json-LD
+    implementation "com.github.jsonld-java:jsonld-java:0.13.0"
+
+    // Java
+    implementation "com.google.code.gson:gson:2.8.2"
+
+    // Junit5
+    testImplementation('org.springframework.boot:spring-boot-starter-test:2.5.3') {
+        exclude group: 'junit', module: 'junit'
+    }
+    // fix vscode not being able to run tests
+    testImplementation('org.junit.platform:junit-platform-commons:1.7.2')
+    testImplementation('org.junit.platform:junit-platform-engine:1.7.2')
+    // required to use mockito.MockedStatic
+    testImplementation('org.mockito:mockito-core:3.11.2')
+    testImplementation('org.mockito:mockito-inline:3.11.2')
+
+    // https://mvnrepository.com/artifact/org.json/json
+    implementation group: 'org.json', name: 'json', version: '20210307'
+}
+
+task swaggerClean(type: Delete) {
+    // delete is a property of the Delete task and thus must occur in doFirst
+    delete 'src/generated'
+}
+clean.dependsOn(swaggerClean)
+
+swaggerSources {
+    verdiAPI {
+        inputFile = file('src/main/swagger/openapi.yaml')
+        code {
+            language = 'spring'
+            components = ['models', 'apis']
+            outputDir = file('src/generated/java')
+            configFile = file('src/main/resources/config.json')
+        }
+        ui {
+            outputDir = file('src/generated/resources/static/')
+        }
+    }
+}
+compileJava.dependsOn generateSwaggerCode, generateSwaggerUI
+
+task copyIndex(type: Copy) {
+    dependsOn generateSwaggerCode, generateSwaggerUI
+    from 'src/main/resources/index.html'
+    into 'src/generated/resources/static'
+}
+compileJava.dependsOn copyIndex
+
+test {
+    systemProperty 'spring.profiles.active', "${springProfile}"
+
+    finalizedBy jacocoTestReport // report is always generated after tests run
+    jacoco {
+        destinationFile = file("$buildDir/jacoco/jacocoTest.exec")
+        classDumpDir = file("$buildDir/jacoco/classpathdumps")
+    }
+	useJUnitPlatform()
+	testLogging {
+		events "passed", "skipped", "failed"
+	}
+}
+jacoco {
+    toolVersion = "0.8.6"
+}
+jacocoTestReport {
+    dependsOn test // tests are required to run before generating the report
+    reports{
+        xml.enabled true
+    }
+}
