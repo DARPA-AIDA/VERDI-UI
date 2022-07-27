@@ -9,6 +9,7 @@ WORKDIR /opt/blazegraph
 
 #RUN sysctl -w vm.swappiness=0
 RUN wget -O blazegraph.jar https://github.com/blazegraph/database/releases/download/BLAZEGRAPH_2_1_6_RC/blazegraph.jar -P /opt/blazegraph
+#Copy the database file, blazegraph.jnl, locally then copy to docker.
 COPY blazegraph.jnl /opt/blazegraph/
 
 EXPOSE 9999
