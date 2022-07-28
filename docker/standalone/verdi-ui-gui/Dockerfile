@@ -2,7 +2,7 @@
 #docker build . -t verdi-ui-gui
 #docker run --rm -it -p 8081:8081 verdi-ui-gui
 
-FROM node:latest
+FROM node:18
 
 #Set the working directory
 WORKDIR /usr/src/verdi-gui

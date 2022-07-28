@@ -9,14 +9,6 @@ services:
       dockerfile: docker/standalone/verdi-ui-blazegraph/Dockerfile
     ports:
       - "9999:9999"
-  verdi-ui-es:
-    image: elasticsearch:7.9.1
-    hostname: verdi-ui-es
-    environment:
-      - discovery.type=single-node
-    ports:
-      - "9200:9200"
-      - "9300:9300"
   verdi-ui-restapi:
     hostname: verdi-ui-restapi
     env_file:
