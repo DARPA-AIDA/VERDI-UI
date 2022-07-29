@@ -2,53 +2,38 @@ version: "3"
 services:
 
   verdi-ui-blazegraph:
-    # environment: 
-    #   - VERDI_API_HOST=verdi-ui-restapi
-    #   - VERDI_API_PORT=8008
-    #   - VERDI_GUI_HOST=verdi-ui-gui
-    #   - VERDI_GUI_PORT=8081  
-    #   - ELASTICSEARCH_HOST=verdi-ui-es
-    #   - ELASTICSEARCH_PORT_COMM=9300
-    #   - ELASTICSEARCH_PORT_API=9200
-    #   - POPULATE_ES=true
-    #   - DEBUG=True   
     image: darpaaida/blazegraph_data:1.0
     ports:
       - "9999:9999"  
   verdi-ui-restapi:
     hostname: verdi-ui-restapi
-    # environment: 
-    #   - VERDI_API_HOST=verdi-ui-restapi
-    #   - VERDI_API_PORT=8008
-    #   - VERDI_GUI_HOST=verdi-ui-gui
-    #   - VERDI_GUI_PORT=8081  
-    #   - ELASTICSEARCH_HOST=verdi-ui-es
-    #   - ELASTICSEARCH_PORT_COMM=9300
-    #   - ELASTICSEARCH_PORT_API=9200
-    #   - POPULATE_ES=true 
-    #   - DEBUG=True   
-    env_file:
-      - docker/local/docker.env
-    #build:
-    #  context: ./
-    #  dockerfile: docker/local/verdi-ui-restapi/Dockerfile
+    environment: 
+      - VERDI_API_HOST="verdi-ui-restapi"
+      - VERDI_API_PORT=8008
+      - VERDI_GUI_HOST="verdi-ui-gui"
+      - VERDI_GUI_PORT=8081  
+      - ELASTICSEARCH_HOST="verdi-ui-es"
+      - ELASTICSEARCH_PORT_COMM=9300
+      - ELASTICSEARCH_PORT_API=9200
+      - POPULATE_ES=True 
+      - DEBUG=True  
+      - VERSION=0.1.0 
     image: darpaaida/aidarestapi:1.0
     ports:
       - "8008:8008"
   verdi-ui-gui:
     hostname: verdi-ui-gui
-    # environment: 
-    #   - VERDI_API_HOST=verdi-ui-restapi
-    #   - VERDI_API_PORT=8008
-    #   - VERDI_GUI_HOST=verdi-ui-gui
-    #   - VERDI_GUI_PORT=8081  
-    #   - ELASTICSEARCH_HOST=verdi-ui-es
-    #   - ELASTICSEARCH_PORT_COMM=9300
-    #   - ELASTICSEARCH_PORT_API=9200
-    #   - POPULATE_ES=true  
-    #   - DEBUG=True   
-    env_file:
-      - docker/local/docker.env
+    environment: 
+      - VERDI_API_HOST="verdi-ui-restapi"
+      - VERDI_API_PORT=8008
+      - VERDI_GUI_HOST="verdi-ui-gui"
+      - VERDI_GUI_PORT=8081  
+      - ELASTICSEARCH_HOST="verdi-ui-es"
+      - ELASTICSEARCH_PORT_COMM=9300
+      - ELASTICSEARCH_PORT_API=9200
+      - POPULATE_ES=True 
+      - DEBUG=True  
+      - VERSION=0.1.0 
     image: darpaaida/aidaui:1.0
     ports:
       - "8081:8081"    
