@@ -139,7 +139,6 @@ Note: This process will be updated with [AIDA-1893](https://nextcentury.atlassia
 This version of the deployment launches containers for:
 1. GUI (http://localhost:8081/#/)
 2. restAPI (http://localhost:8008/api/#/)
-3. ElasticSearch (http://localhost:9200/)
 4. Blazegraph (http://localhost:9999/blazegraph/#/)
 
 ## Starting the containers
@@ -194,7 +193,7 @@ Folders:
         ```
         eb deploy
         ```
-# Dependancies
+# Dependencies
 1. Route 53 - Route53 is used to forward `aida-ui-dev.verdi.nextcentury.com` to the VERDI UI and restAPI resources provisioned via Elastic Beanstalk
 2. EFS for VERDI-UI persistance - An EFS is used to persist data for the VERDI-UI system between builds. Currently, only the Elasticsearch data folder is being persisted on this EFS
 

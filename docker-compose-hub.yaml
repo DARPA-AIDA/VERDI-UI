@@ -1,7 +1,32 @@
 version: "3"
 services:
+
+  verdi-ui-blazegraph:
+    # environment: 
+    #   - VERDI_API_HOST=verdi-ui-restapi
+    #   - VERDI_API_PORT=8008
+    #   - VERDI_GUI_HOST=verdi-ui-gui
+    #   - VERDI_GUI_PORT=8081  
+    #   - ELASTICSEARCH_HOST=verdi-ui-es
+    #   - ELASTICSEARCH_PORT_COMM=9300
+    #   - ELASTICSEARCH_PORT_API=9200
+    #   - POPULATE_ES=true
+    #   - DEBUG=True   
+    image: darpaaida/blazegraph_data:1.0
+    ports:
+      - "9999:9999"  
   verdi-ui-restapi:
     hostname: verdi-ui-restapi
+    # environment: 
+    #   - VERDI_API_HOST=verdi-ui-restapi
+    #   - VERDI_API_PORT=8008
+    #   - VERDI_GUI_HOST=verdi-ui-gui
+    #   - VERDI_GUI_PORT=8081  
+    #   - ELASTICSEARCH_HOST=verdi-ui-es
+    #   - ELASTICSEARCH_PORT_COMM=9300
+    #   - ELASTICSEARCH_PORT_API=9200
+    #   - POPULATE_ES=true 
+    #   - DEBUG=True   
     env_file:
       - docker/local/docker.env
     #build:
@@ -12,15 +37,18 @@ services:
       - "8008:8008"
   verdi-ui-gui:
     hostname: verdi-ui-gui
+    # environment: 
+    #   - VERDI_API_HOST=verdi-ui-restapi
+    #   - VERDI_API_PORT=8008
+    #   - VERDI_GUI_HOST=verdi-ui-gui
+    #   - VERDI_GUI_PORT=8081  
+    #   - ELASTICSEARCH_HOST=verdi-ui-es
+    #   - ELASTICSEARCH_PORT_COMM=9300
+    #   - ELASTICSEARCH_PORT_API=9200
+    #   - POPULATE_ES=true  
+    #   - DEBUG=True   
     env_file:
       - docker/local/docker.env
     image: darpaaida/aidaui:1.0
-    #build:
-    #  context: ./GUI
-    #  dockerfile: ../docker/local/verdi-ui-gui/Dockerfile
     ports:
-      - "8081:8081"
-  verdi-ui-blazegraph:
-    image: darpaaida/blazegraph_data:1.0
-    ports:
-      - "9999:9999"      
+      - "8081:8081"    
