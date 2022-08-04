@@ -1,0 +1,11 @@
+prefix auicql: <https://www.caci.com/aida-ui/claimquerylist#>
+
+
+DELETE
+ { ?queryClaimList ?p ?v }
+
+WHERE
+  { ?queryClaimList auicql:queryListId ?queryListId .
+    FILTER ( ?queryListId = "{$queryListId}"^^xsd:string )
+    ?queryClaimList ?p ?v
+  };

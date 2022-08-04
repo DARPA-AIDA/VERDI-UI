@@ -10,10 +10,12 @@ where {
   <{$componentURI}> a aida:ClaimComponent ;
       aida:componentName ?componentName ;
       aida:componentIdentity ?componentIdentity ;
-      aida:componentKE ?componentKE ;
-      aida:componentType ?componentType ;
-      aida:componentProvenance ?componentProvenance ;
-      aida:system ?system .
+      aida:componentType ?componentType .
+
+  OPTIONAL {<{$componentURI}> aida:componentProvenance ?componentProvenance }
+  OPTIONAL {<{$componentURI}> aida:componentKE ?componentKE }
+  OPTIONAL {<{$componentURI}> aida:system ?system } 
+
 }
 
 group by ?componentName ?componentIdentity ?componentKE ?componentProvenance ?system

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" >
+	<style>
+		svg {
+			background-color: #f4f4f4;
+		}
+		rect {
+			fill: #e6e6e6;
+		}
+		rect.light {
+			fill: #fff;
+		}
+	</style>
+	<!-- Header -->
+	<rect x="5" y="0" width="310px" height="30px" />
+	<rect x="5" y="8" width="60px" height="14px" class="light" />
+	<!-- Strokes -->
+	<rect x="135" y="40" width="170px" height="10px" />
+	<rect x="135" y="60" width="170px" height="10px" />
+	<rect x="135" y="80" width="170px" height="10px" />
+	<rect x="135" y="100" width="170px" height="10px" />
+	<rect x="135" y="120" width="170px" height="10px" />
+	<rect x="135" y="140" width="170px" height="10px" />
+	<!-- Aside -->
+	<rect x="15" y="35" width="110px" height="105px" class="light" />
+	<rect x="20" y="40" width="100px" height="80px" />
+	<!-- Footer -->
+	<rect x="5" y="160px" width="310px" height="20px" />
+</svg>

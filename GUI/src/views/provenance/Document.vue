@@ -41,7 +41,11 @@ import { s3Client } from '../../api'
             async getContent(docId) {
                 const clean = docId.replace(/[^a-zA-Z0-9]/, '');
                 try {
+                    //if(s3Client===null) alert('s3client = ' + s3Client ); 
+                    //this.rawHTML = (await s3Client.get('http://localhost:8083/blackboxP3/html/' + clean + '.html')).data;
                     this.rawHTML = (await s3Client.get(clean + '.html')).data;
+                    alert('Enter getcontent try block' + this.rawHTML ); 
+
                 } catch (e) {
                     this.rawHTML = JSON.stringify(e);
                 }

@@ -1,0 +1,10 @@
+prefix auicq: <https://www.caci.com/aida-ui/claimquery#>
+
+DELETE
+ { ?languages ?o ?p }
+
+WHERE {
+	?languages ?o ?p;
+    auicq:language ?lang;
+    FILTER ( ?lang = "{$language}"^^xsd:string )
+}

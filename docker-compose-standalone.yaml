@@ -27,3 +27,14 @@ services:
       dockerfile: ../docker/standalone/verdi-ui-gui/Dockerfile
     ports:
       - "8080:8080"
+  verdi-ui-media:
+     hostname: verdi-ui-media
+     env_file:
+       - docker/standalone/docker.env
+     build:
+       context: ./Media
+       dockerfile: ../docker/standalone/verdi-ui-media/Dockerfile
+     ports:
+       - "8083:80"
+      
+   

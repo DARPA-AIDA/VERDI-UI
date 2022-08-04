@@ -1,0 +1,4 @@
+FROM nginx
+COPY ./blackboxP3 /usr/share/nginx/html
+
+ENTRYPOINT ["nginx","-g","daemon off;"]

@@ -1,0 +1,23 @@
+prefix auicq: <https://www.caci.com/aida-ui/claimquery#>
+
+DELETE
+ { ?queryClaim ?p ?v }
+WHERE
+{ ?queryClaim auicq:queryId ?queryId .
+    FILTER ( ?queryId = "{$queryId}"^^xsd:string )
+    ?queryClaim ?p ?v
+} ;
+
+INSERT DATA
+{
+  GRAPH <https://www.caci.com/aida-ui/claimquery> {
+      <https://www.caci.com/aida-ui/claimquery/{$queryId}> auicq:queryId "{$queryId}" ;
+        auicq:topic "{$topic}" ;
+        auicq:subtopic "{$subtopic}" ;
+        auicq:claimTemplate "{$claimTemplate}" ;
+        auicq:language "{$language}" ;
+        auicq:xvariable "{$xvariable}" ;
+  }
+};
+
+

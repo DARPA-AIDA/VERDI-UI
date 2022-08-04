@@ -1,0 +1,27 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?prototype ?handle ?informativeJustification ?source ?sourceDocument ?endOffsetInclusive
+	(GROUP_CONCAT(DISTINCT ?hasName;SEPARATOR=",") as ?hasNames)
+
+from <https://www.nextcentury.com/TA3/UTEXAS/UTEXAS/UTEXASclaim_L0C04ATBV_1>
+where {
+  
+
+	<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04ATBV/ES_Entity_EDL_ENG_0000002> a aida:SameAsCluster ;
+ 		aida:prototype ?prototype .
+  	
+  	?prototype aida:handle ?handle ;
+		aida:hasName ?hasName ;
+        aida:informativeJustification ?informativeJustification .
+  
+	?informativeJustification  aida:source ?source ;
+		aida:sourceDocument ?sourceDocument ;
+		aida:startOffset ?startOffset ;
+		aida:endOffsetInclusive ?endOffsetInclusive ;
+                                                                                         
+  
+ 
+}
+group by ?prototype ?handle ?informativeJustification ?source ?sourceDocument ?endOffsetInclusive
+

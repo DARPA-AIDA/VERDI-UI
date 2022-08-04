@@ -1,0 +1,18 @@
+prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix auicq: <https://www.caci.com/aida-ui/claimquery#>
+
+SELECT DISTINCT ?queryId ?topic ?subtopic ?claimTemplate ?language ?xVar
+
+FROM <https://www.caci.com/aida-ui/claimquery>
+
+WHERE
+{
+	?queryValue ?o ?p ;
+	auicq:queryId ?queryId ;
+    auicq:topic ?topic ;
+    auicq:subtopic ?subtopic ;
+    auicq:claimTemplate ?claimTemplate ;
+    OPTIONAL { ?queryValue auicq:language ?language } .
+    OPTIONAL { ?queryValue auicq:xvariable ?xVar } .
+}
