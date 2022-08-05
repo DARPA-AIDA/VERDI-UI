@@ -37,3 +37,8 @@ services:
     image: darpaaida/aidaui:1.0
     ports:
       - "8081:8081"    
+  verdi-ui-media:
+    hostname: verdi-ui-media
+    image: darpaaida/aidamedia:1.0
+    ports:
+      - "8083:80"          
