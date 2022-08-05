@@ -1,16 +1,18 @@
 version: "3"
 services:
-  verdi-ui-blazegraph:
-    hostname: verdi-ui-blazegraph
-    env_file:
-      - docker/standalone/docker.env
-    build:
-      context: ./
-      dockerfile: docker/standalone/verdi-ui-blazegraph/Dockerfile
-    ports:
-      - "9999:9999"
+  # verdi-ui-blazegraph:
+  #   hostname: verdi-ui-blazegraph
+  #   image: darpaaida/blazegraph_data:1.0
+  #   env_file:
+  #     - docker/standalone/docker.env
+  #   build:
+  #     context: ./
+  #     dockerfile: docker/standalone/verdi-ui-blazegraph/Dockerfile
+  #   ports:
+  #     - "9999:9999"
   verdi-ui-restapi:
     hostname: verdi-ui-restapi
+    image: darpaaida/aidarestapi:1.0
     env_file:
       - docker/standalone/docker.env
     build:
@@ -20,6 +22,7 @@ services:
       - "8008:8008"
   verdi-ui-gui:
     hostname: verdi-ui-gui
+    image: darpaaida/aidaui:1.0
     env_file:
       - docker/standalone/docker.env
     build:
@@ -29,6 +32,7 @@ services:
       - "8080:8080"
   verdi-ui-media:
      hostname: verdi-ui-media
+     image: darpaaida/aidamedia:1.0
      env_file:
        - docker/standalone/docker.env
      build:

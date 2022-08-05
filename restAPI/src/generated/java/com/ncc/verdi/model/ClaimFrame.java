@@ -4,6 +4,7 @@ import java.util.Objects;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.ncc.verdi.model.ClaimFrameComponentObject;
+import com.ncc.verdi.model.ClaimFrameRelationObject;
 import com.ncc.verdi.model.LDCTime;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -17,7 +18,7 @@ import javax.validation.constraints.*;
 /**
  * ClaimFrame
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 public class ClaimFrame   {
   @JsonProperty("claimId")
@@ -48,8 +49,32 @@ public class ClaimFrame   {
   @JsonProperty("claimer")
   private String claimer;
 
+  @JsonProperty("epistemic")
+  private String epistemic;
+
+  @JsonProperty("sourceDoc")
+  private String sourceDoc;
+
+  @JsonProperty("sourceDocTitle")
+  private String sourceDocTitle;
+
+  @JsonProperty("xVariable")
+  private String xVariable;
+
+  @JsonProperty("xVariableCompId")
+  private String xVariableCompId;
+
   @JsonProperty("claimerKE")
   private String claimerKE;
+
+  @JsonProperty("queryClaimId")
+  private String queryClaimId;
+
+  @JsonProperty("ranking")
+  private String ranking;
+
+  @JsonProperty("claimRelations")
+  private String claimRelations;
 
   @JsonProperty("dates")
   @Valid
@@ -60,6 +85,13 @@ public class ClaimFrame   {
 
   @JsonProperty("locationName")
   private String locationName;
+
+  @JsonProperty("relations")
+  @Valid
+  private List<ClaimFrameRelationObject> relations = null;
+
+  @JsonProperty("claimerAffiliation")
+  private String claimerAffiliation;
 
   public ClaimFrame claimId(String claimId) {
     this.claimId = claimId;
@@ -250,6 +282,106 @@ public class ClaimFrame   {
     this.claimer = claimer;
   }
 
+  public ClaimFrame epistemic(String epistemic) {
+    this.epistemic = epistemic;
+    return this;
+  }
+
+  /**
+   * Get epistemic
+   * @return epistemic
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getEpistemic() {
+    return epistemic;
+  }
+
+  public void setEpistemic(String epistemic) {
+    this.epistemic = epistemic;
+  }
+
+  public ClaimFrame sourceDoc(String sourceDoc) {
+    this.sourceDoc = sourceDoc;
+    return this;
+  }
+
+  /**
+   * Get sourceDoc
+   * @return sourceDoc
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getSourceDoc() {
+    return sourceDoc;
+  }
+
+  public void setSourceDoc(String sourceDoc) {
+    this.sourceDoc = sourceDoc;
+  }
+
+  public ClaimFrame sourceDocTitle(String sourceDocTitle) {
+    this.sourceDocTitle = sourceDocTitle;
+    return this;
+  }
+
+  /**
+   * Get sourceDocTitle
+   * @return sourceDocTitle
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getSourceDocTitle() {
+    return sourceDocTitle;
+  }
+
+  public void setSourceDocTitle(String sourceDocTitle) {
+    this.sourceDocTitle = sourceDocTitle;
+  }
+
+  public ClaimFrame xVariable(String xVariable) {
+    this.xVariable = xVariable;
+    return this;
+  }
+
+  /**
+   * Get xVariable
+   * @return xVariable
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getxVariable() {
+    return xVariable;
+  }
+
+  public void setxVariable(String xVariable) {
+    this.xVariable = xVariable;
+  }
+
+  public ClaimFrame xVariableCompId(String xVariableCompId) {
+    this.xVariableCompId = xVariableCompId;
+    return this;
+  }
+
+  /**
+   * Get xVariableCompId
+   * @return xVariableCompId
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getxVariableCompId() {
+    return xVariableCompId;
+  }
+
+  public void setxVariableCompId(String xVariableCompId) {
+    this.xVariableCompId = xVariableCompId;
+  }
+
   public ClaimFrame claimerKE(String claimerKE) {
     this.claimerKE = claimerKE;
     return this;
@@ -268,6 +400,66 @@ public class ClaimFrame   {
 
   public void setClaimerKE(String claimerKE) {
     this.claimerKE = claimerKE;
+  }
+
+  public ClaimFrame queryClaimId(String queryClaimId) {
+    this.queryClaimId = queryClaimId;
+    return this;
+  }
+
+  /**
+   * Get queryClaimId
+   * @return queryClaimId
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getQueryClaimId() {
+    return queryClaimId;
+  }
+
+  public void setQueryClaimId(String queryClaimId) {
+    this.queryClaimId = queryClaimId;
+  }
+
+  public ClaimFrame ranking(String ranking) {
+    this.ranking = ranking;
+    return this;
+  }
+
+  /**
+   * Get ranking
+   * @return ranking
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getRanking() {
+    return ranking;
+  }
+
+  public void setRanking(String ranking) {
+    this.ranking = ranking;
+  }
+
+  public ClaimFrame claimRelations(String claimRelations) {
+    this.claimRelations = claimRelations;
+    return this;
+  }
+
+  /**
+   * Get claimRelations
+   * @return claimRelations
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getClaimRelations() {
+    return claimRelations;
+  }
+
+  public void setClaimRelations(String claimRelations) {
+    this.claimRelations = claimRelations;
   }
 
   public ClaimFrame dates(List<LDCTime> dates) {
@@ -340,6 +532,55 @@ public class ClaimFrame   {
     this.locationName = locationName;
   }
 
+  public ClaimFrame relations(List<ClaimFrameRelationObject> relations) {
+    this.relations = relations;
+    return this;
+  }
+
+  public ClaimFrame addRelationsItem(ClaimFrameRelationObject relationsItem) {
+    if (this.relations == null) {
+      this.relations = new ArrayList<>();
+    }
+    this.relations.add(relationsItem);
+    return this;
+  }
+
+  /**
+   * Get relations
+   * @return relations
+  */
+  @ApiModelProperty(value = "")
+
+  @Valid
+
+  public List<ClaimFrameRelationObject> getRelations() {
+    return relations;
+  }
+
+  public void setRelations(List<ClaimFrameRelationObject> relations) {
+    this.relations = relations;
+  }
+
+  public ClaimFrame claimerAffiliation(String claimerAffiliation) {
+    this.claimerAffiliation = claimerAffiliation;
+    return this;
+  }
+
+  /**
+   * Get claimerAffiliation
+   * @return claimerAffiliation
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getClaimerAffiliation() {
+    return claimerAffiliation;
+  }
+
+  public void setClaimerAffiliation(String claimerAffiliation) {
+    this.claimerAffiliation = claimerAffiliation;
+  }
+
 
   @Override
   public boolean equals(java.lang.Object o) {
@@ -359,15 +600,25 @@ public class ClaimFrame   {
         Objects.equals(this.queryId, claimFrame.queryId) &&
         Objects.equals(this.components, claimFrame.components) &&
         Objects.equals(this.claimer, claimFrame.claimer) &&
+        Objects.equals(this.epistemic, claimFrame.epistemic) &&
+        Objects.equals(this.sourceDoc, claimFrame.sourceDoc) &&
+        Objects.equals(this.sourceDocTitle, claimFrame.sourceDocTitle) &&
+        Objects.equals(this.xVariable, claimFrame.xVariable) &&
+        Objects.equals(this.xVariableCompId, claimFrame.xVariableCompId) &&
         Objects.equals(this.claimerKE, claimFrame.claimerKE) &&
+        Objects.equals(this.queryClaimId, claimFrame.queryClaimId) &&
+        Objects.equals(this.ranking, claimFrame.ranking) &&
+        Objects.equals(this.claimRelations, claimFrame.claimRelations) &&
         Objects.equals(this.dates, claimFrame.dates) &&
         Objects.equals(this.importance, claimFrame.importance) &&
-        Objects.equals(this.locationName, claimFrame.locationName);
+        Objects.equals(this.locationName, claimFrame.locationName) &&
+        Objects.equals(this.relations, claimFrame.relations) &&
+        Objects.equals(this.claimerAffiliation, claimFrame.claimerAffiliation);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(claimId, claimURI, description, topic, subtopic, claimTemplate, queryId, components, claimer, claimerKE, dates, importance, locationName);
+    return Objects.hash(claimId, claimURI, description, topic, subtopic, claimTemplate, queryId, components, claimer, epistemic, sourceDoc, sourceDocTitle, xVariable, xVariableCompId, claimerKE, queryClaimId, ranking, claimRelations, dates, importance, locationName, relations, claimerAffiliation);
   }
 
   @Override
@@ -384,10 +635,20 @@ public class ClaimFrame   {
     sb.append("    queryId: ").append(toIndentedString(queryId)).append("\n");
     sb.append("    components: ").append(toIndentedString(components)).append("\n");
     sb.append("    claimer: ").append(toIndentedString(claimer)).append("\n");
+    sb.append("    epistemic: ").append(toIndentedString(epistemic)).append("\n");
+    sb.append("    sourceDoc: ").append(toIndentedString(sourceDoc)).append("\n");
+    sb.append("    sourceDocTitle: ").append(toIndentedString(sourceDocTitle)).append("\n");
+    sb.append("    xVariable: ").append(toIndentedString(xVariable)).append("\n");
+    sb.append("    xVariableCompId: ").append(toIndentedString(xVariableCompId)).append("\n");
     sb.append("    claimerKE: ").append(toIndentedString(claimerKE)).append("\n");
+    sb.append("    queryClaimId: ").append(toIndentedString(queryClaimId)).append("\n");
+    sb.append("    ranking: ").append(toIndentedString(ranking)).append("\n");
+    sb.append("    claimRelations: ").append(toIndentedString(claimRelations)).append("\n");
     sb.append("    dates: ").append(toIndentedString(dates)).append("\n");
     sb.append("    importance: ").append(toIndentedString(importance)).append("\n");
     sb.append("    locationName: ").append(toIndentedString(locationName)).append("\n");
+    sb.append("    relations: ").append(toIndentedString(relations)).append("\n");
+    sb.append("    claimerAffiliation: ").append(toIndentedString(claimerAffiliation)).append("\n");
     sb.append("}");
     return sb.toString();
   }

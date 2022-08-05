@@ -6,7 +6,7 @@
 package com.ncc.verdi.api;
 
 import com.ncc.verdi.model.CacheObject;
-import com.ncc.verdi.model.InlineResponse2002;
+import com.ncc.verdi.model.InlineResponse200;
 import io.swagger.annotations.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -28,7 +28,7 @@ import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 @Validated
 @Api(value = "cache", description = "the cache API")
@@ -47,16 +47,16 @@ public interface CacheApi {
      *         or Invalid parameters (status code 400)
      *         or API not found (status code 404)
      */
-    @ApiOperation(value = "Create cache from graph", nickname = "cacheCreate", notes = "Create cache from graph", response = InlineResponse2002.class, tags={ "ElasticSearch", })
+    @ApiOperation(value = "Create cache from graph", nickname = "cacheCreate", notes = "Create cache from graph", response = InlineResponse200.class, tags={ "ElasticSearch", })
     @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse2002.class),
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class),
         @ApiResponse(code = 400, message = "Invalid parameters"),
         @ApiResponse(code = 404, message = "API not found") })
     @RequestMapping(value = "/cache",
         produces = { "application/json" }, 
         consumes = { "application/json" },
         method = RequestMethod.POST)
-    default ResponseEntity<InlineResponse2002> cacheCreate(@ApiParam(value = "JSON of Task Area, graph root URI, and overwrite switch"  )  @Valid @RequestBody(required = false) CacheObject cacheObject) {
+    default ResponseEntity<InlineResponse200> cacheCreate(@ApiParam(value = "JSON of Task Area, graph root URI, and overwrite switch"  )  @Valid @RequestBody(required = false) CacheObject cacheObject) {
         getRequest().ifPresent(request -> {
             for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
                 if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
@@ -73,22 +73,22 @@ public interface CacheApi {
 
     /**
      * DELETE /cache : Clears cache
-     * Clears an indices from ElasticSearch
+     * Clears an index from ElasticSearch
      *
      * @param graphURI Clear Cache for graphURI. If graphURI is empty, clear all cache. (optional)
      * @return Successful operation (status code 200)
      *         or Invalid parameters (status code 400)
      *         or API not found (status code 404)
      */
-    @ApiOperation(value = "Clears cache", nickname = "cacheDelete", notes = "Clears an indices from ElasticSearch", response = InlineResponse2002.class, tags={ "ElasticSearch", })
+    @ApiOperation(value = "Clears cache", nickname = "cacheDelete", notes = "Clears an index from ElasticSearch", response = InlineResponse200.class, tags={ "ElasticSearch", })
     @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse2002.class),
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class),
         @ApiResponse(code = 400, message = "Invalid parameters"),
         @ApiResponse(code = 404, message = "API not found") })
     @RequestMapping(value = "/cache",
         produces = { "application/json" }, 
         method = RequestMethod.DELETE)
-    default ResponseEntity<InlineResponse2002> cacheDelete(@ApiParam(value = "Clear Cache for graphURI. If graphURI is empty, clear all cache.") @Valid @RequestParam(value = "graphURI", required = false) String graphURI) {
+    default ResponseEntity<InlineResponse200> cacheDelete(@ApiParam(value = "Clear Cache for graphURI. If graphURI is empty, clear all cache.") @Valid @RequestParam(value = "graphURI", required = false) String graphURI) {
         getRequest().ifPresent(request -> {
             for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
                 if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {

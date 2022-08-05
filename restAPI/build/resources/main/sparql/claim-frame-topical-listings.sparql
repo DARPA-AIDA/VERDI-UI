@@ -1,10 +1,83 @@
 prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
 
-select distinct ?topic ?subtopic ?claimTemplate
+select distinct ?topic ?subtopic ?claimTemplate (REPLACE(str(?graph), "([^/]+$)", "") as ?baseGraph) ?queryClaimId ?description
 WHERE
 {
-	?s a aida:Claim ;
-		aida:topic ?topic ;
-		aida:subtopic ?subtopic ;
-        aida:claimTemplate ?claimTemplate
+  	GRAPH ?graph    {
+    
+      
+      ?s a aida:Claim ;
+          aida:topic ?topic ;
+          aida:subtopic ?subtopic ;
+          aida:claimTemplate ?claimTemplate ;
+          aida:queryClaimId ?queryClaimId .
+      
+          #TODO: Create Lookup, hardcoded to save time
+          bind ( if (?queryClaimId = 'CLL0C04G4UT.000030', 'Author claims COVID-19 vaccine does not cause prion disease', 
+                 if (?queryClaimId = 'CLL0C04G510.000030', 'David Williams claims COVID-19 vaccine might cause Vaccine-Induced Immune Thrombotic Thrombocytopenia (blood clots)',
+                 if (?queryClaimId = 'CLL0C04G85I.000004', 'Dr. Anthony Amato claims COVID-19 vaccine does not cause Guillain-Barré syndrome',
+                 if (?queryClaimId = 'CLL0C04G7KZ.000004', 'FDA claims COVID-19 vaccine does not cause blood clots',
+                 if (?queryClaimId = 'CLL0C04G8ID.000004', 'The FDA claims COVID-19 vaccine causes Guillain-Barr syndrome',
+
+
+				 if (?queryClaimId = 'CLL0C049LQB.000004', 'FEMA claims the US government did not divert PPE from any state government', 
+                 if (?queryClaimId = 'CLL0C04CNFW.000004', 'Jared Polis claims the US government diverted PPE from Colorado',
+                 if (?queryClaimId = 'CLL0C04CNJJ.000004', 'Hospitals in seven states claim the US government seized PPE from seven states',
+                 if (?queryClaimId = 'CLL0C049KP9.000004', 'Author claims the US government seized PPE from New Jersey',
+                 if (?queryClaimId = 'CLL0C04C8Q2.000004', 'Doug Ford claims the US government diverted PPE from Canada', 
+                     
+                     
+				 if (?queryClaimId = 'CLL0C049HGH.000004', 'The Brazilian government claims Fábio Wajngarten has COVID-19', 
+                 if (?queryClaimId = 'CLL0C04CPMS.000004', 'Author claims Ghislaine Maxwell does not have COVID-19',
+                 if (?queryClaimId = 'CLL0C04C95X.000004', 'Some media claim Manuela Carmena has COVID-19',
+                 if (?queryClaimId = 'CLL0C04CZVM.000004', 'Author claims Marion Cotillard had COVID-19',
+                 if (?queryClaimId = 'CLL0C04D1KA.000004', 'Akhmed Dudayev claims Ramzan Kadyrov does not have COVID-19', 
+                     
+                     'no match' )))))))))))))))  as ?description) .
+
+
+    #   FILTER( contains(str(?graph), "TA3") ) . 
+            
+    } .
 }
+
+order by ?graph ?topic ?subtopic ?queryClaimId ?description
+
+
+
+# prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
+
+# select distinct ?topic ?subtopic ?claimTemplate (REPLACE(str(?graph), "([^/]+$)", "") as ?baseGraph) ?queryClaimId
+# WHERE
+# {
+#   	GRAPH ?graph    {
+    
+      
+#       ?s a aida:Claim ;
+#           aida:topic ?topic ;
+#           aida:subtopic ?subtopic ;
+#           aida:claimTemplate ?claimTemplate ;
+#           aida:queryClaimId ?queryClaimId ;
+#           .
+
+#         # values ?description { "Phi was here" } .
+#         bind ( if (?queryClaimId == 'CLL0C04G4UT.000030', 'match', 'no match' )  as ?description) .
+#     #   FILTER( contains(str(?graph), "TA3") ) . 
+            
+#     } .
+# }
+
+# order by ?graph ?topic ?subtopic ?queryClaimId
+
+# select distinct ?topic ?subtopic ?claimTemplate ?queryClaimId
+# FROM <https://www.caci.com/condition5>
+# WHERE
+# {
+#       ?s    <https://www.caci.com/condition5/topic_id> ?topic ;
+#           	<https://www.caci.com/condition5/subtopic> ?subtopic ;
+#             <https://www.caci.com/condition5/claim_description> ?claimTemplate ;
+#           	<https://www.caci.com/condition5/claim_id> ?queryClaimId .
+
+# }
+
+# order by ?topic ?subtopic ?claimTemplate ?queryClaimId

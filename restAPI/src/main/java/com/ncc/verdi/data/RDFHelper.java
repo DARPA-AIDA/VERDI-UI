@@ -14,6 +14,7 @@ import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdfconnection.RDFConnection;
 import org.apache.jena.rdfconnection.RDFConnectionRemote;
 import org.apache.jena.rdfconnection.RDFConnectionRemoteBuilder;
+import org.apache.jena.update.Update;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 

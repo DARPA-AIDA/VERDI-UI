@@ -28,7 +28,7 @@ import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 @Validated
 @Api(value = "entity", description = "the entity API")
@@ -37,29 +37,6 @@ public interface EntityApi {
     default Optional<NativeWebRequest> getRequest() {
         return Optional.empty();
     }
-
-    /**
-     * GET /entity/decode/{name} : Return decoded name
-     * Given an LTF encoded name, return the decoded name
-     *
-     * @param name Encoded name (required)
-     * @return successful operation (status code 200)
-     *         or Invalid parameters (status code 400)
-     *         or API not found (status code 404)
-     */
-    @ApiOperation(value = "Return decoded name", nickname = "decodeName", notes = "Given an LTF encoded name, return the decoded name", response = String.class, tags={ "Entity", })
-    @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "successful operation", response = String.class),
-        @ApiResponse(code = 400, message = "Invalid parameters"),
-        @ApiResponse(code = 404, message = "API not found") })
-    @RequestMapping(value = "/entity/decode/{name}",
-        produces = { "text/plain" }, 
-        method = RequestMethod.GET)
-    default ResponseEntity<String> decodeName(@ApiParam(value = "Encoded name",required=true) @PathVariable("name") String name) {
-        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
-
-    }
-
 
     /**
      * GET /entity : Return entity

@@ -9,3 +9,4 @@ WHERE
     FILTER ( ?queryListId = "{$queryListId}"^^xsd:string )
     ?queryClaimList ?p ?v
   };
+  

@@ -16,7 +16,7 @@ import javax.validation.constraints.*;
 /**
  * TA3Event
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 public class TA3Event   {
   @JsonProperty("cluster")
@@ -44,14 +44,11 @@ public class TA3Event   {
   @JsonProperty("category")
   private String category;
 
-  @JsonProperty("sin")
-  private String sin;
+  @JsonProperty("claim")
+  private String claim;
 
   @JsonProperty("run")
   private String run;
-
-  @JsonProperty("hypothesis")
-  private String hypothesis;
 
   @JsonProperty("entities")
   @Valid
@@ -229,24 +226,24 @@ public class TA3Event   {
     this.category = category;
   }
 
-  public TA3Event sin(String sin) {
-    this.sin = sin;
+  public TA3Event claim(String claim) {
+    this.claim = claim;
     return this;
   }
 
   /**
-   * Get sin
-   * @return sin
+   * Get claim
+   * @return claim
   */
   @ApiModelProperty(value = "")
 
 
-  public String getSin() {
-    return sin;
+  public String getClaim() {
+    return claim;
   }
 
-  public void setSin(String sin) {
-    this.sin = sin;
+  public void setClaim(String claim) {
+    this.claim = claim;
   }
 
   public TA3Event run(String run) {
@@ -267,26 +264,6 @@ public class TA3Event   {
 
   public void setRun(String run) {
     this.run = run;
-  }
-
-  public TA3Event hypothesis(String hypothesis) {
-    this.hypothesis = hypothesis;
-    return this;
-  }
-
-  /**
-   * Get hypothesis
-   * @return hypothesis
-  */
-  @ApiModelProperty(value = "")
-
-
-  public String getHypothesis() {
-    return hypothesis;
-  }
-
-  public void setHypothesis(String hypothesis) {
-    this.hypothesis = hypothesis;
   }
 
   public TA3Event entities(List<TA3EventEntities> entities) {
@@ -365,16 +342,15 @@ public class TA3Event   {
         Objects.equals(this.statement, ta3Event.statement) &&
         Objects.equals(this.date, ta3Event.date) &&
         Objects.equals(this.category, ta3Event.category) &&
-        Objects.equals(this.sin, ta3Event.sin) &&
+        Objects.equals(this.claim, ta3Event.claim) &&
         Objects.equals(this.run, ta3Event.run) &&
-        Objects.equals(this.hypothesis, ta3Event.hypothesis) &&
         Objects.equals(this.entities, ta3Event.entities) &&
         Objects.equals(this.docs, ta3Event.docs);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(cluster, clusterCategory, clusterType, id, prototypeUri, statement, date, category, sin, run, hypothesis, entities, docs);
+    return Objects.hash(cluster, clusterCategory, clusterType, id, prototypeUri, statement, date, category, claim, run, entities, docs);
   }
 
   @Override
@@ -390,9 +366,8 @@ public class TA3Event   {
     sb.append("    statement: ").append(toIndentedString(statement)).append("\n");
     sb.append("    date: ").append(toIndentedString(date)).append("\n");
     sb.append("    category: ").append(toIndentedString(category)).append("\n");
-    sb.append("    sin: ").append(toIndentedString(sin)).append("\n");
+    sb.append("    claim: ").append(toIndentedString(claim)).append("\n");
     sb.append("    run: ").append(toIndentedString(run)).append("\n");
-    sb.append("    hypothesis: ").append(toIndentedString(hypothesis)).append("\n");
     sb.append("    entities: ").append(toIndentedString(entities)).append("\n");
     sb.append("    docs: ").append(toIndentedString(docs)).append("\n");
     sb.append("}");

@@ -14,11 +14,15 @@ import javax.validation.constraints.*;
 /**
  * ClaimFrameFilterObject
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 public class ClaimFrameFilterObject   {
   @JsonProperty("graph")
   private String graph;
+
+  @JsonProperty("baseGraphs")
+  @Valid
+  private List<String> baseGraphs = null;
 
   @JsonProperty("topics")
   @Valid
@@ -27,6 +31,10 @@ public class ClaimFrameFilterObject   {
   @JsonProperty("subtopics")
   @Valid
   private List<String> subtopics = null;
+
+  @JsonProperty("queryClaimIds")
+  @Valid
+  private List<String> queryClaimIds = null;
 
   public ClaimFrameFilterObject graph(String graph) {
     this.graph = graph;
@@ -46,6 +54,34 @@ public class ClaimFrameFilterObject   {
 
   public void setGraph(String graph) {
     this.graph = graph;
+  }
+
+  public ClaimFrameFilterObject baseGraphs(List<String> baseGraphs) {
+    this.baseGraphs = baseGraphs;
+    return this;
+  }
+
+  public ClaimFrameFilterObject addBaseGraphsItem(String baseGraphsItem) {
+    if (this.baseGraphs == null) {
+      this.baseGraphs = new ArrayList<>();
+    }
+    this.baseGraphs.add(baseGraphsItem);
+    return this;
+  }
+
+  /**
+   * Get baseGraphs
+   * @return baseGraphs
+  */
+  @ApiModelProperty(value = "")
+
+
+  public List<String> getBaseGraphs() {
+    return baseGraphs;
+  }
+
+  public void setBaseGraphs(List<String> baseGraphs) {
+    this.baseGraphs = baseGraphs;
   }
 
   public ClaimFrameFilterObject topics(List<String> topics) {
@@ -104,6 +140,34 @@ public class ClaimFrameFilterObject   {
     this.subtopics = subtopics;
   }
 
+  public ClaimFrameFilterObject queryClaimIds(List<String> queryClaimIds) {
+    this.queryClaimIds = queryClaimIds;
+    return this;
+  }
+
+  public ClaimFrameFilterObject addQueryClaimIdsItem(String queryClaimIdsItem) {
+    if (this.queryClaimIds == null) {
+      this.queryClaimIds = new ArrayList<>();
+    }
+    this.queryClaimIds.add(queryClaimIdsItem);
+    return this;
+  }
+
+  /**
+   * Get queryClaimIds
+   * @return queryClaimIds
+  */
+  @ApiModelProperty(value = "")
+
+
+  public List<String> getQueryClaimIds() {
+    return queryClaimIds;
+  }
+
+  public void setQueryClaimIds(List<String> queryClaimIds) {
+    this.queryClaimIds = queryClaimIds;
+  }
+
 
   @Override
   public boolean equals(java.lang.Object o) {
@@ -115,13 +179,15 @@ public class ClaimFrameFilterObject   {
     }
     ClaimFrameFilterObject claimFrameFilterObject = (ClaimFrameFilterObject) o;
     return Objects.equals(this.graph, claimFrameFilterObject.graph) &&
+        Objects.equals(this.baseGraphs, claimFrameFilterObject.baseGraphs) &&
         Objects.equals(this.topics, claimFrameFilterObject.topics) &&
-        Objects.equals(this.subtopics, claimFrameFilterObject.subtopics);
+        Objects.equals(this.subtopics, claimFrameFilterObject.subtopics) &&
+        Objects.equals(this.queryClaimIds, claimFrameFilterObject.queryClaimIds);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(graph, topics, subtopics);
+    return Objects.hash(graph, baseGraphs, topics, subtopics, queryClaimIds);
   }
 
   @Override
@@ -130,8 +196,10 @@ public class ClaimFrameFilterObject   {
     sb.append("class ClaimFrameFilterObject {\n");
     
     sb.append("    graph: ").append(toIndentedString(graph)).append("\n");
+    sb.append("    baseGraphs: ").append(toIndentedString(baseGraphs)).append("\n");
     sb.append("    topics: ").append(toIndentedString(topics)).append("\n");
     sb.append("    subtopics: ").append(toIndentedString(subtopics)).append("\n");
+    sb.append("    queryClaimIds: ").append(toIndentedString(queryClaimIds)).append("\n");
     sb.append("}");
     return sb.toString();
   }

@@ -1,9 +1,0 @@
-prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
-prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-select distinct ?name (GROUP_CONCAT(DISTINCT ?namedEntity;SEPARATOR=",") as ?entities){$from}
-where {
-    ?namedEntity ^aida:prototype ?cluster ;
-        aida:handle | aida:hasName | aida:textValue ?name .
-    {$filter}
-}
-group by ?name

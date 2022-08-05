@@ -5,7 +5,6 @@ import com.ncc.verdi.model.QueryClaimList;
 import com.ncc.verdi.model.QueryClaimListModObject;
 import com.ncc.verdi.model.IdList;
 import com.ncc.verdi.model.InlineResponse200;
-import com.ncc.verdi.model.LanguageRecord;
 import com.ncc.verdi.model.QueryClaimObject;
 import com.ncc.verdi.model.QueryId;
 import com.ncc.verdi.model.QueryListId;
@@ -17,17 +16,23 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Base64;
 import java.util.Date;
+import java.security.MessageDigest;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.validation.Valid;
 
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
+import org.apache.jena.query.QuerySolution;
 import org.apache.http.NameValuePair;
+import org.apache.jena.rdf.model.RDFNode;
+import org.apache.jena.update.UpdateRequest;
 
 import com.ncc.verdi.data.DataUtils;
+import com.ncc.verdi.data.KGTKHelper;
 import com.ncc.verdi.data.RDFHelper;
 
 import org.slf4j.Logger;
@@ -37,7 +42,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
-
 
 @RestController
 public class QueryClaimsAPIController implements QueryClaimsApi {
@@ -61,7 +65,7 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
                     replacements.put("queryId", queryId);
 
                     String query = DataUtils.replaceMultiple(
-                            DataUtils.getResourceStringFrom("sparql/get-claim-queries.sparql"), replacements);
+                            DataUtils.getResourceStringFrom("sparql/query-claims-get.sparql"), replacements);
 
                     QueryClaimList ret = new QueryClaimList();
                     rdfHelper.executeQueryString(query, qs -> {
@@ -70,39 +74,10 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
                                 .topic(qs.get("topic").toString())
                                 .subtopic(qs.get("subtopic").toString())
                                 .claimTemplate(qs.get("claimTemplate").toString());
-                        tempQuery.setLanguage(DataUtils.getBlankIfNull(qs.get("language")));
-                        tempQuery.setxVariable(DataUtils.getBlankIfNull(qs.get("xVar")));
                         ret.addQueriesItem(tempQuery);
                     });
 
                     return new ResponseEntity<>(ret, HttpStatus.OK);
-                } catch (Exception e) {
-                    log.error("Error: ", e);
-                    return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
-                }
-            }
-        }
-        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
-    }
-
-    @Override
-    public ResponseEntity<List<QueryClaim>> getAllClaimQueries(){
-        for (MediaType mediaType : MediaType.parseMediaTypes(request.getHeader("Accept"))) {
-            if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
-                try {
-                    String query = DataUtils.getResourceStringFrom("sparql/get-claim-queries.sparql");
-                    ArrayList<QueryClaim> retList= new ArrayList<>();
-
-                    rdfHelper.executeQueryString(query, qs -> {
-                        QueryClaim tempQuery = new QueryClaim()
-                                .queryId(qs.get("queryId").toString())
-                                .topic(qs.get("topic").toString())
-                                .subtopic(qs.get("subtopic").toString())
-                                .claimTemplate(qs.get("claimTemplate").toString());
-                        retList.add(tempQuery);
-                    });
-
-                    return new ResponseEntity<>(retList, HttpStatus.OK);
                 } catch (Exception e) {
                     log.error("Error: ", e);
                     return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
@@ -174,8 +149,6 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
                     replacements.put("topic", queryClaimObject.getTopic());
                     replacements.put("subtopic", queryClaimObject.getSubtopic());
                     replacements.put("claimTemplate", queryClaimObject.getClaimTemplate());
-                    replacements.put("language", queryClaimObject.getLanguage());
-                    replacements.put("xvariable", queryClaimObject.getxVariable());
 
                     String query = DataUtils.replaceMultiple(
                             DataUtils.getResourceStringFrom("sparql/query-claims-create.sparql"), replacements);
@@ -223,8 +196,6 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
                     replacements.put("topic", queryClaim.getTopic());
                     replacements.put("subtopic", queryClaim.getSubtopic());
                     replacements.put("claimTemplate", queryClaim.getClaimTemplate());
-                    replacements.put("language", queryClaim.getLanguage());
-                    replacements.put("xvariable", queryClaim.getxVariable());
 
                     String query = DataUtils.replaceMultiple(
                             DataUtils.getResourceStringFrom("sparql/query-claims-update.sparql"), replacements);
@@ -339,6 +310,8 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
                                 DataUtils.getResourceStringFrom("sparql/get-claim-query-list.sparql"),
                                 replacements);
                     }
+
+                    InlineResponse200 resMsg = new InlineResponse200();
 
                     List<NameValuePair> params = new ArrayList<NameValuePair>();
                     params.add(new BasicNameValuePair("update", query));
@@ -509,159 +482,4 @@ public class QueryClaimsAPIController implements QueryClaimsApi {
         }
         return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
     }
-
-    public ResponseEntity<InlineResponse200> addLanguage(LanguageRecord languageRecord) {
-        for (MediaType mediaType : MediaType.parseMediaTypes(request.getHeader("Accept"))) {
-            if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
-                try {
-                    String languageToAdd = languageRecord.getLang();
-                    String query = DataUtils.getResourceStringFrom("sparql/query-claim-get-languages.sparql");
-                    ArrayList<LanguageRecord> langs = new ArrayList<>();
-                    boolean langExists = false;
-
-                    rdfHelper.executeQueryString(query, qs -> {
-                        LanguageRecord tlr = new LanguageRecord();
-                        tlr.setLang(qs.get("lang").toString());
-                        langs.add(tlr);
-                    });
-
-                    for(int i = 0; i < langs.size(); i++){
-                        LanguageRecord l = langs.get(i);
-                        if(l.getLang().toUpperCase().equals(languageToAdd.toUpperCase())){
-                            langExists = true;
-                            break;
-                        }
-                    }
-
-                    InlineResponse200 ret = new InlineResponse200();
-
-                    if(langExists){
-                        ret.setMessage("" + languageToAdd.toUpperCase() + " already exists.");
-                        return new ResponseEntity<>(ret, HttpStatus.OK);
-                    } else {
-                        Map<String, String> replacements = new HashMap<>();
-                        replacements.put("language", languageToAdd.toUpperCase());
-                        replacements.put("language", languageToAdd.toUpperCase());
-
-                        String createQuery = DataUtils.replaceMultiple(
-                                DataUtils.getResourceStringFrom("sparql/query-claim-language-add.sparql"), replacements);
-
-                        HttpPost httppost = new HttpPost(rdfHelper.sparqlEndPoint);
-                        CloseableHttpClient httpclient = HttpClients.createDefault();
-
-                        List<NameValuePair> params = new ArrayList<NameValuePair>();
-                        params.add(new BasicNameValuePair("update", createQuery));
-
-                        try {
-                            httppost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
-                            httpclient.execute(httppost);
-                            httpclient.close();
-                        } catch (Exception e) {
-                            log.error("Failed to add language: " + languageToAdd, e);
-                            ret.setMessage("Failed to add language: " + languageToAdd);
-                            return new ResponseEntity<InlineResponse200>(ret, HttpStatus.INTERNAL_SERVER_ERROR);
-                        }
-
-                        ret.setMessage("" + languageToAdd.toUpperCase() + " added");
-
-                        return new ResponseEntity<>(ret, HttpStatus.OK);
-                    }
-                } catch (Exception e) {
-                    log.error("Error: ", e);
-                    return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
-                }
-            }
-        }
-        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
-    }
-
-    public ResponseEntity<List<LanguageRecord>> getLanguageList(){
-        for (MediaType mediaType : MediaType.parseMediaTypes(request.getHeader("Accept"))) {
-            if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
-                try {
-                    String query = DataUtils.getResourceStringFrom("sparql/query-claim-get-languages.sparql");
-                    ArrayList<LanguageRecord> langs = new ArrayList<>();
-
-                    rdfHelper.executeQueryString(query, qs -> {
-                        LanguageRecord tlr = new LanguageRecord();
-                        tlr.setLang(qs.get("lang").toString());
-                        langs.add(tlr);
-                    });
-
-                    return new ResponseEntity<>(langs, HttpStatus.OK);
-                } catch (Exception e) {
-                    log.error("Error: ", e);
-                    return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
-                }
-            }
-        }
-        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
-    }
-
-    public ResponseEntity<InlineResponse200> deleteLanguage(LanguageRecord languageRecord) {
-        for (MediaType mediaType : MediaType.parseMediaTypes(request.getHeader("Accept"))) {
-            if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
-                try {
-                    String languageToDelete = languageRecord.getLang();
-                    String query = DataUtils.getResourceStringFrom("sparql/query-claim-get-languages.sparql");
-                    ArrayList<LanguageRecord> langs = new ArrayList<>();
-                    boolean langExists = false;
-
-                    rdfHelper.executeQueryString(query, qs -> {
-                        LanguageRecord tlr = new LanguageRecord();
-                        tlr.setLang(qs.get("lang").toString());
-                        langs.add(tlr);
-                    });
-
-                    for (int i = 0; i < langs.size(); i++) {
-                        LanguageRecord l = langs.get(i);
-                        if (l.getLang().toUpperCase().equals(languageToDelete.toUpperCase())) {
-                            langExists = true;
-                            break;
-                        }
-                    }
-
-                    InlineResponse200 ret = new InlineResponse200();
-
-                    if (!langExists) {
-                        ret.setMessage("" + languageToDelete.toUpperCase() + " does not exists.");
-                        return new ResponseEntity<>(ret, HttpStatus.OK);
-                    } else {
-                        Map<String, String> replacements = new HashMap<>();
-                        replacements.put("language", languageToDelete.toUpperCase());
-                        replacements.put("language", languageToDelete.toUpperCase());
-
-                        String deleteQuery = DataUtils.replaceMultiple(
-                                DataUtils.getResourceStringFrom("sparql/query-claim-language-delete.sparql"),
-                                replacements);
-
-                        HttpPost httppost = new HttpPost(rdfHelper.sparqlEndPoint);
-                        CloseableHttpClient httpclient = HttpClients.createDefault();
-
-                        List<NameValuePair> params = new ArrayList<NameValuePair>();
-                        params.add(new BasicNameValuePair("update", deleteQuery));
-
-                        try {
-                            httppost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
-                            httpclient.execute(httppost);
-                            httpclient.close();
-                        } catch (Exception e) {
-                            log.error("Failed to add language: " + languageToDelete, e);
-                            ret.setMessage("Failed to add language: " + languageToDelete);
-                            return new ResponseEntity<InlineResponse200>(ret, HttpStatus.INTERNAL_SERVER_ERROR);
-                        }
-
-                        ret.setMessage("" + languageToDelete.toUpperCase() + " deleted");
-
-                        return new ResponseEntity<>(ret, HttpStatus.OK);
-                    }
-                } catch (Exception e) {
-                    log.error("Error: ", e);
-                    return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
-                }
-            }
-        }
-        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
-    }
-
 }

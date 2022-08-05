@@ -1,8 +1,0 @@
-prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#>
-
-select ?g
-where {
-    graph ?g {
-        <{$hypothesis}> a aida:Hypothesis .
-    }
-}
