@@ -37,24 +37,7 @@ export const evalClient = axios.create({
   timeout: 2000,
 });
 export const s3Client = axios.create({
-  //baseURL: 'https://s3.amazonaws.com/aida-blackbox-p3-media/html/',
-  //baseURL: 'http://verdi-ui-media/blackboxP3/html/',
   baseURL:'http://localhost:8083/blackboxP3/html/',
-  //baseURL:'http://localhost:8083/html/',   //nginx
-  //baseURL: 'http://verdi-ui-media/html/',    //nginx
-
-
-  // headers: {
-  //   get: {
-  //     'Access-Control-Allow-Origin': true
-  //   },
-  //   post: {
-  //     'Access-Control-Allow-Origin': true
-  //   },
-  //   options:{
-  //     'Access-Control-Allow-Origin': true
-  //   }
-  // },  
   timeout: 2000
 });
 // invoke ui with 'npx vue-cli-service serve --mode dev'
