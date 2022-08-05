@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Stream;
+import java.util.Objects;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
@@ -32,6 +33,8 @@ import com.ncc.verdi.model.DocObject;
 import com.ncc.verdi.model.Event;
 import com.ncc.verdi.model.LDCTime;
 import com.ncc.verdi.model.NodeDetail;
+import com.ncc.verdi.model.QueryClaim;
+import com.ncc.verdi.model.QueryClaimList;
 
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.rdf.model.RDFNode;
@@ -183,7 +186,6 @@ public class ClaimframeApiController implements ClaimframeApi {
             DocObject document = DataUtils.getDocInfo(qs.get("sourceDoc").toString());
             String claimURI = qs.get("claimURI").toString();
             ClaimFrame claim = new ClaimFrame()
-
                     .claimId(qs.get("claimId").toString())
                     .queryClaimId((qs.get("queryClaimId") == null) ? "" : qs.get("queryClaimId").toString())
                     .ranking((qs.get("ranking") == null) ? "" : qs.get("ranking").toString())
@@ -235,13 +237,15 @@ public class ClaimframeApiController implements ClaimframeApi {
     }
 
     public ClaimFrameDetail getClaimFrameDetails(RDFHelper rdfHelper, List<String> graphs, String claimId) throws IOException {
+
         Map<String, String> replacements = DataUtils.getFromReplacements(graphs.toArray(String[]::new));
         ClaimFrameDetail claimFrameDetails = new ClaimFrameDetail();
-        replacements.put("claimId", claimId);
+        
+        // replacements.put("claimId", claimId);
 
         String query = DataUtils.replaceMultiple(DataUtils.getResourceStringFrom("sparql/claim-frame-details.sparql"), replacements);
 
-        // System.out.println(query);
+        System.out.println(query);
 
         rdfHelper.executeQueryString(query, qs -> {
             DocObject document = DataUtils.getDocInfo(qs.get("sourceDocument").toString());
@@ -366,43 +370,32 @@ public class ClaimframeApiController implements ClaimframeApi {
     private static List<LDCTime> createLDCTimes(QuerySolution qs){
         List<LDCTime> dates = new ArrayList<LDCTime>();
 
-        String startAfterYear   = DataUtils
-                .getBlankIfNull(qs.get("startAfterYear"))
+        String startAfterYear   = getBlankIfNull(qs.get("startAfterYear"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gYear", "");
-        String startAfterMonth  = DataUtils
-                .getBlankIfNull(qs.get("startAfterMonth"))
+        String startAfterMonth  = getBlankIfNull(qs.get("startAfterMonth"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gMonth", "");
-        String startAfterDay    = DataUtils
-                .getBlankIfNull(qs.get("startAfterDay"))
+        String startAfterDay    = getBlankIfNull(qs.get("startAfterDay"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gDay", "");
 
-        String startBeforeYear  = DataUtils
-                .getBlankIfNull(qs.get("startBeforeYear"))
+        String startBeforeYear  = getBlankIfNull(qs.get("startBeforeYear"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gYear", "");
-        String startBeforeMonth = DataUtils
-                .getBlankIfNull(qs.get("startBeforeMonth"))
+        String startBeforeMonth = getBlankIfNull(qs.get("startBeforeMonth"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gMonth", "");
-        String startBeforeDay   = DataUtils
-                .getBlankIfNull(qs.get("startBeforeDay"))
+        String startBeforeDay   = getBlankIfNull(qs.get("startBeforeDay"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gDay", "");
 
-        String endAfterYear     = DataUtils
-                .getBlankIfNull(qs.get("endAfterYear"))
+        String endAfterYear     = getBlankIfNull(qs.get("endAfterYear"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gYear", "");
-        String endAfterMonth    = DataUtils
-                .getBlankIfNull(qs.get("endAfterMonth"))
+        String endAfterMonth    = getBlankIfNull(qs.get("endAfterMonth"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gMonth", "");
-        String endAfterDay      = DataUtils
-                .getBlankIfNull(qs.get("endAfterDay"))
+        String endAfterDay      = getBlankIfNull(qs.get("endAfterDay"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gDay", "");
 
-        String endBeforeYear    = DataUtils
-                .getBlankIfNull(qs.get("endBeforeYear"))
+        String endBeforeYear    = getBlankIfNull(qs.get("endBeforeYear"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gYear", "");
-        String endBeforeMonth   = DataUtils
-                .getBlankIfNull(qs.get("endBeforeMonth"))
+        String endBeforeMonth   = getBlankIfNull(qs.get("endBeforeMonth"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gMonth", "");
-        String endBeforeDay     = DataUtils.getBlankIfNull(qs.get("endBeforeDay"))
+        String endBeforeDay     = getBlankIfNull(qs.get("endBeforeDay"))
                 .replace("^^http://www.w3.org/2001/XMLSchema#gDay", "");
 
         LDCTime time = new LDCTime();
@@ -413,6 +406,14 @@ public class ClaimframeApiController implements ClaimframeApi {
 
         dates.add(time);
         return dates;
+    }
+
+    private static String getBlankIfNull(RDFNode rdfNode){
+        if(Objects.isNull(rdfNode)){
+            return "";
+        } else {
+            return rdfNode.toString();
+        }
     }
 
     private static void populateDates(RDFHelper rdfHelper, ClaimFrame claim, List<String> graphs) {

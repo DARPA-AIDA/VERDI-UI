@@ -32,8 +32,6 @@ tags:
     description: Endpoints for retrieving claim frames.
   - name: ClaimQueries
     description: Endpoints for retrieving claim queries.
-  - name: ClaimQueryLists
-    description: Endpoints for retrieving lists of claim queries.
 paths:
   /graphs:
     get:
@@ -458,76 +456,6 @@ paths:
           description: Invalid parameters
         "404":
           description: API not found
-  /queryClaims/language:
-    get:
-      tags:
-        - ClaimQueries
-      summary: Return existing languages within query claims.
-      description: Return existing languages within query claims.
-      operationId: getLanguageList
-      responses:
-        "200":
-          description: successful operation
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: "#/components/schemas/LanguageRecord"
-        "404":
-          description: API not found
-    post:
-      tags:
-        - ClaimQueries
-      summary: Add new language to select from.
-      description: Add new language to select from.
-      operationId: addLanguage
-      requestBody:
-        description: JSON of language to add.
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/LanguageRecord"
-            example:
-              lang: Russian
-      responses:
-        "200":
-          description: Successful operation
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/InlineResponse200"
-        "400":
-          description: Invalid parameters
-        "404":
-          description: API not found
-    delete:
-      tags:
-        - ClaimQueries
-      summary: Delete language
-      description: Delete language
-      operationId: deleteLanguage
-      requestBody:
-        description: JSON of language to delete.
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/LanguageRecord"
-            example:
-              lang: Russian
-      responses:
-        "200":
-          description: Successful operation
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/InlineResponse200"
-        "400":
-          description: Invalid parameters
-        "404":
-          description: API not found
   /claimframe/topics:
     get:
       tags:
@@ -780,11 +708,12 @@ paths:
     get:
       tags:
         - ClaimQueries
-      summary: Return a list of claim queries.
-      description: Return a list of claim queries, including topic, subtopic, and claim template
+      summary: Return a single claim query.
+      description: Returns claim queries, including topic, subtopic, and claim template
       operationId: queryClaim
       parameters:
         - $ref: "#/components/parameters/queryId"
+          required: false
       responses:
         "200":
           description: successful operation
@@ -797,23 +726,6 @@ paths:
         "404":
           description: API not found
   /queryClaims:
-    get:
-      tags:
-        - ClaimQueries
-      summary: Fetch all Claim Quries.
-      description: Fetch all Claim Quries.
-      operationId: getAllClaimQueries
-      responses:
-        "200":
-          description: successful operation
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: "#/components/schemas/QueryClaim"
-        "404":
-          description: API not found
     put:
       tags:
         - ClaimQueries
@@ -886,10 +798,10 @@ paths:
           description: Invalid parameters
         "404":
           description: API not found
-  /queryClaimsList/{queryId}:
+  /queryClaims/list/{queryId}:
     get:
       tags:
-        - ClaimQueryLists
+        - ClaimQueries
       summary: Return a list of claim queries.
       description: Return a list of claim queries, including topic, subtopic, and claim template
       operationId: queryClaimListFetch
@@ -906,27 +818,10 @@ paths:
           description: Invalid parameters
         "404":
           description: API not found
-  /queryClaimsList:
-    get:
-      tags:
-        - ClaimQueryLists
-      summary: Fetch all query claim lists.
-      description: Fetch all query claim lists.
-      operationId: getAllClaimQueryListCreate
-      responses:
-        "200":
-          description: successful operation
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: "#/components/schemas/QueryClaimListRecord"
-        "404":
-          description: API not found
+  /queryClaims/list/:
     post:
       tags:
-        - ClaimQueryLists
+        - ClaimQueries
       summary: Create new claim query.
       description: Create new claim query list by passing queryIds to be added to the list. This list maybe empty. Will receive auto-generated ID in response.
       operationId: claimQueryListCreate
@@ -950,7 +845,7 @@ paths:
           description: API not found
     delete:
       tags:
-        - ClaimQueryLists
+        - ClaimQueries
       summary: Remove claim query list.
       description: Removes a claim query from the graph list.
       operationId: claimQueryListDelete
@@ -972,35 +867,10 @@ paths:
           description: Invalid parameters
         "404":
           description: API not found
-  /queryClaimsList/rename:
+  /queryClaims/list/modify:
     post:
       tags:
-        - ClaimQueryLists
-      summary: Rename a claim query list.
-      description: Changes the name of a specific query claim .
-      operationId: claimQueryListRename
-      requestBody:
-        description: JSON of claim query list id and a name to rename it.
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/QueryClaimRenamingObj"
-      responses:
-          "200":
-            description: Successful operation
-            content:
-              application/json:
-                schema:
-                  $ref: "#/components/schemas/InlineResponse200"
-          "400":
-            description: Invalid parameters
-          "404":
-            description: API not found
-  /queryClaimsList/modify:
-    post:
-      tags:
-        - ClaimQueryLists
+        - ClaimQueries
       summary: Adds claim queries to existing claim query list.
       description: Adds claim query by passing claim query list id and an array of claim query ids to add.
       operationId: claimQueryListAdd
@@ -1021,10 +891,10 @@ paths:
         "400":
           description: Invalid parameters
         "404":
-          description: API not foun
+          description: API not found
     delete:
       tags:
-        - ClaimQueryLists
+        - ClaimQueries
       summary: Remove query claims.
       description: Removes query claims from a specific query claim list.
       operationId: claimQueryListRemove
@@ -1046,6 +916,8 @@ paths:
           description: Invalid parameters
         "404":
           description: API not found
+
+
 components:
   schemas:
     CacheObject:
@@ -1341,12 +1213,12 @@ components:
         eventTypes:
           type: array
           items:
-            type: string
+            type: string                
     ClaimFrameTopic:
       type: object
       properties:
         baseGraph:
-          type: string
+          type: string    
         topic:
           type: string
         subtopic:
@@ -1553,22 +1425,9 @@ components:
           type: array #will include associatedKEs, claimSemantics
           items:
             $ref: "#/components/schemas/ClaimFrameProvenanceObject"
-    QueryClaimListRecord:
-      type: object
-      properties:
-        id:
-          type: string
-        name:
-          type: string
-        assocaitedClaimQueryId:
-          type: string
     QueryClaimList:
       type: object
       properties:
-        id:
-          type: string
-        name:
-          type: string
         queries:
           type: array
           items:
@@ -1584,10 +1443,6 @@ components:
           type: string
         claimTemplate:
           type: string
-        language:
-          type: string
-        xVariable:
-          type: string
     QueryId:
       type: object
       properties:
@@ -1596,8 +1451,6 @@ components:
     IdList:
       type: object
       properties:
-        name:
-          type: string
         ids:
           type: array
           items:
@@ -1606,13 +1459,6 @@ components:
       type: object
       properties:
         id:
-          type: string
-    QueryClaimRenamingObj:
-      type: object
-      properties:
-        queryId:
-          type: string
-        name:
           type: string
     QueryClaimObject:
       type: object
@@ -1623,16 +1469,10 @@ components:
           type: string
         claimTemplate:
           type: string
-        language:
-          type: string
-        xVariable:
-          type: string
     QueryClaimListModObject:
       type: object
       properties:
         queryClaimListId:
-          type: string
-        name:
           type: string
         queryClaims:
           type: array
@@ -1657,19 +1497,6 @@ components:
             type: string
         data_type:
           type: string
-    LanguageRecord:
-      type: object
-      properties:
-        lang:
-          type: string
-    TopicRecord:
-      type: object
-      properties:
-        topic:
-          type: string
-        topicId:
-          type: string
-
   parameters:
     graphParam:
       name: graph

@@ -29,12 +29,6 @@ export default [
     component: loadView('claims/ClaimFrameDetails'),
   },
   {
-    path: '/settings/qcmanager',
-    name: 'settings',
-    title: 'Manage Query Claim Manager',
-    component: loadView('settings/QueryClaimManager'),
-  },
-  {
     path: '/settings/graphs',
     name: 'settings',
     title: 'Manage TripleStore Graphs',

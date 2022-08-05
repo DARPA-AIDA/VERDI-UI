@@ -133,7 +133,6 @@
                 menuClasses : 'vertical-dots-menu profile-dropdown-menu',
                 menuOptions : [
                     {path:'settings/graphs', type:'internal', icon: 'mdi-graphql', value: 'Graph Management', active: true},
-                    {path:'settings/qcmanager', type:'internal', icon: 'mdi-text-box-search-outline', value: 'Query Claims', active: true},
                     // {path:'https://blackbox.verdi.nextcentury.com/', type:'external', icon: 'mdi-text-box-search-outline', value: 'Document Search', active: true},
                 ]
             }

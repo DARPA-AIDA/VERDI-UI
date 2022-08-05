@@ -2,7 +2,7 @@ prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Inte
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix auicq: <https://www.caci.com/aida-ui/claimquery#>
 
-SELECT DISTINCT ?queryId ?topic ?subtopic ?claimTemplate ?language ?xVar
+SELECT DISTINCT ?queryId ?topic ?subtopic ?claimTemplate
 
 FROM <https://www.caci.com/aida-ui/claimquery>
 
@@ -13,6 +13,4 @@ WHERE
     auicq:topic ?topic ;
     auicq:subtopic ?subtopic ;
     auicq:claimTemplate ?claimTemplate ;
-    OPTIONAL { ?queryValue auicq:language ?language } .
-    OPTIONAL { ?queryValue auicq:xvariable ?xVar } .
 }

@@ -39,14 +39,11 @@ window.swaggerSpec={
     "name" : "Entity",
     "description" : "Endpoints for retrieving entities (arguments)."
   }, {
-    "name" : "Hypothesis",
-    "description" : "Endpoints for retrieving hypotheses including SINs."
-  }, {
     "name" : "ClaimFrames",
     "description" : "Endpoints for retrieving claim frames."
   }, {
-    "name" : "Docs",
-    "description" : "Endpoints for retrieving source documents."
+    "name" : "ClaimQueries",
+    "description" : "Endpoints for retrieving claim queries."
   } ],
   "paths" : {
     "/graphs" : {
@@ -588,579 +585,6 @@ window.swaggerSpec={
         }
       }
     },
-    "/entity/decode/{name}" : {
-      "get" : {
-        "tags" : [ "Entity" ],
-        "summary" : "Return decoded name",
-        "description" : "Given an LTF encoded name, return the decoded name",
-        "operationId" : "decodeName",
-        "parameters" : [ {
-          "name" : "name",
-          "in" : "path",
-          "description" : "Encoded name",
-          "required" : true,
-          "schema" : {
-            "type" : "string"
-          },
-          "example" : "IC001SW57:IC001SWMT:(28,0)-(33,0)"
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "text/plain" : {
-                "schema" : {
-                  "type" : "string"
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/hypotheses" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return hypotheses",
-        "description" : "Return hypotheses by graph and filter by multiple query inputs.",
-        "operationId" : "hypothesesQuery",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/hypothesisGraphParam"
-        }, {
-          "$ref" : "#/components/parameters/limitParam"
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "$ref" : "#/components/schemas/Hypothesis"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/hypothesis" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return hypothesis content",
-        "description" : "Return hypothesis details and connections by graph and hypothesis id",
-        "operationId" : "hypothesis",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/hypothesisGraphParam"
-        }, {
-          "name" : "id",
-          "in" : "query",
-          "description" : "ID of hypothesis to retrieve",
-          "required" : true,
-          "schema" : {
-            "type" : "string"
-          },
-          "example" : "http://www.utexas.edu/aida/AIDA_M36_TA3_E201_F1_hypothesis_007"
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "$ref" : "#/components/schemas/HypothesisDetail"
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/{sinId}/eventTypes" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return event types for a SIN",
-        "description" : "Return event types for a SIN by SIN id. Optional argument filter can be applied.",
-        "operationId" : "sinEventTypes",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/sinParam"
-        }, {
-          "name" : "entityIds",
-          "in" : "query",
-          "description" : "The id of the arguments that the event types will be filtered by",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "uniqueItems" : true,
-              "example" : "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/isiEnt_GAIA_TA1_uiuc-IC001V5AX-EN_Entity_EDL_0002942"
-            }
-          },
-          "example" : [ "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/entity-instance-K0C03BB7S-r202010162250-592", "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/isiEnt_GAIA_TA1_uiuc-IC001V5AX-EN_Entity_EDL_0002942" ]
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "string"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/{sinId}/names" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return names and prototypes for entire SIN",
-        "description" : "Return names and prototypes for entire SIN. Filters are mutually exclusive. If both type filters are specified, Event role takes precidence",
-        "operationId" : "getNames",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/sinParam"
-        }, {
-          "name" : "eventTypes",
-          "in" : "query",
-          "description" : "Type of Event to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack"
-            }
-          },
-          "example" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack" ]
-        }, {
-          "name" : "roleTypes",
-          "in" : "query",
-          "description" : "Type of Event role to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "uniqueItems" : true,
-              "example" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Target"
-            }
-          },
-          "example" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Target" ]
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "object",
-                    "properties" : {
-                      "name" : {
-                        "type" : "string"
-                      },
-                      "entities" : {
-                        "type" : "array",
-                        "items" : {
-                          "type" : "string"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/{sinId}/roles" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Returns all role types from all TA3 output for given SIN. Can be filtered by argument Entity ID or Event type.",
-        "description" : "Return all role types for SIN",
-        "operationId" : "sinRoles",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/sinParam"
-        }, {
-          "name" : "prototypeIds",
-          "in" : "query",
-          "description" : "ID of prototype to filter by",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/isiEnt_GAIA_TA1_uiuc-K0C03BG2A-ES_Entity_EDL_0004351"
-            }
-          },
-          "example" : [ "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/isiEnt_GAIA_TA1_uiuc-K0C03BG2A-ES_Entity_EDL_0004351" ]
-        }, {
-          "name" : "eventTypes",
-          "in" : "query",
-          "description" : "Type of Event to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack"
-            }
-          },
-          "example" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack" ]
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "string"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/{sinId}/search" : {
-      "post" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Filter Hypotheses by SIN, Event Type, Roles and IDs",
-        "description" : "Return Hythothesis details and hypotheses filtered by claim query structured input",
-        "operationId" : "hypothesisFilter",
-        "parameters" : [ {
-          "$ref" : "#/components/parameters/sinParam"
-        } ],
-        "requestBody" : {
-          "description" : "Filter JSON for SIN",
-          "content" : {
-            "application/json" : {
-              "schema" : {
-                "$ref" : "#/components/schemas/hypothesisFilterObject"
-              },
-              "example" : {
-                "graph" : "https://www.nextcentury.com/TA3/E201/UTEXAS-20210125/COLORADO-20210121/GAIA-20210119",
-                "filters" : [ {
-                  "eventType" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Life.Die",
-                  "arguments" : [ {
-                    "role" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Life.Die_Killer",
-                    "ids" : [ "http://www.isi.edu/gaia/entities/uiuc/K0C03BF8N/EN_Entity_EDL_0007531", "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cross_doc_coref-opera-entity-combo-dim2048-r202101240323-6384-entity" ]
-                  } ]
-                }, {
-                  "eventType" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#OrganizationAffiliation.Leadership",
-                  "arguments" : [ ]
-                } ]
-              }
-            }
-          }
-        },
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "$ref" : "#/components/schemas/SinDetail"
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/eventTypes" : {
-      "post" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return event types for a SIN",
-        "description" : "Return event types for a SIN by SIN id. Optional argument filter can be applied.",
-        "operationId" : "allEventTypes",
-        "requestBody" : {
-          "description" : "filter JSON to retrieve SIN event types",
-          "content" : {
-            "application/json" : {
-              "schema" : {
-                "$ref" : "#/components/schemas/eventTypesFilterObject"
-              },
-              "example" : {
-                "clusterIds" : [ "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cluster-entity-instance-JC002YBP6-r202012160402-99", "http://www.isi.edu/gaia/entities/uiuc/K0C03BB7S/ES_Entity_EDL_0004343-cluster-projectedFromSingleton" ],
-                "roleTypes" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Contact.Collaborate.Meet_Participant", "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Attacker" ]
-              }
-            }
-          }
-        },
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "string"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/names" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Return names and prototypes for entire SIN",
-        "description" : "Return names and prototypes for entire SIN. Filters are mutually exclusive. If both type filters are specified, Event role takes precidence",
-        "operationId" : "allNames",
-        "parameters" : [ {
-          "name" : "toComplete",
-          "in" : "query",
-          "description" : "String to autocomplete",
-          "required" : false,
-          "schema" : {
-            "type" : "string"
-          }
-        }, {
-          "name" : "eventTypes",
-          "in" : "query",
-          "description" : "Type of Event to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "Conflict.Attack"
-            }
-          },
-          "example" : [ "Conflict.Attack" ]
-        }, {
-          "name" : "roleTypes",
-          "in" : "query",
-          "description" : "Type of Event role to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "uniqueItems" : true,
-              "example" : "Target"
-            }
-          },
-          "example" : [ "Target" ]
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "object",
-                    "properties" : {
-                      "id" : {
-                        "type" : "string"
-                      },
-                      "entities" : {
-                        "type" : "array",
-                        "items" : {
-                          "type" : "string"
-                        }
-                      },
-                      "roles" : {
-                        "type" : "array",
-                        "items" : {
-                          "type" : "string"
-                        }
-                      },
-                      "eventTypes" : {
-                        "type" : "array",
-                        "items" : {
-                          "type" : "string"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/roles" : {
-      "get" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Returns all role types from all TA3 output for given SIN. Can be filtered by argument Entity ID or Event type.",
-        "description" : "Return all role types for SIN",
-        "operationId" : "allRoles",
-        "parameters" : [ {
-          "name" : "clusterIds",
-          "in" : "query",
-          "description" : "ID of cluster to filter by",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "http://www.isi.edu/gaia/entities/uiuc/K0C03BDUE/EN_Entity_EDL_0015694-cluster-projectedFromSingleton"
-            }
-          },
-          "example" : [ "http://www.isi.edu/gaia/entities/uiuc/K0C03BDUE/EN_Entity_EDL_0015694-cluster-projectedFromSingleton" ]
-        }, {
-          "name" : "eventTypes",
-          "in" : "query",
-          "description" : "Type of Event to limit search to",
-          "required" : false,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "example" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Transaction.TransferMoney"
-            }
-          },
-          "example" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Transaction.TransferMoney" ]
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "string"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
-    "/sin/search" : {
-      "post" : {
-        "tags" : [ "Hypothesis" ],
-        "summary" : "Filter Hypotheses by SIN, Event Type, Roles and IDs",
-        "description" : "Return Hythothesis details and hypotheses filtered by claim query structured input",
-        "operationId" : "sinHypothesisFilter",
-        "requestBody" : {
-          "description" : "Filter JSON for SIN",
-          "content" : {
-            "application/json" : {
-              "schema" : {
-                "$ref" : "#/components/schemas/hypothesisFilterObject"
-              },
-              "example" : {
-                "graph" : "https://www.nextcentury.com/TA3/E201/UTEXAS-20210125/COLORADO-20210121/GAIA-20210119",
-                "filters" : [ {
-                  "eventType" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Life.Die",
-                  "arguments" : [ {
-                    "role" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Life.Die_Killer",
-                    "ids" : [ "http://www.isi.edu/gaia/entities/uiuc/K0C03BF8N/EN_Entity_EDL_0007531", "http://www.lti.cs.cmu.edu/aida/opera/corpora/eval/cross_doc_coref-opera-entity-combo-dim2048-r202101240323-6384-entity" ]
-                  } ]
-                }, {
-                  "eventType" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#OrganizationAffiliation.Leadership",
-                  "arguments" : [ ]
-                } ]
-              }
-            }
-          }
-        },
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "$ref" : "#/components/schemas/TA3Event"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
     "/claimframe/search" : {
       "post" : {
         "tags" : [ "ClaimFrames" ],
@@ -1176,8 +600,8 @@ window.swaggerSpec={
               },
               "example" : {
                 "graph" : "https://www.nextcentury.com/TA3/CACI/CACI/CACI/CACI_claim_1",
-                "topics" : [ "Hugo Chavez" ],
-                "subtopics" : [ "Who was behind the killing of Hugo Chávez", "Who carried out the killing of Hugo Chávez" ]
+                "topics" : [ "Who is Sick / Who has tested positive" ],
+                "subtopics" : [ "Who has/had COVID-19" ]
               }
             }
           }
@@ -1296,82 +720,11 @@ window.swaggerSpec={
         }
       }
     },
-    "/docs" : {
-      "get" : {
-        "tags" : [ "Docs" ],
-        "summary" : "Return source documents matching provided query inputs",
-        "description" : "Return source documents by graph and filter by multiple prototype ids",
-        "operationId" : "docs",
-        "parameters" : [ {
-          "name" : "hypothesis",
-          "in" : "query",
-          "description" : "Which hypothesis to query",
-          "required" : true,
-          "schema" : {
-            "type" : "string"
-          },
-          "example" : "http://www.utexas.edu/aida/AIDA_M36_TA3_E201_F1_hypothesis_007"
-        }, {
-          "name" : "id",
-          "in" : "query",
-          "description" : "Which event or relation id to query",
-          "required" : true,
-          "schema" : {
-            "type" : "string"
-          },
-          "example" : "http://www.isi.edu/gaia/events/uiuc/IC001V362/ES_Event_004999"
-        }, {
-          "name" : "roles",
-          "in" : "query",
-          "description" : "The roles to filter by",
-          "required" : true,
-          "schema" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string",
-              "uniqueItems" : true,
-              "example" : "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Attacker"
-            }
-          },
-          "example" : [ "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Target", "https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#Conflict.Attack_Attacker" ]
-        }, {
-          "name" : "graph",
-          "in" : "query",
-          "description" : "Which graph to query in",
-          "required" : false,
-          "schema" : {
-            "type" : "string"
-          },
-          "example" : "https://www.nextcentury.com/TA3/E201/UTEXAS-20210125/COLORADO-20210121/GAIA-20210119"
-        } ],
-        "responses" : {
-          "200" : {
-            "description" : "successful operation",
-            "content" : {
-              "application/json" : {
-                "schema" : {
-                  "type" : "array",
-                  "items" : {
-                    "$ref" : "#/components/schemas/Doc"
-                  }
-                }
-              }
-            }
-          },
-          "400" : {
-            "description" : "Invalid parameters"
-          },
-          "404" : {
-            "description" : "API not found"
-          }
-        }
-      }
-    },
     "/graph" : {
       "post" : {
         "tags" : [ "Blazegraph" ],
-        "summary" : "Upload TTL and Import into Blazegraph",
-        "description" : "Upload TTL and Import into Blazegraph",
+        "summary" : "Upload a single TTL and Import into Blazegraph",
+        "description" : "Upload a single TTL and Import into Blazegraph",
         "operationId" : "graphUpload",
         "parameters" : [ {
           "name" : "graphURI",
@@ -1404,12 +757,7 @@ window.swaggerSpec={
             "content" : {
               "application/json" : {
                 "schema" : {
-                  "type" : "object",
-                  "properties" : {
-                    "message" : {
-                      "type" : "string"
-                    }
-                  }
+                  "$ref" : "#/components/schemas/InlineResponse200"
                 }
               }
             }
@@ -1443,12 +791,7 @@ window.swaggerSpec={
             "content" : {
               "application/json" : {
                 "schema" : {
-                  "type" : "object",
-                  "properties" : {
-                    "message" : {
-                      "type" : "string"
-                    }
-                  }
+                  "$ref" : "#/components/schemas/InlineResponse200"
                 }
               }
             }
@@ -1490,11 +833,97 @@ window.swaggerSpec={
             "content" : {
               "application/json" : {
                 "schema" : {
-                  "type" : "object",
-                  "properties" : {
-                    "message" : {
-                      "type" : "string"
-                    }
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/graph/batch" : {
+      "post" : {
+        "tags" : [ "Blazegraph" ],
+        "summary" : "Batch upload of compressed TTLs and Import into Blazegraph",
+        "description" : "Batch upload of compressed TTLs and Import into Blazegraph",
+        "operationId" : "graphBatchUpload",
+        "parameters" : [ {
+          "name" : "graphURI",
+          "in" : "query",
+          "description" : "URI of graph",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          },
+          "example" : "https://www.nextcentury.com/TA3/TA3_TEAM_RUN_ID/TA2_TEAM_RUN_ID/TA1_TEAM_RUN_ID"
+        } ],
+        "requestBody" : {
+          "content" : {
+            "multipart/form-data" : {
+              "schema" : {
+                "type" : "object",
+                "properties" : {
+                  "compressedFile" : {
+                    "type" : "string",
+                    "format" : "binary"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/InlineResponse200"
+                  }
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      },
+      "delete" : {
+        "tags" : [ "Blazegraph" ],
+        "summary" : "Drop multiple Blazegraph graphs by base URI",
+        "description" : "Drop multiple Blazegraph graph by base URI",
+        "operationId" : "graphBatchDelete",
+        "parameters" : [ {
+          "name" : "graphBaseURI",
+          "in" : "query",
+          "description" : "Base URI of graphs",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          },
+          "example" : "https://www.nextcentury.com/TA3"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/InlineResponse200"
                   }
                 }
               }
@@ -1532,12 +961,7 @@ window.swaggerSpec={
             "content" : {
               "application/json" : {
                 "schema" : {
-                  "type" : "object",
-                  "properties" : {
-                    "message" : {
-                      "type" : "string"
-                    }
-                  }
+                  "$ref" : "#/components/schemas/InlineResponse200"
                 }
               }
             }
@@ -1553,7 +977,7 @@ window.swaggerSpec={
       "delete" : {
         "tags" : [ "ElasticSearch" ],
         "summary" : "Clears cache",
-        "description" : "Clears an indices from ElasticSearch",
+        "description" : "Clears an index from ElasticSearch",
         "operationId" : "cacheDelete",
         "parameters" : [ {
           "name" : "graphURI",
@@ -1570,12 +994,317 @@ window.swaggerSpec={
             "content" : {
               "application/json" : {
                 "schema" : {
-                  "type" : "object",
-                  "properties" : {
-                    "message" : {
-                      "type" : "string"
-                    }
-                  }
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/queryClaims/{queryId}" : {
+      "get" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Return a single claim query.",
+        "description" : "Returns claim queries, including topic, subtopic, and claim template",
+        "operationId" : "queryClaim",
+        "parameters" : [ {
+          "$ref" : "#/components/parameters/queryId",
+          "required" : false
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/QueryClaimList"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/queryClaims" : {
+      "put" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Update an existing claim query.",
+        "description" : "Update an existing claim query.",
+        "operationId" : "claimQueryUpdate",
+        "requestBody" : {
+          "description" : "JSON of topic, subtopic, and claim template.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryClaim"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      },
+      "post" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Create new claim query.",
+        "description" : "Create new claim query by passing topic, subtopic, and claim template. Will receive auto-generated ID in response.",
+        "operationId" : "claimQueryCreate",
+        "requestBody" : {
+          "description" : "JSON of topic, subtopic, and claim template.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryClaimObject"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      },
+      "delete" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Remove claim query.",
+        "description" : "Removes a claim query from the graph.",
+        "operationId" : "claimQueryDelete",
+        "requestBody" : {
+          "description" : "JSON of query id to be deleted.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryId"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/queryClaims/list/{queryId}" : {
+      "get" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Return a list of claim queries.",
+        "description" : "Return a list of claim queries, including topic, subtopic, and claim template",
+        "operationId" : "queryClaimListFetch",
+        "parameters" : [ {
+          "$ref" : "#/components/parameters/queryId"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/IdList"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/queryClaims/list/" : {
+      "post" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Create new claim query.",
+        "description" : "Create new claim query list by passing queryIds to be added to the list. This list maybe empty. Will receive auto-generated ID in response.",
+        "operationId" : "claimQueryListCreate",
+        "requestBody" : {
+          "description" : "JSON list of query claim ids. This list maybe empty.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/IdList"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      },
+      "delete" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Remove claim query list.",
+        "description" : "Removes a claim query from the graph list.",
+        "operationId" : "claimQueryListDelete",
+        "requestBody" : {
+          "description" : "JSON of query list id to be deleted.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryListId"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      }
+    },
+    "/queryClaims/list/modify" : {
+      "post" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Adds claim queries to existing claim query list.",
+        "description" : "Adds claim query by passing claim query list id and an array of claim query ids to add.",
+        "operationId" : "claimQueryListAdd",
+        "requestBody" : {
+          "description" : "JSON of claim query list id and an array of claim queries ids.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryClaimListModObject"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid parameters"
+          },
+          "404" : {
+            "description" : "API not found"
+          }
+        }
+      },
+      "delete" : {
+        "tags" : [ "ClaimQueries" ],
+        "summary" : "Remove query claims.",
+        "description" : "Removes query claims from a specific query claim list.",
+        "operationId" : "claimQueryListRemove",
+        "requestBody" : {
+          "description" : "JSON of query id to be deleted.",
+          "required" : true,
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/QueryClaimListModObject"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Successful operation",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/InlineResponse200"
                 }
               }
             }
@@ -1829,66 +1558,6 @@ window.swaggerSpec={
           }
         }
       },
-      "Hypothesis" : {
-        "type" : "object",
-        "properties" : {
-          "hypothesis" : {
-            "type" : "string"
-          },
-          "entityCount" : {
-            "type" : "integer"
-          },
-          "eventCount" : {
-            "type" : "integer"
-          },
-          "relationCount" : {
-            "type" : "integer"
-          }
-        }
-      },
-      "HypothesisDetail" : {
-        "type" : "object",
-        "properties" : {
-          "hypothesis" : {
-            "type" : "string"
-          },
-          "fillers" : {
-            "type" : "array",
-            "items" : {
-              "$ref" : "#/components/schemas/Entity"
-            }
-          },
-          "members" : {
-            "type" : "array",
-            "items" : {
-              "$ref" : "#/components/schemas/Event"
-            }
-          },
-          "docs" : {
-            "type" : "array",
-            "items" : {
-              "$ref" : "#/components/schemas/DocObject"
-            }
-          }
-        }
-      },
-      "SinDetail" : {
-        "type" : "object",
-        "properties" : {
-          "sin" : {
-            "type" : "string"
-          },
-          "description" : {
-            "type" : "string"
-          },
-          "hypotheses" : {
-            "type" : "array",
-            "items" : {
-              "$ref" : "#/components/schemas/CompareHypothesisDetail"
-            }
-          }
-        }
-      },
       "LDCTime" : {
         "type" : "object",
         "properties" : {
@@ -1903,92 +1572,6 @@ window.swaggerSpec={
           },
           "endAfter" : {
             "type" : "string"
-          }
-        }
-      },
-      "CompareHypothesisDetail" : {
-        "type" : "object",
-        "properties" : {
-          "hypothesis" : {
-            "type" : "string"
-          },
-          "percentage" : {
-            "type" : "number"
-          },
-          "types" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string"
-            }
-          },
-          "members" : {
-            "type" : "array",
-            "items" : {
-              "type" : "object",
-              "properties" : {
-                "node" : {
-                  "type" : "string"
-                },
-                "prototype" : {
-                  "type" : "string"
-                },
-                "category" : {
-                  "type" : "string"
-                },
-                "type" : {
-                  "type" : "string"
-                },
-                "dates" : {
-                  "type" : "array",
-                  "items" : {
-                    "$ref" : "#/components/schemas/LDCTime"
-                  }
-                },
-                "roles" : {
-                  "type" : "array",
-                  "items" : {
-                    "type" : "object",
-                    "properties" : {
-                      "role" : {
-                        "type" : "string"
-                      },
-                      "arguments" : {
-                        "type" : "array",
-                        "items" : {
-                          "type" : "object",
-                          "properties" : {
-                            "id" : {
-                              "type" : "string"
-                            },
-                            "prototype" : {
-                              "type" : "string"
-                            },
-                            "names" : {
-                              "type" : "array",
-                              "items" : {
-                                "type" : "string"
-                              }
-                            },
-                            "handle" : {
-                              "type" : "string"
-                            },
-                            "types" : {
-                              "type" : "array",
-                              "items" : {
-                                "type" : "string"
-                              }
-                            },
-                            "category" : {
-                              "type" : "string"
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         }
       },
@@ -2029,45 +1612,6 @@ window.swaggerSpec={
           "type" : "string"
         },
         "example" : [ "https://www.nextcentury.com/TA2/NCC/LDC", "https://www.nextcentury.com/TA2/GAIA/M18_GAIA_1" ]
-      },
-      "hypothesisFilterObject" : {
-        "type" : "object",
-        "properties" : {
-          "graph" : {
-            "type" : "string"
-          },
-          "filters" : {
-            "type" : "array",
-            "items" : {
-              "type" : "object",
-              "properties" : {
-                "eventType" : {
-                  "type" : "string"
-                },
-                "arguments" : {
-                  "type" : "array",
-                  "items" : {
-                    "$ref" : "#/components/schemas/hypothesisFilterArgument"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "hypothesisFilterArgument" : {
-        "type" : "object",
-        "properties" : {
-          "ids" : {
-            "type" : "array",
-            "items" : {
-              "type" : "string"
-            }
-          },
-          "role" : {
-            "type" : "string"
-          }
-        }
       },
       "eventTypesFilterObject" : {
         "type" : "object",
@@ -2116,13 +1660,10 @@ window.swaggerSpec={
           "category" : {
             "type" : "string"
           },
-          "sin" : {
+          "claim" : {
             "type" : "string"
           },
           "run" : {
-            "type" : "string"
-          },
-          "hypothesis" : {
             "type" : "string"
           },
           "entities" : {
@@ -2197,9 +1738,46 @@ window.swaggerSpec={
           }
         }
       },
+      "InlineResponse200" : {
+        "type" : "object",
+        "properties" : {
+          "message" : {
+            "type" : "string"
+          }
+        }
+      },
+      "InlineResponse2001" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "type" : "string"
+          },
+          "entities" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "roles" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "eventTypes" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          }
+        }
+      },
       "ClaimFrameTopic" : {
         "type" : "object",
         "properties" : {
+          "baseGraph" : {
+            "type" : "string"
+          },
           "topic" : {
             "type" : "string"
           },
@@ -2207,6 +1785,12 @@ window.swaggerSpec={
             "type" : "string"
           },
           "template" : {
+            "type" : "string"
+          },
+          "queryClaimId" : {
+            "type" : "string"
+          },
+          "description" : {
             "type" : "string"
           }
         }
@@ -2217,6 +1801,12 @@ window.swaggerSpec={
           "graph" : {
             "type" : "string"
           },
+          "baseGraphs" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
           "topics" : {
             "type" : "array",
             "items" : {
@@ -2224,6 +1814,12 @@ window.swaggerSpec={
             }
           },
           "subtopics" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "queryClaimIds" : {
             "type" : "array",
             "items" : {
               "type" : "string"
@@ -2264,7 +1860,31 @@ window.swaggerSpec={
           "claimer" : {
             "type" : "string"
           },
+          "epistemic" : {
+            "type" : "string"
+          },
+          "sourceDoc" : {
+            "type" : "string"
+          },
+          "sourceDocTitle" : {
+            "type" : "string"
+          },
+          "xVariable" : {
+            "type" : "string"
+          },
+          "xVariableCompId" : {
+            "type" : "string"
+          },
           "claimerKE" : {
+            "type" : "string"
+          },
+          "queryClaimId" : {
+            "type" : "string"
+          },
+          "ranking" : {
+            "type" : "string"
+          },
+          "claimRelations" : {
             "type" : "string"
           },
           "dates" : {
@@ -2277,6 +1897,15 @@ window.swaggerSpec={
             "type" : "number"
           },
           "locationName" : {
+            "type" : "string"
+          },
+          "relations" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/ClaimFrameRelationObject"
+            }
+          },
+          "claimerAffiliation" : {
             "type" : "string"
           }
         }
@@ -2349,6 +1978,21 @@ window.swaggerSpec={
                 },
                 "claimTemplate" : {
                   "type" : "string"
+                },
+                "xVariable" : {
+                  "type" : "string"
+                },
+                "claimLocation" : {
+                  "type" : "string"
+                },
+                "importance" : {
+                  "type" : "number"
+                },
+                "dates" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/LDCTime"
+                  }
                 }
               }
             }
@@ -2444,6 +2088,89 @@ window.swaggerSpec={
             "type" : "array",
             "items" : {
               "$ref" : "#/components/schemas/ClaimFrameProvenanceObject"
+            }
+          }
+        }
+      },
+      "QueryClaimList" : {
+        "type" : "object",
+        "properties" : {
+          "queries" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/QueryClaim"
+            }
+          }
+        }
+      },
+      "QueryClaim" : {
+        "type" : "object",
+        "properties" : {
+          "queryId" : {
+            "type" : "string"
+          },
+          "topic" : {
+            "type" : "string"
+          },
+          "subtopic" : {
+            "type" : "string"
+          },
+          "claimTemplate" : {
+            "type" : "string"
+          }
+        }
+      },
+      "QueryId" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "type" : "string"
+          }
+        }
+      },
+      "IdList" : {
+        "type" : "object",
+        "properties" : {
+          "ids" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          }
+        }
+      },
+      "QueryListId" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "type" : "string"
+          }
+        }
+      },
+      "QueryClaimObject" : {
+        "type" : "object",
+        "properties" : {
+          "topic" : {
+            "type" : "string"
+          },
+          "subtopic" : {
+            "type" : "string"
+          },
+          "claimTemplate" : {
+            "type" : "string"
+          }
+        }
+      },
+      "QueryClaimListModObject" : {
+        "type" : "object",
+        "properties" : {
+          "queryClaimListId" : {
+            "type" : "string"
+          },
+          "queryClaims" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
             }
           }
         }
@@ -2578,6 +2305,16 @@ window.swaggerSpec={
           "type" : "string"
         },
         "example" : "NCC_claim_14"
+      },
+      "queryId" : {
+        "name" : "queryId",
+        "in" : "path",
+        "description" : "Id of query to retrieve",
+        "required" : true,
+        "schema" : {
+          "type" : "string"
+        },
+        "example" : "claimquery_0001"
       }
     }
   }

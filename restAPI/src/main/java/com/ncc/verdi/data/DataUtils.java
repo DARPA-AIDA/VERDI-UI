@@ -17,15 +17,13 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Properties;
 import java.util.function.Function;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.apache.commons.io.IOUtils;
-import org.apache.jena.query.QuerySolution;
-import org.apache.jena.rdf.model.RDFNode;
-import org.json.JSONArray;
-import org.json.JSONObject;
-import org.springframework.web.client.ResourceAccessException;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 
 import com.ncc.verdi.model.DocObject;
 import com.ncc.verdi.model.Element;
@@ -36,6 +34,16 @@ import com.ncc.verdi.model.JustifiedNode;
 import com.ncc.verdi.model.JustifiedNode.ObjectTypeEnum;
 import com.ncc.verdi.model.LDCTime;
 import com.ncc.verdi.model.Member;
+
+import org.apache.commons.io.IOUtils;
+import org.apache.jena.query.QuerySolution;
+import org.apache.jena.rdf.model.RDFNode;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.springframework.web.client.ResourceAccessException;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 public class DataUtils {
     private static final String FROM = "from";
@@ -82,7 +90,7 @@ public class DataUtils {
     public static String setDataSource() {
         Properties prop = new Properties();
         //TODO: use spring properties 
-        try (InputStream input = new FileInputStream("./src/main/resources/application.properties")) {
+        try (InputStream input = new FileInputStream("./restAPI/src/main/resources/application.properties")) {
             prop.load(input);
             DATA_SOURCE = prop.getProperty("BASE_URI");
         } catch (IOException ex) {
@@ -138,23 +146,6 @@ public class DataUtils {
         }
         return node;
     }
-
-    public static String getBlankIfNull(String str) {
-        if (Objects.isNull(str)) {
-            return "";
-        } else {
-            return str.toString();
-        }
-    }
-
-    public static String getBlankIfNull(RDFNode rdfNode) {
-        if (Objects.isNull(rdfNode)) {
-            return "";
-        } else {
-            return rdfNode.toString();
-        }
-    }
-
 
     public static JustifiedNode getJustifiedNode(QuerySolution qs, JustifiedNode.ObjectTypeEnum objectType) {
         return setJustifiedNode(new JustifiedNode().objectType(objectType), qs);

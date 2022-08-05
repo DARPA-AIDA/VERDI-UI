@@ -6,6 +6,4 @@ WHERE
   { ?queryClaim auicq:queryId ?queryId .
     FILTER ( ?queryId = "{$queryId}"^^xsd:string )
     ?queryClaim ?p ?v
-  };
-
-  
+  }

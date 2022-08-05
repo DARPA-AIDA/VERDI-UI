@@ -20,15 +20,18 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 apply plugin: 'jacoco'
 
-def versionPropsFile = file('./src/main/resources/application.properties')
+// def versionPropsFile = file('./src/main/resources/application.properties')
 
-if (versionPropsFile.canRead()) {
-    def Properties versionProps = new Properties()
-    versionProps.load(new FileInputStream(versionPropsFile))
-    version = versionProps['BUILD_VERSION']
-} else {
-    throw new GradleException("Error: Could not read version.properties file")
-}
+// if (versionPropsFile.canRead()) {
+//     def Properties versionProps = new Properties()
+//     versionProps.load(new FileInputStream(versionPropsFile))
+//     version = versionProps['BUILD_VERSION']
+// } else {
+//     throw new GradleException("Error: Could not read version.properties file")
+// }
+
+
+version="0.1.0"
 
 repositories {
     mavenCentral()

@@ -5,7 +5,7 @@
  */
 package com.ncc.verdi.api;
 
-import com.ncc.verdi.model.InlineResponse2002;
+import com.ncc.verdi.model.InlineResponse200;
 import org.springframework.core.io.Resource;
 import io.swagger.annotations.*;
 import org.springframework.http.HttpStatus;
@@ -28,7 +28,7 @@ import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 @Validated
 @Api(value = "graph", description = "the graph API")
@@ -39,6 +39,72 @@ public interface GraphApi {
     }
 
     /**
+     * DELETE /graph/batch : Drop multiple Blazegraph graphs by base URI
+     * Drop multiple Blazegraph graph by base URI
+     *
+     * @param graphBaseURI Base URI of graphs (required)
+     * @return Successful operation (status code 200)
+     *         or Invalid parameters (status code 400)
+     *         or API not found (status code 404)
+     */
+    @ApiOperation(value = "Drop multiple Blazegraph graphs by base URI", nickname = "graphBatchDelete", notes = "Drop multiple Blazegraph graph by base URI", response = InlineResponse200.class, responseContainer = "List", tags={ "Blazegraph", })
+    @ApiResponses(value = { 
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class, responseContainer = "List"),
+        @ApiResponse(code = 400, message = "Invalid parameters"),
+        @ApiResponse(code = 404, message = "API not found") })
+    @RequestMapping(value = "/graph/batch",
+        produces = { "application/json" }, 
+        method = RequestMethod.DELETE)
+    default ResponseEntity<List<InlineResponse200>> graphBatchDelete(@NotNull @ApiParam(value = "Base URI of graphs", required = true) @Valid @RequestParam(value = "graphBaseURI", required = true) String graphBaseURI) {
+        getRequest().ifPresent(request -> {
+            for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
+                if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
+                    String exampleString = "{ \"message\" : \"message\" }";
+                    ApiUtil.setExampleResponse(request, "application/json", exampleString);
+                    break;
+                }
+            }
+        });
+        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
+
+    }
+
+
+    /**
+     * POST /graph/batch : Batch upload of compressed TTLs and Import into Blazegraph
+     * Batch upload of compressed TTLs and Import into Blazegraph
+     *
+     * @param graphURI URI of graph (required)
+     * @param compressedFile  (optional)
+     * @return Successful operation (status code 200)
+     *         or Invalid parameters (status code 400)
+     *         or API not found (status code 404)
+     */
+    @ApiOperation(value = "Batch upload of compressed TTLs and Import into Blazegraph", nickname = "graphBatchUpload", notes = "Batch upload of compressed TTLs and Import into Blazegraph", response = InlineResponse200.class, responseContainer = "List", tags={ "Blazegraph", })
+    @ApiResponses(value = { 
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class, responseContainer = "List"),
+        @ApiResponse(code = 400, message = "Invalid parameters"),
+        @ApiResponse(code = 404, message = "API not found") })
+    @RequestMapping(value = "/graph/batch",
+        produces = { "application/json" }, 
+        consumes = { "multipart/form-data" },
+        method = RequestMethod.POST)
+    default ResponseEntity<List<InlineResponse200>> graphBatchUpload(@NotNull @ApiParam(value = "URI of graph", required = true) @Valid @RequestParam(value = "graphURI", required = true) String graphURI,@ApiParam(value = "") @Valid @RequestPart(value = "compressedFile") MultipartFile compressedFile) {
+        getRequest().ifPresent(request -> {
+            for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
+                if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
+                    String exampleString = "{ \"message\" : \"message\" }";
+                    ApiUtil.setExampleResponse(request, "application/json", exampleString);
+                    break;
+                }
+            }
+        });
+        return new ResponseEntity<>(HttpStatus.NOT_IMPLEMENTED);
+
+    }
+
+
+    /**
      * DELETE /graph : Drop Blazegraph graph by URI
      * Drop Blazegraph graph by URI
      *
@@ -47,15 +113,15 @@ public interface GraphApi {
      *         or Invalid parameters (status code 400)
      *         or API not found (status code 404)
      */
-    @ApiOperation(value = "Drop Blazegraph graph by URI", nickname = "graphDelete", notes = "Drop Blazegraph graph by URI", response = InlineResponse2002.class, tags={ "Blazegraph", })
+    @ApiOperation(value = "Drop Blazegraph graph by URI", nickname = "graphDelete", notes = "Drop Blazegraph graph by URI", response = InlineResponse200.class, tags={ "Blazegraph", })
     @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse2002.class),
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class),
         @ApiResponse(code = 400, message = "Invalid parameters"),
         @ApiResponse(code = 404, message = "API not found") })
     @RequestMapping(value = "/graph",
         produces = { "application/json" }, 
         method = RequestMethod.DELETE)
-    default ResponseEntity<InlineResponse2002> graphDelete(@NotNull @ApiParam(value = "URI of graph", required = true) @Valid @RequestParam(value = "graphURI", required = true) String graphURI) {
+    default ResponseEntity<InlineResponse200> graphDelete(@NotNull @ApiParam(value = "URI of graph", required = true) @Valid @RequestParam(value = "graphURI", required = true) String graphURI) {
         getRequest().ifPresent(request -> {
             for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
                 if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
@@ -80,15 +146,15 @@ public interface GraphApi {
      *         or Invalid parameters (status code 400)
      *         or API not found (status code 404)
      */
-    @ApiOperation(value = "Update Blazegraph graph by URI", nickname = "graphRename", notes = "Currently only supports rename of graph by URI", response = InlineResponse2002.class, tags={ "Blazegraph", })
+    @ApiOperation(value = "Update Blazegraph graph by URI", nickname = "graphRename", notes = "Currently only supports rename of graph by URI", response = InlineResponse200.class, tags={ "Blazegraph", })
     @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse2002.class),
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class),
         @ApiResponse(code = 400, message = "Invalid parameters"),
         @ApiResponse(code = 404, message = "API not found") })
     @RequestMapping(value = "/graph",
         produces = { "application/json" }, 
         method = RequestMethod.PUT)
-    default ResponseEntity<InlineResponse2002> graphRename(@NotNull @ApiParam(value = "URI of OLD graph", required = true) @Valid @RequestParam(value = "graphURIOrig", required = true) String graphURIOrig,@NotNull @ApiParam(value = "URI of NEW graph", required = true) @Valid @RequestParam(value = "graphURINew", required = true) String graphURINew) {
+    default ResponseEntity<InlineResponse200> graphRename(@NotNull @ApiParam(value = "URI of OLD graph", required = true) @Valid @RequestParam(value = "graphURIOrig", required = true) String graphURIOrig,@NotNull @ApiParam(value = "URI of NEW graph", required = true) @Valid @RequestParam(value = "graphURINew", required = true) String graphURINew) {
         getRequest().ifPresent(request -> {
             for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
                 if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {
@@ -104,8 +170,8 @@ public interface GraphApi {
 
 
     /**
-     * POST /graph : Upload TTL and Import into Blazegraph
-     * Upload TTL and Import into Blazegraph
+     * POST /graph : Upload a single TTL and Import into Blazegraph
+     * Upload a single TTL and Import into Blazegraph
      *
      * @param graphURI URI of graph (required)
      * @param fileName  (optional)
@@ -113,16 +179,16 @@ public interface GraphApi {
      *         or Invalid parameters (status code 400)
      *         or API not found (status code 404)
      */
-    @ApiOperation(value = "Upload TTL and Import into Blazegraph", nickname = "graphUpload", notes = "Upload TTL and Import into Blazegraph", response = InlineResponse2002.class, tags={ "Blazegraph", })
+    @ApiOperation(value = "Upload a single TTL and Import into Blazegraph", nickname = "graphUpload", notes = "Upload a single TTL and Import into Blazegraph", response = InlineResponse200.class, tags={ "Blazegraph", })
     @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse2002.class),
+        @ApiResponse(code = 200, message = "Successful operation", response = InlineResponse200.class),
         @ApiResponse(code = 400, message = "Invalid parameters"),
         @ApiResponse(code = 404, message = "API not found") })
     @RequestMapping(value = "/graph",
         produces = { "application/json" }, 
         consumes = { "multipart/form-data" },
         method = RequestMethod.POST)
-    default ResponseEntity<InlineResponse2002> graphUpload(@NotNull @ApiParam(value = "URI of graph", required = true) @Valid @RequestParam(value = "graphURI", required = true) String graphURI,@ApiParam(value = "") @Valid @RequestPart(value = "fileName") MultipartFile fileName) {
+    default ResponseEntity<InlineResponse200> graphUpload(@NotNull @ApiParam(value = "URI of graph", required = true) @Valid @RequestParam(value = "graphURI", required = true) String graphURI,@ApiParam(value = "") @Valid @RequestPart(value = "fileName") MultipartFile fileName) {
         getRequest().ifPresent(request -> {
             for (MediaType mediaType: MediaType.parseMediaTypes(request.getHeader("Accept"))) {
                 if (mediaType.isCompatibleWith(MediaType.valueOf("application/json"))) {

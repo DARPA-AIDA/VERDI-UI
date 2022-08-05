@@ -6,9 +6,6 @@ WHERE
   {
     ?queryClaimList ?o ?p ;
     auicql:queryListId ?queryListId ;
-    auicql:queryListName ?queryListName ;
     auicql:assocaitedClaimQueryId ?assocaitedClaimQueryId ;
  	  FILTER ( ?queryListId = "{$queryListId}"^^xsd:string && ?assocaitedClaimQueryId = "{$queryId}"^^xsd:string)
   };
-
-  

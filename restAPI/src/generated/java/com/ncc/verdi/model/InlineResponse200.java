@@ -5,8 +5,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import java.util.ArrayList;
-import java.util.List;
 import org.openapitools.jackson.nullable.JsonNullable;
 import javax.validation.Valid;
 import javax.validation.constraints.*;
@@ -14,62 +12,30 @@ import javax.validation.constraints.*;
 /**
  * InlineResponse200
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 public class InlineResponse200   {
-  @JsonProperty("name")
-  private String name;
+  @JsonProperty("message")
+  private String message;
 
-  @JsonProperty("entities")
-  @Valid
-  private List<String> entities = null;
-
-  public InlineResponse200 name(String name) {
-    this.name = name;
+  public InlineResponse200 message(String message) {
+    this.message = message;
     return this;
   }
 
   /**
-   * Get name
-   * @return name
+   * Get message
+   * @return message
   */
   @ApiModelProperty(value = "")
 
 
-  public String getName() {
-    return name;
+  public String getMessage() {
+    return message;
   }
 
-  public void setName(String name) {
-    this.name = name;
-  }
-
-  public InlineResponse200 entities(List<String> entities) {
-    this.entities = entities;
-    return this;
-  }
-
-  public InlineResponse200 addEntitiesItem(String entitiesItem) {
-    if (this.entities == null) {
-      this.entities = new ArrayList<>();
-    }
-    this.entities.add(entitiesItem);
-    return this;
-  }
-
-  /**
-   * Get entities
-   * @return entities
-  */
-  @ApiModelProperty(value = "")
-
-
-  public List<String> getEntities() {
-    return entities;
-  }
-
-  public void setEntities(List<String> entities) {
-    this.entities = entities;
+  public void setMessage(String message) {
+    this.message = message;
   }
 
 
@@ -82,13 +48,12 @@ public class InlineResponse200   {
       return false;
     }
     InlineResponse200 inlineResponse200 = (InlineResponse200) o;
-    return Objects.equals(this.name, inlineResponse200.name) &&
-        Objects.equals(this.entities, inlineResponse200.entities);
+    return Objects.equals(this.message, inlineResponse200.message);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(name, entities);
+    return Objects.hash(message);
   }
 
   @Override
@@ -96,8 +61,7 @@ public class InlineResponse200   {
     StringBuilder sb = new StringBuilder();
     sb.append("class InlineResponse200 {\n");
     
-    sb.append("    name: ").append(toIndentedString(name)).append("\n");
-    sb.append("    entities: ").append(toIndentedString(entities)).append("\n");
+    sb.append("    message: ").append(toIndentedString(message)).append("\n");
     sb.append("}");
     return sb.toString();
   }

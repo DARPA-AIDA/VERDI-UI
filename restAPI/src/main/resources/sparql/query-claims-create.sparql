@@ -8,11 +8,6 @@ INSERT DATA
       <https://www.caci.com/aida-ui/claimquery/{$queryId}> auicq:queryId "{$queryId}" ;
         auicq:topic "{$topic}" ;
         auicq:subtopic "{$subtopic}" ;
-        auicq:claimTemplate "{$claimTemplate}" ;
-        auicq:language "{$language}" ;
-        auicq:xvariable "{$xvariable}" ;
+        auicq:claimTemplate "{$claimTemplate}"
   }
 }
-;
-
-

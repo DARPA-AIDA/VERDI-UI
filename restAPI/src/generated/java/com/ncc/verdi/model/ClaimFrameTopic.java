@@ -12,9 +12,12 @@ import javax.validation.constraints.*;
 /**
  * ClaimFrameTopic
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-01-05T11:12:00.154-05:00[America/New_York]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-08-05T15:31:00.866110500-04:00[America/New_York]")
 
 public class ClaimFrameTopic   {
+  @JsonProperty("baseGraph")
+  private String baseGraph;
+
   @JsonProperty("topic")
   private String topic;
 
@@ -23,6 +26,32 @@ public class ClaimFrameTopic   {
 
   @JsonProperty("template")
   private String template;
+
+  @JsonProperty("queryClaimId")
+  private String queryClaimId;
+
+  @JsonProperty("description")
+  private String description;
+
+  public ClaimFrameTopic baseGraph(String baseGraph) {
+    this.baseGraph = baseGraph;
+    return this;
+  }
+
+  /**
+   * Get baseGraph
+   * @return baseGraph
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getBaseGraph() {
+    return baseGraph;
+  }
+
+  public void setBaseGraph(String baseGraph) {
+    this.baseGraph = baseGraph;
+  }
 
   public ClaimFrameTopic topic(String topic) {
     this.topic = topic;
@@ -84,6 +113,46 @@ public class ClaimFrameTopic   {
     this.template = template;
   }
 
+  public ClaimFrameTopic queryClaimId(String queryClaimId) {
+    this.queryClaimId = queryClaimId;
+    return this;
+  }
+
+  /**
+   * Get queryClaimId
+   * @return queryClaimId
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getQueryClaimId() {
+    return queryClaimId;
+  }
+
+  public void setQueryClaimId(String queryClaimId) {
+    this.queryClaimId = queryClaimId;
+  }
+
+  public ClaimFrameTopic description(String description) {
+    this.description = description;
+    return this;
+  }
+
+  /**
+   * Get description
+   * @return description
+  */
+  @ApiModelProperty(value = "")
+
+
+  public String getDescription() {
+    return description;
+  }
+
+  public void setDescription(String description) {
+    this.description = description;
+  }
+
 
   @Override
   public boolean equals(java.lang.Object o) {
@@ -94,14 +163,17 @@ public class ClaimFrameTopic   {
       return false;
     }
     ClaimFrameTopic claimFrameTopic = (ClaimFrameTopic) o;
-    return Objects.equals(this.topic, claimFrameTopic.topic) &&
+    return Objects.equals(this.baseGraph, claimFrameTopic.baseGraph) &&
+        Objects.equals(this.topic, claimFrameTopic.topic) &&
         Objects.equals(this.subtopic, claimFrameTopic.subtopic) &&
-        Objects.equals(this.template, claimFrameTopic.template);
+        Objects.equals(this.template, claimFrameTopic.template) &&
+        Objects.equals(this.queryClaimId, claimFrameTopic.queryClaimId) &&
+        Objects.equals(this.description, claimFrameTopic.description);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(topic, subtopic, template);
+    return Objects.hash(baseGraph, topic, subtopic, template, queryClaimId, description);
   }
 
   @Override
@@ -109,9 +181,12 @@ public class ClaimFrameTopic   {
     StringBuilder sb = new StringBuilder();
     sb.append("class ClaimFrameTopic {\n");
     
+    sb.append("    baseGraph: ").append(toIndentedString(baseGraph)).append("\n");
     sb.append("    topic: ").append(toIndentedString(topic)).append("\n");
     sb.append("    subtopic: ").append(toIndentedString(subtopic)).append("\n");
     sb.append("    template: ").append(toIndentedString(template)).append("\n");
+    sb.append("    queryClaimId: ").append(toIndentedString(queryClaimId)).append("\n");
+    sb.append("    description: ").append(toIndentedString(description)).append("\n");
     sb.append("}");
     return sb.toString();
   }
